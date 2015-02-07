@@ -30,3 +30,5 @@ that is needed is
 my_hash.values.inject(:+)
 => 8
 ```
+
+[source](http://stackoverflow.com/questions/1538789/how-to-sum-array-of-numbers-in-ruby)
