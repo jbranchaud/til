@@ -31,4 +31,13 @@ my_hash.values.inject(:+)
 => 8
 ```
 
+To take this one step further, let's consider what will happen with an empty
+array. The above approach will produce `nil`. If we want `0` when the list
+is empty, then tell `#inject` to do just that
+
+```ruby
+[].inject(0, :+)
+=> 0
+```
+
 [source](http://stackoverflow.com/questions/1538789/how-to-sum-array-of-numbers-in-ruby)
