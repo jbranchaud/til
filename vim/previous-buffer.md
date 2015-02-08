@@ -8,3 +8,5 @@ This quickest way to do this is to use the command for going to the previous
 buffer. The default binding for that is `ctrl-^`.
 
 With that binding, it is fast and easy to toggle between two buffers.
+
+[source](http://vimdoc.sourceforge.net/htmldoc/editing.html#CTRL-^)
