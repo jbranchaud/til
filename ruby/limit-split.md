@@ -3,7 +3,7 @@
 I've only ever used Ruby's
 [`String#split`](http://ruby-doc.org//core-2.2.0/String.html#method-i-split)
 with the delimiter argument (e.g. `"this string has spaces".split(" ")`).
-This method has another argument that can be specified, the `limit`
+However, this method has another argument you can specify; the `limit`
 argument. With `limit`, you can *limit* the number of times that the split
 happens.
 
