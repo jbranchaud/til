@@ -4,3 +4,7 @@
 
 I shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til).
+
+## git
+
+- [Intent To Add](git/intent-to-add.md)
