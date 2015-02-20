@@ -15,3 +15,9 @@ I shamelessly stole this idea from
 
 - [Limit Split](ruby/limit-split.md)
 - [Summing Collections](ruby/summing-collections.md)
+
+## vim
+
+- [Head of File Name](vim/head-of-file-name.md)
+- [Preview Buffer](vim/previous-buffer.md)
+- [Quick File Info](quick-file-info.md)
