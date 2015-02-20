@@ -8,3 +8,5 @@ I shamelessly stole this idea from
 ## git
 
 - [Intent To Add](git/intent-to-add.md)
+- [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
+- [Verbose Commit Message](git/verbose-commit-message.md)
