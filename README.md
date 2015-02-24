@@ -22,6 +22,7 @@ I shamelessly stole this idea from
 - [Head of File Name](vim/head-of-file-name.md)
 - [Preview Buffer](vim/previous-buffer.md)
 - [Quick File Info](quick-file-info.md)
+- [Split Different](vim/split-different.md)
 
 ## License
 
