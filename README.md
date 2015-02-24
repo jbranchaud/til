@@ -21,7 +21,7 @@ I shamelessly stole this idea from
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Preview Buffer](vim/previous-buffer.md)
-- [Quick File Info](quick-file-info.md)
+- [Quick File Info](vim/quick-file-info.md)
 - [Split Different](vim/split-different.md)
 
 ## License
