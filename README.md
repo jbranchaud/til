@@ -14,6 +14,7 @@ I shamelessly stole this idea from
 ## ruby
 
 - [Limit Split](ruby/limit-split.md)
+- [Parallel Bundle Install](ruby/parallel-bundle-install.md)
 - [Summing Collections](ruby/summing-collections.md)
 
 ## vim
