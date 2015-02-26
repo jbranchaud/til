@@ -11,6 +11,10 @@ I shamelessly stole this idea from
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Verbose Commit Message](git/verbose-commit-message.md)
 
+## rails
+
+- [Attribute Was](rails/attribute-was.md)
+
 ## ruby
 
 - [Limit Split](ruby/limit-split.md)
