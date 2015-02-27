@@ -9,6 +9,7 @@ I shamelessly stole this idea from
 
 - [Intent To Add](git/intent-to-add.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
+- [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
 
 ## rails
