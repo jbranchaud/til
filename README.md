@@ -28,6 +28,7 @@ I shamelessly stole this idea from
 - [Head of File Name](vim/head-of-file-name.md)
 - [Preview Buffer](vim/previous-buffer.md)
 - [Quick File Info](vim/quick-file-info.md)
+- [Quick Man Pages](vim/quick-man-pages.md)
 - [Split Different](vim/split-different.md)
 
 ## License
