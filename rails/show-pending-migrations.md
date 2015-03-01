@@ -21,3 +21,5 @@ output, so you can trim it down with a simple `grep`:
 $ rake db:migrate:status | grep '^  down'
   down    20150228003340  Create stats table
 ```
+
+[source](https://github.com/rails/rails/blob/f47b4236e089b07cb683ee9b7ff8b06111a0ec10/activerecord/lib/active_record/railties/databases.rake#L91)
