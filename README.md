@@ -15,6 +15,7 @@ I shamelessly stole this idea from
 ## rails
 
 - [Attribute Was](rails/attribute-was.md)
+- [Show Pending Migrations](rails/show-pending-migrations.md)
 
 ## ruby
 
