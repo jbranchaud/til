@@ -15,4 +15,5 @@ name. Like so:
 
 While this seems to do the job well enough, your mileage may vary.
 Consider using a more robust plugin, such as
+[vim-eunuch](https://github.com/tpope/vim-eunuch) or
 [rename.vim](https://github.com/danro/rename.vim/blob/master/plugin/rename.vim).
