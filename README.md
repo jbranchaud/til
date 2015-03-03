@@ -32,6 +32,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Preview Buffer](vim/previous-buffer.md)
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
+- [Rename Current File](vim/rename-current-file.md)
 - [Split Different](vim/split-different.md)
 
 ## About
