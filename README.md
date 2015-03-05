@@ -35,6 +35,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Rename Current File](vim/rename-current-file.md)
 - [Split Different](vim/split-different.md)
 
+### zsh
+
+- [Search History](zsh/search-history.md)
+
 ## About
 
 I shamelessly stole this idea from
