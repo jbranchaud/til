@@ -9,6 +9,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### git
 
+- [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
