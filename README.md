@@ -30,6 +30,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
+- [Opening a URL](vim/opening-a-url.md)
 - [Preview Buffer](vim/previous-buffer.md)
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
