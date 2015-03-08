@@ -15,6 +15,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
 
+### go
+
+- [Not So Random](go/not-so-random.md)
+
 ### rails
 
 - [Attribute Was](rails/attribute-was.md)
