@@ -40,6 +40,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Rename Current File](vim/rename-current-file.md)
 - [Split Different](vim/split-different.md)
+- [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 
 ### zsh
 
