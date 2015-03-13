@@ -25,3 +25,5 @@ or just:
 ```bash
 $ git clean -fd
 ```
+
+[source](http://stackoverflow.com/questions/61212/remove-local-untracked-files-from-my-current-git-branch)
