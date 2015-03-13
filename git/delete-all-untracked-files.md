@@ -13,8 +13,8 @@ only deleting untracked files in the current directory. If you want
 directories of untracked files to be removed as well, you'll need the `-d`
 flag.
 
-So if you have a local repository full of files you'd like to get rid of,
-just:
+So if you have a local repository full of untracked files you'd like to get
+rid of, just:
 
 ```bash
 $ git clean -f -d
