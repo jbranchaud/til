@@ -33,6 +33,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### vim
 
+- [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Opening a URL](vim/opening-a-url.md)
