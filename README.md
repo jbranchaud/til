@@ -11,6 +11,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
+- [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
