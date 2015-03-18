@@ -37,6 +37,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
+- [List All Buffers](vim/list-all-buffers.md)
 - [Opening a URL](vim/opening-a-url.md)
 - [Preview Buffer](vim/previous-buffer.md)
 - [Quick File Info](vim/quick-file-info.md)
