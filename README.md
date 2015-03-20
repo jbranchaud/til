@@ -21,6 +21,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Not So Random](go/not-so-random.md)
 
+### postgres
+
+- [Timestamp Functions](postgres/timestamp-functions.md)
+
 ### rails
 
 - [Attribute Was](rails/attribute-was.md)
