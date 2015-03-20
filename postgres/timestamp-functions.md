@@ -24,5 +24,14 @@ where it appears in a given statement.
 Try running something like this to see:
 
 ```postgresql
-select clock_timestamp(), clock_timestamp(), clock_timestamp(), clock_timestamp();
+> select clock_timestamp(), clock_timestamp(), clock_timestamp(), clock_timestamp();
+        clock_timestamp        |        clock_timestamp        |        clock_timestamp        |        clock_timestamp        
+-------------------------------+-------------------------------+-------------------------------+------------------------------
+ 2015-03-20 14:58:49.832592-05 | 2015-03-20 14:58:49.832592-05 | 2015-03-20 14:58:49.832593-05 | 2015-03-20 14:58:49.832593-05
 ```
+
+You'll notice that we see a change in the clock time at the microsecond
+level mid-way through the statement.
+
+sources: [postgres docs](http://www.postgresql.org/docs/9.1/static/functions-datetime.html) and
+[Jack C.](http://hashrocket.com/team/jack-christensen)
