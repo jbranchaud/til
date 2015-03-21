@@ -55,6 +55,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### zsh
 
+- [Clear The Screen](zsh/clear-the-screen.md)
 - [Search History](zsh/search-history.md)
 
 ## About
