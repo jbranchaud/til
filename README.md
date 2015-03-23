@@ -51,6 +51,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
 - [Rename Current File](vim/rename-current-file.md)
+- [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Split Different](vim/split-different.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 
