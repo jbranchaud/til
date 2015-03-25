@@ -60,6 +60,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Clear The Screen](zsh/clear-the-screen.md)
 - [Search History](zsh/search-history.md)
+- [Where Are The Binaries?](zsh/where-are-the-binaries.md)
 
 ## About
 
