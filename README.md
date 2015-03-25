@@ -28,6 +28,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### rails
 
 - [Attribute Was](rails/attribute-was.md)
+- [Capybara Page Status Code](rails/capybara-page-status-code.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 
