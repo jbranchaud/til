@@ -59,6 +59,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### zsh
 
 - [Clear The Screen](zsh/clear-the-screen.md)
+- [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
 - [Search History](zsh/search-history.md)
 - [Where Are The Binaries?](zsh/where-are-the-binaries.md)
 
