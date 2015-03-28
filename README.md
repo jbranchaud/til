@@ -55,6 +55,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Split Different](vim/split-different.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
+- [Wrap With Some Room](vim/wrap-with-some-room.md)
 
 ### zsh
 
