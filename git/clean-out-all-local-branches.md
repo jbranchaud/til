@@ -15,3 +15,5 @@ are sure you want to wipe everything, just use `-D` like so:
 ```
 $ git branch --merged master | grep -v master | xargs git branch -D
 ```
+
+[source](https://twitter.com/steveklabnik/status/583055065868447744)
