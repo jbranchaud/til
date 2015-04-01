@@ -15,6 +15,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
+- [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Intent To Add](git/intent-to-add.md)
