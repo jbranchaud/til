@@ -10,6 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### clojure
 
 - [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
+- [Type of Anything](clojure/type-of-anything.md)
 
 ### git
 
