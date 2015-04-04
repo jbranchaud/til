@@ -51,7 +51,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
-- [Horizontal to Vertical and Back Again](vim/horizontal-to-veritcal-and-back-again.md)
+- [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Opening a URL](vim/opening-a-url.md)
