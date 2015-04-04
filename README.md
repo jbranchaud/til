@@ -61,6 +61,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Split Different](vim/split-different.md)
+- [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
 
