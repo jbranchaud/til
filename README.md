@@ -9,6 +9,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### clojure
 
+- [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
 - [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
 - [Type of Anything](clojure/type-of-anything.md)
 
