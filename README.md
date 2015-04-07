@@ -11,6 +11,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
 - [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
+- [Swap Two Items in a Vector](clojure/swap-two-items-in-a-vector.md)
 - [Type of Anything](clojure/type-of-anything.md)
 
 ### git
