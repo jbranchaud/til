@@ -66,6 +66,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
+- [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
 - [Split Different](vim/split-different.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
