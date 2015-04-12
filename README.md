@@ -9,6 +9,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### clojure
 
+- [Expanding Macros](clojure/expanding-macros.md)
 - [Quick Clojure Docs](clojure/quick-clojure-docs.md)
 - [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
 - [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
