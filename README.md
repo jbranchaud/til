@@ -61,7 +61,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List All Buffers](vim/list-all-buffers.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Opening a URL](vim/opening-a-url.md)
-- [Preview Buffer](vim/previous-buffer.md)
+- [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
