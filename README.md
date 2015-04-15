@@ -59,6 +59,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Head of File Name](vim/head-of-file-name.md)
 - [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
 - [List All Buffers](vim/list-all-buffers.md)
+- [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Opening a URL](vim/opening-a-url.md)
