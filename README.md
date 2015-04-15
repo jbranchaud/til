@@ -60,6 +60,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
+- [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Opening a URL](vim/opening-a-url.md)
 - [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
