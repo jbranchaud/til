@@ -59,6 +59,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
+- [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
