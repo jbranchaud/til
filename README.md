@@ -65,6 +65,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Opening a URL](vim/opening-a-url.md)
+- [Preventing Typos with Abbreviations](vim/preventing-typos-with-abbreviations.md)
 - [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
 - [Quick File Info](vim/quick-file-info.md)
