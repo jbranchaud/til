@@ -12,4 +12,7 @@ to get to line 55 regardless of where I am currently positioned in the
 buffer, I can simply hit `:55<cr>`.
 
 \* *This actually is slightly inaccurate, it moves me to line 56, not 55.
-If I need to be precise, this doesn't cut it.*
+If I need to be precise, `55j` doesn't cut it.*
+
+\*\* Also, I can apparently use `55G` to achieve the same thing
+([source](https://twitter.com/rossnelson/status/591239951032983553)).
