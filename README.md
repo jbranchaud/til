@@ -79,6 +79,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
+- [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
 
 ### zsh
