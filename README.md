@@ -63,6 +63,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
+- [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Opening a URL](vim/opening-a-url.md)
