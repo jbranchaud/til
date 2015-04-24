@@ -49,6 +49,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
+- [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Limit Split](ruby/limit-split.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
 - [Summing Collections](ruby/summing-collections.md)
