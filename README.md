@@ -62,6 +62,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
 - [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
+- [Joining Lines Together](vim/joining-lines-together.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
