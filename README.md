@@ -36,6 +36,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### postgres
 
 - [Timestamp Functions](postgres/timestamp-functions.md)
+- [Turning Timing On](postgres/turning-timing-on.md)
 
 ### rails
 
