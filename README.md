@@ -25,6 +25,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Intent To Add](git/intent-to-add.md)
 - [List Untracked Files](git/list-untracked-files.md)
+- [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
