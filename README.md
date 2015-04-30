@@ -41,6 +41,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### rails
 
+- [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
 - [Attribute Was](rails/attribute-was.md)
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
