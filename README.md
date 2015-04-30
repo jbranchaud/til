@@ -55,6 +55,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Limit Split](ruby/limit-split.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
+- [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [Summing Collections](ruby/summing-collections.md)
 
 ### vim
