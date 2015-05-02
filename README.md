@@ -34,6 +34,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Not So Random](go/not-so-random.md)
 
+## javascript
+
+- [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
+
 ### postgres
 
 - [Timestamp Functions](postgres/timestamp-functions.md)
