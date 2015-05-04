@@ -66,6 +66,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### vim
 
+- [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
