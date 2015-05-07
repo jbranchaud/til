@@ -1,7 +1,8 @@
 # The Black Hole Register
 
 Vim has a variety of registers for storing and moving around text. Vim also
-has a special register called the *black hole register*.
+has a special register called the *black hole register*. This black hole
+register is associated with the `_` character.
 
 > When writing to this register, nothing happens.  This can be used to delete
 > text without affecting the normal registers.  When reading from this register,
