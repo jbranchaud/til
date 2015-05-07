@@ -9,7 +9,7 @@ has a special register called the *black hole register*.
 
 As stated in the docs, if you don't want to overwrite the unnamed register or
 some other register when deleting text, you can use the black hole register.
-For instance, to deleting the current line without any register side-effects
+For instance, deleting the current line without any register side-effects
 looks like this:
 
 ```
