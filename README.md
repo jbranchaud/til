@@ -66,6 +66,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### vim
 
+- [The Black Hole Register](vim/the-black-hole-register.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
