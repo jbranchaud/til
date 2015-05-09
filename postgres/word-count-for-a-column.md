@@ -2,7 +2,7 @@
 
 Assuming I have a database with a posts table:
 
-```
+```sql
 > select * from posts where id = 1;
  id |  title   |              content               
 ----+----------+------------------------------------
@@ -11,7 +11,7 @@ Assuming I have a database with a posts table:
 
 I can compute the word count of the content of a given post like so:
 
-```
+```sql
 > select sum(array_length(regexp_split_to_array(content, '\s+'), 1)) from posts where id = 1;
  sum 
 -----
