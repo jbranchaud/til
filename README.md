@@ -44,6 +44,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
+- [Word Count for a Column](postgres/word-count-for-a-column.md)
 
 ### rails
 
