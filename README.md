@@ -53,6 +53,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
 - [Attribute Was](rails/attribute-was.md)
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
+- [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 
