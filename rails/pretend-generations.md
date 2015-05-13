@@ -22,3 +22,5 @@ then you will see the following output
 
 though those files will not have actually been created. You now know
 precisely what rails will generate for you.
+
+[source](http://rubyquicktips.com/post/19223887750/pretend-to-generate)
