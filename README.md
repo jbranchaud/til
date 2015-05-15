@@ -107,6 +107,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### zsh
 
+- [Cat A File With Line Numbers](zsh/cat-a-file-with-line-numbers.md)
 - [Clear The Screen](zsh/clear-the-screen.md)
 - [Create A File Descriptor with Process Substitution](zsh/create-a-file-descriptor-with-process-substitution.md)
 - [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
