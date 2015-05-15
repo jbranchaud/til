@@ -13,7 +13,7 @@ gem 'rails', '4.2.0'
 gem 'pg'
 ```
 
-With the `-n` flag I can view that file with line numbers
+With the `-n` flag you can view that file with line numbers
 
 ```
 $ cat -n Gemfile
