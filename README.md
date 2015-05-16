@@ -16,6 +16,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Swap Two Items in a Vector](clojure/swap-two-items-in-a-vector.md)
 - [Type of Anything](clojure/type-of-anything.md)
 
+### devops
+
+- [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
+
 ### git
 
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
