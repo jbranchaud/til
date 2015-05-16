@@ -121,6 +121,11 @@ smart people at [Hashrocket](http://hashrocket.com/).
 I shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til).
 
+## Other TIL Collections
+
+- [jwworth/til](https://github.com/jwworth/til)
+- [thoughtbot/til](https://github.com/thoughtbot/til)
+
 ## License
 
 &copy; 2015 Josh Branchaud
