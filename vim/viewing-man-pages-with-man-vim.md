@@ -1,6 +1,6 @@
 # Viewing Man Pages with man.vim
 
-In [Quick Man Pages](vim/quick-man-pages.md), I introduced `K` which shells
+In [Quick Man Pages](quick-man-pages.md), I introduced `K` which shells
 out to the man page for the unix command under the cursor. It gets better
 though. Vim has a built-in plugin, `man.vim`, that you can enable which
 allows you to view man pages without shelling out.
