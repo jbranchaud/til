@@ -22,3 +22,5 @@ Not only does this prevent context-switching when viewing a man page, but it
 also gives you the full power of vim over the content of the man page. You
 can search, you can yank text, or you can even pop open the man page for
 another command.
+
+See `:h ft-man-plugin` for more details.
