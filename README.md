@@ -112,6 +112,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### zsh
 
+- [All The Environment Variables](zsh/all-the-environment-variables.md)
 - [Cat A File With Line Numbers](zsh/cat-a-file-with-line-numbers.md)
 - [Clear The Screen](zsh/clear-the-screen.md)
 - [Create A File Descriptor with Process Substitution](zsh/create-a-file-descriptor-with-process-substitution.md)
