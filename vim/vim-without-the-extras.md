@@ -18,4 +18,4 @@ $ vim -u NONE coffee.rb
 If you are used to lots of syntax highlighting, custom bindings, and
 other niceties, this may feel rather foreign.
 
-Source: [Jake Worth](https://twitter.com/jwworth)
+h/t [Jake Worth](https://twitter.com/jwworth)
