@@ -99,6 +99,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
+- [Re-indenting Your Code](vim/reindenting-your-code.md)
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
