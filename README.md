@@ -75,6 +75,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [Summing Collections](ruby/summing-collections.md)
 
+### tmux
+
+- [Organizing Windows](tmux/organizing-windows.md)
+
 ### vim
 
 - [The Black Hole Register](vim/the-black-hole-register.md)
