@@ -80,6 +80,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### tmux
 
 - [Organizing Windows](tmux/organizing-windows.md)
+- [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
 
 ### vim
 
