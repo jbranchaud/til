@@ -17,3 +17,5 @@ will happily (and endlessly) print `no`.
 ```
 $ yes no
 ```
+
+h/t [Chris Erin](https://twitter.com/MCNormalMode)
