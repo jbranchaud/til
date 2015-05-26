@@ -128,6 +128,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Clear The Screen](zsh/clear-the-screen.md)
 - [Create A File Descriptor with Process Substitution](zsh/create-a-file-descriptor-with-process-substitution.md)
 - [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
+- [Saying Yes](zsh/saying-yes.md)
 - [Search History](zsh/search-history.md)
 - [Switch Versions of a Brew Formula](zsh/switch-versions-of-a-brew-formula.md)
 - [Watch This Run Repeatedly](zsh/watch-this-run-repeatedly.md)
