@@ -21,6 +21,6 @@ with two functions out of the box for this kind of behavior.
   has passed since it was last called.
 
 These are two subtly different approaches to making sure a function gets
-call, just not too often.
+called, just not too often.
 
 h/t [Jake Worth](https://twitter.com/jwworth)
