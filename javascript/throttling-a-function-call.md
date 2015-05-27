@@ -12,8 +12,9 @@ You can roll your own approach to sufficiently intermittent server calls.
 Though, it turns out that [underscore.js](http://underscorejs.org/) comes
 with two functions out of the box for this kind of behavior.
 
-- [`throttle`](http://underscorejs.org/#throttle) will give you function
-  that wraps your function in a way that essentially rate-limits it.
+- [`throttle`](http://underscorejs.org/#throttle) will give you a function
+  that wraps your function in a way that essentially rate-limits it to being
+  called at most once every `N` milliseconds.
 
 - [`debounce`](http://underscorejs.org/#debounce), on the other hand, will
   give you a function that only calls your function once `N` milliseconds
