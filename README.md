@@ -18,6 +18,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### devops
 
+- [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
 
