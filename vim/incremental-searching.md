@@ -7,6 +7,6 @@ pattern, the first valid match will be located and highlighted. As you
 continue to type the pattern, it will continue to update the highlighted
 match. Incremental searching makes it easy to see when you've made
 a typo in your pattern. By default `incsearch` is turned off in Vim. You
-can enable it with `set incsearch`.
+can enable it with `:set incsearch`.
 
-See `h incsearch` for more details.
+See `:h incsearch` for more details.
