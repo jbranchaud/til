@@ -90,6 +90,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [The Black Hole Register](vim/the-black-hole-register.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
+- [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
