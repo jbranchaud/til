@@ -76,6 +76,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
+- [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Limit Split](ruby/limit-split.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
