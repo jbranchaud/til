@@ -120,6 +120,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
+- [Set Your Color Scheme](vim/set-your-color-scheme.md)
 - [Split Different](vim/split-different.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
