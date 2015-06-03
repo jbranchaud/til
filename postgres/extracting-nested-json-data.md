@@ -7,8 +7,8 @@ get at the license number in this JSON column
 
 ```sql
   owner
-------------------------------------------------------------------------------
-{ "name": "Jason Borne", "license": { "number": "T1234F5G6", "state": "MA" } }
+--------------------------------------------------------------------------------
+'{ "name": "Jason Borne", "license": { "number": "T1234F5G6", "state": "MA" } }'
 ```
 
 Unfortunately, the `->` operator isn't going to do the trick. You need the
@@ -19,7 +19,7 @@ Unfortunately, the `->` operator isn't going to do the trick. You need the
 
  json_extract_path
 -------------------
-    T1234F5G6
+   'T1234F5G6'
 ```
 
 Read more about [JSON Functions and
