@@ -1,14 +1,15 @@
 # List All Key Bindings
 
 There are a couple ways to list all the tmux key bindings. If you are not
-currently in a tmux sessions, you can enter this from the terminal:
+currently in a tmux session, you can still access the list from the terminal
+with
 
 ```bash
 $ tmux list-keys
 ```
 
 If you are currently in a tmux session, then you can take advantage of the
-tmux environment by either using:
+tmux environment by either using
 
 ```
 <prefix>:list-keys
