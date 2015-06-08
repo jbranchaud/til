@@ -56,6 +56,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
+- [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
 
 ### rails
