@@ -68,6 +68,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Pretend Generations](rails/pretend-generations.md)
+- [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 
 ### ruby
