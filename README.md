@@ -103,6 +103,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
+- [End Of The Word](vim/end-of-the-word.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
