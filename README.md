@@ -52,6 +52,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### postgres
 
+- [Count Records By Type](postgres/count-records-by-type.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
