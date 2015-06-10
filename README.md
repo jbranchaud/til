@@ -44,7 +44,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Not So Random](go/not-so-random.md)
 
-## javascript
+### javascript
 
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
