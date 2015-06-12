@@ -16,3 +16,5 @@ I can see that a ruby process (my rails app) is using port 3000. The PID
 and a number of other details are included.
 
 See more details with `man lsof`.
+
+h/t [Mike Chau](https://twitter.com/money_mikec)
