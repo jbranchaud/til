@@ -1,7 +1,5 @@
 # Swap Occurrences Of Two Words
 
-If I have a file with `foo` and `bar` all over the place and 
-
 Imagine I have a file with `foo` and `bar` all over the place. The tables
 have turned and now I want all occurrences of `foo` to be `bar` and all
 occurrences of `bar` to be `foo`.
