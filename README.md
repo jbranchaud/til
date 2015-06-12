@@ -130,6 +130,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
 - [Split Different](vim/split-different.md)
+- [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
