@@ -134,6 +134,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
+- [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 - [Viewing Man Pages with man.vim](vim/viewing-man-pages-with-man-vim.md)
 - [Vim Without The Extras](vim/vim-without-the-extras.md)
