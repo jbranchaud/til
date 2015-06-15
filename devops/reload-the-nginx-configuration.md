@@ -1,7 +1,8 @@
 # Reload The nginx Configuration
 
-The nginx service won't immediately start using a modified or replaced nginx
-configuration. Once a `restart` or `reload` signal is received by nginx, it
+If you've modified or replaced the configuration file, nginx will not
+immediately start using the updated nginx configuration.
+Once a `restart` or `reload` signal is received by nginx, it
 will apply the changes. The `reload` signal
 
 ```
