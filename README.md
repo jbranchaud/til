@@ -53,6 +53,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### postgres
 
+- [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
