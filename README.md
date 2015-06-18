@@ -32,6 +32,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Intent To Add](git/intent-to-add.md)
+- [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
 - [List Untracked Files](git/list-untracked-files.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
