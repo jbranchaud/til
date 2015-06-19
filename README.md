@@ -57,6 +57,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
+- [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
