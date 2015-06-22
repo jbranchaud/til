@@ -159,6 +159,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Saying Yes](zsh/saying-yes.md)
 - [Search History](zsh/search-history.md)
 - [Switch Versions of a Brew Formula](zsh/switch-versions-of-a-brew-formula.md)
+- [Watch The Difference](zsh/watch-the-difference.md)
 - [Watch This Run Repeatedly](zsh/watch-this-run-repeatedly.md)
 - [Where Are The Binaries?](zsh/where-are-the-binaries.md)
 
