@@ -61,6 +61,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
+- [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
