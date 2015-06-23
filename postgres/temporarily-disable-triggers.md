@@ -23,3 +23,5 @@ SET
 
 A more direct and fine-grained approach to disabling triggers is to use an
 `alter table` command that targets a specific trigger.
+
+h/t Jack Christensen
