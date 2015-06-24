@@ -60,6 +60,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
+- [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
