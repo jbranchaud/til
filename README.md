@@ -57,6 +57,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
+- [Default Schema](postgres/default-schema.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
