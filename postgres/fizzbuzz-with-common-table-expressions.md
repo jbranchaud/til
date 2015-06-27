@@ -21,3 +21,6 @@ with recursive fizzbuzz (num,val) as (
 )
 select val from fizzbuzz where num > 0;
 ```
+
+Check out [With Queries (Common Table Expressions)](http://www.postgresql.org/docs/9.4/static/queries-with.html)
+for more details on CTEs.
