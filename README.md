@@ -65,6 +65,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
+- [Temporary Tables](postgres/temporary-tables.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
