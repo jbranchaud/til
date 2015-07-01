@@ -13,8 +13,10 @@ non-alphanumeric character to surround a string.
 
 It even works with balanced characters
 
+```ruby
 > %(The Goonies)
 => "The Goonies"
+```
 
 This is useful for defining a string that has both types of quotes
 
