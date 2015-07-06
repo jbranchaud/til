@@ -132,6 +132,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [Joining Lines Together](vim/joining-lines-together.md)
 - [List All Buffers](vim/list-all-buffers.md)
+- [List Of Plugins](vim/list-of-plugins.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
