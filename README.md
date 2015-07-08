@@ -172,6 +172,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeat Yourself](zsh/repeat-yourself.md)
 - [Saying Yes](zsh/saying-yes.md)
 - [Search History](zsh/search-history.md)
+- [SSH With Port Forwarding](zsh/ssh-with-port-forwarding.md)
 - [Switch Versions of a Brew Formula](zsh/switch-versions-of-a-brew-formula.md)
 - [Watch The Difference](zsh/watch-the-difference.md)
 - [Watch This Run Repeatedly](zsh/watch-this-run-repeatedly.md)
