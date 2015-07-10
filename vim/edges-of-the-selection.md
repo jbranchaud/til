@@ -5,4 +5,4 @@ character of the selection in the `<` mark and the position of the last
 character of the selection in the `>` mark.
 
 Thus moving to the edges of your previous selection is easy. To move to the
-beginning of the selection, press `\`<`. To move to the end, press `\`>`.
+beginning of the selection, press ```<``. To move to the end, press ```>``.
