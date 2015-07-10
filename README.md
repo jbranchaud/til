@@ -110,6 +110,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### tmux
 
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
+- [Cycle Through Layouts](tmux/cycle-through-layouts.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [Organizing Windows](tmux/organizing-windows.md)
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
