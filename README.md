@@ -156,6 +156,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Replace A Character](vim/replace-a-character.md)
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
+- [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
 - [Split Different](vim/split-different.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
