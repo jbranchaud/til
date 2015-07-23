@@ -114,6 +114,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### tmux
 
+- [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
