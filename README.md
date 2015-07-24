@@ -26,6 +26,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### git
 
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
+- [Amend Author Of Previous Commit](git/amend-author-of-previous-commit.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
