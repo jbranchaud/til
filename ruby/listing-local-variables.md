@@ -2,7 +2,7 @@
 
 In Ruby 2.2, the `binding` object gives us access to a method
 `#local_variables` which returns the symbol names of the binding's local
-variables.
+variables. We can see this in action with
 
 ```ruby
 def square(x)
