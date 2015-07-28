@@ -32,6 +32,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
+- [Excluding Files Locally](git/excluding-files-locally.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
