@@ -10,3 +10,5 @@ environment, there is another option. These files can be added to the
 Add specific files or patterns as needed to that file and then save it.
 Relevant files will no longer show up as untracked files when you `git
 status`.
+
+h/t [Dillon Hafer](https://twitter.com/DillonHafer)
