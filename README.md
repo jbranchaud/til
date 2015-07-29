@@ -117,6 +117,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [Summing Collections](ruby/summing-collections.md)
+- [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
 
 ### tmux
 
