@@ -127,6 +127,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [Organizing Windows](tmux/organizing-windows.md)
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
+- [Swap Split Panes](tmux/swap-split-panes.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
 
 ### vim
