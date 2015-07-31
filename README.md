@@ -104,6 +104,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
+- [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
 - [Editing Code In Pry](ruby/editing-code-in-pry.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
