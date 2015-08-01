@@ -111,6 +111,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
+- [Next And Previous Floats](ruby/next-and-previous-floats.md)
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
 - [Passing Arbitrary Methods As Blocks](ruby/passing-arbitrary-methods-as-blocks.md)
