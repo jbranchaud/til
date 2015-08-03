@@ -9,4 +9,4 @@ I can just jump straight to it. I can do this with `:bmodified` or just
 `:bm`. This jumps straight to the next modified buffer. If there is no
 modified buffer, it tells me *No modified buffer found*.
 
-See `:h bmodifed` for more details.
+See `:h bmodified` for more details.
