@@ -189,6 +189,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Check If A Port Is In Use](zsh/check-if-a-port-is-in-use.md)
 - [Clear The Screen](zsh/clear-the-screen.md)
 - [Create A File Descriptor with Process Substitution](zsh/create-a-file-descriptor-with-process-substitution.md)
+- [Do Not Overwrite Existing Files](zsh/do-not-overwrite-existing-files.md)
 - [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
 - [List All The Say Voices](zsh/list-all-the-say-voices.md)
 - [Repeat Yourself](zsh/repeat-yourself.md)
