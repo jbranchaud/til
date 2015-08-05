@@ -115,6 +115,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
 - [Passing Arbitrary Methods As Blocks](ruby/passing-arbitrary-methods-as-blocks.md)
+- [Passing Arguments To A Rake Task](ruby/passing-arguments-to-a-rake-task.md)
 - [Percent Notation](ruby/percent-notation.md)
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
