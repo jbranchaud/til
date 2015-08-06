@@ -9,7 +9,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### clojure
 
-- [Evaluate One Liners With lein-exec](evaluate-one-liners-with-lein-exec.md)
+- [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
 - [Quick Clojure Docs](clojure/quick-clojure-docs.md)
 - [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
