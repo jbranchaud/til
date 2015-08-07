@@ -14,3 +14,5 @@ must specify both the existing (old) branch name and the new branch name.
 ```bash
 $ git branch -m <old-branch-name> <new-branch-name>
 ```
+
+h/t Dillon Hafer
