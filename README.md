@@ -39,6 +39,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
 - [List Untracked Files](git/list-untracked-files.md)
+- [Renaming A Branch](git/renaming-a-branch.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
