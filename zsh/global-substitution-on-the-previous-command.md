@@ -24,5 +24,5 @@ $ grep 'bar' bar.md
 ```
 
 For a short command like this, we haven't gained much. However, for large
-commands that span the length of your terminal, this can definitely save you
+commands that span the length of the terminal, this can definitely save us
 a little trouble.
