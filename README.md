@@ -11,6 +11,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
+- [Open JavaDocs](clojure/open-javadocs.md)
 - [Quick Clojure Docs](clojure/quick-clojure-docs.md)
 - [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
 - [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
