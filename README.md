@@ -149,6 +149,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
 - [End Of The Word](vim/end-of-the-word.md)
+- [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
