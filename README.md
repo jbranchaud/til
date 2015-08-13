@@ -95,6 +95,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
+- [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Pretend Generations](rails/pretend-generations.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
