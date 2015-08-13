@@ -203,6 +203,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeat Yourself](zsh/repeat-yourself.md)
 - [Saying Yes](zsh/saying-yes.md)
 - [Search History](zsh/search-history.md)
+- [Securely Remove Files](zsh/securely-remove-files.md)
 - [SSH With Port Forwarding](zsh/ssh-with-port-forwarding.md)
 - [Switch Versions of a Brew Formula](zsh/switch-versions-of-a-brew-formula.md)
 - [Watch The Difference](zsh/watch-the-difference.md)
