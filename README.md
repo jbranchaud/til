@@ -203,6 +203,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Global Substitution On The Previous Command](zsh/global-substitution-on-the-previous-command.md)
 - [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
 - [List All The Say Voices](zsh/list-all-the-say-voices.md)
+- [Only Show The Matches](zsh/only-show-the-matches.md)
 - [Repeat Yourself](zsh/repeat-yourself.md)
 - [Saying Yes](zsh/saying-yes.md)
 - [Search History](zsh/search-history.md)
