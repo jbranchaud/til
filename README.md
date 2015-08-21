@@ -150,6 +150,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
+- [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
 - [End Of The Word](vim/end-of-the-word.md)
