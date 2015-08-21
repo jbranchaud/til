@@ -18,6 +18,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
 - [Swap Two Items in a Vector](clojure/swap-two-items-in-a-vector.md)
 - [Type of Anything](clojure/type-of-anything.md)
+- [When Overflow Is Desired](clojure/when-overflow-is-desired.md)
 
 ### devops
 
