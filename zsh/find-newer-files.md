@@ -1,7 +1,7 @@
 # Find Newer Files
 
-Use the `-newer` flag with the name of a file to find files that have a new
-modification date than the named file.
+Use the `-newer` flag with the name of a file to find files that have a
+newer modification date than the named file.
 
 For instance,
 
