@@ -205,6 +205,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Clear The Screen](zsh/clear-the-screen.md)
 - [Create A File Descriptor with Process Substitution](zsh/create-a-file-descriptor-with-process-substitution.md)
 - [Do Not Overwrite Existing Files](zsh/do-not-overwrite-existing-files.md)
+- [Find Newer Files](zsh/find-newer-files.md)
 - [Global Substitution On The Previous Command](zsh/global-substitution-on-the-previous-command.md)
 - [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
 - [List All The Say Voices](zsh/list-all-the-say-voices.md)
