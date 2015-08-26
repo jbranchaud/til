@@ -147,6 +147,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
+- [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
