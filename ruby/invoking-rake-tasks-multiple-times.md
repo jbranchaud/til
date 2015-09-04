@@ -18,7 +18,7 @@ end
 This doesn't work though. No matter how many items are in the list, the
 `build` task only seems to get run once. This is because by default tasks
 can only be invoked once in a given context. To get around this, the task
-needs to be reenabled after each invocation.
+needs to be _reenabled_ after each invocation.
 
 ```ruby
 namespace :build do
