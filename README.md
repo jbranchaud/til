@@ -148,6 +148,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### vim
 
+- [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
