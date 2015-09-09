@@ -163,6 +163,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
 - [End Of The Word](vim/end-of-the-word.md)
 - [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
+- [Format Long Lines To Text Width](vim/format-long-lines-to-text-width.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
