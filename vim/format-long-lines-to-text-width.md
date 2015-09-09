@@ -16,3 +16,5 @@ You can quickly remedy this with `gw`.
 
 Make a visual selection of the lines that need formatting and then hit `gw`.
 All the lines should then we truncated to 80 or less characters.
+
+See `:h gw` and `:h gq` for more details.
