@@ -14,3 +14,5 @@ contents of the file. The name and location of the file don't matter, just
 the contents. This is the magic of git. Anytime git needs to store a blob,
 it can quickly match against the hash id in order to avoid storing duplicate
 blobs.
+
+[source](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
