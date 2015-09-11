@@ -35,6 +35,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
+- [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
