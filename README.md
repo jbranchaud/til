@@ -191,6 +191,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Re-indenting Your Code](vim/reindenting-your-code.md)
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
+- [Repeating Characters](vim/repeating-characters.md)
 - [Replace A Character](vim/replace-a-character.md)
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
