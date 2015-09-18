@@ -62,6 +62,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 
+### mac
+
+- [Default Screenshot Location](mac/default-screenshot-location.md)
+
 ### postgres
 
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
