@@ -81,6 +81,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
+- [List Database Users](postgres/list-database-users.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
