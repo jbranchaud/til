@@ -141,6 +141,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Summing Collections](ruby/summing-collections.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
+- [Zero Padding](ruby/zero-padding.md)
 
 ### tmux
 
