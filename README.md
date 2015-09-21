@@ -55,6 +55,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### go
 
 - [Not So Random](go/not-so-random.md)
+- [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 
 ### javascript
 
