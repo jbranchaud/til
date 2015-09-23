@@ -38,6 +38,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
+- [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
