@@ -118,6 +118,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
+- [Construct A Constant From A String](ruby/construct-a-constant-from-a-string.md)
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
