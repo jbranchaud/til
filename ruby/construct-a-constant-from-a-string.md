@@ -26,3 +26,10 @@ You can even be more specific if you'd like
 > Math.const_get("PI")
 #=> 3.141592653589793
 ```
+
+Symbols are valid as well
+
+```ruby
+> Math.const_get(:PI)
+#=> 3.141592653589793
+```
