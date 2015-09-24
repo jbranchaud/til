@@ -9,9 +9,9 @@ executed, and relevant environment. Here is a simple example.
 ```go
 package main
 
-import 'fmt'
-import 'os'
-import 'syscall'
+import "fmt"
+import "os"
+import "syscall"
 
 func main() {
     // get the system's environment variables
