@@ -102,6 +102,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
 - [Attribute Was](rails/attribute-was.md)
+- [Autosave False On ActiveRecord Associations](rails/autosave-false-on-activerecord-associations.md)
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
