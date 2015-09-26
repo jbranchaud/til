@@ -79,6 +79,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
+- [Integers In Postgres](postgres/integers-in-postgres.md)
 - [Intervals Of Time By Week](postgres/intervals-of-time-by-week.md)
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
