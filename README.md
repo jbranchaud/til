@@ -93,6 +93,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
+- [Types By Category](postgres/types-by-category.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)
 - [Using Intervals To Offset Time](postgres/using-intervals-to-offset-time.md)
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
