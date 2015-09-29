@@ -2,9 +2,9 @@
 
 When public key authentication isn't an option, you may find yourself typing
 your password over and over when pushing to and pulling from a remote git
-repository. This can get tedious. You can get around it, though, by
-configuring git to cache your credentials. Add the following lines to the
-`.git/config` file of the particular project.
+repository. This can get tedious. You can get around it by configuring git
+to cache your credentials. Add the following lines to the `.git/config` file
+of the particular project.
 
 ```
 [credential]
