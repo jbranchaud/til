@@ -77,6 +77,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Default Schema](postgres/default-schema.md)
+- [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
