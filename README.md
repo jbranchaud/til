@@ -214,6 +214,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
 - [Split Different](vim/split-different.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
+- [Swapping Split Windows](vim/swapping-split-windows.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
 - [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
