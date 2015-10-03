@@ -234,6 +234,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Do Not Overwrite Existing Files](zsh/do-not-overwrite-existing-files.md)
 - [Find Newer Files](zsh/find-newer-files.md)
 - [Global Substitution On The Previous Command](zsh/global-substitution-on-the-previous-command.md)
+- [Hexdump A Compiled File](zsh/hexdump-a-compiled-file.md)
 - [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
 - [List All The Say Voices](zsh/list-all-the-say-voices.md)
 - [Only Show The Matches](zsh/only-show-the-matches.md)
