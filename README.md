@@ -7,6 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
+---
+
+### Categories
+
+- [Vim](#vim)
+
+---
+
 ### clojure
 
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
