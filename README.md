@@ -66,6 +66,10 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 
+### linux
+
+- [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
+
 ### mac
 
 - [Default Screenshot Location](mac/default-screenshot-location.md)
