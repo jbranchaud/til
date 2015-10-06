@@ -11,7 +11,19 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Categories
 
+- [Clojure](#clojure)
+- [Devops](#devops)
+- [Git](#git)
+- [Go](#go)
+- [JavaScript](#javascript)
+- [Linux](#linux)
+- [Mac](#mac)
+- [Postgres](#postgres)
+- [Rails](#rails)
+- [Ruby](#ruby)
+- [tmux](#tmux)
 - [Vim](#vim)
+- [Zsh](#zsh)
 
 ---
 
