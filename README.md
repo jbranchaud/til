@@ -192,6 +192,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
+- [Amend Commits With Fugitive](vim/amend-commits-with-fugitive.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
