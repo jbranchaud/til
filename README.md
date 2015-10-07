@@ -215,6 +215,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Incremental Searching](vim/incremental-searching.md)
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [Joining Lines Together](vim/joining-lines-together.md)
+- [Jump To Matching Pair](vim/jump-to-matching-pair.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [List Of Plugins](vim/list-of-plugins.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
