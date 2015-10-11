@@ -210,6 +210,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Saying Yes](unix/saying-yes.md)
 - [Search History](unix/search-history.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
+- [SSH With A Specific Key](unix/ssh-with-a-specific-key.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [Watch The Difference](unix/watch-the-difference.md)
