@@ -22,8 +22,8 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [tmux](#tmux)
+- [Unix](#unix)
 - [Vim](#vim)
-- [Zsh](#zsh)
 
 ---
 
@@ -191,6 +191,31 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
 
+### unix
+
+- [All The Environment Variables](unix/all-the-environment-variables.md)
+- [Cat A File With Line Numbers](unix/cat-a-file-with-line-numbers.md)
+- [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
+- [Clear The Screen](unix/clear-the-screen.md)
+- [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
+- [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
+- [File Type Info With File](unix/file-type-info-with-file.md)
+- [Find Newer Files](unix/find-newer-files.md)
+- [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
+- [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
+- [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
+- [List All The Say Voices](unix/list-all-the-say-voices.md)
+- [Only Show The Matches](unix/only-show-the-matches.md)
+- [Repeat Yourself](unix/repeat-yourself.md)
+- [Saying Yes](unix/saying-yes.md)
+- [Search History](unix/search-history.md)
+- [Securely Remove Files](unix/securely-remove-files.md)
+- [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
+- [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
+- [Watch The Difference](unix/watch-the-difference.md)
+- [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
+- [Where Are The Binaries?](unix/where-are-the-binaries.md)
+
 ### vim
 
 - [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
@@ -252,31 +277,6 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Vim Without The Extras](vim/vim-without-the-extras.md)
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
-
-### zsh
-
-- [All The Environment Variables](zsh/all-the-environment-variables.md)
-- [Cat A File With Line Numbers](zsh/cat-a-file-with-line-numbers.md)
-- [Check If A Port Is In Use](zsh/check-if-a-port-is-in-use.md)
-- [Clear The Screen](zsh/clear-the-screen.md)
-- [Create A File Descriptor with Process Substitution](zsh/create-a-file-descriptor-with-process-substitution.md)
-- [Do Not Overwrite Existing Files](zsh/do-not-overwrite-existing-files.md)
-- [File Type Info With File](zsh/file-type-info-with-file.md)
-- [Find Newer Files](zsh/find-newer-files.md)
-- [Global Substitution On The Previous Command](zsh/global-substitution-on-the-previous-command.md)
-- [Hexdump A Compiled File](zsh/hexdump-a-compiled-file.md)
-- [Killing A Frozen SSH Session](zsh/killing-a-frozen-ssh-session.md)
-- [List All The Say Voices](zsh/list-all-the-say-voices.md)
-- [Only Show The Matches](zsh/only-show-the-matches.md)
-- [Repeat Yourself](zsh/repeat-yourself.md)
-- [Saying Yes](zsh/saying-yes.md)
-- [Search History](zsh/search-history.md)
-- [Securely Remove Files](zsh/securely-remove-files.md)
-- [SSH With Port Forwarding](zsh/ssh-with-port-forwarding.md)
-- [Switch Versions of a Brew Formula](zsh/switch-versions-of-a-brew-formula.md)
-- [Watch The Difference](zsh/watch-the-difference.md)
-- [Watch This Run Repeatedly](zsh/watch-this-run-repeatedly.md)
-- [Where Are The Binaries?](zsh/where-are-the-binaries.md)
 
 ## About
 
