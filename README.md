@@ -22,7 +22,6 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [tmux](#tmux)
-- [Unix](#unix)
 - [Vim](#vim)
 
 ---
@@ -210,7 +209,6 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Saying Yes](unix/saying-yes.md)
 - [Search History](unix/search-history.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
-- [SSH With A Specific Key](unix/ssh-with-a-specific-key.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [Watch The Difference](unix/watch-the-difference.md)
@@ -265,6 +263,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeating Characters](vim/repeating-characters.md)
 - [Replace A Character](vim/replace-a-character.md)
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
+- [Searching For Hex Digits](vim/searching-for-hex-digits.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
 - [Split Different](vim/split-different.md)
