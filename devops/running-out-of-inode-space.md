@@ -8,7 +8,7 @@ location and other data.
 Though it is uncommon, it is possible to run out of `inode` space before
 running out of disk space (run `df` and `df -i` to see the levels of each).
 When this happens, the system will complain that there is `No space left on
-device`. Both `inode` space and disk space is needed to create a new file.
+device`. Both `inode` space and disk space are needed to create a new file.
 
 How can this happen? If lots of directories with lots of empty, small, or
 duplicate files are being created, then the `inode` space can be used up
