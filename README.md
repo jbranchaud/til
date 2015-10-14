@@ -46,6 +46,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
+- [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
 
 ### git
