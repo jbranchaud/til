@@ -74,6 +74,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
+- [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
 
