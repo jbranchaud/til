@@ -204,6 +204,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Find Newer Files](unix/find-newer-files.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
+- [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
 - [List All The Say Voices](unix/list-all-the-say-voices.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
