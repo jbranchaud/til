@@ -188,6 +188,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [Organizing Windows](tmux/organizing-windows.md)
+- [Pane Killer](tmux/pane-killer.md)
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
