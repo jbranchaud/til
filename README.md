@@ -252,6 +252,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List Of Plugins](vim/list-of-plugins.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
+- [Navigating By Blank Lines](vim/navigating-by-blank-lines.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Next Modified Buffer](vim/next-modified-buffer.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
