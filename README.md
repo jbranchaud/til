@@ -235,6 +235,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
+- [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
 - [Deleting Directories Of Files From netrw](vim/deleting-directories-of-files-from-netrw.md)
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
