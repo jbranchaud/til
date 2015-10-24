@@ -92,6 +92,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### linux
 
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
+- [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
 ### mac
 
