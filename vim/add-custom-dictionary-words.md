@@ -9,4 +9,5 @@ example. Why not just tell vim once and for all that such words are valid.
 
 You can do just that by moving your cursor over the *misspelled* word and
 hitting `zg`. That will add it to the `spellfile`, a list of words, which
-vim includes in its spell checking.
+vim includes in its spell checking. This means vim will no longer highlight
+that word red.
