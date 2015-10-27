@@ -226,6 +226,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### vim
 
 - [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
+- [Add Custom Dictionary Words](vim/add-custom-dictionary-words.md)
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
 - [Amend Commits With Fugitive](vim/amend-commits-with-fugitive.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
