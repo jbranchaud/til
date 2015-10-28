@@ -254,6 +254,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [Joining Lines Together](vim/joining-lines-together.md)
 - [Jump To Matching Pair](vim/jump-to-matching-pair.md)
+- [Jump To The Next Misspelling](vim/jump-to-the-next-misspelling.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [List Of Plugins](vim/list-of-plugins.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
