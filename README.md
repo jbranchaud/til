@@ -257,6 +257,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Jump To The Next Misspelling](vim/jump-to-the-next-misspelling.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [List Of Plugins](vim/list-of-plugins.md)
+- [Match The Beginning And End Of Words](vim/match-the-beginning-and-end-of-words.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
 - [Navigating By Blank Lines](vim/navigating-by-blank-lines.md)
