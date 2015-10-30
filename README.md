@@ -216,6 +216,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search History](unix/search-history.md)
+- [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
