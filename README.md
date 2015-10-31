@@ -108,6 +108,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
+- [Find The Data Directory](postgres/find-the-data-directory.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
 - [Generate A UUID](postgres/generate-a-uuid.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
