@@ -235,6 +235,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
+- [Center The Cursor](vim/center-the-cursor.md)
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
