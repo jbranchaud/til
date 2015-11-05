@@ -179,6 +179,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
+- [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [Summing Collections](ruby/summing-collections.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
