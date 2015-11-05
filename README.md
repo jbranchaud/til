@@ -231,6 +231,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Add Custom Dictionary Words](vim/add-custom-dictionary-words.md)
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
 - [Amend Commits With Fugitive](vim/amend-commits-with-fugitive.md)
+- [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
