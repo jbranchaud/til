@@ -91,6 +91,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### linux
 
+- [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
