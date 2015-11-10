@@ -1,6 +1,6 @@
 # Truncate Tables With Dependants
 
-In [Truncate All Rows](postgres/truncate-all-rows.md), I talked about how
+In [Truncate All Rows](truncate-all-rows.md), I talked about how
 postgres's `truncate` can be used to quickly delete all rows in a table. In
 practice this alone won't be very useful though, because tables usually have
 other tables that depend on them via foreign keys. If you have tables `A`
