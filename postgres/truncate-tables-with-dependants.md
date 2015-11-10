@@ -25,7 +25,7 @@ TRUNCATE TABLE;
 If many tables are tied together in this way and you are looking to throw
 all of it out, then a simpler approach is to cascade the truncation:
 
-```
+```sql
 > truncate A cascade;
 NOTICE:  truncate cascades to table "B"
 TRUNCATE TABLE
