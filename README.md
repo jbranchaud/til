@@ -130,7 +130,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Truncate All Rows](postgres/truncate-all-rows.md)
-- [Truncate Tables With Dependants](postgres/truncate-tables-with-dependants.md)
+- [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
 - [Types By Category](postgres/types-by-category.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)

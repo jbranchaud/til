@@ -1,4 +1,4 @@
-# Truncate Tables With Dependants
+# Truncate Tables With Dependents
 
 In [Truncate All Rows](truncate-all-rows.md), I talked about how
 postgres's `truncate` can be used to quickly delete all rows in a table. In
