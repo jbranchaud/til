@@ -105,6 +105,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
+- [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
