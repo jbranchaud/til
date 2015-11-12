@@ -2,7 +2,7 @@
 
 The following command can be used to reverse the order of all lines in a
 file by doing a global move on all lines that match the beginning of line
-character starting at the theoretically 0th character:
+character starting at the theoretical 0th character:
 
 ```
 :g/^/m 0
