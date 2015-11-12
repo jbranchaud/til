@@ -17,4 +17,6 @@ the lines 5 to 10 requires being anchored at line 4, like so:
 :4,10g/^/m 4
 ```
 
+See `:h 12.4` for more details on how this works.
+
 [source](http://superuser.com/questions/189947/how-reverse-selected-lines-order-in-vim#)
