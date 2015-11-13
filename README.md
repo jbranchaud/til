@@ -134,6 +134,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
 - [Types By Category](postgres/types-by-category.md)
+- [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)
 - [Using Intervals To Offset Time](postgres/using-intervals-to-offset-time.md)
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
