@@ -109,6 +109,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
+- [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Find The Data Directory](postgres/find-the-data-directory.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
