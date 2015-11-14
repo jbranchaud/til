@@ -298,6 +298,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Swapping Split Windows](vim/swapping-split-windows.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
+- [Unloading A Buffer](vim/unloading-a-buffer.md)
 - [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 - [Viewing Man Pages with man.vim](vim/viewing-man-pages-with-man-vim.md)
