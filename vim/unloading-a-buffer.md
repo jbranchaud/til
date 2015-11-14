@@ -20,9 +20,9 @@ To unload some other buffer by buffer number, say buffer 10:
 :10bd
 ```
 
-Caveat: unloading a buffer marks it as *unlisted* in the buffer list,
+Caveats: unloading a buffer marks it as *unlisted* in the buffer list,
 meaning it won't appear in your normal view of the buffer list. It should
-also be noted that it does not remove it from the jump list or the global
-mark list.
+also be noted that it does not remove the buffer from the jump list or the
+global mark list.
 
 See `:h :bd` for more details.
