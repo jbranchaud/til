@@ -31,6 +31,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
 - [Open JavaDocs](clojure/open-javadocs.md)
+- [Pretty Print The Last Thing](clojure/pretty-print-the-last-thing.md)
 - [Quick Clojure Docs](clojure/quick-clojure-docs.md)
 - [Reductions](clojure/reductions.md)
 - [Set Max Heap Size](clojure/set-max-heap-size.md)
