@@ -1,9 +1,5 @@
 # Try A Clojure Project In The REPL
 
-The `lein-try` plugin can be added to your lein profile as a way to quickly
-try out a clojure project. By feeding `lein try` a project name and version,
-it will drop you into a repl session with that project loaded
-
 The `lein-try` plugin is a tool that makes it easy to quickly try out a
 clojure project in the lein repl. Given the name and version of a clojure
 project, it will drop you into a repl with that project loaded in. This is a
