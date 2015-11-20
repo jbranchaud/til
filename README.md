@@ -31,6 +31,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Aggregation Using merge-with](clojure/aggregation-using-merge-with.md)
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
+- [Get The Value Of An Environment Variable](clojure/get-the-value-of-an-environment-variable.md)
 - [Open JavaDocs](clojure/open-javadocs.md)
 - [Pretty Print The Last Thing](clojure/pretty-print-the-last-thing.md)
 - [Quick Clojure Docs](clojure/quick-clojure-docs.md)
