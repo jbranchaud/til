@@ -286,6 +286,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Next Modified Buffer](vim/next-modified-buffer.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Opening a URL](vim/opening-a-url.md)
+- [Opening Man Pages In Vim](vim/opening-man-pages-in-vim.md)
 - [Preventing Typos with Abbreviations](vim/preventing-typos-with-abbreviations.md)
 - [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
