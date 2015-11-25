@@ -1,6 +1,6 @@
 # Opening Man Pages In Vim
 
-In [Quick Man Pages](vim/quick-man-pages.md), I explained how the
+In [Quick Man Pages](quick-man-pages.md), I explained how the
 `ft-man-plugin` allows you to quickly open man pages with `K`. For times
 when the particular command isn't in the buffer or the command contains a
 hyphen, you can instead use `:Man`. With the `ft-man-plugin` enabled, you
