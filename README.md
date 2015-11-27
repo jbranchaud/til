@@ -265,6 +265,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
 - [Deleting Directories Of Files From netrw](vim/deleting-directories-of-files-from-netrw.md)
+- [Display Word Count Stats](vim/display-word-count-stats.md)
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
 - [End Of The Word](vim/end-of-the-word.md)
 - [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
