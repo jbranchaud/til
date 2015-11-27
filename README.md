@@ -106,6 +106,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### postgres
 
+- [A Better Null Display Character](postgres/a-better-null-display-character.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
