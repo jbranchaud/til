@@ -29,6 +29,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### clojure
 
 - [Aggregation Using merge-with](clojure/aggregation-using-merge-with.md)
+- [Argument Requirements For A Function](clojure/argument-requirements-for-a-function.md)
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
 - [Get The Value Of An Environment Variable](clojure/get-the-value-of-an-environment-variable.md)
