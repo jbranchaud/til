@@ -6,7 +6,7 @@ lists are stored as metadata for the function. So, if you are trying to
 figure out what arity a function is or what variations of arguments it
 takes, you can check the metadata like so:
 
-```
+```clojure
 > (:arglists (meta #'str))
 ([] [x] [x & ys])
 ```
