@@ -1,6 +1,6 @@
 # Adding Composite Uniqueness Constraints
 
-There are two ways in Postgres to create a composite uniqueness constraint,
+There are two ways in Postgres to create a composite uniqueness constraint;
 that is, a constraint that ensures that the combination of two or more
 values on a table only appear once. For the following two code snippets,
 assume that we have a table relating Pokemon and Trainers and that our
