@@ -9,8 +9,8 @@ select("Charizard", from: "Pokemon")
 
 However, not all forms are going to have a label paired with every `select`
 input. We don't want to let our test coverage suffer, so we are going to
-need a different way to select. Capybara allows us to chain `select` off a
-`find` like so:
+need a different way to select. Fortunately, Capybara allows us to chain
+`select` off a `find` like so:
 
 ```ruby
 find('#pokemon_list').select('Charizard')
