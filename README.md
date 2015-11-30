@@ -164,6 +164,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Pretend Generations](rails/pretend-generations.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
+- [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 
