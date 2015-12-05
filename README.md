@@ -92,6 +92,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 ### javascript
 
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
+- [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 
