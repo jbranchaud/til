@@ -10,3 +10,5 @@ snake case, you can navigate over the variable and hit `crs` (e.g.
 Similarly, you can hit `crc` to change a variable to camel case.
 
 It even has support for mixed case (`crm`) and uppercase (`cru`).
+
+h/t Jake Worth
