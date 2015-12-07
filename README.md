@@ -263,6 +263,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
+- [Coercing Casing With vim-abolish](vim/coercing-casing-with-vim-abolish.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
