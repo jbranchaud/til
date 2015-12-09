@@ -14,7 +14,7 @@ ALTER TABLE
 ```
 
 Postgres warns us of identifiers longer than 63 characters, informing us of
-what it will be truncated to. It then proceeds to create the identifier.
+what they will be truncated to. It then proceeds to create the identifier.
 
 If postgres is trying to generate an identifier for us - say, for a foreign
 key constraint - and that identifier is longer than 63 characters, postgres
