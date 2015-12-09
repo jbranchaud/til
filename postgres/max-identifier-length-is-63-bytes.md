@@ -24,3 +24,5 @@ convention of terminating with, for example, `_fkey`.
 The 63 byte limit is not arbitrary. It comes from `NAMEDATALEN - 1`. By default
 `NAMEDATALEN` is 64. If need be, this value can be modified in the Postgres
 source. Yay, open-source database implementations.
+
+See [the postgres docs](http://www.postgresql.org/docs/current/static/sql-syntax-lexical.html#SQL-SYNTAX-IDENTIFIERS) for more details.
