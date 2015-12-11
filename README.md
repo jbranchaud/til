@@ -214,6 +214,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [Organizing Windows](tmux/organizing-windows.md)
+- [Paging Up And Down](tmux/paging-up-and-down.md)
 - [Pane Killer](tmux/pane-killer.md)
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
