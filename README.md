@@ -84,6 +84,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
+- [What Is The Current Branch](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
 
 ### go
