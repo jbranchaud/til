@@ -23,7 +23,7 @@ $ get reset HEAD@{1}
 
 Our lost commit is found.
 
-We cannot undo all the bad in the world. Any changes to tracked files will
-be irreparably lost.
+Unfortunately, we cannot undo all the bad in the world. Any changes to
+tracked files will be irreparably lost.
 
 [source](http://stackoverflow.com/questions/2510276/undoing-git-reset)
