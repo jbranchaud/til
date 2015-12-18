@@ -77,6 +77,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Renaming A Branch](git/renaming-a-branch.md)
+- [Resetting A Reset](git/resetting-a-reset.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
