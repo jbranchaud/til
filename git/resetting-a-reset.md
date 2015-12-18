@@ -18,7 +18,7 @@ We can see that `HEAD@{1}` references a time and place before we destroyed
 our last commit. Let's fix things by resetting to that.
 
 ```bash
-$ get reset HEAD@{1}
+$ git reset HEAD@{1}
 ```
 
 Our lost commit is found.
