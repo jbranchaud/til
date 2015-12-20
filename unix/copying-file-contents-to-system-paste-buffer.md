@@ -8,3 +8,5 @@ paste buffer.
 ```
 $ cat some-file.txt | pbcopy
 ```
+
+See `man pbcopy` for more details.
