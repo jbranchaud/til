@@ -232,6 +232,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
 - [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
 - [Clear The Screen](unix/clear-the-screen.md)
+- [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
