@@ -19,7 +19,7 @@ We can run the following substitution command:
 :%s/\d\+/\=submatch(0)+1/g
 ```
 
-This will transform all digits in the buffer resulting in:
+This will transform all digits in the buffer, resulting in:
 
 ```
 2 3 a b c 46 124 1983
