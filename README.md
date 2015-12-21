@@ -76,6 +76,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
+- [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
 - [Renaming A Branch](git/renaming-a-branch.md)
 - [Resetting A Reset](git/resetting-a-reset.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
