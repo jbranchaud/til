@@ -142,6 +142,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [Restart A Sequence](postgres/restart-a-sequence.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
+- [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
