@@ -74,6 +74,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Intent To Add](git/intent-to-add.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
+- [List Most Git Commands](git/list-most-git-commands.md)
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
