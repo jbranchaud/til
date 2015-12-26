@@ -20,6 +20,6 @@ The postfix operator is `!` and can be used like so:
       120
 ```
 
-See the [arithmetic function
-docs](http://stackoverflow.com/questions/7866353/git-list-all-available-commands)
+See the [mathematical functions and operators
+docs](http://www.postgresql.org/docs/8.1/static/functions-math.html)
 for more details.
