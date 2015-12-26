@@ -5,7 +5,7 @@ There is a prefix operator and a postfix operator. The prefix operator is
 `!!` and can be used like so:
 
 ```sql
-> select 5!;
+> select !!5;
  ?column?
 ----------
       120
@@ -14,7 +14,7 @@ There is a prefix operator and a postfix operator. The prefix operator is
 The postfix operator is `!` and can be used like so:
 
 ```sql
-> select !!5;
+> select 5!;
  ?column?
 ----------
       120
