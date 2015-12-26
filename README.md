@@ -153,6 +153,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Truncate All Rows](postgres/truncate-all-rows.md)
 - [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
 - [Turning Timing On](postgres/turning-timing-on.md)
+- [Two Ways To Compute Factorial](postgres/two-ways-to-compute-factorial.md)
 - [Types By Category](postgres/types-by-category.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)
