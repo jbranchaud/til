@@ -175,6 +175,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
+- [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Pretend Generations](rails/pretend-generations.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
