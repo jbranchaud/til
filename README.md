@@ -102,6 +102,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
+- [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 
 ### linux
