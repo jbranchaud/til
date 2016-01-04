@@ -331,6 +331,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Repeating Characters](vim/repeating-characters.md)
 - [Replace A Character](vim/replace-a-character.md)
 - [Reverse A Group Of Lines](vim/reverse-a-group-of-lines.md)
+- [Running Bundle With vim-bundler](vim/running-bundle-with-vim-bundler.md)
 - [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
 - [Searching For Hex Digits](vim/searching-for-hex-digits.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
