@@ -145,6 +145,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [List Database Users](postgres/list-database-users.md)
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [Restart A Sequence](postgres/restart-a-sequence.md)
+- [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Special Math Operators](postgres/special-math-operators.md)
