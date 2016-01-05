@@ -11,5 +11,5 @@ appending `restart identity` to the end of a `truncate` statement, Postgres
 will make sure to restart any associated sequences at `1`.
 
 ```
-truncate pokemon, trainers, pokemons_trainers restart identity;
+truncate pokemons, trainers, pokemons_trainers restart identity;
 ```
