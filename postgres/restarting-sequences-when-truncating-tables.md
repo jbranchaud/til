@@ -10,6 +10,6 @@ restart it manually or you can tell `truncate` to do it for you. By
 appending `restart identity` to the end of a `truncate` statement, Postgres
 will make sure to restart any associated sequences at `1`.
 
-```
+```sql
 truncate pokemons, trainers, pokemons_trainers restart identity;
 ```
