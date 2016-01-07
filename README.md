@@ -185,6 +185,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
+- [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 
 ### ruby
 
