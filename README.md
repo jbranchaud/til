@@ -140,6 +140,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Insert Just The Defaults](postgres/insert-just-the-defaults.md)
 - [Integers In Postgres](postgres/integers-in-postgres.md)
 - [Intervals Of Time By Week](postgres/intervals-of-time-by-week.md)
+- [Is It Null Or Not Null?](postgres/is-it-null-or-not-null.md)
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
