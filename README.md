@@ -150,6 +150,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
+- [Sleeping](postgres/sleeping.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
