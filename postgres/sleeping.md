@@ -30,3 +30,5 @@ Time: 0.260 ms
 ```
 
 As you'll notice, the `pg_sleep` statement took about 5 seconds.
+
+[source](http://www.if-not-true-then-false.com/2010/postgresql-sleep-function-pg_sleep-postgres-delay-execution/)
