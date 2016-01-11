@@ -189,6 +189,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
+- [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 
 ### ruby
 
