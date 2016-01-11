@@ -1,7 +1,7 @@
 # Show Rails Routes With Pry
 
-In [Show Rails Models With Pry](show-rails-models-with-pry), I showed that
-[`pry-rails`](https://github.com/rweng/pry-rails) comes with some handy
+In [Show Rails Models With Pry](show-rails-models-with-pry.md), I showed
+that [`pry-rails`](https://github.com/rweng/pry-rails) comes with some handy
 console commands. In addition to being able to list all your Rails models,
 you can list all the routes for your application using `show-routes`.
 
