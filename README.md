@@ -128,6 +128,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
+- [Creating Conditional Constraints](postgres/creating-conditional-constraints.md)
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
