@@ -21,3 +21,5 @@ This matters if the modification time is used by anything. For instance, a
 background process that monitors a directory for changed files based on
 modification times will get some false positives if you use `:wq` to
 liberally.
+
+[source](http://docstore.mik.ua/orelly/unix3/vi/ch05_03.htm)
