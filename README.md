@@ -197,6 +197,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
+- [Block Comments](ruby/block-comments.md)
 - [Colorful Output With MiniTest](ruby/colorful-output-with-minitest.md)
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
