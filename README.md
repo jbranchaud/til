@@ -49,6 +49,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### devops
 
+- [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Path Of The Packets](devops/path-of-the-packets.md)
