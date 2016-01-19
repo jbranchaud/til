@@ -291,6 +291,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Amend Commits With Fugitive](vim/amend-commits-with-fugitive.md)
 - [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
+- [Breaking The Undo Sequence](vim/breaking-the-undo-sequence.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
