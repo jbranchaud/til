@@ -22,6 +22,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [tmux](#tmux)
+- [unix](#unix)
 - [Vim](#vim)
 
 ---
