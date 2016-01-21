@@ -265,6 +265,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Newer Files](unix/find-newer-files.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
+- [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
