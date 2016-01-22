@@ -320,6 +320,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Grepping Through The Vim Help Files](vim/grepping-through-the-vim-help-files.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
+- [Highlighting Search Matches](vim/highlighting-search-matches.md)
 - [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
 - [Incremental Searching](vim/incremental-searching.md)
 - [Increment All The Numbers](vim/increment-all-the-numbers.md)
