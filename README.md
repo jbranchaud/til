@@ -338,6 +338,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Opening a URL](vim/opening-a-url.md)
 - [Opening Man Pages In Vim](vim/opening-man-pages-in-vim.md)
+- [Paste A Register From Insert Mode](vim/paste-a-register-from-insert-mode.md)
 - [Preventing Typos with Abbreviations](vim/preventing-typos-with-abbreviations.md)
 - [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
