@@ -11,19 +11,19 @@ smart people at [Hashrocket](http://hashrocket.com/).
 
 ### Categories
 
-- [Clojure](#clojure)
-- [Devops](#devops)
-- [Git](#git)
-- [Go](#go)
-- [JavaScript](#javascript)
-- [Linux](#linux)
-- [Mac](#mac)
-- [Postgres](#postgres)
-- [Rails](#rails)
-- [Ruby](#ruby)
-- [tmux](#tmux)
-- [unix](#unix)
-- [Vim](#vim)
+* [Clojure](#clojure)
+* [Devops](#devops)
+* [Git](#git)
+* [Go](#go)
+* [JavaScript](#javascript)
+* [Linux](#linux)
+* [Mac](#mac)
+* [Postgres](#postgres)
+* [Rails](#rails)
+* [Ruby](#ruby)
+* [tmux](#tmux)
+* [unix](#unix)
+* [Vim](#vim)
 
 ---
 
@@ -378,9 +378,9 @@ I shamelessly stole this idea from
 
 ## Other TIL Collections
 
-- [Today I Learned by Hashrocket](https://til.hashrocket.com)
-- [jwworth/til](https://github.com/jwworth/til)
-- [thoughtbot/til](https://github.com/thoughtbot/til)
+* [Today I Learned by Hashrocket](https://til.hashrocket.com)
+* [jwworth/til](https://github.com/jwworth/til)
+* [thoughtbot/til](https://github.com/thoughtbot/til)
 
 ## License
 
