@@ -231,6 +231,7 @@ _305 TILs and counting..._
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
 - [Rendering ERB](ruby/rendering-erb.md)
+- [Returning With Sequel](ruby/returning-with-sequel.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
