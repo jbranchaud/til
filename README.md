@@ -130,6 +130,7 @@ _305 TILs and counting..._
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
+- [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
