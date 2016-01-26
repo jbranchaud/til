@@ -250,6 +250,7 @@ _305 TILs and counting..._
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
+- [List Sessions](tmux/list-sessions.md)
 - [Organizing Windows](tmux/organizing-windows.md)
 - [Paging Up And Down](tmux/paging-up-and-down.md)
 - [Pane Killer](tmux/pane-killer.md)
