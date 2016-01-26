@@ -209,6 +209,7 @@ _305 TILs and counting..._
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
 - [Construct A Constant From A String](ruby/construct-a-constant-from-a-string.md)
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
+- [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
