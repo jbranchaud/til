@@ -139,6 +139,7 @@ _310 TILs and counting..._
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
+- [Escaping A Quote In A String](postgres/escaping-a-quote-in-a-string.md)
 - [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Find The Data Directory](postgres/find-the-data-directory.md)
