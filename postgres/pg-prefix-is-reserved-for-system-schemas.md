@@ -6,7 +6,7 @@ let you do that. It reserves the `pg_` prefix for system schemas. If you try
 to create a schema in this way, you'll get an *unacceptable schema name*
 error.
 
-```
+```sql
 > create schema pg_cannot_do_this;
 ERROR:  unacceptable schema name "pg_cannot_do_this"
 DETAIL:  The prefix "pg_" is reserved for system schemas.
