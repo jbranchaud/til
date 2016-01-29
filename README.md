@@ -238,6 +238,7 @@ _310 TILs and counting..._
 - [Returning With Sequel](ruby/returning-with-sequel.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
+- [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [Summing Collections](ruby/summing-collections.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
