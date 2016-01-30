@@ -19,4 +19,7 @@ function
          6
 ```
 
+The days of week are `0` through `6`, `0` being Sunday and `6` being
+Saturday.
+
 [source](http://www.postgresql.org/docs/current/static/functions-datetime.html)
