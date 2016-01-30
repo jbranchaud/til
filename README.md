@@ -198,6 +198,7 @@ _310 TILs and counting..._
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
+- [Set Schema Search Path](rails/set-schema-search-path.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
