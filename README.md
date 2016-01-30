@@ -136,6 +136,7 @@ _310 TILs and counting..._
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
 - [Creating Conditional Constraints](postgres/creating-conditional-constraints.md)
+- [Day Of Week For A Date](postgres/day-of-week-for-a-date.md)
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
