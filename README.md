@@ -132,6 +132,7 @@ _310 TILs and counting..._
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
+- [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
