@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_316 TILs and counting..._
+_317 TILs and counting..._
 
 ---
 
@@ -137,6 +137,7 @@ _316 TILs and counting..._
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
 - [Creating Conditional Constraints](postgres/creating-conditional-constraints.md)
+- [Day Of Week By Name For A Date](postgres/day-of-week-by-name-for-a-date.md)
 - [Day Of Week For A Date](postgres/day-of-week-for-a-date.md)
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
