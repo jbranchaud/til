@@ -1,6 +1,6 @@
 # Get The Size Of A Database
 
-If you have connect access to a database, you can use the
+If you have connect access to a PostgreSQL database, you can use the
 `pg_database_size()` function to get the size of a database in bytes.
 
 ```sql
