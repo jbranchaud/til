@@ -151,6 +151,7 @@ _319 TILs and counting..._
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
 - [Generate A UUID](postgres/generate-a-uuid.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
+- [Get The Size Of A Database](postgres/get-the-size-of-a-database.md)
 - [Getting A Slice Of An Array](postgres/getting-a-slice-of-an-array.md)
 - [Insert Just The Defaults](postgres/insert-just-the-defaults.md)
 - [Integers In Postgres](postgres/integers-in-postgres.md)
