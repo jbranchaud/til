@@ -75,6 +75,7 @@ _317 TILs and counting..._
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
+- [Find The Initial Commit](git/find-the-initial-commit.md)
 - [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
