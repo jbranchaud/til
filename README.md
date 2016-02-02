@@ -109,6 +109,7 @@ _318 TILs and counting..._
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
+- [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
 - [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
