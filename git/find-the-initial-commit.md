@@ -14,3 +14,5 @@ root commits. Generally, a repository will only have a single root commit,
 but it is possible for there to be more than one.
 
 See `man git-rev-list` for more details.
+
+[source](http://stackoverflow.com/questions/5188914/how-to-show-first-commit-by-git-log)
