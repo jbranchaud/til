@@ -1,8 +1,8 @@
 # Pretty Print Data Sizes
 
-Use the `pg_size_pretty()` function to pretty print the sizes of data. Given
-a `bigint`, it will determine the most human-readable format with which to
-print the value:
+Use the `pg_size_pretty()` function to pretty print the sizes of data in
+PostgreSQL. Given a `bigint`, it will determine the most human-readable
+format with which to print the value:
 
 ```sql
 > select pg_size_pretty(1234::bigint);
