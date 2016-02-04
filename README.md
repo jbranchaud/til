@@ -169,7 +169,7 @@ _323 TILs and counting..._
 - [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
-- [Set Seed For Random Number Generator](postgres/set-seed-for-random-number-generator.md)
+- [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
 - [Sleeping](postgres/sleeping.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)

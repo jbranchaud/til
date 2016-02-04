@@ -1,4 +1,4 @@
-# Set Seed For Random Number Generator
+# Set A Seed For The Random Number Generator
 
 In PostgreSQL, the internal seed for the random number generator is a
 run-time configuration parameter. This `seed` parameter can be set to a
