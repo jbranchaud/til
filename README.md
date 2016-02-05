@@ -230,6 +230,7 @@ _323 TILs and counting..._
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
+- [If You Detect None](ruby/if-you-detect-none.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
 - [Limit Split](ruby/limit-split.md)
