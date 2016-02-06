@@ -318,6 +318,7 @@ _325 TILs and counting..._
 - [The Black Hole Register](vim/the-black-hole-register.md)
 - [Breaking The Undo Sequence](vim/breaking-the-undo-sequence.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
+- [Build And Install A Go Program](vim/build-and-install-a-go-program.md)
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
 - [Center The Cursor](vim/center-the-cursor.md)
