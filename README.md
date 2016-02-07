@@ -80,6 +80,7 @@ _326 TILs and counting..._
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
 - [Intent To Add](git/intent-to-add.md)
+- [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
 - [List Most Git Commands](git/list-most-git-commands.md)
