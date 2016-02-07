@@ -20,7 +20,7 @@ _327 TILs and counting..._
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
-* [Postgres](#postgres)
+* [PostgreSQL](#postgresql)
 * [Rails](#rails)
 * [Ruby](#ruby)
 * [tmux](#tmux)
@@ -127,7 +127,7 @@ _327 TILs and counting..._
 
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 
-### Postgres
+### PostgreSQL
 
 - [A Better Null Display Character](postgres/a-better-null-display-character.md)
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
