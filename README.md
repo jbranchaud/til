@@ -24,12 +24,12 @@ _327 TILs and counting..._
 * [Rails](#rails)
 * [Ruby](#ruby)
 * [tmux](#tmux)
-* [unix](#unix)
+* [Unix](#unix)
 * [Vim](#vim)
 
 ---
 
-### clojure
+### Clojure
 
 - [Aggregation Using merge-with](clojure/aggregation-using-merge-with.md)
 - [Argument Requirements For A Function](clojure/argument-requirements-for-a-function.md)
@@ -50,7 +50,7 @@ _327 TILs and counting..._
 - [Type of Anything](clojure/type-of-anything.md)
 - [When Overflow Is Desired](clojure/when-overflow-is-desired.md)
 
-### devops
+### Devops
 
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
@@ -62,7 +62,7 @@ _327 TILs and counting..._
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
 
-### git
+### Git
 
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
 - [Amend Author Of Previous Commit](git/amend-author-of-previous-commit.md)
@@ -100,13 +100,13 @@ _327 TILs and counting..._
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
 
-### go
+### Go
 
 - [Not So Random](go/not-so-random.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
 
-### javascript
+### JavaScript
 
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
@@ -117,17 +117,17 @@ _327 TILs and counting..._
 - [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 
-### linux
+### Linux
 
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
-### mac
+### Mac
 
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 
-### postgres
+### Postgres
 
 - [A Better Null Display Character](postgres/a-better-null-display-character.md)
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
@@ -190,7 +190,7 @@ _327 TILs and counting..._
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
 
-### rails
+### Rails
 
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
@@ -213,7 +213,7 @@ _327 TILs and counting..._
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 
-### ruby
+### Ruby
 
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
@@ -275,7 +275,7 @@ _327 TILs and counting..._
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
 
-### unix
+### Unix
 
 - [All The Environment Variables](unix/all-the-environment-variables.md)
 - [Cat A File With Line Numbers](unix/cat-a-file-with-line-numbers.md)
@@ -307,7 +307,7 @@ _327 TILs and counting..._
 - [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
 - [Where Are The Binaries?](unix/where-are-the-binaries.md)
 
-### vim
+### Vim
 
 - [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
 - [Add A File Without Loading It](vim/add-a-file-without-loading-it.md)
