@@ -273,6 +273,7 @@ _327 TILs and counting..._
 - [Paging Up And Down](tmux/paging-up-and-down.md)
 - [Pane Killer](tmux/pane-killer.md)
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
+- [Rename The Current Session](tmux/rename-the-current-session.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
 
