@@ -1,8 +1,7 @@
 # Not So Random
 
 Go's `rand` package makes it easy to generate all sorts of random numbers.
-What they don't tell you though is that the default seed is `1`. So if you
-write a program like so:
+So if you write a program like so:
 
 ```go
 package main
@@ -27,8 +26,9 @@ and then run it, you will get output like:
 three
 ```
 
-and any subsequent runs of the program will continue to produce `three`. Not
-exactly what we are looking for.
+and any subsequent runs of the program will continue to produce `three`. This
+is because default seed for global functions in `math/rand` is 
+[specified](https://golang.org/pkg/math/rand/#Seed) as `1`.
 
 If you want your program to be a little less predictable, you will want to
 seed it yourself, perhaps with the current time, instead of `1`. Try adding
