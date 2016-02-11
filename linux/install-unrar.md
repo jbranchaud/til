@@ -7,9 +7,9 @@ Run these :
 ```bash
 $ sudo software-properties-gtk
 ```
-select the unchecked options from dialog and close the dialog.
+   select the unchecked options from dialog and close the dialog.
 
-OR you may use the add-apt-repository command. If your Ubuntu release is 'saucy':
+   OR you may use the add-apt-repository command. If your Ubuntu release is 'saucy':
 
 ```bash
 $ sudo add-apt-repository "deb http://us.archive.ubuntu.com/ubuntu/ saucy universe multiverse"
