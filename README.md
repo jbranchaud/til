@@ -66,6 +66,7 @@ _330 TILs and counting..._
 ### Elixir
 
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
+- [Replace Duplicates In A Keyword List](elixir/replace-duplicates-in-a-keyword-list.md)
 
 ### Git
 
