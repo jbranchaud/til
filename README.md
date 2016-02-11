@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_329 TILs and counting..._
+_330 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _329 TILs and counting..._
 
 * [Clojure](#clojure)
 * [Devops](#devops)
+* [Elixir](#elixir)
 * [Git](#git)
 * [Go](#go)
 * [JavaScript](#javascript)
@@ -61,6 +62,10 @@ _329 TILs and counting..._
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
+
+### Elixir
+
+- [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
 
 ### Git
 
