@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_328 TILs and counting..._
+_329 TILs and counting..._
 
 ---
 
@@ -163,6 +163,7 @@ _328 TILs and counting..._
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
+- [List Available Schemas](postgres/list-available-schemas.md)
 - [List Database Users](postgres/list-database-users.md)
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
