@@ -11,7 +11,7 @@ There is an alternative approach that also selects all rows from a table.
 It's essentially a shorthand -- the `table` command.
 
 ```sql
-table bedding_types;
+> table bedding_types;
    name
 ----------
  No Bed
