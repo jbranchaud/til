@@ -296,6 +296,7 @@ _333 TILs and counting..._
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
+- [Edit long command lines in an editor](edit-long-command-lines.md)
 - [Execute a command on multiple files](run-command-on-multiple-files.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Newer Files](unix/find-newer-files.md)
