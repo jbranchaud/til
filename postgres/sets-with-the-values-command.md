@@ -1,4 +1,4 @@
-# Sets With The Value Command
+# Sets With The Values Command
 
 You can concisely create sets of values in PostgreSQL using the `values`
 command.

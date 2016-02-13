@@ -180,7 +180,7 @@ _333 TILs and counting..._
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
-- [Sets With The Value Command](postgres/sets-with-the-value-command.md)
+- [Sets With The Values Command](postgres/sets-with-the-values-command.md)
 - [Sleeping](postgres/sleeping.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
