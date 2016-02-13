@@ -9,4 +9,15 @@ patterns. For instance, if you want to search for occurrences of `ruby` and
 $ grep -e ruby -e clojure README.md
 ```
 
+Alternately you can use the `egrep` command (equivalent to `grep -E`) to 
+use extended regular expressions and search for multiple terms as follows:
+
+```
+$ egrep "ruby|clojure" README.md 
+
+OR
+
+$ grep -E "ruby|clojure" README.md 
+```
+
 See `man grep` for more details.
