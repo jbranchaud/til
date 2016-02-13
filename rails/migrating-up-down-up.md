@@ -6,7 +6,7 @@ should happen when migrating *up* and what should happen when migrating
 can be accomplished using the following one-liner:
 
 ```bash
-$ rake db:migration && rake db:migration:redo
+$ rake db:migrate && rake db:migrate:redo
 ```
 
 The `rake db:migration` does what we would expect applying our new migration
