@@ -28,4 +28,10 @@ keyword:
 copy (select * from pokemons) to '/tmp/pokemon_dump.csv' csv header;
 ```
 
+If your user has limited access, you can use the \copy command like so:
+
+```sql
+\copy (select * from pokemons) to '/tmp/pokemon_dump.csv' with csv header;
+```
+
 [source](http://stackoverflow.com/questions/1120109/export-postgres-table-to-csv-file-with-headings)
