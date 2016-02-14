@@ -13,7 +13,7 @@ Would remove tmp.txt
 Would remove stuff/
 ```
 
-Similarly, if you want check which files a commit is going to incorporated,
+Similarly, if you want to check in which files a commit is going to be incorporated,
 you can:
 
 ```
