@@ -1,12 +1,7 @@
 # Not So Random
 
-Go's `rand` package makes it easy to generate all sorts of pseudo-random numbers.
-
-What they don't tell you though is that the default seed is `1`. They [do
-tell you that the numbers are pseudo-random and that you need to use the
-`Seed` function to initialize the default source if different behavior is
-required for each run](https://golang.org/pkg/math/rand/), though. So if you
-write a program like so:
+Go's `rand` package makes it easy to generate all sorts of pseudo-random
+numbers. So if you write a program like so:
 
 ```go
 package main
@@ -31,8 +26,9 @@ and then run it, you will get output like:
 three
 ```
 
-and any subsequent runs of the program will continue to produce `three`. Not
-exactly what we are looking for.
+and any subsequent runs of the program will continue to produce `three`. This
+is because the default seed for global functions in `math/rand` is 
+[specified](https://golang.org/pkg/math/rand/#Seed) as `1`.
 
 If you want your program to be a little less predictable, you will want to
 seed it yourself, perhaps with the current time, instead of `1`. Try adding
