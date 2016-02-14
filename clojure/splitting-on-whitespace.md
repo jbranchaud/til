@@ -20,7 +20,7 @@ what you want:
 A quick fix might look like this:
 
 ```clojure
-(clojure.string/split "double  spacing  wtf?" #"[ ]+")
+(clojure.string/split "double  spacing  wtf?" #" +")
 ; ["double" "spacing" "wtf?"]
 ```
 
@@ -29,6 +29,6 @@ tabs and new lines. Assuming we want to split on all whitespace, we should
 tell our regular expression to do just that:
 
 ```clojure
-(clojure.string/split "we\thave new\nlines and  tabs\n" #"[\s]+")
+(clojure.string/split "we\thave new\nlines and  tabs\n" #"\s+")
 ; ["we" "have" "new" "lines" "and" "tabs"]
 ```
