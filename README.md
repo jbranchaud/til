@@ -133,6 +133,7 @@ _335 TILs and counting..._
 ### Mac
 
 - [Default Screenshot Location](mac/default-screenshot-location.md)
+- [Case Insensitive using Terminal](mac/case-insentitive-terminal.md)
 
 ### PostgreSQL
 
