@@ -134,6 +134,7 @@ _336 TILs and counting..._
 
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Default Screenshot Location](mac/default-screenshot-location.md)
+- [List All The Say Voices](mac/list-all-the-say-voices.md)
 
 ### PostgreSQL
 
@@ -306,7 +307,6 @@ _336 TILs and counting..._
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
-- [List All The Say Voices](unix/list-all-the-say-voices.md)
 - [List All Users](unix/list-all-users.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
