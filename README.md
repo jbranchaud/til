@@ -374,6 +374,7 @@ _336 TILs and counting..._
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Next Modified Buffer](vim/next-modified-buffer.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
+- [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
 - [Opening a URL](vim/opening-a-url.md)
 - [Opening Man Pages In Vim](vim/opening-man-pages-in-vim.md)
 - [Paste A Register From Insert Mode](vim/paste-a-register-from-insert-mode.md)
