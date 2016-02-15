@@ -390,7 +390,7 @@ _336 TILs and counting..._
 - [Replace A Character](vim/replace-a-character.md)
 - [Reverse A Group Of Lines](vim/reverse-a-group-of-lines.md)
 - [Running Bundle With vim-bundler](vim/running-bundle-with-vim-bundler.md)
-- [Scrolling Relative to the Window](vim/scrolling-relative-to-the-window.md)
+- [Scrolling Relative to the Cursor](vim/scrolling-relative-to-the-cursor.md)
 - [Searching For Hex Digits](vim/searching-for-hex-digits.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
