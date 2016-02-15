@@ -33,3 +33,13 @@ To generalize this, we can replace `10` with `N` and then just expect that
 ```
 
 [Source](http://stackoverflow.com/a/20066663/535590) 
+
+## ES2015
+
+```JavaScript
+> const N = 10;
+=> undefined
+[...new Array(N)].map((item, i) => i + 1);
+=> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+
