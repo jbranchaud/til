@@ -132,6 +132,7 @@ _335 TILs and counting..._
 
 ### Mac
 
+- [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 
 ### PostgreSQL
