@@ -242,6 +242,7 @@ _336 TILs and counting..._
 - [Editing Code In Pry](ruby/editing-code-in-pry.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
+- [Fail](ruby/fail.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
 - [If You Detect None](ruby/if-you-detect-none.md)
