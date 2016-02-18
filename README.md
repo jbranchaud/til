@@ -96,6 +96,7 @@ _338 TILs and counting..._
 - [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
 - [Renaming A Branch](git/renaming-a-branch.md)
 - [Resetting A Reset](git/resetting-a-reset.md)
+- [Show The diffstat Summary Of A Commit](git/show-the-diffstat-summary-of-a-commit.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
