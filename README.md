@@ -175,6 +175,7 @@ _340 TILs and counting..._
 - [List All Rows In A Table](postgres/list-all-rows-in-a-table.md)
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
 - [List Available Schemas](postgres/list-available-schemas.md)
+- [List Connections To A Database](postgres/list-connections-to-a-database.md)
 - [List Database Users](postgres/list-database-users.md)
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
