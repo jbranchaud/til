@@ -350,6 +350,7 @@ _341 TILs and counting..._
 - [Creating Non-Existent Directories](vim/creating-non-existent-directories.md)
 - [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
+- [Deleting Buffers In BufExplorer](vim/deleting-buffers-in-bufexplorer.md)
 - [Deleting Directories Of Files From netrw](vim/deleting-directories-of-files-from-netrw.md)
 - [Difference Between :wq and :x](vim/difference-between-wq-and-x.md)
 - [Display Word Count Stats](vim/display-word-count-stats.md)
