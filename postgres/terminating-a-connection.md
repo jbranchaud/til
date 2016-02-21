@@ -12,7 +12,7 @@ DETAIL:  There is 1 other session using the database.
 If you don't know where these connections are, you can terminate them within
 a `psql` session. You just have to figure out the `pid` of those
 connections. In [List Connections To A
-Database](postgres/list-connections-to-a-database.md), I explained how to
+Database](list-connections-to-a-database.md), I explained how to
 get at the `pid` values of connections. Using the `pid` value, you can
 terminate a connection.
 
