@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_342 TILs and counting..._
+_343 TILs and counting..._
 
 ---
 
@@ -191,6 +191,7 @@ _342 TILs and counting..._
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
 - [Temporary Tables](postgres/temporary-tables.md)
+- [Terminating A Connection](postgres/terminating-a-connection.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Truncate All Rows](postgres/truncate-all-rows.md)
