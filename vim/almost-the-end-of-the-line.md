@@ -9,7 +9,7 @@ v$
 
 This isn't always ideal though because the visual selection includes the
 newline character at the end of the line. If instead you'd like to motion to
-the last non-blank character on the line you can use the `_g` motion. This
+the last non-blank character on the line you can use the `g_` motion. This
 is great for deleting to the end of the line.
 
 ```
