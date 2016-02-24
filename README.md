@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_344 TILs and counting..._
+_345 TILs and counting..._
 
 ---
 
@@ -129,6 +129,7 @@ _344 TILs and counting..._
 
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
+- [List The Statuses Of All Upstart Jobs](linux/list-the-status-of-all-upstart-jobs.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
 ### Mac
