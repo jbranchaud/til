@@ -129,7 +129,7 @@ _345 TILs and counting..._
 
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
-- [List The Statuses Of All Upstart Jobs](linux/list-the-status-of-all-upstart-jobs.md)
+- [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
 ### Mac
