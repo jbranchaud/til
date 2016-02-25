@@ -284,6 +284,7 @@ _345 TILs and counting..._
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
+- [Kill Other Connections To A Session](tmux/kill-other-connections-to-a-session.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [List Sessions](tmux/list-sessions.md)
 - [Open New Window With A Specific Directory](tmux/open-new-window-with-a-specific-directory.md)
