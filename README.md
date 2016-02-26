@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_347 TILs and counting..._
+_348 TILs and counting..._
 
 ---
 
@@ -345,6 +345,7 @@ _347 TILs and counting..._
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
 - [Center The Cursor](vim/center-the-cursor.md)
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
+- [Close All Other Windows](vim/close-all-other-windows.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
 - [Coercing Casing With vim-abolish](vim/coercing-casing-with-vim-abolish.md)
