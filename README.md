@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_346 TILs and counting..._
+_347 TILs and counting..._
 
 ---
 
@@ -354,6 +354,7 @@ _346 TILs and counting..._
 - [Creating Non-Existent Directories](vim/creating-non-existent-directories.md)
 - [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
+- [Delete To The End Of The Line](vim/delete-to-the-end-of-the-line.md)
 - [Deleting Buffers In BufExplorer](vim/deleting-buffers-in-bufexplorer.md)
 - [Deleting Directories Of Files From netrw](vim/deleting-directories-of-files-from-netrw.md)
 - [Difference Between :wq and :x](vim/difference-between-wq-and-x.md)
