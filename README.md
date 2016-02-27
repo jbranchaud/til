@@ -372,6 +372,7 @@ _348 TILs and counting..._
 - [Horizontal to Vertical and Back Again](vim/horizontal-to-vertical-and-back-again.md)
 - [Incremental Searching](vim/incremental-searching.md)
 - [Increment All The Numbers](vim/increment-all-the-numbers.md)
+- [Interact With The Alternate File](vim/interact-with-the-alternate-file.md)
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [Joining Lines Together](vim/joining-lines-together.md)
 - [Jump To Matching Pair](vim/jump-to-matching-pair.md)
