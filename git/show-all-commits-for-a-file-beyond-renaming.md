@@ -16,7 +16,7 @@ README.md
 README.md
 ```
 
-What we may not realize though, is that we are missing out on a commit in
+What we may not realize, though, is that we are missing out on a commit in
 this file's history. At one point, this file was renamed. The command above
 wasn't able to capture that.
 
