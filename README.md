@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_350 TILs and counting..._
+_351 TILs and counting..._
 
 ---
 
@@ -315,6 +315,7 @@ _350 TILs and counting..._
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
+- [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
 - [List All Users](unix/list-all-users.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
