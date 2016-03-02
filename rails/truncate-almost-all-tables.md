@@ -14,6 +14,6 @@ For instance, if we have a standard set of roles for users of our
 application, we can except that table from truncation with a line like the
 following in our `rails_helper.rb` file:
 
-```
+```ruby
 DatabaseCleaner.strategy = :truncation, {:except => %w[roles]}
 ```
