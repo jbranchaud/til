@@ -229,6 +229,7 @@ _351 TILs and counting..._
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
+- [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 
 ### Ruby
 
