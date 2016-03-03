@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_352 TILs and counting..._
+_353 TILs and counting..._
 
 ---
 
@@ -287,6 +287,7 @@ _352 TILs and counting..._
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
 - [Kill Other Connections To A Session](tmux/kill-other-connections-to-a-session.md)
+- [Kill The Current Session](tmux/kill-the-current-session.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [List Sessions](tmux/list-sessions.md)
 - [Open New Window With A Specific Directory](tmux/open-new-window-with-a-specific-directory.md)
