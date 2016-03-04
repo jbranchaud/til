@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_354 TILs and counting..._
+_355 TILs and counting..._
 
 ---
 
@@ -184,6 +184,7 @@ _354 TILs and counting..._
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
 - [Restart A Sequence](postgres/restart-a-sequence.md)
 - [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
+- [Salt And Hash A Password With pgcrypto](postgres/salt-and-hash-a-password-with-pgcrypto.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
