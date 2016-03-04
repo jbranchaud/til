@@ -3,7 +3,7 @@
 The
 [`rescue_from`](http://api.rubyonrails.org/classes/ActiveSupport/Rescuable/ClassMethods.html)
 method, provided by `ActiveSupport`, is a handy way to provide a catch-all
-response to a particular exception.
+response to a particular exception in Rails controllers.
 
 For instance, if many of the controllers in your application raise a
 `User::NotAuthorized` error for unauthorized requests, the
