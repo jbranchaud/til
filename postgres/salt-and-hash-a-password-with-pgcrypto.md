@@ -9,7 +9,7 @@ user password and later compare it to plain-text passwords for
 authentication purposes.
 
 ```sql
-create extensions pgcrypto;
+create extension pgcrypto;
 
 select crypt('pa$$w0rd', gen_salt('bf'));
                             crypt
