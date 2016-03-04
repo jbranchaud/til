@@ -6,16 +6,25 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-> _4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [Vim](#vim)
+* [Elixir](#elixir)
 * [Shell](#shell)
+* [Vim](#vim)
 
 ---
+
+## Elixir
+
+- [Pattern Matching](elixir/pattern_matching.md)
+
+## Shell
+
+- [Quickly switch to branch with fzf](shell/quick_git_branch_switcher_with_fzf.md)
 
 ### Vim
 
@@ -23,9 +32,6 @@ warrant a full blog post.
 - [Search word under cursor with Ag](vim/search_word_under_cursor.md)
 - [Vim relative line toggle](vim/relative_line_numbers_toggle.md)
 
-## Shell
-
-- [Quickly switch to branch with fzf](shell/quick_git_branch_switcher_with_fzf.md)
 
 
 ### Thanks
