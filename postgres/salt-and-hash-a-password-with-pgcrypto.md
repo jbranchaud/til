@@ -39,6 +39,9 @@ select crypt('pa$$w0rd', gen_salt('bf'));
  f
 ```
 
+The salt value is generated using the blowfish encryption algorithm (hence,
+the `'bf'`). There is support for other algorithms such as `md5`.
+
 See the
 [`pgcrypt` documentation](http://www.postgresql.org/docs/current/static/pgcrypto.html) for
 more details.
