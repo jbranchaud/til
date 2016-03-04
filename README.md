@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-> _3 TILs and counting..._
+> _4 TILs and counting..._
 
 ---
 
@@ -21,10 +21,11 @@ warrant a full blog post.
 
 - [Switch to spec file with rails.vim](vim/switch_to_spec_file_with_railsvim.md)
 - [Search word under cursor with Ag](vim/search_word_under_cursor.md)
+- [Vim relative line toggle](vim/relative_line_numbers_toggle.md)
 
 ## Shell
 
-- [Quickly swith to branch with fzf](shell/quick_git_branch_switcher_with_fzf.md)
+- [Quickly switch to branch with fzf](shell/quick_git_branch_switcher_with_fzf.md)
 
 
 ### Thanks
