@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_355 TILs and counting..._
+_356 TILs and counting..._
 
 ---
 
@@ -310,6 +310,7 @@ _355 TILs and counting..._
 - [Clear The Screen](unix/clear-the-screen.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
+- [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Newer Files](unix/find-newer-files.md)
