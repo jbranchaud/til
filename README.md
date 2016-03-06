@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_356 TILs and counting..._
+_357 TILs and counting..._
 
 ---
 
@@ -175,6 +175,7 @@ _356 TILs and counting..._
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [List All Rows In A Table](postgres/list-all-rows-in-a-table.md)
+- [List All The Databases](postgres/list-all-the-databases.md)
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
 - [List Available Schemas](postgres/list-available-schemas.md)
 - [List Connections To A Database](postgres/list-connections-to-a-database.md)
