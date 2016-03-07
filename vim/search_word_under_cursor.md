@@ -8,7 +8,7 @@ in my vimrc.
 nnoremap <leader>K :exe 'Ag' expand('<cword>')<cr>
 
 " Search with Ag word under cursor file under app
-nnoremap <leader>k :exe 'Ag' expand('<cword>') app/<cr>
+nnoremap <leader>k :exe 'Ag' expand('<cword>') 'app'<cr>
 ```
 
 It works perfectly.
