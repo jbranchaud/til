@@ -6,7 +6,7 @@ Sometimes what you really want is that tag definition opened up in a
 (horizontal) split window. That way you can see the definition without
 losing context. This can be accomplished with `ctrl-w ]`.
 
-As the Vim help file states:
+The Vim help file gives the following definition of this command:
 
 > Use identifier under cursor as a tag and jump to it in the new upper window.
 
