@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_357 TILs and counting..._
+_358 TILs and counting..._
 
 ---
 
@@ -393,6 +393,7 @@ _357 TILs and counting..._
 - [Navigating By Blank Lines](vim/navigating-by-blank-lines.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Next Modified Buffer](vim/next-modified-buffer.md)
+- [Open A Tag In A Split Window](vim/open-a-tag-in-a-split-window.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
 - [Opening a URL](vim/opening-a-url.md)
