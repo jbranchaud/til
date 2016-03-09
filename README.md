@@ -219,6 +219,7 @@ _358 TILs and counting..._
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
+- [Custom Validation Message](rails/custom-validation-message.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
