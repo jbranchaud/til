@@ -22,3 +22,6 @@ list
 ```
 
 It only took a couple lines of code and immutability is baked in.
+
+There may be a couple edge cases that are not handled in this solution, but
+you get the general idea.
