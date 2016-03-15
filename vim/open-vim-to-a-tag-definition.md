@@ -7,7 +7,7 @@ if you have a Rails project going and you provide Vim with the
 `UsersController` tag name, it will open the
 `app/controllers/users_controller.rb`. Just use the `-t` flag like so:
 
-```
+```bash
 $ vim -t UsersController
 ```
 
