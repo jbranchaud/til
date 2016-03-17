@@ -12,8 +12,8 @@ console like so:
 // "en-US"
 ```
 
-If there is `jQuery` on the page and I've selected the node that contains
-all of the page's content, I can do something like the following:
+If there is `jQuery` on the page and you've selected the node that contains
+all of the page's content, you can do something like the following:
 
 ```
 > $($0).html('<h1>Hello, World!</h1>')
