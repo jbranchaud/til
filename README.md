@@ -7,12 +7,13 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_365 TILs and counting..._
+_366 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Chrome](#chrome)
 * [Clojure](#clojure)
 * [Devops](#devops)
 * [Elixir](#elixir)
@@ -29,6 +30,10 @@ _365 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+### Chrome
+
+- [Reference The Selected Node](chrome/reference-the-selected-node.md)
 
 ### Clojure
 
