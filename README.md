@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_368 TILs and counting..._
+_369 TILs and counting..._
 
 ---
 
@@ -446,6 +446,7 @@ _368 TILs and counting..._
 
 ## Webpack
 
+- [Run ESLint As A Preloader](webpack/run-eslint-as-a-preloader.md)
 - [Use A Specific Config File](webpack/use-a-specific-config-file.md)
 
 ## Usage
