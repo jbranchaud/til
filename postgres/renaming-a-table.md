@@ -4,7 +4,7 @@ Using the `alter table` command in PostgreSQL, you can rename an existing
 table. This command will also update any references to the table such as via
 foreign key constraints. Just run a command like the following:
 
-```
+```sql
 alter table ingredient_types rename to item_types;
 ```
 
