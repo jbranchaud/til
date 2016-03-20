@@ -193,6 +193,7 @@ _369 TILs and counting..._
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
+- [Renaming A Table](postgres/renaming-a-table.md)
 - [Restart A Sequence](postgres/restart-a-sequence.md)
 - [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
 - [Salt And Hash A Password With pgcrypto](postgres/salt-and-hash-a-password-with-pgcrypto.md)
