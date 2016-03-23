@@ -26,3 +26,5 @@ argTest(1, 'two', true);
 See the [Arguments object
 docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 on MDN for more details.
+
+h/t Dorian Karter
