@@ -1,6 +1,6 @@
 # Accessing Arguments To A Function
 
-The `arguements` object is available within any JavaScript function. It is
+The `arguments` object is available within any JavaScript function. It is
 an array-like object with all of the arguments to the function. Even if not
 all of the arguments are referenced in the function signature, they can
 still be accessed via the `arguments` object.
