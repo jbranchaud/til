@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_371 TILs and counting..._
+_372 TILs and counting..._
 
 ---
 
@@ -124,6 +124,7 @@ _371 TILs and counting..._
 
 ### JavaScript
 
+- [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
