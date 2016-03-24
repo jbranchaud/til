@@ -10,7 +10,7 @@ Your friends will be even more impressed when you use some of the alternate
 voices.
 
 ```bash
-$ say -v Daniel Would you like a cup of tea?
+$ say -v Daniel "Would you like a cup of tea?"
 ```
 
 To see all the alternate voices available, type the following
