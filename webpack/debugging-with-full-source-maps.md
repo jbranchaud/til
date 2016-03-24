@@ -7,7 +7,10 @@ Fortunately, Webpack makes it easy to enhance debugging with full source
 maps of your code. Just add the following option to your Webpack config:
 
 ```javascript
-devtool: source-map
+{
+  devtool: "source-map",
+  ...
+}
 ```
 
 This will generate a full source map with a filename that is something like
