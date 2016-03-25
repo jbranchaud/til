@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_373 TILs and counting..._
+_374 TILs and counting..._
 
 ---
 
@@ -130,6 +130,7 @@ _373 TILs and counting..._
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
+- [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
