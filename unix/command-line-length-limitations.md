@@ -1,6 +1,6 @@
 # Command Line Length Limitations
 
-The other day I tried to run a remove command on the contents of a directory
+The other day I tried to run a `rm` command on the contents of a directory
 with a **LOT** of files.
 
 ```
