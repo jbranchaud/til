@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_375 TILs and counting..._
+_376 TILs and counting..._
 
 ---
 
@@ -195,6 +195,7 @@ _375 TILs and counting..._
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
+- [Renaming A Sequence](postgres/renaming-a-sequence.md)
 - [Renaming A Table](postgres/renaming-a-table.md)
 - [Restart A Sequence](postgres/restart-a-sequence.md)
 - [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
