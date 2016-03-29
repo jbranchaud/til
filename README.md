@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_377 TILs and counting..._
+_378 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _377 TILs and counting..._
 
 * [Chrome](#chrome)
 * [Clojure](#clojure)
+* [CSS](#css)
 * [Devops](#devops)
 * [Elixir](#elixir)
 * [Git](#git)
@@ -57,6 +58,10 @@ _377 TILs and counting..._
 - [Try A Clojure Project In The REPL](clojure/try-a-clojure-project-in-the-repl.md)
 - [Type of Anything](clojure/type-of-anything.md)
 - [When Overflow Is Desired](clojure/when-overflow-is-desired.md)
+
+### CSS
+
+- [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
 
 ### Devops
 
