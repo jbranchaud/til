@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_378 TILs and counting..._
+_379 TILs and counting..._
 
 ---
 
@@ -163,6 +163,7 @@ _378 TILs and counting..._
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
+- [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
 - [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
