@@ -138,6 +138,7 @@ _379 TILs and counting..._
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
+- [Running ES6 Specs With Mocha](javascript/running-es6-specs-with-mocha.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
 - [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
