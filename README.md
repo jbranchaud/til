@@ -296,6 +296,7 @@ _381 TILs and counting..._
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
 - [Rendering ERB](ruby/rendering-erb.md)
 - [Returning With Sequel](ruby/returning-with-sequel.md)
+- [Running A Single MiniTest Example](ruby/running-a-single-minitest-example.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
