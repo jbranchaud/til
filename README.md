@@ -340,6 +340,7 @@ _380 TILs and counting..._
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Newer Files](unix/find-newer-files.md)
+- [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
 - [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
