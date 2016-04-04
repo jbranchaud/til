@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_382 TILs and counting..._
+_383 TILs and counting..._
 
 ---
 
@@ -414,6 +414,7 @@ _382 TILs and counting..._
 - [Jump To The Next Misspelling](vim/jump-to-the-next-misspelling.md)
 - [List All Buffers](vim/list-all-buffers.md)
 - [List Of Plugins](vim/list-of-plugins.md)
+- [Load A Directory Of Files Into The Buffer List](vim/load-a-directory-of-files-into-the-buffer-list.md)
 - [Match The Beginning And End Of Words](vim/match-the-beginning-and-end-of-words.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
