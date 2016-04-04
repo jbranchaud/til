@@ -3,7 +3,7 @@
 GitHub restricts the set of unicode characters that can appear in the
 description field of a repository to anything up to `0xffff`. Most emoji
 have unicode values above this. This means you will have limited success
-adding emoji via your system's.
+adding emoji via your system's emoji keyboard.
 
 Fortunately, GitHub allows you to add any recognized emoji to a repository
 description with its specialized emoji syntax (e.g. `:memo:`). You may have
