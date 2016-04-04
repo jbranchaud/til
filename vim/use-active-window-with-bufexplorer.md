@@ -16,3 +16,5 @@ itself in whatever split window was created for itself.
 This setting can be toggled within the BufExplorer window by hitting `f`. It
 will toggle between `Locate Buffer` and `Don't Locate Buffer`. I prefer the
 default of `Locate Buffer`.
+
+h/t Vidal Ekechukwu
