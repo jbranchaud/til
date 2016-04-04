@@ -16,3 +16,6 @@ If you add an emoji like this:
 it will show up like so:
 
 ![](http://i.imgur.com/yxRwmkW.png)
+
+Check out this [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) for
+the names of all recognized emojis.
