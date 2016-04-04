@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_384 TILs and counting..._
+_385 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _384 TILs and counting..._
 * [Elixir](#elixir)
 * [Git](#git)
 * [Go](#go)
+* [Internet](#internet)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -126,6 +127,10 @@ _384 TILs and counting..._
 - [Not So Random](go/not-so-random.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
+
+### Internet
+
+- [Add Emoji To GitHub Repository Description](internet/add-emoji-to-github-repository-description.md)
 
 ### JavaScript
 
