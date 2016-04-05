@@ -17,7 +17,7 @@ The first is simply too long and the second is both ugly and brittle to
 changes in file location. This can all be _resolved_ with a
 [Webpack](https://webpack.github.io/) alias.
 
-```
+```javascript
 // webpack.config.js
 resolve: {
   alias: {
