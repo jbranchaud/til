@@ -23,3 +23,7 @@ console.time('adding'); 1 + 1; console.timeEnd('adding');
 ```
 
 These functions are implemented in most modern browsers.
+
+See [the
+docs](https://developer.mozilla.org/en-US/docs/Web/API/Console/time) for
+more details.
