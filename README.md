@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_387 TILs and counting..._
+_388 TILs and counting..._
 
 ---
 
@@ -459,6 +459,7 @@ _387 TILs and counting..._
 - [Swapping Split Windows](vim/swapping-split-windows.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
+- [Toggling Syntax Highlighting](vim/toggling-syntax-highlighting.md)
 - [Unloading A Buffer](vim/unloading-a-buffer.md)
 - [Use Active Window With BufExplorer](vim/use-active-window-with-bufexplorer.md)
 - [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
