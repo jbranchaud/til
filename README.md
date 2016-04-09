@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_388 TILs and counting..._
+_389 TILs and counting..._
 
 ---
 
@@ -453,6 +453,7 @@ _388 TILs and counting..._
 - [Searching For Hex Digits](vim/searching-for-hex-digits.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
+- [Show All Syntax Highlighting Rules](vim/show-all-syntax-highlighting-rules.md)
 - [Split Different](vim/split-different.md)
 - [Splitting For New Files](vim/splitting-for-new-files.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
