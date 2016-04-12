@@ -6,13 +6,15 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Elixir](#elixir)
+* [Git](#Git)
+* [Rails](#Rails)
 * [Shell](#shell)
 * [Vim](#vim)
 
@@ -21,6 +23,14 @@ _12 TILs and counting..._
 ## Elixir
 
 - [Pattern Matching](elixir/pattern_matching.md)
+
+## Git
+
+- [Git add --patch not indexed files](git/git_add_patch_not_indexed_files.md)
+
+## Rails
+
+- [Display url helpers in console](rails/display_url_helpers.md)
 
 ## Shell
 
