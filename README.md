@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_391 TILs and counting..._
+_392 TILs and counting..._
 
 ---
 
@@ -43,6 +43,7 @@ _391 TILs and counting..._
 
 - [Aggregation Using merge-with](clojure/aggregation-using-merge-with.md)
 - [Argument Requirements For A Function](clojure/argument-requirements-for-a-function.md)
+- [Combinations Of Items From A Sequence](clojure/combinations-of-items-from-a-sequence.md)
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
 - [Get The Value Of An Environment Variable](clojure/get-the-value-of-an-environment-variable.md)
