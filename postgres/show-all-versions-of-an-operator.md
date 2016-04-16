@@ -8,7 +8,7 @@ containment operator can be used.
 We can quickly find out the answer with the `\do` command in `psql`:
 
 ```sql
-\do @>
+> \do @>
                                List of operators
    Schema   | Name | Left arg type | Right arg type | Result type | Description
 ------------+------+---------------+----------------+-------------+-------------
