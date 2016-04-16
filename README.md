@@ -218,6 +218,7 @@ _392 TILs and counting..._
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
 - [Sets With The Values Command](postgres/sets-with-the-values-command.md)
+- [Show All Versions Of An Operator](postgres/show-all-versions-of-an-operator.md)
 - [Sleeping](postgres/sleeping.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [Storing Emails With citext](postgres/storing-emails-with-citext.md)
