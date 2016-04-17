@@ -207,6 +207,7 @@ _394 TILs and counting..._
 - [List Available Schemas](postgres/list-available-schemas.md)
 - [List Connections To A Database](postgres/list-connections-to-a-database.md)
 - [List Database Users](postgres/list-database-users.md)
+- [List Various Kinds Of Objects](postgres/list-various-kinds-of-objects.md)
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
