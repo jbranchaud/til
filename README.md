@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_395 TILs and counting..._
+_396 TILs and counting..._
 
 ---
 
@@ -362,6 +362,7 @@ _395 TILs and counting..._
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
 - [List All Users](unix/list-all-users.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
+- [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search History](unix/search-history.md)
