@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_396 TILs and counting..._
+_397 TILs and counting..._
 
 ---
 
@@ -237,6 +237,7 @@ _396 TILs and counting..._
 - [Types By Category](postgres/types-by-category.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)
+- [Using Expressions In Indexes](postgres/using-expressions-in-indexes.md)
 - [Using Intervals To Offset Time](postgres/using-intervals-to-offset-time.md)
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
