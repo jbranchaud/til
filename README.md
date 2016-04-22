@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_399 TILs and counting..._
+_400 TILs and counting..._
 
 ---
 
@@ -167,6 +167,7 @@ _399 TILs and counting..._
 ### PostgreSQL
 
 - [A Better Null Display Character](postgres/a-better-null-display-character.md)
+- [Add ON DELETE CASCADE To Foreign Key Constraint](postgres/add-on-delete-cascade-to-foreign-key-constraint.md)
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
