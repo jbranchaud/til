@@ -15,10 +15,10 @@ Here is an example:
 ```sql
 begin;
 
-alter table
+alter table orders
 drop constraint orders_customer_id_fkey;
 
-alter table
+alter table orders
 add constraint orders_customer_id_fkey
 foreign key (customer_id)
 references customers (id)
