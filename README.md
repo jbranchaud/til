@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_402 TILs and counting..._
+_403 TILs and counting..._
 
 ---
 
@@ -211,6 +211,7 @@ _402 TILs and counting..._
 - [List Connections To A Database](postgres/list-connections-to-a-database.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Various Kinds Of Objects](postgres/list-various-kinds-of-objects.md)
+- [Lower Is Faster Than ilike](postgres/lower-is-faster-than-ilike.md)
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
