@@ -13,10 +13,10 @@ these commands will do the following:
 
 ```sql
 \! pwd
-/home
+-- /home
 \cd sql
 \! pwd
-/home/sql
+-- /home/sql
 ```
 
 The `\cd` meta-command even supports tab completion relative to the current
