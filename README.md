@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_405 TILs and counting..._
+_406 TILs and counting..._
 
 ---
 
@@ -172,6 +172,7 @@ _405 TILs and counting..._
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
+- [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
 - [Clear The Screen In psql (2)](postgres/clear-the-screen-in-psql-2.md)
