@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_407 TILs and counting..._
+_408 TILs and counting..._
 
 ---
 
@@ -268,6 +268,7 @@ _407 TILs and counting..._
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
+- [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Pretend Generations](rails/pretend-generations.md)
 - [Rescue From](rails/rescue-from.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
