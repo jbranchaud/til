@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_408 TILs and counting..._
+_409 TILs and counting..._
 
 ---
 
@@ -200,6 +200,7 @@ _408 TILs and counting..._
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Get The Size Of A Database](postgres/get-the-size-of-a-database.md)
 - [Get The Size Of A Table](postgres/get-the-size-of-a-table.md)
+- [Get The Size Of An Index](postgres/get-the-size-of-an-index.md)
 - [Getting A Slice Of An Array](postgres/getting-a-slice-of-an-array.md)
 - [Insert Just The Defaults](postgres/insert-just-the-defaults.md)
 - [Integers In Postgres](postgres/integers-in-postgres.md)
