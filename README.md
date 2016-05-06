@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_409 TILs and counting..._
+_410 TILs and counting..._
 
 ---
 
@@ -213,6 +213,7 @@ _409 TILs and counting..._
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
 - [List Available Schemas](postgres/list-available-schemas.md)
 - [List Connections To A Database](postgres/list-connections-to-a-database.md)
+- [List Database Objects With Disk Usage](postgres/list-database-objects-with-disk-usage.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Various Kinds Of Objects](postgres/list-various-kinds-of-objects.md)
 - [Lower Is Faster Than ilike](postgres/lower-is-faster-than-ilike.md)
