@@ -24,6 +24,10 @@ $ createdb my_new_database
 $ pg_restore -d my_new_database my_database.dump
 ```
 
+Note: the dumped tables will depend on some user role. You will need to
+ensure that this role exists on the database cluster where the restore is
+happening. You can use the `createuser` command if necessary.
+
 See the
 [`pg_dump` docs](http://www.postgresql.org/docs/current/static/app-pgdump.html)
 and [`pg_restore`
