@@ -465,7 +465,7 @@ _414 TILs and counting..._
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
 - [Re-indenting Your Code](vim/reindenting-your-code.md)
-- [Read In The Contents Of A Rails File](vim/read-in-the-contents-of-a-rails.file.md)
+- [Read In The Contents Of A Rails File](vim/read-in-the-contents-of-a-rails-file.md)
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Repeating Characters](vim/repeating-characters.md)
