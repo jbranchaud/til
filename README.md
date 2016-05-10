@@ -164,6 +164,7 @@ _412 TILs and counting..._
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
+- [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
 
 ### PostgreSQL
 
