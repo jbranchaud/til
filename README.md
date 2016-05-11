@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -46,6 +46,7 @@ _13 TILs and counting..._
 - [Swap windows after horizontal split](vim/swap_windows_after_horizontal_split.md)
 - [Switch to spec file with rails.vim](vim/switch_to_spec_file_with_railsvim.md)
 - [Search word under cursor with Ag](vim/search_word_under_cursor.md)
+- [Split lines with dots](vim/split_lines_with_dots.md)
 - [Vim relative line toggle](vim/relative_line_numbers_toggle.md)
 - [Yank relative file path with line number](vim/yank_relative_file_path_wih_l_number.md)
 
