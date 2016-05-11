@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_414 TILs and counting..._
+_415 TILs and counting..._
 
 ---
 
@@ -365,6 +365,7 @@ _414 TILs and counting..._
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
+- [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Newer Files](unix/find-newer-files.md)
 - [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
