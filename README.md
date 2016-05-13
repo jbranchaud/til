@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _14 TILs and counting..._
 
 ## Vim
 
+- [Don't forget all the shortcut in insert mode](vim/shortcuts_in_insert_mode.md)
 - [Don't open the first result when searching with Ag.vim](vim/don_t_open_first_result_wih_ag.md)
 - [Leave Gdiff view but keep windows open](vim/leave_gitdiff_view.md)
 - [Quickly add ; or , at the end of lines](vim/quickly_add_char_at_the_end_of_the_line.md)
