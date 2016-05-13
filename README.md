@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_415 TILs and counting..._
+_416 TILs and counting..._
 
 ---
 
@@ -191,6 +191,7 @@ _415 TILs and counting..._
 - [Day Of Week For A Date](postgres/day-of-week-for-a-date.md)
 - [Default Schema](postgres/default-schema.md)
 - [Defining Arrays](postgres/defining-arrays.md)
+- [Determining The Age Of Things](postgres/determining-the-age-of-things.md)
 - [Dump And Restore A Database](postgres/dump-and-restore-a-database.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Escaping A Quote In A String](postgres/escaping-a-quote-in-a-string.md)
