@@ -25,3 +25,5 @@ date of death and then date of birth:
 --------------------------
  57 years 10 mons 14 days
 ```
+
+h/t Josh Davey
