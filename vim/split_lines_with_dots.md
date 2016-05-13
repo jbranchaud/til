@@ -16,7 +16,7 @@ I've map to `leader` + `s` a command to split at dots. It also auto indent new l
 
 ```vim
 " Split long lines with dots
-map <Leader>s :s/\v(\(\w{-}(\.\w{-})*)@<!\ze\./\=submatch(0) . "\n  " . matchstr(getline('.'), '^\s*')/g<CR>
+map <Leader>s :s/^  // <Bar> s/\v\ze%(\(\w+%(\.\w+)*)@<!\./\="\n " . matchstr(getline('.'), '^\s*')/g<CR>
 ```
 
 It's not that fast but it's work.
@@ -25,4 +25,7 @@ It's not that fast but it's work.
 
 ![split at dot](split_lines_with_dots.gif)
 
+## Credits
 
+Huge thanks to this anonymous user how help me to do this
+http://vi.stackexchange.com/questions/7732/efficient-ruby-line-spliting
