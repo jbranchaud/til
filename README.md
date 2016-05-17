@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_419 TILs and counting..._
+_420 TILs and counting..._
 
 ---
 
@@ -48,6 +48,7 @@ _419 TILs and counting..._
 - [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
 - [Expanding Macros](clojure/expanding-macros.md)
 - [Get The Value Of An Environment Variable](clojure/get-the-value-of-an-environment-variable.md)
+- [List Functions For A Namespace](clojure/list-functions-for-a-namespace.md)
 - [Load A File Into The REPL](clojure/load-a-file-into-the-repl.md)
 - [Mapping With An Index](clojure/mapping-with-an-index.md)
 - [Open JavaDocs](clojure/open-javadocs.md)
