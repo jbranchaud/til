@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_421 TILs and counting..._
+_422 TILs and counting..._
 
 ---
 
@@ -388,6 +388,7 @@ _421 TILs and counting..._
 - [Search History](unix/search-history.md)
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
+- [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
 - [SSH Escape Sequences](unix/ssh-escape-sequences.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Sort In Numerical Order](unix/sort-in-numerical-order.md)
