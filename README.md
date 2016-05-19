@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_420 TILs and counting..._
+_421 TILs and counting..._
 
 ---
 
@@ -390,6 +390,7 @@ _420 TILs and counting..._
 - [Securely Remove Files](unix/securely-remove-files.md)
 - [SSH Escape Sequences](unix/ssh-escape-sequences.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
+- [Sort In Numerical Order](unix/sort-in-numerical-order.md)
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
 - [Watch The Difference](unix/watch-the-difference.md)
