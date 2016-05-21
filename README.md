@@ -333,6 +333,7 @@ _422 TILs and counting..._
 - [Summing Collections](ruby/summing-collections.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
+- [Up And Down With Integers](ruby/up-and-down-with-integers.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Zero Padding](ruby/zero-padding.md)
 
