@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_422 TILs and counting..._
+_423 TILs and counting..._
 
 ---
 
@@ -174,6 +174,7 @@ _422 TILs and counting..._
 - [Add ON DELETE CASCADE To Foreign Key Constraint](postgres/add-on-delete-cascade-to-foreign-key-constraint.md)
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
+- [Assumed Radius Of The Earth](postgres/assumed-radius-of-the-earth.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
