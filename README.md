@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_423 TILs and counting..._
+_424 TILs and counting..._
 
 ---
 
@@ -303,6 +303,7 @@ _423 TILs and counting..._
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
+- [Edit Previous Parts Of The Pry Buffer History](ruby/edit-previous-parts-of-the-pry-buffer-history.md)
 - [Editing Code In Pry](ruby/editing-code-in-pry.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
