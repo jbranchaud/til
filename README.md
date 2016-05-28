@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_425 TILs and counting..._
+_426 TILs and counting..._
 
 ---
 
@@ -383,6 +383,7 @@ _425 TILs and counting..._
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
+- [Less With Style](unix/less-with-style.md)
 - [List All Users](unix/list-all-users.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
 - [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
