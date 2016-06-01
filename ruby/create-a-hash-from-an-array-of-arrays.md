@@ -14,3 +14,5 @@ pairs.
 See the [`Hash::[]`
 docs](http://ruby-doc.org/core-2.3.0/Hash.html#method-c-5B-5D) for more
 details.
+
+h/t Josh Davey
