@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_426 TILs and counting..._
+_427 TILs and counting..._
 
 ---
 
@@ -298,6 +298,7 @@ _426 TILs and counting..._
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
 - [Construct A Constant From A String](ruby/construct-a-constant-from-a-string.md)
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
+- [Create A Hash From An Array Of Arrays](ruby/create-a-hash-from-an-array-of-arrays)
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
