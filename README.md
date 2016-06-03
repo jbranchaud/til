@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_427 TILs and counting..._
+_428 TILs and counting..._
 
 ---
 
@@ -333,6 +333,7 @@ _427 TILs and counting..._
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
+- [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
