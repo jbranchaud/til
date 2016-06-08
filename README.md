@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_428 TILs and counting..._
+_429 TILs and counting..._
 
 ---
 
@@ -379,6 +379,7 @@ _428 TILs and counting..._
 - [Find Newer Files](unix/find-newer-files.md)
 - [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
+- [Globbing For Filenames In Zsh](unix/globbing-for-filenames-in-zsh.md)
 - [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
