@@ -23,6 +23,8 @@ $ ls *[0-9]
 10  11  2   3   4   801 92
 ```
 
+This only scrapes the surface of what can be done with globbing in Zsh.
+
 [source](http://zsh.sourceforge.net/Intro/intro_2.html)
 
 h/t Josh Davey
