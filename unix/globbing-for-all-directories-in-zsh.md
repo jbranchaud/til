@@ -17,4 +17,6 @@ $ echo /*(/)
 /Applications /Library /Network /System /Users /Volumes /bin /cores /dev /home /net /opt /private /sbin /usr
 ```
 
+You can go ahead and use that with any other command now (e.g. `ls`).
+
 [source](http://zsh.sourceforge.net/Intro/intro_2.html)
