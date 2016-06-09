@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_430 TILs and counting..._
+_431 TILs and counting..._
 
 ---
 
@@ -287,6 +287,7 @@ _430 TILs and counting..._
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
+- [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
 
 ### Ruby
 
