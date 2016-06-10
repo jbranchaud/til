@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_431 TILs and counting..._
+_432 TILs and counting..._
 
 ---
 
@@ -278,6 +278,7 @@ _431 TILs and counting..._
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Pretend Generations](rails/pretend-generations.md)
+- [Read-Only Models](rails/read-only-models.md)
 - [Rescue From](rails/rescue-from.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
