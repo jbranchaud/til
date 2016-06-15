@@ -4,7 +4,7 @@ Want to experiment in a pry session with some of the gems in your project's
 `Gemfile`? You can quickly require all the gems for your project using
 Bundler's `#require` method.
 
-Just require `bundler` itself and then execute `Bundler.requie`. Everything
+Just require `bundler` itself and then execute `Bundler.require`. Everything
 will be loaded in.
 
 ```ruby
