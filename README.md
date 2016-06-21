@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_434 TILs and counting..._
+_435 TILs and counting..._
 
 ---
 
@@ -393,6 +393,7 @@ _434 TILs and counting..._
 - [Less With Style](unix/less-with-style.md)
 - [List All Users](unix/list-all-users.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
+- [Open The Current Command In An Editor](unix/open-the-current-command-in-an-editor.md)
 - [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
 - [PID Of The Current Shell](unix/pid-of-the-current-shell.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
