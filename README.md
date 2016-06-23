@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_435 TILs and counting..._
+_436 TILs and counting..._
 
 ---
 
@@ -422,6 +422,7 @@ _435 TILs and counting..._
 - [Backspace Options](vim/backspace-options.md)
 - [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
 - [The Black Hole Register](vim/the-black-hole-register.md)
+- [Blank Lines Above And Below](vim/blank-lines-above-and-below.md)
 - [Breaking The Undo Sequence](vim/breaking-the-undo-sequence.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Build And Install A Go Program](vim/build-and-install-a-go-program.md)
