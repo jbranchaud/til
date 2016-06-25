@@ -8,7 +8,7 @@ function or Erlang's
 function. In particular, I can pass `:functions` to either one to get a list
 of the functions for that module.
 
-This is what the `__info__/1` looks like for the functions of the `List`
+This is what `__info__/1` looks like for the functions of the `List`
 module:
 
 ```elixir
