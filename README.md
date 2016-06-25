@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_436 TILs and counting..._
+_437 TILs and counting..._
 
 ---
 
@@ -83,6 +83,7 @@ _436 TILs and counting..._
 
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
 - [Expose Internal Representation](elixir/expose-internal-representation.md)
+- [List Functions For A Module](elixir/list-functions-for-a-module.md)
 - [Replace Duplicates In A Keyword List](elixir/replace-duplicates-in-a-keyword-list.md)
 
 ### Git
