@@ -1,7 +1,7 @@
 # Word Lists For Atoms
 
 The `~w` sigil works similarly to Ruby's `%w` (word array notation). It
-allows you to create a list of words (namely, strings).
+allows you to create a list of words (i.e. strings).
 
 ```elixir
 > ~w(one two three)
