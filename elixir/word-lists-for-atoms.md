@@ -4,7 +4,7 @@ The `~w` sigil works similarly to Ruby's `%w` (word array notation). It
 allows you to create a list of words (namely, strings).
 
 ```elixir
-~w(one two three)
+> ~w(one two three)
 ["one", "two", "three"]
 ```
 
