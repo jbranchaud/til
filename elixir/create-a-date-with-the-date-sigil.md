@@ -8,10 +8,10 @@ function producing the Date struct with each of the date parts.
 ```elixir
 > ~D[2016-01-01]
 ~D[2016-01-01]
-iex(7)> ~D[2016-01-01].year
+> ~D[2016-01-01].year
 2016
-iex(8)> ~D[2016-01-01].month
+> ~D[2016-01-01].month
 1
-iex(9)> ~D[2016-01-01].day
+> ~D[2016-01-01].day
 1
 ```
