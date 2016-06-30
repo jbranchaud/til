@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_440 TILs and counting..._
+_441 TILs and counting..._
 
 ---
 
@@ -100,6 +100,7 @@ _440 TILs and counting..._
 - [Clean Up Old Remote Tracking References](git/clean-up-old-remote-tracking-references.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
+- [Diffing With Patience](git/diffing-with-patience.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
