@@ -7,7 +7,7 @@ different behaviors.
 
 Here is an example of how you might use this:
 
-```ex
+```elixir
 > handle_result = fn
   {:ok, result} -> IO.puts "The result is #{result}"
   :error -> IO.puts "Error: couldn't find anything"
