@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_444 TILs and counting..._
+_445 TILs and counting..._
 
 ---
 
@@ -82,6 +82,7 @@ _444 TILs and counting..._
 ### Elixir
 
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
+- [Assert An Exception Is Raised](elixir/assert-an-exception-is-raised.md)
 - [Create A Date With The Date Sigil](elixir/create-a-date-with-the-date-sigil.md)
 - [Execute Raw SQL In An Ecto Migration](elixir/execute-raw-sql-in-an-ecto-migration.md)
 - [Expose Internal Representation](elixir/expose-internal-representation.md)
