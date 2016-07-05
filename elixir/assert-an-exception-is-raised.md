@@ -10,7 +10,7 @@ Using `assert_raise/2` looks something like this:
 
 ```elixir
 assert_raise FunctionClauseError, fn ->
-  Enum.chunk([1,2,3], 0) == []
+  Enum.chunk([1,2,3], 0)
 end
 ```
 
@@ -19,7 +19,7 @@ the type of exception and the resulting message.
 
 ```elixir
 assert_raise FunctionClauseError, ~r/^no function clause matching/, fn ->
-  Enum.chunk([1,2,3], 0) == []
+  Enum.chunk([1,2,3], 0)
 end
 ```
 
