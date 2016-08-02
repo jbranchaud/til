@@ -1,7 +1,7 @@
 # Reset Target tslime Pane
 
 The combination of [`tslime`](https://github.com/jgdavey/tslime.vim) and
-[`turbux`](https://github.com/jgdavey/vim-turbux) make running tests from
+[`turbux`](https://github.com/jgdavey/vim-turbux) makes running tests from
 Vim in a tmux session as easy as a single key binding. One problem that can
 arise from time to time is having `tslime` focused on an undesired tmux
 window/pane combination. There is no binding to tell `tslime` that you'd
