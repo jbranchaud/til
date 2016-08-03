@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_448 TILs and counting..._
+_449 TILs and counting..._
 
 ---
 
@@ -91,6 +91,7 @@ _448 TILs and counting..._
 - [Pattern Matching In Anonymous Functions](elixir/pattern-matching-in-anonymous-functions.md)
 - [Quitting IEx](elixir/quitting-iex.md)
 - [Replace Duplicates In A Keyword List](elixir/replace-duplicates-in-a-keyword-list.md)
+- [Reversing A List](elixir/reversing-a-list.md)
 - [String Interpolation With Just About Anything](elixir/string-interpolation-with-just-about-anything.md)
 - [Word Lists For Atoms](elixir/word-lists-for-atoms.md)
 
