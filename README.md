@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_449 TILs and counting..._
+_450 TILs and counting..._
 
 ---
 
@@ -403,6 +403,7 @@ _449 TILs and counting..._
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
 - [Less With Style](unix/less-with-style.md)
 - [List All Users](unix/list-all-users.md)
+- [List Names Of Files With Matches](unix/list-names-of-files-with-matches.md)
 - [List Of Sessions To A Machine](unix/list-of-sessions-to-a-machine.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
 - [Open The Current Command In An Editor](unix/open-the-current-command-in-an-editor.md)
