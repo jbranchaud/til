@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_451 TILs and counting..._
+_452 TILs and counting..._
 
 ---
 
@@ -399,6 +399,7 @@ _451 TILs and counting..._
 - [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
+- [Jump To The Ends Of Your Shell History](unix/jump-to-the-ends-of-your-shell-history.md)
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
