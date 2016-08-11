@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _16 TILs and counting..._
 ## Git
 
 - [Git add --patch not indexed files](git/git_add_patch_not_indexed_files.md)
+- [See changes in file to commit ignoring indent changes](git/git_diff_cached.md)
 
 ## Rails
 
