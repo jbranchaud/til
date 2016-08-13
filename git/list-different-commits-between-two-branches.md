@@ -10,7 +10,7 @@ importantly the `--cherry-pick` flag.
 To compare the `feature` branch against the `master` branch, I can run a
 command like the following:
 
-```
+```bash
 $ git log --left-right --graph --cherry-pick --oneline feature...branch
 ```
 
