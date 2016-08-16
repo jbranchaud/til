@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_454 TILs and counting..._
+_455 TILs and counting..._
 
 ---
 
@@ -362,6 +362,7 @@ _454 TILs and counting..._
 
 - [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
+- [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
