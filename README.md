@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_455 TILs and counting..._
+_456 TILs and counting..._
 
 ---
 
@@ -519,6 +519,7 @@ _455 TILs and counting..._
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
 - [Setting Filetype With Modelines](vim/setting-filetype-with-modelines.md)
 - [Show All Syntax Highlighting Rules](vim/show-all-syntax-highlighting-rules.md)
+- [Show Matching Entries For Help](vim/show-matching-entries-for-help.md)
 - [Split Different](vim/split-different.md)
 - [Splitting For New Files](vim/splitting-for-new-files.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
