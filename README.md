@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_456 TILs and counting..._
+_457 TILs and counting..._
 
 ---
 
@@ -512,6 +512,7 @@ _456 TILs and counting..._
 - [Replace A Character](vim/replace-a-character.md)
 - [Reset Target tslime Pane](vim/reset-target-tslime-pane.md)
 - [Reverse A Group Of Lines](vim/reverse-a-group-of-lines.md)
+- [Rotate Everything By 13 Letters](vim/rotate-everything-by-13-letters.md)
 - [Running Bundle With vim-bundler](vim/running-bundle-with-vim-bundler.md)
 - [Scrolling Relative to the Cursor](vim/scrolling-relative-to-the-cursor.md)
 - [Searching For Hex Digits](vim/searching-for-hex-digits.md)
