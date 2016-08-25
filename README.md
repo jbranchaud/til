@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -39,6 +39,7 @@ _17 TILs and counting..._
 
 ## Vim
 
+- [Delete from the current line to the previous](vim/delete_to_previous_line.md)
 - [Don't forget all the shortcut in insert mode](vim/shortcuts_in_insert_mode.md)
 - [Don't open the first result when searching with Ag.vim](vim/don_t_open_first_result_wih_ag.md)
 - [Leave Gdiff view but keep windows open](vim/leave_gitdiff_view.md)
