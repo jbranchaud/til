@@ -7,7 +7,7 @@ not already present in the map, generally associating some default value.
 In Elixir, the `Map` module provides the `get_and_update/3` function as a
 way of accomplishing such a task.
 
-You need to provide the map, the key to be fetched and update, and a
+You need to provide the map, the key to be fetched and updated, and a
 function for _transforming_ (or updating) the existing value.
 
 Let's use a score counting example to see it in action:
