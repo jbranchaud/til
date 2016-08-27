@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_460 TILs and counting..._
+_461 TILs and counting..._
 
 ---
 
@@ -158,6 +158,7 @@ _460 TILs and counting..._
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
+- [Expand Emojis With The Spread Operator](javascript/expand-emojis-with-the-spread-operator.md)
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
