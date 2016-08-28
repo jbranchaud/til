@@ -1,8 +1,9 @@
 # Wrap With Some Room
 
-The surround.vim plugin allows you to wrap text objects with various
-surrounding characters (e.g. `( )`, `{ }`, `" "`). If you have a visual
-selection on `1 2 3 4 5` and type `S]` you will get:
+The [surround.vim](https://github.com/tpope/vim-surround) plugin allows
+you to wrap text objects with various surrounding characters
+(e.g. `( )`, `{ }`, `" "`).
+If you have a visual selection on `1 2 3 4 5` and type `S]` you will get:
 
 ```
 [1 2 3 4 5]
