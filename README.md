@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_462 TILs and counting..._
+_463 TILs and counting..._
 
 ---
 
@@ -337,6 +337,7 @@ _462 TILs and counting..._
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
 - [Next And Previous Floats](ruby/next-and-previous-floats.md)
+- [Or Operator Precedence](ruby/or-operator-precedence.md)
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
 - [Pass A Block To Count](ruby/pass-a-block-to-count.md)
