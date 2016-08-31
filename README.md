@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_461 TILs and counting..._
+_462 TILs and counting..._
 
 ---
 
@@ -278,6 +278,7 @@ _461 TILs and counting..._
 
 ### Rails
 
+- [Advance The Date](rails/advance-the-date.md)
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Attach A File With Capybara](rails/attach-a-file-with-capybara.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
