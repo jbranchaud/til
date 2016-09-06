@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_464 TILs and counting..._
+_465 TILs and counting..._
 
 ---
 
@@ -84,6 +84,7 @@ _464 TILs and counting..._
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
 - [Assert An Exception Is Raised](elixir/assert-an-exception-is-raised.md)
 - [Binary Representation Of A String](elixir/binary-representation-of-a-string.md)
+- [Check For A Substring Match](elixir/check-for-a-substring-match.md)
 - [Create A Date With The Date Sigil](elixir/create-a-date-with-the-date-sigil.md)
 - [Do You Have The Time?](elixir/do-you-have-the-time.md)
 - [Documentation Lookup With Vim And Alchemist](elixir/documentation-lookup-with-vim-and-alchemist.md)
