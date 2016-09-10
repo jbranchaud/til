@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_466 TILs and counting..._
+_467 TILs and counting..._
 
 ---
 
@@ -197,6 +197,7 @@ _466 TILs and counting..._
 - [Assumed Radius Of The Earth](postgres/assumed-radius-of-the-earth.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
+- [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
 - [Clear The Screen In psql (2)](postgres/clear-the-screen-in-psql-2.md)
