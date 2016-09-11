@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_469 TILs and counting..._
+_470 TILs and counting..._
 
 ---
 
@@ -192,6 +192,7 @@ _469 TILs and counting..._
 
 ### Phoenix
 
+- [Bypass Template Rendering](phoenix/bypass-template-rendering.md)
 - [Render A Template To A String](phoenix/render-a-template-to-a-string.md)
 
 ### PostgreSQL
