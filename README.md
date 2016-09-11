@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_468 TILs and counting..._
+_469 TILs and counting..._
 
 ---
 
@@ -98,6 +98,7 @@ _468 TILs and counting..._
 - [Quitting IEx](elixir/quitting-iex.md)
 - [Replace Duplicates In A Keyword List](elixir/replace-duplicates-in-a-keyword-list.md)
 - [Reversing A List](elixir/reversing-a-list.md)
+- [Run ExUnit Tests In A Deterministic Order](elixir/run-exunit-tests-in-a-deterministic-order.md)
 - [String Interpolation With Just About Anything](elixir/string-interpolation-with-just-about-anything.md)
 - [Updating Values In A Map](elixir/updating-values-in-a-map.md)
 - [Word Lists For Atoms](elixir/word-lists-for-atoms.md)
