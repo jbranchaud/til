@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_467 TILs and counting..._
+_468 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _467 TILs and counting..._
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
+* [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
 * [Rails](#rails)
 * [Ruby](#ruby)
@@ -187,6 +188,10 @@ _467 TILs and counting..._
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
+
+### Phoenix
+
+- [Render A Template To A String](phoenix/render-a-template-to-a-string.md)
 
 ### PostgreSQL
 
