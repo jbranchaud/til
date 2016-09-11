@@ -1,8 +1,8 @@
 # Render A Template To A String
 
-Templates in a Phoenix application ultimately get compiled to functions that
-can be quickly rendered with the necessary data. We can take a look at how a
-template will be rendered using
+Templates in a [Phoenix](http://www.phoenixframework.org/) application
+ultimately get compiled to functions that can be quickly rendered with the
+necessary data. We can take a look at how a template will be rendered using
 [`Phoenix.View.render_to_string/3`](https://hexdocs.pm/phoenix/Phoenix.View.html#render_to_string/3).
 
 First, we need a template:
