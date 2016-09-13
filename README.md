@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_470 TILs and counting..._
+_471 TILs and counting..._
 
 ---
 
@@ -93,6 +93,7 @@ _470 TILs and counting..._
 - [Dynamically Generating Atoms](elixir/dynamically-generating-atoms.md)
 - [Execute Raw SQL In An Ecto Migration](elixir/execute-raw-sql-in-an-ecto-migration.md)
 - [Expose Internal Representation](elixir/expose-internal-representation.md)
+- [Include Captures With String.split](elixir/include-captures-with-string-split.md)
 - [List Functions For A Module](elixir/list-functions-for-a-module.md)
 - [Pattern Matching In Anonymous Functions](elixir/pattern-matching-in-anonymous-functions.md)
 - [Quitting IEx](elixir/quitting-iex.md)
