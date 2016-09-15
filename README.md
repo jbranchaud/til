@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_471 TILs and counting..._
+_472 TILs and counting..._
 
 ---
 
@@ -402,6 +402,7 @@ _471 TILs and counting..._
 - [Cat A File With Line Numbers](unix/cat-a-file-with-line-numbers.md)
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
 - [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
+- [Check The Current Working Directory](unix/check-the-current-working-directory.md)
 - [Clear The Screen](unix/clear-the-screen.md)
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
