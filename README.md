@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_474 TILs and counting..._
+_475 TILs and counting..._
 
 ---
 
@@ -409,6 +409,7 @@ _474 TILs and counting..._
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
+- [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
