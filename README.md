@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_476 TILs and counting..._
+_477 TILs and counting..._
 
 ---
 
@@ -128,6 +128,7 @@ _476 TILs and counting..._
 - [Intent To Add](git/intent-to-add.md)
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
+- [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
 - [List Different Commits Between Two Branches](git/list-different-commits-between-two-branches.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
 - [List Most Git Commands](git/list-most-git-commands.md)
