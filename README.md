@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_477 TILs and counting..._
+_478 TILs and counting..._
 
 ---
 
@@ -433,6 +433,7 @@ _477 TILs and counting..._
 - [List Names Of Files With Matches](unix/list-names-of-files-with-matches.md)
 - [List Of Sessions To A Machine](unix/list-of-sessions-to-a-machine.md)
 - [List Parent pid With ps](unix/list-parent-pid-with-ps.md)
+- [Map A Domain To localhost](unix/map-a-domain-to-localhost.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
 - [Open The Current Command In An Editor](unix/open-the-current-command-in-an-editor.md)
 - [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
