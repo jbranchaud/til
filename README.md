@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_479 TILs and counting..._
+_480 TILs and counting..._
 
 ---
 
@@ -517,6 +517,7 @@ _479 TILs and counting..._
 - [Open A Tag In A Split Window](vim/open-a-tag-in-a-split-window.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
+- [Open The Directory Of The Current File](vim/open-the-directory-of-the-current-file.md)
 - [Open The Gemfile](vim/open-the-gemfile.md)
 - [Open The Latest Rails Migration](vim/open-the-latest-rails-migration.md)
 - [Open Vim To A Tag Definition](vim/open-vim-to-a-tag-definition.md)
