@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_480 TILs and counting..._
+_481 TILs and counting..._
 
 ---
 
@@ -527,6 +527,7 @@ _480 TILs and counting..._
 - [Preventing Typos with Abbreviations](vim/preventing-typos-with-abbreviations.md)
 - [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
+- [Print Version Information](vim/print-version-information.md)
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
