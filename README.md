@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_481 TILs and counting..._
+_482 TILs and counting..._
 
 ---
 
@@ -234,6 +234,7 @@ _481 TILs and counting..._
 - [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Find The Data Directory](postgres/find-the-data-directory.md)
+- [Find The Location Of Postgres Config Files](postgres/find-the-location-of-postgres-config-files.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
 - [Generate A UUID](postgres/generate-a-uuid.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
