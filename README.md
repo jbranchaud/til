@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_482 TILs and counting..._
+_483 TILs and counting..._
 
 ---
 
@@ -39,6 +39,7 @@ _482 TILs and counting..._
 
 - [Pretty Print Tabular Data](chrome/pretty-print-tabular-data.md)
 - [Reference The Selected Node](chrome/reference-the-selected-node.md)
+- [Simulating Various Connection Speeds](chrome/simulating-various-connection-speeds.md)
 
 ### Clojure
 
