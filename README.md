@@ -161,7 +161,7 @@ _484 TILs and counting..._
 ### Internet
 
 - [Add Emoji To GitHub Repository Description](internet/add-emoji-to-github-repository-description.md)
-- [Exclude Whitespace From GitHub Diffs](internet/exclude-whitespace-from-github-diffs.md)
+- [Exclude Whitespace Changes From GitHub Diffs](internet/exclude-whitespace-changes-from-github-diffs.md)
 
 ### JavaScript
 
