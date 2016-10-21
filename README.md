@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_483 TILs and counting..._
+_484 TILs and counting..._
 
 ---
 
@@ -161,6 +161,7 @@ _483 TILs and counting..._
 ### Internet
 
 - [Add Emoji To GitHub Repository Description](internet/add-emoji-to-github-repository-description.md)
+- [Exclude Whitespace From GitHub Diffs](internet/exclude-whitespace-from-github-diffs.md)
 
 ### JavaScript
 
