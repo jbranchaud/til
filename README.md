@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_484 TILs and counting..._
+_485 TILs and counting..._
 
 ---
 
@@ -444,6 +444,7 @@ _484 TILs and counting..._
 - [PID Of The Current Shell](unix/pid-of-the-current-shell.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
+- [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
 - [Search History](unix/search-history.md)
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
