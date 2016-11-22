@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_486 TILs and counting..._
+_487 TILs and counting..._
 
 ---
 
@@ -240,6 +240,7 @@ _486 TILs and counting..._
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
 - [Generate A UUID](postgres/generate-a-uuid.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
+- [Generating UUIDs With pgcrypto](postgres/generating-uuids-with-pgcrypto.md)
 - [Get The Size Of A Database](postgres/get-the-size-of-a-database.md)
 - [Get The Size Of A Table](postgres/get-the-size-of-a-table.md)
 - [Get The Size Of An Index](postgres/get-the-size-of-an-index.md)
