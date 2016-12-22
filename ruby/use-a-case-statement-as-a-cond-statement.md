@@ -2,7 +2,7 @@
 
 Many languages come with a feature that usually takes the name _cond
 statement_. It is essentially another way of writing an _if-elsif-else_
-statement. The first conditional in the _cond statement_ to evaluate to try
+statement. The first conditional in the _cond statement_ to evaluate to true
 will then have its block evaluated.
 
 Ruby doesn't have a _cond statement_, but it does have a _case statement_.
