@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_492 TILs and counting..._
+_493 TILs and counting..._
 
 ---
 
@@ -385,6 +385,7 @@ _492 TILs and counting..._
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
 - [Up And Down With Integers](ruby/up-and-down-with-integers.md)
+- [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Zero Padding](ruby/zero-padding.md)
 
