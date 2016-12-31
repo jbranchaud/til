@@ -1,7 +1,7 @@
 # Creating Indexes With Ecto
 
 Using indexes in the right places within relational databases is a great way
-to speed up queries and ensure data integrity.
+to speed up queries.
 
 To add a basic index in an Ecto migration, use `Ecto.Migration.index\2`:
 
