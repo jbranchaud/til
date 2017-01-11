@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _20 TILs and counting..._
 
 ## PostgreSQL
 
+- [Set ISOLATION LEVEL](postgresql/set_isolation_level.md)
 - [Set alias with psql](postgresql/set_alias_with_psql.md)
 
 ## Rails
