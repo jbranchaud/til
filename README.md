@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_495 TILs and counting..._
+_496 TILs and counting..._
 
 ---
 
@@ -313,6 +313,7 @@ _495 TILs and counting..._
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
+- [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Custom Validation Message](rails/custom-validation-message.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
