@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_496 TILs and counting..._
+_497 TILs and counting..._
 
 ---
 
@@ -320,6 +320,7 @@ _496 TILs and counting..._
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
+- [Mark For Destruction](rails/mark-for-destruction.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
