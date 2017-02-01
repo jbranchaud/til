@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_498 TILs and counting..._
+_499 TILs and counting..._
 
 ---
 
@@ -379,6 +379,7 @@ _498 TILs and counting..._
 - [Rendering ERB](ruby/rendering-erb.md)
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
 - [Require Entire Gemfile In Pry Session](ruby/require-entire-gemfile-in-pry-session.md)
+- [Rerun Only Failures With RSpec](ruby/rerun-only-failures-with-rspec.md)
 - [Returning With Sequel](ruby/returning-with-sequel.md)
 - [Running A Single MiniTest Example](ruby/running-a-single-minitest-example.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
