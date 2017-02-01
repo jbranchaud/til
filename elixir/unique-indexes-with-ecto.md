@@ -1,7 +1,9 @@
 # Unique Indexes With Ecto
 
 You can create a unique index in a migration for one or more columns using
-the [`unique_index/3`] function.
+the
+[`unique_index/3`](https://hexdocs.pm/ecto/Ecto.Migration.html#unique_index/3)
+function.
 
 For example, if you are creating a join table for `followers` and want to
 ensure that duplicate _follower_ entries are prevented, you may want to
