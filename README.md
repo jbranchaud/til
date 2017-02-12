@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_501 TILs and counting..._
+_502 TILs and counting..._
 
 ---
 
@@ -87,6 +87,7 @@ _501 TILs and counting..._
 - [Assert An Exception Is Raised](elixir/assert-an-exception-is-raised.md)
 - [Binary Representation Of A String](elixir/binary-representation-of-a-string.md)
 - [Check For A Substring Match](elixir/check-for-a-substring-match.md)
+- [Compute md5 Digest Of A String](elixir/compute-md5-digest-of-a-string.md)
 - [Counting Records With Ecto](elixir/counting-records-with-ecto.md)
 - [Create A Date With The Date Sigil](elixir/create-a-date-with-the-date-sigil.md)
 - [Creating Indexes With Ecto](elixir/creating-indexes-with-ecto.md)
