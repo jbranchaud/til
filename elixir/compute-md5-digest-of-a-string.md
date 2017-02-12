@@ -18,3 +18,5 @@ looking for.
 > Base.encode16(:erlang.md5("#myelixirstatus"), case: :lower)
 "91948b63c2b06912f2f625458e45e2c7"
 ```
+
+[source](https://gist.github.com/10nin/5713366#gistcomment-1445219)
