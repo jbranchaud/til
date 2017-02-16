@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_503 TILs and counting..._
+_504 TILs and counting..._
 
 ---
 
@@ -220,6 +220,7 @@ _503 TILs and counting..._
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
 - [Assumed Radius Of The Earth](postgres/assumed-radius-of-the-earth.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
+- [Between Symmetric](postgres/between-symmetric.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
 - [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
