@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_504 TILs and counting..._
+_505 TILs and counting..._
 
 ---
 
@@ -504,6 +504,7 @@ _504 TILs and counting..._
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
 - [Creating Non-Existent Directories](vim/creating-non-existent-directories.md)
+- [Default netrw To Tree Liststyle](vim/default-netrw-to-tree-liststyle.md)
 - [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
 - [Delete To The End Of The Line](vim/delete-to-the-end-of-the-line.md)
