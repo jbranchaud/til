@@ -2,7 +2,7 @@
 
 Sometimes you want to view a file on another branch (without switching
 branches). That is, you want to view the version of that file as it exists
-on that branch. `git show` can help. If you branch is named `my_feature` and
+on that branch. `git show` can help. If your branch is named `my_feature` and
 the file you want to see is `app/models/users.rb`, then your command should
 look like this:
 
