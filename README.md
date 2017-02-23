@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_507 TILs and counting..._
+_508 TILs and counting..._
 
 ---
 
@@ -134,6 +134,7 @@ _507 TILs and counting..._
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
 - [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
+- [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
 - [Intent To Add](git/intent-to-add.md)
