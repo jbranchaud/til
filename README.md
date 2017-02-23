@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_506 TILs and counting..._
+_507 TILs and counting..._
 
 ---
 
@@ -158,6 +158,7 @@ _506 TILs and counting..._
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
+- [Viewing A File On Another Branch](git/viewing-a-file-on-another-branch.md)
 - [What Changed?](git/what-changed.md)
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
