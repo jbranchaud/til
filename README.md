@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_508 TILs and counting..._
+_509 TILs and counting..._
 
 ---
 
@@ -520,6 +520,7 @@ _508 TILs and counting..._
 - [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
 - [Format Long Lines To Text Width](vim/format-long-lines-to-text-width.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
+- [Get The pid Of The Session](vim/get-the-pid-of-the-session.md)
 - [Grepping Through The Vim Help Files](vim/grepping-through-the-vim-help-files.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
