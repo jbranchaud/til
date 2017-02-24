@@ -7,3 +7,7 @@ tabular data, `console.table()`. If you give `console.table` an array of
 objects or array of arrays, it will format it in a table like so:
 
 ![](http://i.imgur.com/LPgBpRB.png)
+
+```js
+console.table([{one: 1, two: 2, three: 3}])
+```
