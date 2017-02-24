@@ -299,7 +299,7 @@ _509 TILs and counting..._
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Truncate All Rows](postgres/truncate-all-rows.md)
 - [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
-- [Turning Timing On](postgres/turning-timing-on.md)
+- [Turning Timing On](postgres/turn-timing-on.md)
 - [Two Ways To Compute Factorial](postgres/two-ways-to-compute-factorial.md)
 - [Types By Category](postgres/types-by-category.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
