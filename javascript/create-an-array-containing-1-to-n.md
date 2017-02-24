@@ -14,9 +14,7 @@ That gives us `0` through `9`. To get `1` through `10`, we can tweak it
 slightly:
 
 ```javascript
-> Array.apply(null, {length: 10}).map(Number.call, function(n) {
-    return Number(n) + 1;
-  });
+> Array.apply(null, {length: 10}).map(Number.call, n => { return Number(n) + 1 });
 => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
@@ -26,9 +24,7 @@ To generalize this, we can replace `10` with `N` and then just expect that
 ```javascript
 > var N = 10;
 => undefined
-> Array.apply(null, {length: N}).map(Number.call, function(n) {
-    return Number(n) + 1;
-  });
+> Array.apply(null, {length: N}).map(Number.call, n => { return Number(n) + 1 });
 => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
