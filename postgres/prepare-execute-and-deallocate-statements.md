@@ -4,7 +4,8 @@ In PostgreSQL, you can prepare a named statement to be executed later using
 [`prepare`](https://www.postgresql.org/docs/current/static/sql-prepare.html).
 
 ```sql
-> prepare column_names (text) as  select column_name from information_schema.columns where table_name = $1;
+> prepare column_names (text) as
+    select column_name from information_schema.columns where table_name = $1;
 PREPARE
 ```
 
