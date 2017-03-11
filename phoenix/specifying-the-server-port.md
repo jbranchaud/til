@@ -7,7 +7,7 @@ If you'd like to use a different port in development, you can change it in
 `config/dev.exs`.
 
 ```elixir
-config :profilex, Profilex.Web.Endpoint,
+config :my_app, MyApp.Web.Endpoint,
   http: [port: 4444],
   ...
 ```
@@ -16,7 +16,7 @@ Alternatively, you can allow it to be configurable from the command line
 with an environment variable and a fallback port.
 
 ```elixir
-config :profilex, Profilex.Web.Endpoint,
+config :my_app, MyApp.Web.Endpoint,
   http: [port: System.get_env("PORT") || 4000],
   ...
 ```
