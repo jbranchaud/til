@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_513 TILs and counting..._
+_514 TILs and counting..._
 
 ---
 
@@ -105,6 +105,7 @@ _513 TILs and counting..._
 - [Quitting IEx](elixir/quitting-iex.md)
 - [Range Into List Using Comprehensions](elixir/range-into-list-using-comprehensions.md)
 - [Referencing Values In IEx's History](elixir/referencing-values-in-iexs-history.md)
+- [Remove One List From Another](elixir/remove-one-list-from-another.md)
 - [Replace Duplicates In A Keyword List](elixir/replace-duplicates-in-a-keyword-list.md)
 - [Requiring Keys For Structs](elixir/requiring-keys-for-structs.md)
 - [Reversing A List](elixir/reversing-a-list.md)
