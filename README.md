@@ -7,12 +7,13 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_514 TILs and counting..._
+_515 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Ack](#ack)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
 * [CSS](#css)
@@ -34,6 +35,10 @@ _514 TILs and counting..._
 * [Webpack](#webpack)
 
 ---
+
+### Ack
+
+- [ack --bar](ack/ack-bar.md)
 
 ### Chrome
 
