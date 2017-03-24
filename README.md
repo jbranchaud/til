@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_516 TILs and counting..._
+_517 TILs and counting..._
 
 ---
 
@@ -362,6 +362,7 @@ _516 TILs and counting..._
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
+- [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
 - [Colorful Output With MiniTest](ruby/colorful-output-with-minitest.md)
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
