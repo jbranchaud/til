@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_517 TILs and counting..._
+_518 TILs and counting..._
 
 ---
 
@@ -346,6 +346,7 @@ _517 TILs and counting..._
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
 - [Pretend Generations](rails/pretend-generations.md)
 - [Read-Only Models](rails/read-only-models.md)
+- [Remove The Default Value On A Column](rails/remove-the-default-value-on-a-column.md)
 - [Rescue From](rails/rescue-from.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
