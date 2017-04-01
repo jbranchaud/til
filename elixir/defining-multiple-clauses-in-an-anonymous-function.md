@@ -19,7 +19,7 @@ end
 We can then invoke our anonymous function using the bound variable to see
 what results we get with different kinds of inputs.
 
-```
+```elixir
 iex> my_function.({:ok, 123})
 "Everything is ok: 123"
 iex> my_function.({:error, "be warned"})
