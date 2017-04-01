@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_518 TILs and counting..._
+_519 TILs and counting..._
 
 ---
 
@@ -98,6 +98,7 @@ _518 TILs and counting..._
 - [Create A Date With The Date Sigil](elixir/create-a-date-with-the-date-sigil.md)
 - [Creating A PID](elixir/creating-a-pid.md)
 - [Creating Indexes With Ecto](elixir/creating-indexes-with-ecto.md)
+- [Defining Multiple Clauses In An Anonymous Function](elixir/defining-multiple-clauses-in-an-anonymous-function.md)
 - [Determine The Latest Release Of A Hex Package](elixir/determine-the-latest-release-of-a-hex-package.md)
 - [Do You Have The Time?](elixir/do-you-have-the-time.md)
 - [Do You Have The Time? - Part 2](elixir/do-you-have-the-time-part-2.md)
