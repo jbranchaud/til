@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_520 TILs and counting..._
+_521 TILs and counting..._
 
 ---
 
@@ -42,6 +42,7 @@ _520 TILs and counting..._
 ### Ack
 
 - [ack --bar](ack/ack-bar.md)
+- [Case-Insensitive Search](ack/case-insensitive-search.md)
 - [List Available File Types](ack/list-available-file-types.md)
 
 ### Chrome
