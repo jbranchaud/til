@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_524 TILs and counting..._
+_525 TILs and counting..._
 
 ---
 
@@ -111,6 +111,7 @@ _524 TILs and counting..._
 - [Execute Raw SQL In An Ecto Migration](elixir/execute-raw-sql-in-an-ecto-migration.md)
 - [Expose Internal Representation](elixir/expose-internal-representation.md)
 - [Include Captures With String.split](elixir/include-captures-with-string-split.md)
+- [Inspecting The Process Message Queue](elixir/inspecting-the-process-message-queue.md)
 - [List Functions For A Module](elixir/list-functions-for-a-module.md)
 - [Listing Files In IEx](elixir/listing-files-in-iex.md)
 - [Pattern Matching In Anonymous Functions](elixir/pattern-matching-in-anonymous-functions.md)
