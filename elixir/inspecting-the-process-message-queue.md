@@ -22,7 +22,7 @@ length of the message queue as we go.
 Now, I am curious what those specific messages are. Let's ask
 `Process.info/2` for the messages that are in the message queue.
 
-```
+```elixir
 > Process.info(self(), :messages)
 {:messages, [error: "this is bad", hello: "world"]}
 ```
