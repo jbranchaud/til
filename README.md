@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_525 TILs and counting..._
+_526 TILs and counting..._
 
 ---
 
@@ -497,6 +497,7 @@ _525 TILs and counting..._
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Sort In Numerical Order](unix/sort-in-numerical-order.md)
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
+- [Undo Some Command Line Editing](unix/undo-some-command-line-editing.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
 - [Watch The Difference](unix/watch-the-difference.md)
 - [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
