@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_526 TILs and counting..._
+_527 TILs and counting..._
 
 ---
 
@@ -615,6 +615,7 @@ _526 TILs and counting..._
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 - [Viewing Man Pages with man.vim](vim/viewing-man-pages-with-man-vim.md)
 - [Vim Without The Extras](vim/vim-without-the-extras.md)
+- [What Is On The Runtime Path](vim/what-is-on-the-runtime-path.md)
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
 
