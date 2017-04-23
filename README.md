@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_527 TILs and counting..._
+_528 TILs and counting..._
 
 ---
 
@@ -329,6 +329,7 @@ _527 TILs and counting..._
 - [Using Intervals To Offset Time](postgres/using-intervals-to-offset-time.md)
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
+- [Write A Query Result To File](postgres/write-a-query-result-to-file.md)
 
 ### Rails
 
