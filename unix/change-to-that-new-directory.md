@@ -12,7 +12,7 @@ This command will leave you in your newly created directory, `new_dir`.
 
 We can imagine using this bash variable in a number of similar scenarios as
 well. What if we are using some language specific command that creates a
-directory? Will it work with create a new Phoenix or Rails project?
+directory? Will it work when creating a new Phoenix or Rails project?
 
 It sure will.
 
