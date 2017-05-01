@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_529 TILs and counting..._
+_530 TILs and counting..._
 
 ---
 
@@ -454,6 +454,7 @@ _529 TILs and counting..._
 - [All The Environment Variables](unix/all-the-environment-variables.md)
 - [Cat A File With Line Numbers](unix/cat-a-file-with-line-numbers.md)
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
+- [Change To That New Directory](unix/change-to-that-new-directory.md)
 - [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
 - [Check The Current Working Directory](unix/check-the-current-working-directory.md)
 - [Clear The Screen](unix/clear-the-screen.md)
