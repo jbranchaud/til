@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_531 TILs and counting..._
+_532 TILs and counting..._
 
 ---
 
@@ -297,6 +297,7 @@ _531 TILs and counting..._
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
 - [Prepare, Execute, And Deallocate Statements](postgres/prepare-execute-and-deallocate-statements.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
+- [Pretty Printing JSONB Rows](postgres/pretty-printing-jsonb-rows.md)
 - [Print The Query Buffer In psql](postgres/print-the-query-buffer-in-psql.md)
 - [Renaming A Sequence](postgres/renaming-a-sequence.md)
 - [Renaming A Table](postgres/renaming-a-table.md)
