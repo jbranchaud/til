@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_532 TILs and counting..._
+_533 TILs and counting..._
 
 ---
 
@@ -100,6 +100,7 @@ _532 TILs and counting..._
 - [Compute md5 Digest Of A String](elixir/compute-md5-digest-of-a-string.md)
 - [Counting Records With Ecto](elixir/counting-records-with-ecto.md)
 - [Create A Date With The Date Sigil](elixir/create-a-date-with-the-date-sigil.md)
+- [Create A List Of Atoms](elixir/create-a-list-of-atoms.md)
 - [Creating A PID](elixir/creating-a-pid.md)
 - [Creating Indexes With Ecto](elixir/creating-indexes-with-ecto.md)
 - [Defining Multiple Clauses In An Anonymous Function](elixir/defining-multiple-clauses-in-an-anonymous-function.md)
