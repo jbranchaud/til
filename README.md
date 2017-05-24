@@ -82,6 +82,7 @@ _533 TILs and counting..._
 ### Devops
 
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
+- [Check Services Listening on TCP Ports](devops/check-services-listening-on-tcp-ports.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
