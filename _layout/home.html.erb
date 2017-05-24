@@ -1,0 +1,11 @@
+<% categorized_files.each do |cat, files| %>
+  <h2 class='page-header text-capitalize'><%= cat %></h2>
+  <ul>
+    <% files.each do |file| %>
+      <li>
+        <a href='<%= file.last %>'><%= file.first %></a>
+      </li>
+
+    <% end %>
+  </ul>
+<% end %>

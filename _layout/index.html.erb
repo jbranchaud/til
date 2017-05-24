@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title><%= title.chomp  %> - TIL</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/readable/bootstrap.min.css" rel="stylesheet" integrity="sha256-1ROOYEu5qE1d8KD4rRwaA0SiMa6HgZbi8wfdUq2Y4KY= sha512-OF8N9v4J29doCMzg5g0dJ6uz/bnqOaMGz1XFy15YomHPsHAhg52BKTqqi6n7n/Fid2V9CZu2SkyEwivsoUTH7Q==" crossorigin="anonymous">
+    <link href='/syntax.css' rel='stylesheet' />
+    <link href='/styles.css' rel='stylesheet' />
+  </head>
+  <body>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">TIL</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        <li><a href="https://github.com/jbranchaud/til">Source</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="container">
+      <h1 class="page-header"><%= title %></h1>
+      <%= content %>
+    </div>
+
+    <div class="container footer">
+      <hr>
+      <a href='/'>Home</a> |
+      <a href='https://github.com/jbranchaud/til/blob/master/LICENSE'>LICENSE</a> |
+      Source of all TILs is <a href='https://github.com/jbranchaud/til'>https://github.com/jbranchaud/til</a> |
+      Continuously Built by <a href="https://zammu.in/?invitation_code=TILBUILDER">Zammu</a>
+    </div>
+
+  </body>
+</html>
