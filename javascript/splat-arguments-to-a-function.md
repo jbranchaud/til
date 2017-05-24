@@ -17,3 +17,12 @@ function declaration. This can be done by using `apply`.
 > adder.apply(undefined, [1,2,3])
 6
 ```
+
+The same can be archived with the ES6 [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+```javascript
+function myFunction(x, y, z) { }
+var args = [0, 1, 2];
+myFunction(...args);
+```
+
