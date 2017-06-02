@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_533 TILs and counting..._
+_534 TILs and counting..._
 
 ---
 
@@ -342,6 +342,7 @@ _533 TILs and counting..._
 - [Attribute Was](rails/attribute-was.md)
 - [Autosave False On ActiveRecord Associations](rails/autosave-false-on-activerecord-associations.md)
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
+- [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
