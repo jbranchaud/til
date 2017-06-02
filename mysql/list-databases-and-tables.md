@@ -31,8 +31,8 @@ Alternatively, you can connect to the database of interest and then there is
 no need to specify the name of the database going forward.
 
 ```sql
-use my_app_dev;
-show tables;
+> use my_app_dev;
+> show tables;
 +------------------------------+
 | Tables_in_my_app_dev         |
 +------------------------------+
