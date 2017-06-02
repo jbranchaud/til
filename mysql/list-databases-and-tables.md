@@ -18,7 +18,7 @@ If you are curious about the tables in a particular database, you can list
 them by specifying the database's name:
 
 ```sql
-> show tables in my_app_dev
+> show tables in my_app_dev;
 +------------------------------+
 | Tables_in_my_app_dev         |
 +------------------------------+
