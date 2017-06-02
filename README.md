@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_534 TILs and counting..._
+_535 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _534 TILs and counting..._
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
+* [MySQL](#mysql)
 * [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
 * [Rails](#rails)
@@ -227,6 +228,10 @@ _534 TILs and counting..._
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
+
+### MySQL
+
+- [List Databases And Tables](mysql/list-databases-and-tables.md)
 
 ### Phoenix
 
