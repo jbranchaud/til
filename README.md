@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_535 TILs and counting..._
+_536 TILs and counting..._
 
 ---
 
@@ -232,6 +232,7 @@ _535 TILs and counting..._
 ### MySQL
 
 - [List Databases And Tables](mysql/list-databases-and-tables.md)
+- [Show Indexes For A Table](mysql/show-indexes-for-a-table.md)
 
 ### Phoenix
 
