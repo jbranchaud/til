@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_537 TILs and counting..._
+_538 TILs and counting..._
 
 ---
 
@@ -232,6 +232,7 @@ _537 TILs and counting..._
 ### MySQL
 
 - [Display Output In A Vertical Format](mysql/display-output-in-a-vertical-format.md)
+- [Dump A Database To A File](mysql/dump-a-database-to-a-file.md)
 - [List Databases And Tables](mysql/list-databases-and-tables.md)
 - [Show Indexes For A Table](mysql/show-indexes-for-a-table.md)
 
