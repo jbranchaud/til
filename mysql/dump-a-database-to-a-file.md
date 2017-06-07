@@ -18,3 +18,5 @@ constraints.
 If you need to dump multiple databases, include the `--databases` flag with
 a space-separated list of database names. Or dump all of them with
 `--all-databases`.
+
+See `man mysqldump` for more details.
