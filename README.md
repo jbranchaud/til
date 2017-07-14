@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_542 TILs and counting..._
+_543 TILs and counting..._
 
 ---
 
@@ -202,6 +202,7 @@ _542 TILs and counting..._
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
+- [Default And Named Exports From The Same Module](javascript/default-and-named-exports-from-the-same-module.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
 - [Expand Emojis With The Spread Operator](javascript/expand-emojis-with-the-spread-operator.md)
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
