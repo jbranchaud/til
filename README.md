@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_543 TILs and counting..._
+_544 TILs and counting..._
 
 ---
 
@@ -165,6 +165,7 @@ _543 TILs and counting..._
 - [List Most Git Commands](git/list-most-git-commands.md)
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
+- [Rebase Commits With An Arbitrary Command](git/rebase-commits-with-an-arbitrary-command.md)
 - [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
 - [Rename A Remote](git/rename-a-remote.md)
 - [Renaming A Branch](git/renaming-a-branch.md)
