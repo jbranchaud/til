@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_547 TILs and counting..._
+_548 TILs and counting..._
 
 ---
 
@@ -544,6 +544,7 @@ _547 TILs and counting..._
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
 - [Center The Cursor](vim/center-the-cursor.md)
+- [Check For An Executable](vim/check-for-an-executable.md)
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
 - [Close All Other Splits](vim/close-all-other-splits.md)
 - [Close All Other Windows](vim/close-all-other-windows.md)
