@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_548 TILs and counting..._
+_549 TILs and counting..._
 
 ---
 
@@ -561,6 +561,7 @@ _548 TILs and counting..._
 - [Delete To The End Of The Line](vim/delete-to-the-end-of-the-line.md)
 - [Deleting Buffers In BufExplorer](vim/deleting-buffers-in-bufexplorer.md)
 - [Deleting Directories Of Files From netrw](vim/deleting-directories-of-files-from-netrw.md)
+- [Detect If You Are On A Mac](vim/detect-if-you-are-on-a-mac.md)
 - [Difference Between :wq and :x](vim/difference-between-wq-and-x.md)
 - [Display Word Count Stats](vim/display-word-count-stats.md)
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
