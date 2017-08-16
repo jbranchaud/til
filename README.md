@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_549 TILs and counting..._
+_550 TILs and counting..._
 
 ---
 
@@ -196,6 +196,7 @@ _549 TILs and counting..._
 
 - [Add Emoji To GitHub Repository Description](internet/add-emoji-to-github-repository-description.md)
 - [Exclude Whitespace Changes From GitHub Diffs](internet/exclude-whitespace-changes-from-github-diffs.md)
+- [Search Tweets By Author](internet/search-tweets-by-author.md)
 
 ### JavaScript
 
