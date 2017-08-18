@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_551 TILs and counting..._
+_552 TILs and counting..._
 
 ---
 
@@ -502,6 +502,7 @@ _551 TILs and counting..._
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
 - [Less With Style](unix/less-with-style.md)
 - [List All Users](unix/list-all-users.md)
+- [List Files Ordered By Modification Date](unix/list-files-ordered-by-modification-date.md)
 - [List Names Of Files With Matches](unix/list-names-of-files-with-matches.md)
 - [List Of Sessions To A Machine](unix/list-of-sessions-to-a-machine.md)
 - [List Parent pid With ps](unix/list-parent-pid-with-ps.md)
