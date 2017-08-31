@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_553 TILs and counting..._
+_554 TILs and counting..._
 
 ---
 
@@ -573,6 +573,7 @@ _553 TILs and counting..._
 - [Format Long Lines To Text Width](vim/format-long-lines-to-text-width.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Get The pid Of The Session](vim/get-the-pid-of-the-session.md)
+- [Go To File With Line Number](vim/go-to-file-with-line-number.md)
 - [Grepping Through The Vim Help Files](vim/grepping-through-the-vim-help-files.md)
 - [Head of File Name](vim/head-of-file-name.md)
 - [Help For Non-Normal Mode Features](vim/help-for-non-normal-mode-features.md)
