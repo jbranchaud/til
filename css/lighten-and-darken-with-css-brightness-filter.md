@@ -16,12 +16,6 @@ make the element brighter.
 }
 ```
 
-<p data-height="171" data-theme-id="0" data-slug-hash="OjKJpa"
-data-default-tab="result" data-user="jbranchaud" data-embed-version="2"
-data-pen-title="OjKJpa" class="codepen">See the Pen <a
-href="https://codepen.io/jbranchaud/pen/OjKJpa/">OjKJpa</a> by Josh
-Branchaud (<a href="https://codepen.io/jbranchaud">@jbranchaud</a>) on <a
-href="https://codepen.io">CodePen</a>.</p>
 <script async
 src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
