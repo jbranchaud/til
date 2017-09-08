@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_554 TILs and counting..._
+_555 TILs and counting..._
 
 ---
 
@@ -79,6 +79,7 @@ _554 TILs and counting..._
 
 ### CSS
 
+- [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
 
 ### Devops
