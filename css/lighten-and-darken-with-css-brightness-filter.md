@@ -16,8 +16,7 @@ make the element brighter.
 }
 ```
 
-<script async
-src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+![brighter, regular, and darker spans](https://i.imgur.com/q4oy1d0.png)
 
 See this [CSS Tricks Article on the `filter`
 property](https://css-tricks.com/almanac/properties/f/filter/) for more
