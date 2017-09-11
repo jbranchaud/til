@@ -4,7 +4,7 @@ PostgreSQL provides the string function `initcap()` as a way of capitalizing
 all words. In the process, it cleans up the casing of the remaining parts of
 the words.
 
-Here are some example of how it works.
+Here are some examples of how it works.
 
 ```sql
 > select initcap('hello, world');
