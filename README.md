@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_555 TILs and counting..._
+_556 TILs and counting..._
 
 ---
 
@@ -263,6 +263,7 @@ _555 TILs and counting..._
 - [Assumed Radius Of The Earth](postgres/assumed-radius-of-the-earth.md)
 - [Auto Expanded Display](postgres/auto-expanded-display.md)
 - [Between Symmetric](postgres/between-symmetric.md)
+- [Capitalize All The Words](postgres/capitalize-all-the-words.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
 - [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
