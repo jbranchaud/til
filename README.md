@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_557 TILs and counting..._
+_558 TILs and counting..._
 
 ---
 
@@ -148,6 +148,7 @@ _557 TILs and counting..._
 - [Cherry Pick A Range Of Commits](git/cherry-pick-a-range-of-commits.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Clean Up Old Remote Tracking References](git/clean-up-old-remote-tracking-references.md)
+- [Clone A Repo Locally From .git](git/clone-a-repo-locally-from-git.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Diffing With Patience](git/diffing-with-patience.md)
