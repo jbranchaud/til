@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_556 TILs and counting..._
+_557 TILs and counting..._
 
 ---
 
@@ -252,6 +252,7 @@ _556 TILs and counting..._
 - [Bypass Template Rendering](phoenix/bypass-template-rendering.md)
 - [Check The Installed Version](phoenix/check-the-installed-version.md)
 - [Render A Template To A String](phoenix/render-a-template-to-a-string.md)
+- [Specifying The Digest Directory](phoenix/specifying-the-digest-directory.md)
 - [Specifying The Server Port](phoenix/specifying-the-server-port.md)
 
 ### PostgreSQL
