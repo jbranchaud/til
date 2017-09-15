@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_559 TILs and counting..._
+_560 TILs and counting..._
 
 ---
 
@@ -490,6 +490,7 @@ _559 TILs and counting..._
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
+- [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
