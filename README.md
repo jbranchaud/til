@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_560 TILs and counting..._
+_561 TILs and counting..._
 
 ---
 
@@ -155,6 +155,7 @@ _560 TILs and counting..._
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
+- [Get The Short Version Of The Latest Commit](git/get-the-short-version-of-the-latest-commit.md)
 - [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
 - [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
