@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_561 TILs and counting..._
+_562 TILs and counting..._
 
 ---
 
@@ -577,6 +577,7 @@ _561 TILs and counting..._
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
 - [End Of The Word](vim/end-of-the-word.md)
 - [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
+- [Fix The Spelling Of A Word](vim/fix-the-spelling-of-a-word.md)
 - [Format Long Lines To Text Width](vim/format-long-lines-to-text-width.md)
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Get The pid Of The Session](vim/get-the-pid-of-the-session.md)
