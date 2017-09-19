@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_563 TILs and counting..._
+_564 TILs and counting..._
 
 ---
 
@@ -237,6 +237,7 @@ _563 TILs and counting..._
 
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Default Screenshot Location](mac/default-screenshot-location.md)
+- [Display A Message With Alfred](mac/display-a-message-with-alfred.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
