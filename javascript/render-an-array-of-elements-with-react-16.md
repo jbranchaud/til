@@ -1,7 +1,9 @@
 # Render An Array Of Elements With React 16
 
-React 16 was released today. Among many exciting features and updates is
-support for rendering an array of elements.
+[React 16 was released
+today](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html).
+Among many exciting features and updates is support for rendering an array
+of elements.
 
 This can look as simple as this example:
 
