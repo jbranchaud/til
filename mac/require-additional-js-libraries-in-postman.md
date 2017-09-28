@@ -1,8 +1,9 @@
 # Require Additional JS Libraries In Postman
 
-When writing pre-request scripts and test scripts as part of a Postman
-request, you aren't limited to vanilla JavaScript. There are a handful of
-libraries that can be required where needed.
+When writing pre-request scripts and test scripts as part of a
+[Postman](https://www.getpostman.com/) request, you aren't limited to
+vanilla JavaScript. There are a handful of libraries that can be required
+where needed.
 
 This short list of available libraries includes `cherrio`, `lodash`, and
 `moment`.
