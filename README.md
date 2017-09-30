@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_567 TILs and counting..._
+_568 TILs and counting..._
 
 ---
 
@@ -296,6 +296,7 @@ _567 TILs and counting..._
 - [Dump And Restore A Database](postgres/dump-and-restore-a-database.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Escaping A Quote In A String](postgres/escaping-a-quote-in-a-string.md)
+- [Escaping String Literals With Dollar Quoting](postgres/escaping-string-literals-with-dollar-quoting.md)
 - [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
 - [Find The Data Directory](postgres/find-the-data-directory.md)
