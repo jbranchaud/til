@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_569 TILs and counting..._
+_570 TILs and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _569 TILs and counting..._
 * [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
 * [Rails](#rails)
+* [React](#react)
 * [Ruby](#ruby)
 * [tmux](#tmux)
 * [Unix](#unix)
@@ -401,6 +402,10 @@ _569 TILs and counting..._
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
+
+### React
+
+- [Force A Component To Only Have One Child](react/force-a-component-to-only-have-one-child.md)
 
 ### Ruby
 
