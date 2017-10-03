@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_570 TILs and counting..._
+_571 TILs and counting..._
 
 ---
 
@@ -463,6 +463,7 @@ _570 TILs and counting..._
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
 - [Up And Down With Integers](ruby/up-and-down-with-integers.md)
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
+- [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Zero Padding](ruby/zero-padding.md)
 
