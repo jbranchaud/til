@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_573 TILs and counting..._
+_574 TILs and counting..._
 
 ---
 
@@ -407,6 +407,7 @@ _573 TILs and counting..._
 ### React
 
 - [Force A Component To Only Have One Child](react/force-a-component-to-only-have-one-child.md)
+- [Passing Props Down To React-Router Route](react/passing-props-down-to-react-router-route.md)
 
 ### Ruby
 
