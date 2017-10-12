@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_575 TILs and counting..._
+_576 TILs and counting..._
 
 ---
 
@@ -176,6 +176,7 @@ _575 TILs and counting..._
 - [Renaming A Branch](git/renaming-a-branch.md)
 - [Resetting A Reset](git/resetting-a-reset.md)
 - [Show All Commits For A File Beyond Renaming](git/show-all-commits-for-a-file-beyond-renaming.md)
+- [Show File Diffs When Viewing Git Log](git/show-file-diffs-when-viewing-git-log.md)
 - [Show The diffstat Summary Of A Commit](git/show-the-diffstat-summary-of-a-commit.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
