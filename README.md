@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_576 TILs and counting..._
+_577 TILs and counting..._
 
 ---
 
@@ -217,6 +217,7 @@ _576 TILs and counting..._
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
 - [Initialize A New JavaScript Project With Yarn](javascript/initialize-a-new-javascript-project-with-yarn.md)
+- [Install The Latest Version Of Node With Nvm](javascript/install-the-lateset-version-of-node-with-nvm.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
