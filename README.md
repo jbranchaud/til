@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_577 TILs and counting..._
+_578 TILs and counting..._
 
 ---
 
@@ -658,6 +658,7 @@ _577 TILs and counting..._
 - [Show All Syntax Highlighting Rules](vim/show-all-syntax-highlighting-rules.md)
 - [Show Matching Entries For Help](vim/show-matching-entries-for-help.md)
 - [Split Different](vim/split-different.md)
+- [Split The Current Window](vim/split-the-current-window.md)
 - [Splitting For New Files](vim/splitting-for-new-files.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Swapping Split Windows](vim/swapping-split-windows.md)
