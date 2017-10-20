@@ -19,3 +19,5 @@ Ctrl-w v
 With the split made, you can use `Ctrl-o`/`Ctrl-i`,
 [BufExplorer](https://github.com/jlanzarotta/bufexplorer), or whatever way
 you like to navigate between buffers.
+
+h/t Ryan Messner
