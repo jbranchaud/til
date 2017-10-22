@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_579 TILs and counting..._
+_580 TILs and counting..._
 
 ---
 
@@ -225,6 +225,7 @@ _579 TILs and counting..._
 - [Render An Array Of Elements With React 16](javascript/render-an-array-of-elements-with-react-16.md)
 - [Running ES6 Specs With Mocha](javascript/running-es6-specs-with-mocha.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
+- [String Interpolation With Template Literals](javascript/string-interpolation-with-template-literals.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
 - [Timing Processes](javascript/timing-processes.md)
 - [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
