@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_580 TILs and counting..._
+_581 TILs and counting..._
 
 ---
 
@@ -461,6 +461,7 @@ _580 TILs and counting..._
 - [Returning With Sequel](ruby/returning-with-sequel.md)
 - [Running A Single MiniTest Example](ruby/running-a-single-minitest-example.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
+- [Scroll To Top Of Page With Capybara](ruby/scroll-to-top-of-page-with-capybara.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
