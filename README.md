@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_581 TILs and counting..._
+_582 TILs and counting..._
 
 ---
 
@@ -444,6 +444,7 @@ _581 TILs and counting..._
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
+- [Navigate Back In The Browser With Capybara](ruby/navigate-back-in-the-browser-with-capybara.md)
 - [Next And Previous Floats](ruby/next-and-previous-floats.md)
 - [Or Operator Precedence](ruby/or-operator-precedence.md)
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
