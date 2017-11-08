@@ -2,7 +2,7 @@
 
 To upgrade from an older version on Mac, there are a couple manual steps
 that you need to take. For starters, download the latest installer for Mac
-from [Go Lang Download](https://golang.org/dl/).
+from [Go Lang Downloads](https://golang.org/dl/).
 
 While this is downloading, you'll need to delete the older version of Go
 that is installed on your machine.
