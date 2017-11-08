@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_583 TILs and counting..._
+_584 TILs and counting..._
 
 ---
 
@@ -197,6 +197,7 @@ _583 TILs and counting..._
 - [Not So Random](go/not-so-random.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
+- [Upgrading From An Older Version On Mac](go/upgrading-from-an-older-version-on-mac.md)
 
 ### Internet
 
