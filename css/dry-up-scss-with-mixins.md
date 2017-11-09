@@ -27,7 +27,7 @@ Then, this mixin can be _included_ wherever it is needed.
 
 ```css
 div.base-nav {
-  @include nav;
+  @include navgation;
   background-color: #fff;
   color: #444;
 
@@ -39,7 +39,7 @@ div.base-nav {
 }
 
 div.admin-nav {
-  @include nav;
+  @include navgation;
   background-color: #000;
   color: #fff;
 
