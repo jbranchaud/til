@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_588 TILs and counting..._
+_589 TILs and counting..._
 
 ---
 
@@ -163,6 +163,7 @@ _588 TILs and counting..._
 - [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
+- [Include Some Stats In Your Git Log](git/include-some-stats-in-your-git-log.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
