@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_591 TILs and counting..._
+_592 TILs and counting..._
 
 ---
 
@@ -226,6 +226,7 @@ _591 TILs and counting..._
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
 - [Initialize A New JavaScript Project With Yarn](javascript/initialize-a-new-javascript-project-with-yarn.md)
 - [Install The Latest Version Of Node With Nvm](javascript/install-the-latest-version-of-node-with-nvm.md)
+- [ISO-8601 Formatted Dates Are Interpreted As UTC](javascript/iso-8601-formatted-dates-are-interpreted-as-utc.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
