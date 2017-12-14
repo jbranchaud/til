@@ -1,7 +1,7 @@
 # Open An Integrated Terminal Window
 
-VSCode offers an integrated terminal that can be used for any of your bash
-needs -- tests, various git commands, etc.
+Visual Studio's Code editor offers an integrated terminal that can be used
+for any of your bash needs -- tests, various git commands, etc.
 
 You can toggle the integrated terminal window open and closed with
 
