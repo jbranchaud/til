@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_592 TILs and counting..._
+_593 TILs and counting..._
 
 ---
 
@@ -37,6 +37,7 @@ _592 TILs and counting..._
 * [tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
+* [VSCode](#vscode)
 * [Webpack](#webpack)
 * [Workflow](#workflow)
 
@@ -690,6 +691,10 @@ _592 TILs and counting..._
 - [What Is On The Runtime Path?](vim/what-is-on-the-runtime-path.md)
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
+
+## VSCode
+
+- [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
 
 ## Webpack
 
