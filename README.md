@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_593 TILs and counting..._
+_594 TILs and counting..._
 
 ---
 
@@ -559,6 +559,7 @@ _593 TILs and counting..._
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
+- [Show The Size Of Everything In A Directory](unix/show-the-size-of-everything-in-a-directory.md)
 - [SSH Escape Sequences](unix/ssh-escape-sequences.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Sort In Numerical Order](unix/sort-in-numerical-order.md)
