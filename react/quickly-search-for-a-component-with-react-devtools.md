@@ -1,7 +1,7 @@
 # Quickly Search For A Component With React DevTools
 
 As the size of your React app grows, it can become challenging to track down
-specific component within the [React
+specific components within the [React
 DevTools](https://github.com/facebook/react-devtools) extension. You opened
 it up with the hopes of quickly inspecting the `props` being received by a
 component, but find yourself navigating through the DOM structure instead.
