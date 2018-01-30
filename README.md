@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_599 TILs and counting..._
+_600 TILs and counting..._
 
 ---
 
@@ -427,6 +427,7 @@ _599 TILs and counting..._
 - [Inline Style Attributes Should Be Camel Cased](react/inline-style-attributes-should-be-camel-cased.md)
 - [Passing Props Down To React-Router Route](react/passing-props-down-to-react-router-route.md)
 - [Proxy To An API Server In Development With CRA](react/proxy-to-an-api-server-in-development-with-cra.md)
+- [Quickly Search For A Component With React DevTools](react/quickly-search-for-a-component-with-react-devtools.md)
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
 
 ### Ruby
