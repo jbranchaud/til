@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_600 TILs and counting..._
+_601 TILs and counting..._
 
 ---
 
@@ -421,6 +421,7 @@ _600 TILs and counting..._
 ### React
 
 - [Accessing Env Vars In create-react-app](react/accessing-env-vars-in-create-react-app.md)
+- [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
 - [Dispatch Anywhere With Redux](react/dispatch-anywhere-with-redux.md)
 - [Force A Component To Only Have One Child](react/force-a-component-to-only-have-one-child.md)
 - [Inactive And Active Component Styles With Radium](react/inactive-and-active-component-styles-with-radium.md)
