@@ -15,7 +15,7 @@ class MyAutofocusInput extends React.Component {
     if (component) {
       component.focus();
     }
-  }
+  };
 
   render() {
     return (
@@ -24,7 +24,7 @@ class MyAutofocusInput extends React.Component {
         value={this.props.value}
         onChange={this.props.onChange}
       />
-    )
+    );
   }
 }
 ```
@@ -32,7 +32,7 @@ class MyAutofocusInput extends React.Component {
 When this component gets rendered, the input will be focused via our
 `focusInput` function.
 
-Note: refs only work with class component, so don't try to use it on a
+Note: refs only work with class components, so don't try to use it with a
 functional component.
 
 See [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html) in
