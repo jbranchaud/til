@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_602 TILs and counting..._
+_603 TILs and counting..._
 
 ---
 
@@ -537,6 +537,7 @@ _602 TILs and counting..._
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Newer Files](unix/find-newer-files.md)
+- [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
 - [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
 - [Globbing For All Directories In Zsh](unix/globbing-for-all-directories-in-zsh.md)
