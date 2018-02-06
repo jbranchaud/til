@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_605 TILs and counting..._
+_606 TILs and counting..._
 
 ---
 
@@ -421,6 +421,7 @@ _605 TILs and counting..._
 ### React
 
 - [Accessing Env Vars In create-react-app](react/accessing-env-vars-in-create-react-app.md)
+- [Alter The Display Name Of A Component](react/alter-the-display-name-of-a-component.md)
 - [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
 - [Defining State In A Simple Class Component](react/defining-state-in-a-simple-class-component.md)
 - [Dispatch Anywhere With Redux](react/dispatch-anywhere-with-redux.md)
