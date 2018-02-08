@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_608 TILs and counting..._
+_609 TILs and counting..._
 
 ---
 
@@ -710,6 +710,7 @@ _608 TILs and counting..._
 ## VSCode
 
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
+- [Toggle Between Terminals](vscode/toggle-between-terminals.md)
 
 ## Webpack
 
