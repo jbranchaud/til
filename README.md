@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_610 TILs and counting..._
+_611 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _610 TILs and counting..._
 * [PostgreSQL](#postgresql)
 * [Rails](#rails)
 * [React](#react)
+* [ReasonML](#reasonml)
 * [Ruby](#ruby)
 * [tmux](#tmux)
 * [Unix](#unix)
@@ -436,6 +437,10 @@ _610 TILs and counting..._
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
 - [Use A Ref To Autofocus An Input](react/use-a-ref-to-autofocus-an-input.md)
 - [Visually Select A React Element For Inspection](react/visually-select-a-react-element-for-inspection.md)
+
+### ReasonML
+
+- [Pattern Match On Exceptions](reason/pattern-match-on-exceptions.md)
 
 ### Ruby
 
