@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_612 TILs and counting..._
+_613 TILs and counting..._
 
 ---
 
@@ -440,6 +440,7 @@ _612 TILs and counting..._
 
 ### ReasonML
 
+- [Exhaustive Pattern Matching Of List Variants](reason/exhaustive-pattern-matching-of-list-variants.md)
 - [Pattern Match On Exceptions](reason/pattern-match-on-exceptions.md)
 - [String Interpolation With Integers And Sprintf](reason/string-interpolation-with-integers-and-sprintf.md)
 
