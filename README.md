@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_615 TILs and counting..._
+_616 TILs and counting..._
 
 ---
 
@@ -262,6 +262,7 @@ _615 TILs and counting..._
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Require Additional JS Libraries In Postman](mac/require-additional-js-libraries-in-postman.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
+- [Run A Hardware Check](mac/run-a-hardware-check.md)
 
 ### MySQL
 
