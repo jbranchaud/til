@@ -444,7 +444,7 @@ _619 TILs and counting..._
 ### ReasonML
 
 - [Exhaustive Pattern Matching Of List Variants](reason/exhaustive-pattern-matching-of-list-variants.md)
-- [Inline Component Styles With React Reason](reason/inline-component-styles-with-react-reason.md)
+- [Inline Component Styles With Reason React](reason/inline-component-styles-with-reason-react.md)
 - [Multi-Argument Functions As Syntactic Sugar](reason/multi-argument-functions-as-syntactic-sugar.md)
 - [Pattern Match On Exceptions](reason/pattern-match-on-exceptions.md)
 - [Quickly Bootstrap A React App Using Reason](reason/quickly-bootstrap-a-react-app-using-reason.md)
