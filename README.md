@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_620 TILs and counting..._
+_621 TILs and counting..._
 
 ---
 
@@ -443,6 +443,7 @@ _620 TILs and counting..._
 
 ### ReasonML
 
+- [Defining Variants With Constructor Arguments](reason/defining-variants-with-constructor-arguments.md)
 - [Exhaustive Pattern Matching Of List Variants](reason/exhaustive-pattern-matching-of-list-variants.md)
 - [Helping The Compiler Help Us With Variants](reason/helping-the-compiler-help-us-with-variants.md)
 - [Inline Component Styles With Reason React](reason/inline-component-styles-with-reason-react.md)
