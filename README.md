@@ -759,7 +759,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2015-2017 Josh Branchaud
+&copy; 2015-2018 Josh Branchaud
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
