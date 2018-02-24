@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_625 TILs and counting..._
+_626 TILs and counting..._
 
 ---
 
@@ -440,6 +440,7 @@ _625 TILs and counting..._
 - [Passing Props Down To React-Router Route](react/passing-props-down-to-react-router-route.md)
 - [Proxy To An API Server In Development With CRA](react/proxy-to-an-api-server-in-development-with-cra.md)
 - [Quickly Search For A Component With React DevTools](react/quickly-search-for-a-component-with-react-devtools.md)
+- [Read Only Input Elements](react/read-only-input-elements.md)
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
 - [Use A Ref To Autofocus An Input](react/use-a-ref-to-autofocus-an-input.md)
 - [Visually Select A React Element For Inspection](react/visually-select-a-react-element-for-inspection.md)
