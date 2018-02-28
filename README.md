@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_628 TILs and counting..._
+_629 TILs and counting..._
 
 ---
 
@@ -445,6 +445,7 @@ _628 TILs and counting..._
 - [Read Only Input Elements](react/read-only-input-elements.md)
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
 - [Use A Ref To Autofocus An Input](react/use-a-ref-to-autofocus-an-input.md)
+- [Use withRouter To Pass Down React-Router History](react/use-withrouter-to-pass-down-react-router-history.md)
 - [Visually Select A React Element For Inspection](react/visually-select-a-react-element-for-inspection.md)
 
 ### ReasonML
