@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_631 TILs and counting..._
+_632 TILs and counting..._
 
 ---
 
@@ -237,6 +237,7 @@ _631 TILs and counting..._
 - [Initialize A New JavaScript Project With Yarn](javascript/initialize-a-new-javascript-project-with-yarn.md)
 - [Install The Latest Version Of Node With Nvm](javascript/install-the-latest-version-of-node-with-nvm.md)
 - [ISO-8601 Formatted Dates Are Interpreted As UTC](javascript/iso-8601-formatted-dates-are-interpreted-as-utc.md)
+- [Link A JavaScript Package Locally](javascript/link-a-javascript-package-locally.md)
 - [List Top-Level NPM Dependencies](javascript/list-top-level-npm-dependencies.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
 - [New Dates Can Take Out Of Bounds Values](javascript/new-dates-can-take-out-of-bounds-values.md)
