@@ -23,3 +23,5 @@ directory to the `node_modules` of this target project.
 
 You'll now have access to the project, try an `import` to get what you need
 and try it out.
+
+See `man npm-link` for more details.
