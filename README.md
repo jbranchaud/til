@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_634 TILs and counting..._
+_635 TILs and counting..._
 
 ---
 
@@ -256,6 +256,7 @@ _634 TILs and counting..._
 - [Waiting On Multiple Promises](javascript/waiting-on-multiple-promises.md)
 - [Who Am I: NPM Edition](javascript/who-am-i-npm-edition.md)
 - [Yarn Commands Without The Emojis](javascript/yarn-commands-without-the-emojis.md)
+- [Yup Schemas Are Validated Asynchronously](javascript/yup-schemas-are-validated-asynchronously.md)
 
 ### Linux
 
