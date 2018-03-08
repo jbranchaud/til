@@ -10,7 +10,7 @@ const numSchema = yup.number();
 ```
 
 If we use this schema to validate something that isn't a number, Yup will
-provide a lengthy default message. Here is what we get if I validate against
+provide a lengthy default message. Here is what we get if we validate against
 `'hey'`:
 
 > this must be a `number` type, but the final value was: `NaN` (cast from
