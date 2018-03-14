@@ -13,7 +13,7 @@ const gymLeaders = {
   brock: "rock",
   misty: "water",
   surge: "electric",
-  erika: "rainbow"
+  erika: "grass"
 };
 let { brock, erika, ...otherLeaders } = gymLeaders;
 
