@@ -26,7 +26,7 @@ signature to grab specific items from an incoming object argument without
 losing track of the rest -- this is especially useful in React.js
 development when dealing with incoming props.
 
-This is a [stage 3
+This is a [stage 4
 feature](https://github.com/tc39/proposal-object-rest-spread) and may not be
 available in your particular environment.
 
