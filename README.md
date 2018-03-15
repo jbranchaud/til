@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_640 TILs and counting..._
+_641 TILs and counting..._
 
 ---
 
@@ -438,6 +438,7 @@ _640 TILs and counting..._
 
 ### React
 
+- [A Component Is Just A Bag Of Data](react/a-component-is-just-a-bag-of-data.md)
 - [Accessing Env Vars In create-react-app](react/accessing-env-vars-in-create-react-app.md)
 - [Alter The Display Name Of A Component](react/alter-the-display-name-of-a-component.md)
 - [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
