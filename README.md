@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_643 TILs and counting..._
+_644 TILs and counting..._
 
 ---
 
@@ -471,6 +471,7 @@ _643 TILs and counting..._
 - [Pattern Match On Exceptions](reason/pattern-match-on-exceptions.md)
 - [Quickly Bootstrap A React App Using Reason](reason/quickly-bootstrap-a-react-app-using-reason.md)
 - [String Interpolation With Integers And Sprintf](reason/string-interpolation-with-integers-and-sprintf.md)
+- [String Interpolation With Quoted Strings](reason/string-interpolation-with-quoted-strings.md)
 
 ### Ruby
 
