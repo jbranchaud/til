@@ -18,3 +18,6 @@ time.
 ```reason
 Random.init(int_of_float(Js.Date.now()));
 ```
+
+See a [live example
+here](https://reasonml.github.io/en/try.html?reason=EoQwdgJg9gtgdASzAgLgCiSg+lAZl3AGyhHQCkBnOAEVIFM4woB3NASg4G4AobyuYgHM0oSLERh0ARgAMXPlSEjw0eJjSz5-JaNUTpctj21Rhu8es1GFA08rFrJGw5yA).
