@@ -6,7 +6,7 @@ of pages up and running, you'll probably want a way to quickly navigate to
 them. You can add a quick listing of all the pages with a couple helpers
 provided by Middleman.
 
-```ruby
+```erb
 <ul>
   <% sitemap.resources.each do |resource| %>
     <li><%= link_to(resource.path, resource.path) %></li>
@@ -21,7 +21,7 @@ makes it easy to turn those into links.
 Because `resources` includes images and other assets, you may want to filter
 down to just `html` files which could look something like the following:
 
-```ruby
+```erb
 <ul>
   <% sitemap.resources
        .select { |resource| resource.path =~ /html$/ }
