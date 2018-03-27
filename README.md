@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_650 TILs and counting..._
+_651 TILs and counting..._
 
 ---
 
@@ -451,6 +451,7 @@ _650 TILs and counting..._
 - [Destructure Variables As Props To A Component](react/destructure-variables-as-props-to-a-component.md)
 - [Dispatch Anywhere With Redux](react/dispatch-anywhere-with-redux.md)
 - [Dynamically Add Props To A Child Component](react/dynamically-add-props-to-a-child-component.md)
+- [Enforce Specific Values With PropTypes](react/enforce-specific-values-with-proptypes.md)
 - [Force A Component To Only Have One Child](react/force-a-component-to-only-have-one-child.md)
 - [Inactive And Active Component Styles With Radium](react/inactive-and-active-component-styles-with-radium.md)
 - [Inline Style Attributes Should Be Camel Cased](react/inline-style-attributes-should-be-camel-cased.md)
