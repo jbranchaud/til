@@ -8,7 +8,7 @@ specific set of values, an enum if you will.
 
 ```javascript
 MyComponent.propTypes = {
-  flavors: PropTypes.oneOf(['Vanilla', 'Chocolate', 'Strawberry']),
+  flavor: PropTypes.oneOf(['Vanilla', 'Chocolate', 'Strawberry']),
 };
 ```
 
