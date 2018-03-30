@@ -1,9 +1,10 @@
 # Test Coverage Stats With Jest
 
-Jest is a delightful tool for JavaScript testing from Facebook. As your
-project evolves and you add tests (or perhaps choose to not add tests) you
-may wonder what kind of test coverage you have. What is the overall
-coverage? Which files are well covered and which are seriously lacking?
+[Jest](https://facebook.github.io/jest/) is a delightful tool for JavaScript
+testing from Facebook. As your project evolves and you add tests (or perhaps
+choose to not add tests) you may wonder what kind of test coverage you have.
+What is the overall coverage? Which files are well covered and which are
+seriously lacking?
 
 Use the `--coverage` flag to get this information.
 
