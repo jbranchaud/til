@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_655 TILs and counting..._
+_656 TILs and counting..._
 
 ---
 
@@ -450,6 +450,7 @@ _655 TILs and counting..._
 - [Alter The Display Name Of A Component](react/alter-the-display-name-of-a-component.md)
 - [Building A React App In The Browser](react/building-a-react-app-in-the-browser.md)
 - [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
+- [Debug Jest Tests In create-react-app](react/debug-jest-tests-in-create-react-app.md)
 - [Defining State In A Simple Class Component](react/defining-state-in-a-simple-class-component.md)
 - [Destructure Variables As Props To A Component](react/destructure-variables-as-props-to-a-component.md)
 - [Dispatch Anywhere With Redux](react/dispatch-anywhere-with-redux.md)
