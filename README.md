@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_657 TILs and counting..._
+_658 TILs and counting..._
 
 ---
 
@@ -246,6 +246,7 @@ _657 TILs and counting..._
 - [Link A JavaScript Package Locally](javascript/link-a-javascript-package-locally.md)
 - [List Top-Level NPM Dependencies](javascript/list-top-level-npm-dependencies.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
+- [Mock A Function With Return Values Using Jest](javascript/mock-a-function-with-return-values-using-jest.md)
 - [New Dates Can Take Out Of Bounds Values](javascript/new-dates-can-take-out-of-bounds-values.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
