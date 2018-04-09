@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_659 TILs and counting..._
+_660 TILs and counting..._
 
 ---
 
@@ -251,6 +251,7 @@ _659 TILs and counting..._
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
+- [Reach Into An Object For Nested Data With Get](javascript/reach-into-an-object-for-nested-data-with-get.md)
 - [Render An Array Of Elements With React 16](javascript/render-an-array-of-elements-with-react-16.md)
 - [Running ES6 Specs With Mocha](javascript/running-es6-specs-with-mocha.md)
 - [Scoping Variables With A Block Statement](javascript/scoping-variables-with-a-block-statement.md)
