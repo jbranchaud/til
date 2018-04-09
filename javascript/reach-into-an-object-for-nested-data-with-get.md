@@ -29,7 +29,7 @@ thrown. We can simultaneously avoid a bunch of exception handling logic and
 provide a default value with the `_.get` function:
 
 ```javascript
-_.get(resp, 'resp.error.errors[0].message', 'Default error message');
+_.get(resp, 'error.errors[0].message', 'Default error message');
 ```
 
 If we decide to not include a default value, then `undefined` will be used.
