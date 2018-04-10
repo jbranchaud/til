@@ -1,6 +1,9 @@
 # Access The Latest Lifecycle Methods In An Old App
 
-With the release of React 16.3 we have access to some new lifecycle methods
+With [the release of React
+16.3](https://reactjs.org/blog/2018/03/29/react-v-16-3.html) we have access
+to some [new lifecycle
+methods](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 and are in the first phase of what will eventually result in the deprecation
 and removal of `componentWillMount`, `componentWillReceiveProps`, and
 `componentWillUpdate`.
