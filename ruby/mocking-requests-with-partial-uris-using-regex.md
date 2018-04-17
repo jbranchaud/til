@@ -15,7 +15,8 @@ change or be configurable. The `stub_request` method allows us to use regex.
 stub_request(:post, %r|/api/posts|)
 ```
 
-Using the `%r` regex literal syntax, we are able to avoid escaping all of
-the `/` characters in our URI.
+Using [the `%r` regex literal
+syntax](https://ruby-doc.org/core-2.2.0/Regexp.html), we are able to avoid
+escaping all of the `/` characters in our URI.
 
 h/t Brian Dunn
