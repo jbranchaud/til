@@ -37,3 +37,5 @@ fetchTrainer(trainerName)
 
 `Promise.all` allows us to resolve and pass multiple promises. If any of the
 values in the array argument is not a promise, it simply passes it through.
+
+h/t Brian Dunn
