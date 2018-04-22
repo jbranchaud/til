@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_669 TILs and counting..._
+_670 TILs and counting..._
 
 ---
 
@@ -227,6 +227,7 @@ _669 TILs and counting..._
 
 - [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
+- [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Create Bootstrapped Apps With Yarn](javascript/create-bootstrapped-apps-with-yarn.md)
