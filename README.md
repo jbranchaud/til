@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_673 TILs and counting..._
+_674 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _673 TILs and counting..._
 * [PostgreSQL](#postgresql)
 * [Rails](#rails)
 * [React](#react)
+* [React Native](#react-native)
 * [ReasonML](#reasonml)
 * [Ruby](#ruby)
 * [tmux](#tmux)
@@ -484,6 +485,10 @@ _673 TILs and counting..._
 - [Use withRouter To Pass Down React-Router History](react/use-withrouter-to-pass-down-react-router-history.md)
 - [Visually Select A React Element For Inspection](react/visually-select-a-react-element-for-inspection.md)
 - [Who Is Your Favorite Child?](react/who-is-your-favorite-child.md)
+
+### React Native
+
+- [Avoid The Notch With SafeAreaView](react_native/avoid-the-notch-with-safeareaview.md)
 
 ### ReasonML
 
