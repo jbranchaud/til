@@ -25,4 +25,6 @@ const App = () => {
 The _unsafe_ area can be styled however you like and everything inside
 `<SafeAreaView>` will be pushed into the visible area of the screen.
 
+h/t Dillon Hafer
+
 [source](https://facebook.github.io/react-native/docs/safeareaview.html)
