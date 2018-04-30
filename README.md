@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_675 TILs and counting..._
+_676 TILs and counting..._
 
 ---
 
@@ -483,6 +483,7 @@ _675 TILs and counting..._
 - [Test Files In create-react-app](react/test-files-in-create-react-app.md)
 - [Upgrading To The Latest React In CodeSandbox](react/upgrading-to-the-latest-react-in-codesandbox.md)
 - [Use A Ref To Autofocus An Input](react/use-a-ref-to-autofocus-an-input.md)
+- [Use React 16 With Gatsby](react/use-react-16-with-gatsby.md)
 - [Use withRouter To Pass Down React-Router History](react/use-withrouter-to-pass-down-react-router-history.md)
 - [Visually Select A React Element For Inspection](react/visually-select-a-react-element-for-inspection.md)
 - [Who Is Your Favorite Child?](react/who-is-your-favorite-child.md)
