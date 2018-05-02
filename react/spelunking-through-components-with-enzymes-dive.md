@@ -12,8 +12,9 @@ const HelloContainer = (props) => (
 );
 ```
 
-If we are to shallow render the above component using Enzyme, we'll only see
-things one layer deep:
+If we are to [shallow render the above component using
+Enzyme](http://airbnb.io/enzyme/docs/api/ShallowWrapper/shallow.html), we'll
+only see things one layer deep:
 
 ```javascript
 const wrapper = shallow(<HelloContainer name="World" />);
