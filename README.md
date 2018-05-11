@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_677 TILs and counting..._
+_678 TILs and counting..._
 
 ---
 
@@ -268,6 +268,7 @@ _677 TILs and counting..._
 - [Timing Processes](javascript/timing-processes.md)
 - [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
+- [Turn Off Console Error Messages In A Test](javascript/turn-off-console-error-messages-in-a-test.md)
 - [Waiting On Multiple Promises](javascript/waiting-on-multiple-promises.md)
 - [Who Am I: NPM Edition](javascript/who-am-i-npm-edition.md)
 - [Yarn Commands Without The Emojis](javascript/yarn-commands-without-the-emojis.md)
