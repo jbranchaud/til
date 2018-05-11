@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_678 TILs and counting..._
+_679 TILs and counting..._
 
 ---
 
@@ -98,6 +98,7 @@ _678 TILs and counting..._
 ### Devops
 
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
+- [Allow HTTPS Through Your UFW Firewall](devops/allow-https-through-your-ufw-firewall.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
