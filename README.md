@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_679 TILs and counting..._
+_680 TILs and counting..._
 
 ---
 
@@ -234,6 +234,7 @@ _679 TILs and counting..._
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Configure Jest To Run A Test Setup File](javascript/configure-jest-to-run-a-test-setup-file.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
+- [Create An Object With No Properties](javascript/create-an-object-with-no-properties.md)
 - [Create Bootstrapped Apps With Yarn](javascript/create-bootstrapped-apps-with-yarn.md)
 - [Custom Type Checking Error Messages With Yup](javascript/custom-type-checking-error-messages-with-yup.md)
 - [Default And Named Exports From The Same Module](javascript/default-and-named-exports-from-the-same-module.md)
