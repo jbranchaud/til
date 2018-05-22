@@ -36,6 +36,6 @@ class MyComponent extends React.Component {
 }
 ```
 
-I can force this `Counter` component to remount, thus resetting its state
-simply by passing it a new `key` value. The `button` can trigger this by
-updating the `remountKey` value.
+I can force this `Counter` component to remount, thus resetting its state by
+passing it a new `key` value. The `button` can trigger this by updating the
+`remountKey` value.
