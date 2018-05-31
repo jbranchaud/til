@@ -18,14 +18,14 @@ const fetchPromise = new PCancelable((resolve, reject, onCancel) => {
   }, 10000);
 
   onCancel(() => {
-    console.log('This promise is being canceled');
+    console.log('Promise is being canceled');
   });
 });
 
 fetchPromise.then(response => {
-  console.log('Promises Resolved: ', response.data);
+  console.log('Promise Resolved: ', response.data);
 }).catch(err => {
-  console.log('Promises Rejected: ', err);
+  console.log('Promise Rejected: ', err);
 });
 
 fetchPromise.cancel();
