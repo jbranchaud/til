@@ -5,7 +5,7 @@ eventually want to break out of the loop. For that, you are going to need to
 invalidate the _while condition_. One way of going about this is creating a
 mutable ref, changing it from true to false when a certain condition is met.
 
-```reasonml
+```reason
 let break = ref(true);
 
 while (break^) {
