@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_683 TILs and counting..._
+_684 TILs and counting..._
 
 ---
 
@@ -501,6 +501,7 @@ _683 TILs and counting..._
 
 ### ReasonML
 
+- [Break Out Of A While Loop](reason/break-out-of-a-while-loop.md)
 - [Defining Variants With Constructor Arguments](reason/defining-variants-with-constructor-arguments.md)
 - [Exhaustive Pattern Matching Of List Variants](reason/exhaustive-pattern-matching-of-list-variants.md)
 - [Helping The Compiler Help Us With Variants](reason/helping-the-compiler-help-us-with-variants.md)
