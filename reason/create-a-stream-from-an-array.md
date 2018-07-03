@@ -10,11 +10,11 @@ The `Stream.from` function lets you define a function for custom fitting
 data structures into streams. Let's take a look:
 
 ```reason
-let pokemon = [| "bulbasaur", "charmander", "squirtle" |];
+let pokemons = [| "bulbasaur", "charmander", "squirtle" |];
 
 let poke_stream: Stream.t(string) =
   Stream.from(i =>
-    switch (pokemon[i]) {
+    switch (pokemons[i]) {
     | pokemon => Some(pokemon)
     | exception (Invalid_argument("index out of bounds")) => None
     }
