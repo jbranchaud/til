@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_687 TILs and counting..._
+_688 TILs and counting..._
 
 ---
 
@@ -167,6 +167,7 @@ _687 TILs and counting..._
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Diffing With Patience](git/diffing-with-patience.md)
+- [Dropping Commits With Git Rebase](git/dropping-commits-with-git-rebase.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
