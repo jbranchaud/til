@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_688 TILs and counting..._
+_689 TILs and counting..._
 
 ---
 
@@ -642,6 +642,7 @@ _688 TILs and counting..._
 - [List Names Of Files With Matches](unix/list-names-of-files-with-matches.md)
 - [List Of Sessions To A Machine](unix/list-of-sessions-to-a-machine.md)
 - [List Parent pid With ps](unix/list-parent-pid-with-ps.md)
+- [List Stats For A File](unix/list-stats-for-a-file.md)
 - [List The Available JDKs](unix/list-the-available-jdks.md)
 - [Map A Domain To localhost](unix/map-a-domain-to-localhost.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
