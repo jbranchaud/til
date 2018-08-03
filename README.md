@@ -511,7 +511,7 @@ _696 TILs and counting..._
 - [Generate Starter Reason Projects](reason/generate-starter-reason-projects.md)
 - [Helping The Compiler Help Us With Variants](reason/helping-the-compiler-help-us-with-variants.md)
 - [Inline Component Styles With Reason React](reason/inline-component-styles-with-reason-react.md)
-- [Is This A Directory Or A File](reason/is-this-a-directory-or-a-file.md)
+- [Is This A Directory Or A File?](reason/is-this-a-directory-or-a-file.md)
 - [Making Things Mutable](reason/making-things-mutable.md)
 - [Multi-Argument Functions As Syntactic Sugar](reason/multi-argument-functions-as-syntactic-sugar.md)
 - [Pattern Match On Exceptions](reason/pattern-match-on-exceptions.md)
