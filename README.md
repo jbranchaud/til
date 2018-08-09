@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_696 TILs and counting..._
+_697 TILs and counting..._
 
 ---
 
@@ -674,6 +674,7 @@ _696 TILs and counting..._
 
 ### Vim
 
+- [Aborting Git Commits And Rebases](vim/aborting-git-commits-and-rebases.md)
 - [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
 - [Add A File Without Loading It](vim/add-a-file-without-loading-it.md)
 - [Add Custom Dictionary Words](vim/add-custom-dictionary-words.md)
