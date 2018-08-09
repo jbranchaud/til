@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_697 TILs and counting..._
+_698 TILs and counting..._
 
 ---
 
@@ -757,6 +757,7 @@ _697 TILs and counting..._
 - [Preventing Typos with Abbreviations](vim/preventing-typos-with-abbreviations.md)
 - [Previous Buffer](vim/previous-buffer.md)
 - [Previous Visual Selection](vim/previous-visual-selection.md)
+- [Print The Relative Path Of The Current File](vim/print-the-relative-path-of-the-current-file.md)
 - [Print Version Information](vim/print-version-information.md)
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
