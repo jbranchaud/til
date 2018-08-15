@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_698 TILs and counting..._
+_699 TILs and counting..._
 
 ---
 
@@ -634,6 +634,7 @@ _698 TILs and counting..._
 - [Globbing For All Directories In Zsh](unix/globbing-for-all-directories-in-zsh.md)
 - [Globbing For Filenames In Zsh](unix/globbing-for-filenames-in-zsh.md)
 - [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
+- [Grep For Files With Multiple Matches](unix/grep-for-files-with-multiple-matches.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
 - [Jump To The Ends Of Your Shell History](unix/jump-to-the-ends-of-your-shell-history.md)
