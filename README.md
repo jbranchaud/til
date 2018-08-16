@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_699 TILs and counting..._
+_700 TILs and counting..._
 
 ---
 
@@ -804,6 +804,7 @@ _699 TILs and counting..._
 ## VSCode
 
 - [Add The VSCode CLI To Your Path](vscode/add-the-vscode-cli-to-your-path.md)
+- [Enable Breadcrumbs For Version 1.26 Release](vscode/enable-breadcrumbs-for-version-126-release.md)
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
 - [Toggle Between Terminals](vscode/toggle-between-terminals.md)
 
