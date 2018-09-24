@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_701 TILs and counting..._
+_702 TILs and counting..._
 
 ---
 
@@ -89,6 +89,7 @@ _701 TILs and counting..._
 ### CSS
 
 - [Add Fab Icons To Your Site With FontAwesome 5](css/add-fab-icons-to-your-site-with-fontawesome-5.md)
+- [Animate Smoothly Between Two Background Colors](css/animate-smoothly-between-two-background-colors.md)
 - [Apply Styles To The Last Child Of A Specific Type](css/apply-styles-to-the-last-child-of-a-specific-type.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
