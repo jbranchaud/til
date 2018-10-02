@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_704 TILs and counting..._
+_705 TILs and counting..._
 
 ---
 
@@ -193,6 +193,7 @@ _704 TILs and counting..._
 - [Renaming A Branch](git/renaming-a-branch.md)
 - [Resetting A Reset](git/resetting-a-reset.md)
 - [Show All Commits For A File Beyond Renaming](git/show-all-commits-for-a-file-beyond-renaming.md)
+- [Show Changes For Files That Match A Pattern](git/show-changes-for-files-that-match-a-pattern.md)
 - [Show File Diffs When Viewing Git Log](git/show-file-diffs-when-viewing-git-log.md)
 - [Show List Of Most Recently Committed Branches](git/show-list-of-most-recently-committed-branches.md)
 - [Show The diffstat Summary Of A Commit](git/show-the-diffstat-summary-of-a-commit.md)
