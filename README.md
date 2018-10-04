@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_706 TILs and counting..._
+_707 TILs and counting..._
 
 ---
 
@@ -201,6 +201,7 @@ _706 TILs and counting..._
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
+- [Stash Everything](git/stash-everything.md)
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
