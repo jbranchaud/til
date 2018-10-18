@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_710 TILs and counting..._
+_711 TILs and counting..._
 
 ---
 
@@ -511,6 +511,7 @@ _710 TILs and counting..._
 
 - [Break Out Of A While Loop](reason/break-out-of-a-while-loop.md)
 - [Create A Stream From An Array](reason/create-a-stream-from-an-array.md)
+- [Compile Reason To Native With Dune](reason/compile-reason-to-native-with-dune.md)
 - [Data Structures With Self-Referential Types](reason/data-structures-with-self-referential-types.md)
 - [Defining Variants With Constructor Arguments](reason/defining-variants-with-constructor-arguments.md)
 - [Dynamically Create A Printf String Format](reason/dynamically-create-a-printf-string-format.md)
