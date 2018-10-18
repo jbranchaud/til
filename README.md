@@ -510,8 +510,8 @@ _711 TILs and counting..._
 ### ReasonML
 
 - [Break Out Of A While Loop](reason/break-out-of-a-while-loop.md)
-- [Create A Stream From An Array](reason/create-a-stream-from-an-array.md)
 - [Compile Reason To Native With Dune](reason/compile-reason-to-native-with-dune.md)
+- [Create A Stream From An Array](reason/create-a-stream-from-an-array.md)
 - [Data Structures With Self-Referential Types](reason/data-structures-with-self-referential-types.md)
 - [Defining Variants With Constructor Arguments](reason/defining-variants-with-constructor-arguments.md)
 - [Dynamically Create A Printf String Format](reason/dynamically-create-a-printf-string-format.md)

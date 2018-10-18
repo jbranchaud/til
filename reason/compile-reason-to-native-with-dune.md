@@ -15,7 +15,7 @@ print_endline("Hello, Reason!")
 We can then create the following Dune build file.
 
 ```lisp
-/* dune */
+;; dune
 (executable
  (name hello_reason))
 ```
