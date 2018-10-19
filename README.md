@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_711 TILs and counting..._
+_712 TILs and counting..._
 
 ---
 
@@ -745,6 +745,7 @@ _711 TILs and counting..._
 - [Interact With The Alternate File](vim/interact-with-the-alternate-file.md)
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [Joining Lines Together](vim/joining-lines-together.md)
+- [Jump Back To The Latest Jump Position](vim/jump-back-to-the-latest-jump-position.md)
 - [Jump To Matching Pair](vim/jump-to-matching-pair.md)
 - [Jump To The Next Misspelling](vim/jump-to-the-next-misspelling.md)
 - [List All Buffers](vim/list-all-buffers.md)
