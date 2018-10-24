@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_714 TILs and counting..._
+_715 TILs and counting..._
 
 ---
 
@@ -344,6 +344,7 @@ _714 TILs and counting..._
 - [Compute The md5 Hash Of A String](postgres/compute-the-md5-hash-of-a-string.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
+- [Convert A String To A Timestamp](postgres/convert-a-string-to-a-timestamp.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
