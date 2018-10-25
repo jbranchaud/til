@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_715 TILs and counting..._
+_716 TILs and counting..._
 
 ---
 
@@ -486,6 +486,7 @@ _715 TILs and counting..._
 - [Enforce Specific Values With PropTypes](react/enforce-specific-values-with-proptypes.md)
 - [Force A Component To Only Have One Child](react/force-a-component-to-only-have-one-child.md)
 - [Forcing A Child Remount With The Key Prop](react/forcing-a-child-remount-with-the-key-prop.md)
+- [Formik's Validation Schema As A Function](react/formiks-validation-schema-as-a-function.md)
 - [Inactive And Active Component Styles With Radium](react/inactive-and-active-component-styles-with-radium.md)
 - [Inline Style Attributes Should Be Camel Cased](react/inline-style-attributes-should-be-camel-cased.md)
 - [Mapping Over One Or Many Children](react/mapping-over-one-or-many-children.md)
