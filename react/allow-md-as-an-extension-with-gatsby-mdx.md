@@ -5,7 +5,7 @@ allows you to create pages in a Gatsby project using `.mdx` files. If you
 prefer the `.md` extension on your markdown files, then you can adjust the
 plugin options to allow that.
 
-```json
+```javascript
 // gatsby-config.js
 plugins: [
   {
