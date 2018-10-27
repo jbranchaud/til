@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_716 TILs and counting..._
+_717 TILs and counting..._
 
 ---
 
@@ -471,6 +471,7 @@ _716 TILs and counting..._
 - [A Component Is Just A Bag Of Data](react/a-component-is-just-a-bag-of-data.md)
 - [Access The Latest Lifecycle Methods In An Old App](react/access-the-latest-lifecycle-methods-in-an-old-app.md)
 - [Accessing Env Vars In create-react-app](react/accessing-env-vars-in-create-react-app.md)
+- [Allow md As An Extension With gatsby-mdx](react/allow-md-as-an-extension-with-gatsby-mdx.md)
 - [Alter The Display Name Of A Component](react/alter-the-display-name-of-a-component.md)
 - [Building A React App In The Browser](react/building-a-react-app-in-the-browser.md)
 - [Create Dynamically Named Custom React Components](react/create-dynamically-named-custom-react-components.md)
