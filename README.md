@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_717 TILs and counting..._
+_718 TILs and counting..._
 
 ---
 
@@ -94,6 +94,7 @@ _717 TILs and counting..._
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
+- [Make A Block Of Text Respect New Lines](css/make-a-block-of-text-respect-new-lines.md)
 - [Parameterized SCSS Mixins](css/parameterized-scss-mixins.md)
 
 ### Devops
