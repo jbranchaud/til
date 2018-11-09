@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_718 TILs and counting..._
+_719 TILs and counting..._
 
 ---
 
@@ -247,6 +247,7 @@ _718 TILs and counting..._
 - [Default And Named Exports From The Same Module](javascript/default-and-named-exports-from-the-same-module.md)
 - [Destructuring The Rest Of An Array](javascript/destructuring-the-rest-of-an-array.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
+- [Easy Date Comparison With DayJS](javascript/easy-date-comparison-with-dayjs.md)
 - [Expand Emojis With The Spread Operator](javascript/expand-emojis-with-the-spread-operator.md)
 - [Fill An Input With A Ton Of Text](javascript/fill-an-input-with-a-ton-of-text.md)
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
