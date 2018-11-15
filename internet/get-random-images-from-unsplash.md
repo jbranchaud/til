@@ -1,5 +1,9 @@
 # Get Random Images From Unsplash
 
+_The below doesn't work on GitHub. It seems that GitHub caches and serves
+its own version of the image. This will work anywhere where you aren't
+caching images._
+
 Here is an image from [unsplash.com](https://unsplash.com).
 
 ![random images](http://source.unsplash.com/random/1200x600)
