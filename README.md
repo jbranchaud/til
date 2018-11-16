@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_720 TILs and counting..._
+_721 TILs and counting..._
 
 ---
 
@@ -564,6 +564,7 @@ _720 TILs and counting..._
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
+- [Generate Ruby Version And Gemset Files With RVM](ruby/generate-ruby-version-and-gemset-files-with-rvm.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
 - [If You Detect None](ruby/if-you-detect-none.md)
 - [Ins And Outs Of Pry](ruby/ins-and-outs-of-pry.md)
