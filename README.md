@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_722 TILs and counting..._
+_723 TILs and counting..._
 
 ---
 
@@ -238,6 +238,7 @@ _722 TILs and counting..._
 - [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
+- [Check The Password Confirmation With Yup](javascript/check-the-password-confirmation-with-yup.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Configure Jest To Run A Test Setup File](javascript/configure-jest-to-run-a-test-setup-file.md)
 - [Create A Cancelable Promise With PCancelable](javascript/create-a-cancelable-promise-with-pcancelable.md)
