@@ -5,13 +5,8 @@ The
 function in its simplest form can be used to style the background of an
 element with a vertical, linear gradient between two colors.
 
-<p data-height="251" data-theme-id="0" data-slug-hash="pQpypW"
-data-default-tab="result" data-user="jbranchaud" data-pen-title="pQpypW"
-class="codepen">See the Pen <a
-href="https://codepen.io/jbranchaud/pen/pQpypW/">pQpypW</a> by Josh
-Branchaud (<a href="https://codepen.io/jbranchaud">@jbranchaud</a>) on <a
-href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height='251' scrolling='no' title='pQpypW' src='//codepen.io/jbranchaud/embed/pQpypW/?height=251&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/jbranchaud/pen/pQpypW/'>pQpypW</a> by Josh Branchaud (<a href='https://codepen.io/jbranchaud'>@jbranchaud</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 Here is what the CSS looks like:
 
