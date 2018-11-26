@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_724 TILs and counting..._
+_725 TILs and counting..._
 
 ---
 
@@ -540,6 +540,7 @@ _724 TILs and counting..._
 - [String Interpolation With Integers And Sprintf](reason/string-interpolation-with-integers-and-sprintf.md)
 - [String Interpolation With Quoted Strings](reason/string-interpolation-with-quoted-strings.md)
 - [Trying Out ReasonML In CodeSandbox](reason/trying-out-reasonml-in-codesandbox.md)
+- [Two Ways To Find An Item In A List](reason/two-ways-to-find-an-item-in-a-list.md)
 - [Wrapping A Component For Use In JavaScript](reason/wrapping-a-component-for-use-in-javascript.md)
 
 ### Ruby
