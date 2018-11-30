@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_725 TILs and counting..._
+_726 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _725 TILs and counting..._
 ### Chrome
 
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
+- [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
 - [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
 - [Pretty Print Tabular Data](chrome/pretty-print-tabular-data.md)
 - [Reference The Selected Node](chrome/reference-the-selected-node.md)
