@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_726 TILs and counting..._
+_727 TILs and counting..._
 
 ---
 
@@ -819,6 +819,7 @@ _726 TILs and counting..._
 - [Turning Off Search Highlighting](vim/turning-off-search-highlighting.md)
 - [Unloading A Buffer](vim/unloading-a-buffer.md)
 - [Use Active Window With BufExplorer](vim/use-active-window-with-bufexplorer.md)
+- [Using vim-surround With A Visual Selection](vim/using-vim-surround-with-a-visual-selection.md)
 - [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
 - [Viewing Man Pages with man.vim](vim/viewing-man-pages-with-man-vim.md)
