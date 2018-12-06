@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_729 TILs and counting..._
+_730 TILs and counting..._
 
 ---
 
@@ -534,6 +534,7 @@ _729 TILs and counting..._
 - [Inline Component Styles With Reason React](reason/inline-component-styles-with-reason-react.md)
 - [Is This A Directory Or A File?](reason/is-this-a-directory-or-a-file.md)
 - [Making Things Mutable](reason/making-things-mutable.md)
+- [Modifying A String With blit_string](reason/modifying-a-string-with-blit-string.md)
 - [Multi-Argument Functions As Syntactic Sugar](reason/multi-argument-functions-as-syntactic-sugar.md)
 - [Pattern Match On Exceptions](reason/pattern-match-on-exceptions.md)
 - [Quickly Bootstrap A React App Using Reason](reason/quickly-bootstrap-a-react-app-using-reason.md)
