@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_730 TILs and counting..._
+_731 TILs and counting..._
 
 ---
 
@@ -523,6 +523,7 @@ _730 TILs and counting..._
 - [Compile Reason To Native With Dune](reason/compile-reason-to-native-with-dune.md)
 - [Compile Reason With An OCaml Package Using Dune](reason/compile-reason-with-an-ocaml-package-using-dune.md)
 - [Create A Stream From An Array](reason/create-a-stream-from-an-array.md)
+- [Creating A 2D Array](reason/creating-a-2d-array.md)
 - [Data Structures With Self-Referential Types](reason/data-structures-with-self-referential-types.md)
 - [Defining Variants With Constructor Arguments](reason/defining-variants-with-constructor-arguments.md)
 - [Dynamically Create A Printf String Format](reason/dynamically-create-a-printf-string-format.md)
