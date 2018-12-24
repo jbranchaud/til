@@ -12,7 +12,7 @@ module StringMap = Map.Make(String);
 We can then use that module to to create an empty map followed by adding
 key-value pairs to it.
 
-```
+```reason
 StringMap.empty
 |> StringMap.add("Morty", "Smith")
 |> StringMap.add("Rick", "Sanchez")
