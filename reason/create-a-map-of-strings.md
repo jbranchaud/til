@@ -26,3 +26,6 @@ Rick Sanchez
 Scary Terry
 */
 ```
+
+See the [live
+example](https://reasonml.github.io/en/try?rrjsx=true&reason=LYewJgrgNgpgBAZQC4CcCWA7A5gWQIYAOcAvHPgQHT4DWMAFMutgJQDcAUO45roRTMAJIAnuwA+APkSoe5CnjBg6AIhwgUI5QBo4yhMDRIAFsubip3bHIVLlAJTQBjatt0I8GR0ZgAvU+ekmXkobFQRHPBRhV2UAFRgUKP9JQNk+QwS6OgAzNBQAZyQdKDxC5hIpAG92ODgCJiQAfRgMMChMegAFBuyKfPrMJGyVAFJ8uDHXXIKiuBKytnYAXzYgA).
