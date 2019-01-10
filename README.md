@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_735 TILs and counting..._
+_736 TILs and counting..._
 
 ---
 
@@ -481,6 +481,7 @@ _735 TILs and counting..._
 - [Allow md As An Extension With gatsby-mdx](react/allow-md-as-an-extension-with-gatsby-mdx.md)
 - [Alter The Display Name Of A Component](react/alter-the-display-name-of-a-component.md)
 - [Building A React App In The Browser](react/building-a-react-app-in-the-browser.md)
+- [Check The Type Of A Child Component](react/check-the-type-of-a-child-component.md)
 - [Create Dynamically Named Custom React Components](react/create-dynamically-named-custom-react-components.md)
 - [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
 - [create-react-app Has A Default Test Setup File](react/create-react-app-has-a-default-test-setup-file.md)
