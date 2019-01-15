@@ -20,8 +20,8 @@ This `get` function can then be used like so.
 ```javascript
 const stuff = { a: 1, b: 2, c: 3 };
 
-console.log("Get a:", get("a", stuff)); // 1
-console.log("Get d:", get("d", stuff)); // undefined
+console.log("Get a:", get("a", stuff)); // Get a: 1
+console.log("Get d:", get("d", stuff)); // Get d: undefined
 ```
 
 h/t
