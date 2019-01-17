@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_738 TILs and counting..._
+_739 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _738 TILs and counting..._
 * [Elixir](#elixir)
 * [Git](#git)
 * [Go](#go)
+* [HTML](#html)
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [Linux](#linux)
@@ -225,6 +226,10 @@ _738 TILs and counting..._
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
 - [Upgrading From An Older Version On Mac](go/upgrading-from-an-older-version-on-mac.md)
+
+### HTML
+
+- [Submit A Form With A Button Outside The Form](html/submit-a-form-with-a-button-outside-the-form.md)
 
 ### Internet
 
