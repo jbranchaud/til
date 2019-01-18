@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_739 TILs and counting..._
+_740 TILs and counting..._
 
 ---
 
@@ -254,6 +254,7 @@ _739 TILs and counting..._
 - [Create Bootstrapped Apps With Yarn](javascript/create-bootstrapped-apps-with-yarn.md)
 - [Custom Type Checking Error Messages With Yup](javascript/custom-type-checking-error-messages-with-yup.md)
 - [Default And Named Exports From The Same Module](javascript/default-and-named-exports-from-the-same-module.md)
+- [Destructure With Access To Nested Value And Parent Value](javascript/destructure-with-access-to-nested-value-and-parent-value.md);
 - [Destructuring The Rest Of An Array](javascript/destructuring-the-rest-of-an-array.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
 - [Easy Date Comparison With DayJS](javascript/easy-date-comparison-with-dayjs.md)
