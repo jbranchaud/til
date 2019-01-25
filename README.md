@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_742 TILs and counting..._
+_743 TILs and counting..._
 
 ---
 
@@ -229,6 +229,7 @@ _742 TILs and counting..._
 
 ### HTML
 
+- [Render Text As Superscript](html/render-text-as-superscript.md)
 - [Submit A Form With A Button Outside The Form](html/submit-a-form-with-a-button-outside-the-form.md)
 
 ### Internet
