@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_744 TILs and counting..._
+_745 TILs and counting..._
 
 ---
 
@@ -175,6 +175,7 @@ _744 TILs and counting..._
 - [Dropping Commits With Git Rebase](git/dropping-commits-with-git-rebase.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
+- [Find The Date That A File Was Added To The Repo](git/find-the-date-that-a-file-was-added-to-the-repo.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
 - [Get The Short Version Of The Latest Commit](git/get-the-short-version-of-the-latest-commit.md)
 - [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
