@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_741 TILs and counting..._
+_742 TILs and counting..._
 
 ---
 
@@ -508,6 +508,7 @@ _741 TILs and counting..._
 - [Inline Style Attributes Should Be Camel Cased](react/inline-style-attributes-should-be-camel-cased.md)
 - [Mapping Over One Or Many Children](react/mapping-over-one-or-many-children.md)
 - [Mock A Function That A Component Imports](react/mock-a-function-that-a-component-imports.md)
+- [Navigate With State Via @reach/router](react/navigate-with-state-via-reach-router.md)
 - [Passing Props Down To React-Router Route](react/passing-props-down-to-react-router-route.md)
 - [Prevent reach/router Redirect Error Screen In Dev](react/prevent-reach-router-redirect-error-screen-in-dev.md)
 - [Proxy To An API Server In Development With CRA](react/proxy-to-an-api-server-in-development-with-cra.md)
