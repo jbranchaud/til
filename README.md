@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_747 TILs and counting..._
+_748 TILs and counting..._
 
 ---
 
@@ -872,6 +872,7 @@ _747 TILs and counting..._
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
+- [Open Slack's Keyboard Shortcuts Reference Panel](workflow/open-slacks-keyboard-shortcuts-reference-panel.md)
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
 
 ## Usage
