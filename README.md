@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_749 TILs and counting..._
+_750 TILs and counting..._
 
 ---
 
@@ -202,6 +202,7 @@ _749 TILs and counting..._
 - [Show Changes In The Compose Commit Message View](git/show-changes-in-the-compose-commit-message-view.md)
 - [Show File Diffs When Viewing Git Log](git/show-file-diffs-when-viewing-git-log.md)
 - [Show List Of Most Recently Committed Branches](git/show-list-of-most-recently-committed-branches.md)
+- [Show Only Commits That Touch Specific Lines](git/show-only-commits-that-touch-specific-lines.md)
 - [Show The diffstat Summary Of A Commit](git/show-the-diffstat-summary-of-a-commit.md)
 - [Show The Good And The Bad With Git Bisect](git/show-the-good-and-the-bad-with-git-bisect.md)
 - [Show What Is In A Stash](git/show-what-is-in-a-stash.md)
