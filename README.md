@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_750 TILs and counting..._
+_751 TILs and counting..._
 
 ---
 
@@ -816,6 +816,7 @@ _750 TILs and counting..._
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
 - [Quickly Switch To A Buffer By Number](vim/quickly-switch-to-a-buffer-by-number.md)
+- [Quit When There Is An Argument List](vim/quit-when-there-is-an-argument-list.md)
 - [Re-indenting Your Code](vim/reindenting-your-code.md)
 - [Read In The Contents Of A Rails File](vim/read-in-the-contents-of-a-rails-file.md)
 - [Rename Current File](vim/rename-current-file.md)
