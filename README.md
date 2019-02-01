@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_752 TILs and counting..._
+_753 TILs and counting..._
 
 ---
 
@@ -798,6 +798,7 @@ _752 TILs and counting..._
 - [Navigating By Blank Lines](vim/navigating-by-blank-lines.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Next Modified Buffer](vim/next-modified-buffer.md)
+- [Normal Node Binding To Just Quit](vim/normal-mode-binding-to-just-quit.md)
 - [Open A Tag In A Split Window](vim/open-a-tag-in-a-split-window.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
