@@ -1,22 +1,23 @@
 # List The Stack Of Remembered Directories
 
 When you open a new Unix shell, you start in some directory, probably your
-home (`~/`) directory. As you `cd` around to different directories, there is
-a paper trail of your movements, a listing of where you've been.  You can
-view this listing of directories with the `dirs` command.
+home (`~/`) directory. If you use `pushd` to navigate to different
+directories, there is a paper trail of your movements, a listing of where
+you've been.  You can view this listing of directories with the `dirs`
+command.
 
 ```
 $ dirs
 ~/
-$ cd code
+$ pushd code
 $ dirs
 ~/code ~/
-$ cd /usr/bin
+$ pushd /usr/bin
 $ dirs
 /usr/bin ~/code ~/
 ```
 
-Each time you `cd`, the directory you have moved to is pushed onto the stack of
+Each time you `pushd`, the directory you have moved to is pushed onto the stack of
 visited directories. Alternatively, you can use the `popd` command to return
 to the previous directory, removing the current directory from the stack.
 
