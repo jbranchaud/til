@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_756 TILs and counting..._
+_757 TILs and counting..._
 
 ---
 
@@ -451,6 +451,7 @@ _756 TILs and counting..._
 ### Rails
 
 - [Add React With Webpacker To A New Rails App](rails/add-react-with-webpacker-to-a-new-rails-app.md)
+- [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
 - [Advance The Date](rails/advance-the-date.md)
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Attach A File With Capybara](rails/attach-a-file-with-capybara.md)
