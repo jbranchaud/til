@@ -26,7 +26,7 @@ the `authenticate` method.
 ```ruby
 user = User.find_by(email: user_params[:email])
 
-if(user.authenticate(user_params[:password]))
+if user.authenticate(user_params[:password])
   puts 'That is the correct password!'
 else
   puts 'That password did not match!'
