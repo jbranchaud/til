@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_758 TILs and counting..._
+_759 TILs and counting..._
 
 ---
 
@@ -481,6 +481,7 @@ _758 TILs and counting..._
 - [Remove The Default Value On A Column](rails/remove-the-default-value-on-a-column.md)
 - [Rescue From](rails/rescue-from.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
+- [Secure Passwords With Rails And Bcrypt](rails/secure-passwords-with-rails-and-bcrypt.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
 - [Set Schema Search Path](rails/set-schema-search-path.md)
