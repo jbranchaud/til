@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_761 TILs and counting..._
+_762 TILs and counting..._
 
 ---
 
@@ -485,6 +485,7 @@ _761 TILs and counting..._
 - [Secure Passwords With Rails And Bcrypt](rails/secure-passwords-with-rails-and-bcrypt.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
+- [Serialize With fast_jsonapi In A Rails App](rails/serialize-with-fast-jsonapi-in-a-rails-app.md)
 - [Set Schema Search Path](rails/set-schema-search-path.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
