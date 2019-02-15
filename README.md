@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_764 TILs and counting..._
+_765 TILs and counting..._
 
 ---
 
@@ -806,6 +806,7 @@ _764 TILs and counting..._
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Match The Beginning And End Of Words](vim/match-the-beginning-and-end-of-words.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
+- [Navigate To The Nth Column On A Line](vim/navigate-to-the-nth-column-on-a-line.md)
 - [Navigating By Blank Lines](vim/navigating-by-blank-lines.md)
 - [NETRW Listing Styles](vim/netrw-listing-styles.md)
 - [Next Modified Buffer](vim/next-modified-buffer.md)
