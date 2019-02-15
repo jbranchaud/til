@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_765 TILs and counting..._
+_766 TILs and counting..._
 
 ---
 
@@ -108,6 +108,7 @@ _765 TILs and counting..._
 - [Allow HTTPS Through Your UFW Firewall](devops/allow-https-through-your-ufw-firewall.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
+- [Connect To An RDS PostgreSQL Database](devops/connect-to-an-rds-postgresql-database.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
 - [Path Of The Packets](devops/path-of-the-packets.md)
 - [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
