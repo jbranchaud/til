@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_766 TILs and counting..._
+_767 TILs and counting..._
 
 ---
 
@@ -328,6 +328,7 @@ _766 TILs and counting..._
 - [Require Additional JS Libraries In Postman](mac/require-additional-js-libraries-in-postman.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
 - [Run A Hardware Check](mac/run-a-hardware-check.md)
+- [Run AppleScript Commands Inline In The Terminal](mac/run-applescript-commands-inline-in-the-terminal.md)
 - [Set A Window To Its Default Zoom Level](mac/set-a-window-to-its-default-zoom-level.md)
 - [View All Windows Of The Current App](mac/view-all-windows-of-the-current-app.md)
 
