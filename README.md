@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_767 TILs and counting..._
+_768 TILs and counting..._
 
 ---
 
@@ -759,6 +759,7 @@ _767 TILs and counting..._
 - [Center The Cursor](vim/center-the-cursor.md)
 - [Check For An Executable](vim/check-for-an-executable.md)
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
+- [Clear Out The Jump List](vim/clear-out-the-jump-list.md)
 - [Close All Other Splits](vim/close-all-other-splits.md)
 - [Close All Other Windows](vim/close-all-other-windows.md)
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
