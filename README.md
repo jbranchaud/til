@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_770 TILs and counting..._
+_771 TILs and counting..._
 
 ---
 
@@ -847,6 +847,7 @@ _770 TILs and counting..._
 - [Rotate Everything By 13 Letters](vim/rotate-everything-by-13-letters.md)
 - [Running Bundle With vim-bundler](vim/running-bundle-with-vim-bundler.md)
 - [Scrolling Relative to the Cursor](vim/scrolling-relative-to-the-cursor.md)
+- [Search Backward Through A File](vim/search-backward-through-a-file.md)
 - [Searching For Hex Digits](vim/searching-for-hex-digits.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
