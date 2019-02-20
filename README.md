@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_768 TILs and counting..._
+_769 TILs and counting..._
 
 ---
 
@@ -470,6 +470,7 @@ _768 TILs and counting..._
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Custom Validation Message](rails/custom-validation-message.md)
+- [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
 - [Generating And Executing SQL](rails/generating-and-executing-sql.md)
 - [Hash Slicing](rails/hash-slicing.md)
