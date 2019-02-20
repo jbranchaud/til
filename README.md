@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_769 TILs and counting..._
+_770 TILs and counting..._
 
 ---
 
@@ -326,6 +326,7 @@ _769 TILs and counting..._
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Require Additional JS Libraries In Postman](mac/require-additional-js-libraries-in-postman.md)
+- [Resize App Windows With AppleScript](mac/resize-app-windows-with-applescript.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
 - [Run A Hardware Check](mac/run-a-hardware-check.md)
 - [Run AppleScript Commands Inline In The Terminal](mac/run-applescript-commands-inline-in-the-terminal.md)
