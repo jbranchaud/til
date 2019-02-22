@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_771 TILs and counting..._
+_772 TILs and counting..._
 
 ---
 
@@ -317,6 +317,7 @@ _771 TILs and counting..._
 ### Mac
 
 - [Access System Information On OS X](mac/access-system-information-on-osx.md)
+- [Access Unsupported Screen Resolutions With RDM](mac/access-unsupported-screen-resolutions-with-rdm.md)
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 - [Disable Swipe Navigation For A Specific App](mac/disable-swipe-navigation-for-a-specific-app.md)
