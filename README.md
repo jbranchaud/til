@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_773 TILs and counting..._
+_774 TILs and counting..._
 
 ---
 
@@ -118,6 +118,7 @@ _773 TILs and counting..._
 
 ### Elixir
 
+- [All Values For A Key In A Keyword List](elixir/all-values-for-a-key-in-a-keyword-list.md)
 - [Append To A Keyword List](elixir/append-to-a-keyword-list.md)
 - [Assert An Exception Is Raised](elixir/assert-an-exception-is-raised.md)
 - [Binary Representation Of A String](elixir/binary-representation-of-a-string.md)
