@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_774 TILs and counting..._
+_775 TILs and counting..._
 
 ---
 
@@ -123,6 +123,7 @@ _774 TILs and counting..._
 - [Assert An Exception Is Raised](elixir/assert-an-exception-is-raised.md)
 - [Binary Representation Of A String](elixir/binary-representation-of-a-string.md)
 - [Check For A Substring Match](elixir/check-for-a-substring-match.md)
+- [Comparing DateTime Structs](elixir/comparing-datetime-structs.md)
 - [Compute md5 Digest Of A String](elixir/compute-md5-digest-of-a-string.md)
 - [Counting Records With Ecto](elixir/counting-records-with-ecto.md)
 - [Create A Date With The Date Sigil](elixir/create-a-date-with-the-date-sigil.md)
