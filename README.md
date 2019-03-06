@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_775 TILs and counting..._
+_776 TILs and counting..._
 
 ---
 
@@ -784,6 +784,7 @@ _775 TILs and counting..._
 - [Difference Between :wq and :x](vim/difference-between-wq-and-x.md)
 - [Display Word Count Stats](vim/display-word-count-stats.md)
 - [Edges Of The Selection](vim/edges-of-the-selection.md)
+- [Edit A File At A Specific Line Number](vim/edit-a-file-at-a-specific-line-number.md)
 - [End Of The Word](vim/end-of-the-word.md)
 - [Escaping Terminal-Mode In An Nvim Terminal](vim/escaping-terminal-mode-in-an-nvim-terminal.md)
 - [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
