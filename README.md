@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_780 TILs and counting..._
+_781 TILs and counting..._
 
 ---
 
@@ -826,6 +826,7 @@ _780 TILs and counting..._
 - [Normal Node Binding To Just Quit](vim/normal-mode-binding-to-just-quit.md)
 - [Open A Tag In A Split Window](vim/open-a-tag-in-a-split-window.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
+- [Open FZF Result In A Split](vim/open-fzf-result-in-a-split.md)
 - [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
 - [Open The Directory Of The Current File](vim/open-the-directory-of-the-current-file.md)
 - [Open The Gemfile](vim/open-the-gemfile.md)
