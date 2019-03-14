@@ -4,7 +4,7 @@ The expressions you use in a `with` construct do not have to contain the
 `<-` syntax. You can pattern match and bind values along the way as well.
 
 ```elixir
-with %{id: id} <- get_user()
+with %{id: id} <- get_user(),
      url = "/api/#{id}/blogs",
      %{status_code: 200, body: body} <- HTTPoison.get(url),
      {:ok, decoded_body} <- Poison.decode(body) do
