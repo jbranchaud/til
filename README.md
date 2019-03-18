@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_783 TILs and counting..._
+_784 TILs and counting..._
 
 ---
 
@@ -865,6 +865,7 @@ _783 TILs and counting..._
 - [Setting Filetype With Modelines](vim/setting-filetype-with-modelines.md)
 - [Show All Syntax Highlighting Rules](vim/show-all-syntax-highlighting-rules.md)
 - [Show Matching Entries For Help](vim/show-matching-entries-for-help.md)
+- [Specify The Line Height Of The Quick Fix Window](vim/specify-the-line-height-of-the-quick-fix-window.md)
 - [Split Different](vim/split-different.md)
 - [Split The Current Window](vim/split-the-current-window.md)
 - [Splitting For New Files](vim/splitting-for-new-files.md)
