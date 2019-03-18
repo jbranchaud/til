@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_784 TILs and counting..._
+_785 TILs and counting..._
 
 ---
 
@@ -163,6 +163,7 @@ _784 TILs and counting..._
 - [Updating Values In A Map](elixir/updating-values-in-a-map.md)
 - [Using When Clauses In A With Construct](elixir/using-when-clauses-in-a-with-construct.md)
 - [Virtual Fields With Ecto Schemas](elixir/virtual-fields-with-ecto-schemas.md)
+- [When Things Don't Match The With Statements](elixir/when-things-dont-match-the-with-statements.md)
 - [Word Lists For Atoms](elixir/word-lists-for-atoms.md)
 
 ### Git
