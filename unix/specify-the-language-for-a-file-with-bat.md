@@ -1,8 +1,9 @@
 # Specify The Language For A File With Bat
 
-The `bat` utility is able to correctly infer the language of most files it
-prints based on the file extension. In some cases, you may want to specify a
-language other than the one it guesses.
+The [`bat`](https://github.com/sharkdp/bat) utility is able to correctly
+infer the language of most files it prints based on the file extension. In
+some cases, you may want to specify a language other than the one it
+guesses.
 
 For instance, here is a React file printed with `bat`:
 
