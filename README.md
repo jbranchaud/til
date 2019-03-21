@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_790 TILs and counting..._
+_791 TILs and counting..._
 
 ---
 
@@ -160,6 +160,7 @@ _790 TILs and counting..._
 - [Run ExUnit Tests In A Deterministic Order](elixir/run-exunit-tests-in-a-deterministic-order.md)
 - [Run The Test At A Specific Line Number](elixir/run-the-test-at-a-specific-line-number.md)
 - [Same Functions Should Be Grouped Together](elixir/same-functions-should-be-grouped-together.md)
+- [Skip A Specific Test](elixir/skip-a-specific-test.md)
 - [String Interpolation With Just About Anything](elixir/string-interpolation-with-just-about-anything.md)
 - [Unique Indexes With Ecto](elixir/unique-indexes-with-ecto.md)
 - [Updating Values In A Map](elixir/updating-values-in-a-map.md)
