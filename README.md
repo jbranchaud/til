@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_792 TILs and counting..._
+_793 TILs and counting..._
 
 ---
 
@@ -200,6 +200,7 @@ _792 TILs and counting..._
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
+- [List Commits On A Branch](git/list-commits-on-a-branch.md)
 - [List Different Commits Between Two Branches](git/list-different-commits-between-two-branches.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
 - [List Most Git Commands](git/list-most-git-commands.md)
