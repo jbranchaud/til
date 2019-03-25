@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_794 TILs and counting..._
+_795 TILs and counting..._
 
 ---
 
@@ -707,6 +707,7 @@ _794 TILs and counting..._
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
+- [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
 - [Get Matching Filenames As Output From Grep](unix/get-matching-filenames-as-output-from-grep.md)
