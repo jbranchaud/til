@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_795 TILs and counting..._
+_796 TILs and counting..._
 
 ---
 
@@ -615,6 +615,7 @@ _795 TILs and counting..._
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
 - [Edit Previous Parts Of The Pry Buffer History](ruby/edit-previous-parts-of-the-pry-buffer-history.md)
 - [Editing Code In Pry](ruby/editing-code-in-pry.md)
+- [Encode A String As URL-Safe Base64](ruby/encode-a-string-as-url-safe-base64.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
