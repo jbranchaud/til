@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_796 TILs and counting..._
+_797 TILs and counting..._
 
 ---
 
@@ -145,6 +145,7 @@ _796 TILs and counting..._
 - [List Functions For A Module](elixir/list-functions-for-a-module.md)
 - [Listing Files In IEx](elixir/listing-files-in-iex.md)
 - [Match On A Map In A With Construct](elixir/match-on-a-map-in-a-with-construct.md)
+- [Passing Around And Using Modules](elixir/passing-around-and-using-modules.md)
 - [Pattern Matching In Anonymous Functions](elixir/pattern-matching-in-anonymous-functions.md)
 - [Quitting IEx](elixir/quitting-iex.md)
 - [Range Into List Using Comprehensions](elixir/range-into-list-using-comprehensions.md)
