@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_797 TILs and counting..._
+_798 TILs and counting..._
 
 ---
 
@@ -739,6 +739,7 @@ _797 TILs and counting..._
 - [Open The Current Command In An Editor](unix/open-the-current-command-in-an-editor.md)
 - [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
 - [PID Of The Current Shell](unix/pid-of-the-current-shell.md)
+- [Print A Range Of Lines For A File With Bat](unix/print-a-range-of-lines-for-a-file-with-bat.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
