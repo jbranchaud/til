@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_798 TILs and counting..._
+_799 TILs and counting..._
 
 ---
 
@@ -326,6 +326,7 @@ _798 TILs and counting..._
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
+- [Show Current System Time And Settings](linux/show-current-system-time-and-settings.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
 ### Mac
