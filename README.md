@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_801 TILs and counting..._
+_802 TILs and counting..._
 
 ---
 
@@ -790,6 +790,7 @@ _801 TILs and counting..._
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
 - [Coercing Casing With vim-abolish](vim/coercing-casing-with-vim-abolish.md)
+- [Configure FZF To Use fd For File Finding](vim/configure-fzf-to-use-fd-for-file-finding.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
