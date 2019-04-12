@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_803 TILs and counting..._
+_804 TILs and counting..._
 
 ---
 
@@ -495,6 +495,7 @@ _803 TILs and counting..._
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
+- [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
 - [Mark For Destruction](rails/mark-for-destruction.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
