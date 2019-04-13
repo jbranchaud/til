@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_804 TILs and counting..._
+_805 TILs and counting..._
 
 ---
 
@@ -615,6 +615,7 @@ _804 TILs and counting..._
 - [Create Listing Of All Middleman Pages](ruby/create-listing-of-all-middleman-pages.md)
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
+- [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
