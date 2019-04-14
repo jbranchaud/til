@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_805 TILs and counting..._
+_806 TILs and counting..._
 
 ---
 
@@ -113,6 +113,7 @@ _805 TILs and counting..._
 - [Path Of The Packets](devops/path-of-the-packets.md)
 - [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
+- [Resolve The Public IP Of A URL](devops/resolve-the-public-ip-of-a-url.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
 
