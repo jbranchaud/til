@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_806 TILs and counting..._
+_807 TILs and counting..._
 
 ---
 
@@ -614,6 +614,7 @@ _806 TILs and counting..._
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
 - [Create A Hash From An Array Of Arrays](ruby/create-a-hash-from-an-array-of-arrays.md)
 - [Create Listing Of All Middleman Pages](ruby/create-listing-of-all-middleman-pages.md)
+- [Create Named Structs With Struct.new](ruby/create-named-structs-with-struct-new.md)
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
