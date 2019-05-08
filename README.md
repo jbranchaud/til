@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_807 TILs and counting..._
+_808 TILs and counting..._
 
 ---
 
@@ -682,6 +682,7 @@ _807 TILs and counting..._
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
 - [Hiding The Status Bar](tmux/hiding-the-status-bar.md)
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
+- [Kill All Your tmux Sessions](tmux/kill-all-your-tmux-sessions.md)
 - [Kill Other Connections To A Session](tmux/kill-other-connections-to-a-session.md)
 - [Kill The Current Session](tmux/kill-the-current-session.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
