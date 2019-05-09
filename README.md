@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_809 TILs and counting..._
+_810 TILs and counting..._
 
 ---
 
@@ -604,6 +604,7 @@ _809 TILs and counting..._
 
 ### Ruby
 
+- [A Shorthand For Rerunning Failed Tests With RSpec](ruby/a-shorthand-for-rerunning-failed-tests-with-rspec.md)
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
