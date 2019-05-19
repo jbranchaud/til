@@ -6,9 +6,9 @@ another, you'll need to add a new column, move some data, and then delete the
 old column.
 
 ```ruby
-// Assume the following are defined:
-// GenericAuthor for table 'authors'
-// GenericBook for table 'books'
+# Assume the following are defined:
+# GenericAuthor for table 'authors'
+# GenericBook for table 'books'
 
 def up
   add_column :books, :genre, :string
