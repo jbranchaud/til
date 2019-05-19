@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_812 TILs and counting..._
+_813 TILs and counting..._
 
 ---
 
@@ -493,6 +493,7 @@ _812 TILs and counting..._
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
 - [Disambiguate Where In A Joined Relation](rails/disambiguate-where-in-a-joined-relation.md)
+- [Ensure Migrations Use The Latest Schema](rails/ensure-migrations-use-the-latest-schema.md)
 - [Generating And Executing SQL](rails/generating-and-executing-sql.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
