@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_816 TILs and counting..._
+_817 TILs and counting..._
 
 ---
 
@@ -474,6 +474,7 @@ _816 TILs and counting..._
 
 ### Rails
 
+- [Add A Foreign Key Reference To A Table](rails/add-a-foreign-key-reference-to-a-table.md)
 - [Add React With Webpacker To A New Rails App](rails/add-react-with-webpacker-to-a-new-rails-app.md)
 - [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
 - [ActiveRecord Query For This Or That](rails/active-record-query-for-this-or-that.md)
