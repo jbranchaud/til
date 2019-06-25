@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_821 TILs and counting..._
+_822 TILs and counting..._
 
 ---
 
@@ -665,6 +665,7 @@ _821 TILs and counting..._
 - [Require Entire Gemfile In Pry Session](ruby/require-entire-gemfile-in-pry-session.md)
 - [Rerun Only Failures With RSpec](ruby/rerun-only-failures-with-rspec.md)
 - [Returning With Sequel](ruby/returning-with-sequel.md)
+- [Run An Older Version Of Bundler](ruby/run-an-older-version-of-bundler.md)
 - [Running A Single MiniTest Example](ruby/running-a-single-minitest-example.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
 - [Scripting With RVM](ruby/scripting-with-rvm.md)
