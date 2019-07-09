@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_823 TILs and counting..._
+_824 TILs and counting..._
 
 ---
 
@@ -349,6 +349,7 @@ _823 TILs and counting..._
 - [Run A Hardware Check](mac/run-a-hardware-check.md)
 - [Run AppleScript Commands Inline In The Terminal](mac/run-applescript-commands-inline-in-the-terminal.md)
 - [Set A Window To Its Default Zoom Level](mac/set-a-window-to-its-default-zoom-level.md)
+- [Specify App When Opening From Command Line](mac/specify-app-when-opening-from-command-line.md)
 - [View All Windows Of The Current App](mac/view-all-windows-of-the-current-app.md)
 
 ### MySQL
