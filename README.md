@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_825 TILs and counting..._
+_826 TILs and counting..._
 
 ---
 
@@ -686,6 +686,7 @@ _825 TILs and counting..._
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
 - [Using BCrypt To Create And Check Hashed Passwords](ruby/using-bcrypt-to-create-and-check-hashed-passwords.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
+- [Wrap Things In An Array, Even Hashes](ruby/wrap-things-in-an-array-even-hashes.md)
 - [Zero Padding](ruby/zero-padding.md)
 
 ### tmux
