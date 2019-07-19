@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_826 TILs and counting..._
+_827 TILs and counting..._
 
 ---
 
@@ -685,6 +685,7 @@ _826 TILs and counting..._
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
 - [Using BCrypt To Create And Check Hashed Passwords](ruby/using-bcrypt-to-create-and-check-hashed-passwords.md)
+- [What To Do When You Don't Rescue](ruby/what-to-do-when-you-dont-rescue.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Wrap Things In An Array, Even Hashes](ruby/wrap-things-in-an-array-even-hashes.md)
 - [Zero Padding](ruby/zero-padding.md)
