@@ -8,7 +8,7 @@ regardless of whether or not an exception was rescued.
 begin
   do_something_that_could_fail()
 rescue StandardError => e
-  // oh no!
+  # oh no!
 ensure
   Logging.info("We attempted to do the thing.")
 end
