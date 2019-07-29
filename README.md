@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_827 TILs and counting..._
+_828 TILs and counting..._
 
 ---
 
@@ -637,6 +637,7 @@ _827 TILs and counting..._
 - [Editing Code In Pry](ruby/editing-code-in-pry.md)
 - [Encode A String As URL-Safe Base64](ruby/encode-a-string-as-url-safe-base64.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
+- [Expect A Method To Be Called And Actually Call It](ruby/expect-a-method-to-be-called-and-actually-call-it.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
