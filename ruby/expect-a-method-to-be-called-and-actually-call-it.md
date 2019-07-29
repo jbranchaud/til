@@ -40,3 +40,5 @@ describe "expect and call original" do
   end
 end
 ```
+
+[source](https://relishapp.com/rspec/rspec-mocks/v/2-14/docs/message-expectations/calling-the-original-method)
