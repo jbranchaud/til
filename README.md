@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_828 TILs and counting..._
+_829 TILs and counting..._
 
 ---
 
@@ -567,6 +567,7 @@ _828 TILs and counting..._
 - [Spelunking Through Components With Enzyme's Dive](react/spelunking-through-components-with-enzymes-dive.md)
 - [Sync Your react-router State With Redux](react/sync-your-react-router-state-with-redux.md)
 - [Test Files In create-react-app](react/test-files-in-create-react-app.md)
+- [Update Formik Initial Values When Props Change](react/update-formik-initial-values-when-props-change.md)
 - [Upgrading To The Latest React In CodeSandbox](react/upgrading-to-the-latest-react-in-codesandbox.md)
 - [Use A Ref To Autofocus An Input](react/use-a-ref-to-autofocus-an-input.md)
 - [Use React 16 With Gatsby](react/use-react-16-with-gatsby.md)
