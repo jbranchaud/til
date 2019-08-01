@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_829 TILs and counting..._
+_830 TILs and counting..._
 
 ---
 
@@ -677,6 +677,7 @@ _829 TILs and counting..._
 - [Scroll To Top Of Page With Capybara](ruby/scroll-to-top-of-page-with-capybara.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
+- [Silence The Output Of A Ruby Statement In Pry](ruby/silence-the-output-of-a-ruby-statement-in-pry.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
