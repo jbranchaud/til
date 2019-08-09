@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_830 TILs and counting..._
+_831 TILs and counting..._
 
 ---
 
@@ -101,6 +101,7 @@ _830 TILs and counting..._
 - [Parameterized SCSS Mixins](css/parameterized-scss-mixins.md)
 - [:root Has Higher Specificity Than html](css/root-has-higher-specificity-than-html.md)
 - [Style A Background With A Linear Gradient](css/style-a-background-with-a-linear-gradient.md)
+- [Using Maps In SCSS](css/using-maps-in-scss.md)
 
 ### Devops
 
