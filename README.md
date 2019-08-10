@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_831 TILs and counting..._
+_832 TILs and counting..._
 
 ---
 
@@ -648,6 +648,7 @@ _831 TILs and counting..._
 - [Get Info About Your RubyGems Environment](ruby/get-info-about-your-ruby-gems-environment.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
 - [If You Detect None](ruby/if-you-detect-none.md)
+- [Iterate With An Offset Index](ruby/iterate-with-an-offset-index.md)
 - [Ins And Outs Of Pry](ruby/ins-and-outs-of-pry.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
