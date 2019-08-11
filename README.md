@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_832 TILs and counting..._
+_833 TILs and counting..._
 
 ---
 
@@ -683,6 +683,7 @@ _832 TILs and counting..._
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
+- [Turning Any Class Into An Enumerator](ruby/turning-any-class-into-an-enumerator.md)
 - [Turning Things Into Hashes](ruby/turning-things-into-hashes.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
