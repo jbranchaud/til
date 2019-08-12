@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_833 TILs and counting..._
+_834 TILs and counting..._
 
 ---
 
@@ -389,6 +389,7 @@ _833 TILs and counting..._
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
 - [Clear The Screen In psql (2)](postgres/clear-the-screen-in-psql-2.md)
 - [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
+- [Compute The Levenshtein Distance Of Two Strings](postgres/compute-the-levenshtein-distance-of-two-strings.md)
 - [Compute The md5 Hash Of A String](postgres/compute-the-md5-hash-of-a-string.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
