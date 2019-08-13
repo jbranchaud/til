@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_834 TILs and counting..._
+_835 TILs and counting..._
 
 ---
 
@@ -232,6 +232,7 @@ _834 TILs and counting..._
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
+- [Two Kinds Of Dotted Range Notation](git/two-kinds-of-dotted-range-notation.md)
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Update The URL Of A Remote](git/update-the-url-of-a-remote.md)
