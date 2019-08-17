@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_835 TILs and counting..._
+_836 TILs and counting..._
 
 ---
 
@@ -557,6 +557,7 @@ _835 TILs and counting..._
 - [Formik's Validation Schema As A Function](react/formiks-validation-schema-as-a-function.md)
 - [Inactive And Active Component Styles With Radium](react/inactive-and-active-component-styles-with-radium.md)
 - [Inline Style Attributes Should Be Camel Cased](react/inline-style-attributes-should-be-camel-cased.md)
+- [Manage State In A Functional Component](react/manage-state-in-a-functional-component.md)
 - [Mapping Over One Or Many Children](react/mapping-over-one-or-many-children.md)
 - [Mock A Function That A Component Imports](react/mock-a-function-that-a-component-imports.md)
 - [Navigate With State Via @reach/router](react/navigate-with-state-via-reach-router.md)
