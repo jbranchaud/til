@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_836 TILs and counting..._
+_837 TILs and counting..._
 
 ---
 
@@ -64,6 +64,7 @@ _836 TILs and counting..._
 - [Simulating Various Connection Speeds](chrome/simulating-various-connection-speeds.md)
 - [Toggle Device Mode](chrome/toggle-device-mode.md)
 - [Toggle Open The Console Drawer](chrome/toggle-open-the-console-drawer.md)
+- [View Network Traffic For New Tabs](chrome/view-network-traffic-for-new-tabs.md)
 
 ### Clojure
 
