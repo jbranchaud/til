@@ -34,3 +34,5 @@ function App() {
 In this example, we will see `The count is: 0` get logged when the component
 first mounts. As we hit the button to increment the count, nothing else will be
 logged.
+
+See the [live example](https://codesandbox.io/s/mystifying-currying-l2rw2).
