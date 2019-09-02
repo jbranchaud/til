@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_841 TILs and counting..._
+_842 TILs and counting..._
 
 ---
 
@@ -290,6 +290,7 @@ _841 TILs and counting..._
 - [Fill An Input With A Ton Of Text](javascript/fill-an-input-with-a-ton-of-text.md)
 - [for...in Iterates Over Object Properties](javascript/for-in-iterates-over-object-properties.md)
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
+- [Generate Random Integers](javascript/generate-random-integers.md)
 - [Get The Location And Size Of An Element](javascript/get-the-location-and-size-of-an-element.md)
 - [Get The Time Zone Of The Client Computer](javascript/get-the-time-zone-of-the-client-computer.md)
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
