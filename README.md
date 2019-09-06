@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_842 TILs and counting..._
+_843 TILs and counting..._
 
 ---
 
@@ -629,6 +629,7 @@ _842 TILs and counting..._
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
 - [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
+- [Click On Text With Capybara](ruby/click-on-text-with-capybara.md)
 - [Colorful Output With MiniTest](ruby/colorful-output-with-minitest.md)
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
