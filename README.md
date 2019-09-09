@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_843 TILs and counting..._
+_844 TILs and counting..._
 
 ---
 
@@ -306,6 +306,7 @@ _843 TILs and counting..._
 - [New Dates Can Take Out Of Bounds Values](javascript/new-dates-can-take-out-of-bounds-values.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
+- [Obtain Undefined Value With The Void Operator](javascript/obtain-undefined-value-with-the-void-operator.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
 - [Reach Into An Object For Nested Data With Get](javascript/reach-into-an-object-for-nested-data-with-get.md)
 - [Render An Array Of Elements With React 16](javascript/render-an-array-of-elements-with-react-16.md)
