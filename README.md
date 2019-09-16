@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_844 TILs and counting..._
+_845 TILs and counting..._
 
 ---
 
@@ -751,6 +751,7 @@ _844 TILs and counting..._
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
+- [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
