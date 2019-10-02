@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_845 TILs and counting..._
+_846 TILs and counting..._
 
 ---
 
@@ -531,6 +531,7 @@ _845 TILs and counting..._
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
+- [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
 
 ### React
