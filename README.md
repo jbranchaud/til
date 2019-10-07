@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_848 TILs and counting..._
+_849 TILs and counting..._
 
 ---
 
@@ -55,6 +55,7 @@ _848 TILs and counting..._
 ### Chrome
 
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
+- [Chrome Supports Many Unix Keyboard Shortcuts](chrome/chrome-supports-many-unix-keyboard-shortcuts.md)
 - [Copy Some Data From The Console](chrome/copy-some-data-from-the-console.md)
 - [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
 - [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
