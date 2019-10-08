@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_849 TILs and counting..._
+_850 TILs and counting..._
 
 ---
 
@@ -577,6 +577,7 @@ _849 TILs and counting..._
 - [@reach/router Renders To A Div](react/reach-router-renders-to-a-div.md)
 - [Read Only Input Elements](react/read-only-input-elements.md)
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
+- [Specifying Dependencies Of A useEffect Hook](react/specifying-dependencies-of-a-useeffect-hook.md)
 - [Spelunking Through Components With Enzyme's Dive](react/spelunking-through-components-with-enzymes-dive.md)
 - [Sync Your react-router State With Redux](react/sync-your-react-router-state-with-redux.md)
 - [Test Files In create-react-app](react/test-files-in-create-react-app.md)
