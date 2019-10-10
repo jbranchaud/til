@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_850 TILs and counting..._
+_851 TILs and counting..._
 
 ---
 
@@ -669,6 +669,7 @@ _850 TILs and counting..._
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
+- [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
 - [Mock Method Chain Calls With RSpec](ruby/mock-method-chain-calls-with-rspec.md)
 - [Mocking Requests With Partial URIs Using Regex](ruby/mocking-requests-with-partial-uris-using-regex.md)
 - [Navigate Back In The Browser With Capybara](ruby/navigate-back-in-the-browser-with-capybara.md)
