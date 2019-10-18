@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_853 TILs and counting..._
+_854 TILs and counting..._
 
 ---
 
@@ -403,6 +403,7 @@ _853 TILs and counting..._
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
 - [Convert A String To A Timestamp](postgres/convert-a-string-to-a-timestamp.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
+- [Count The Number Of Trues In An Aggregate Query](postgres/count-the-number-of-trues-in-an-aggregate-query.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create An Index Without Locking The Table](postgres/create-an-index-without-locking-the-table.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
