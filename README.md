@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_852 TILs and counting..._
+_853 TILs and counting..._
 
 ---
 
@@ -391,6 +391,7 @@ _852 TILs and counting..._
 - [Between Symmetric](postgres/between-symmetric.md)
 - [Capitalize All The Words](postgres/capitalize-all-the-words.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
+- [Check Table For Any Oprhaned Records](postgres/check-table-for-any-orphaned-records.md)
 - [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
