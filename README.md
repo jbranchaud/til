@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_855 TILs and counting..._
+_856 TILs and counting..._
 
 ---
 
@@ -180,6 +180,7 @@ _855 TILs and counting..._
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
 - [Amend Author Of Previous Commit](git/amend-author-of-previous-commit.md)
 - [Caching Credentials](git/caching-credentials.md)
+- [Change The Start Point Of A Branch](git/change-the-start-point-of-a-branch.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
