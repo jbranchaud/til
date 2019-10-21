@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_856 TILs and counting..._
+_857 TILs and counting..._
 
 ---
 
@@ -722,6 +722,7 @@ _856 TILs and counting..._
 
 - [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Break Current Pane Out To Separate Window](tmux/break-current-pane-out-to-separate-window.md)
+- [Change Base Directory Of Existing Session](tmux/change-base-directory-of-existing-session.md)
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
 - [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
