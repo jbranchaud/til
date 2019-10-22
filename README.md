@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_857 TILs and counting..._
+_858 TILs and counting..._
 
 ---
 
@@ -756,6 +756,7 @@ _857 TILs and counting..._
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
 - [Configure cd To Behave Like pushd In Zsh](unix/configure-cd-to-behave-like-pushd-in-zsh.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
+- [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
