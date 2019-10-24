@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_858 TILs and counting..._
+_859 TILs and counting..._
 
 ---
 
@@ -541,6 +541,7 @@ _858 TILs and counting..._
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
+- [Write Safer Where Clauses With Placeholders](rails/write-safer-where-clauses-with-placeholders.md)
 
 ### React
 
