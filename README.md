@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).         
 
-_859 TILs and counting..._
+_860 TILs and counting..._
 
 ---
 
@@ -762,6 +762,7 @@ _859 TILs and counting..._
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
 - [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
+- [Display The Contents Of A Directory As A Tree](unix/display-the-contents-of-a-directory-as-a-tree.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
 - [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
