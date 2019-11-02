@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).         
 
-_860 TILs and counting..._
+_861 TILs and counting..._
 
 ---
 
@@ -487,6 +487,7 @@ _860 TILs and counting..._
 
 ### Rails
 
+- [Add A Check Constraint To A Table](rails/add-a-check-constraint-to-a-table.md)
 - [Add A Foreign Key Reference To A Table](rails/add-a-foreign-key-reference-to-a-table.md)
 - [Add React With Webpacker To A New Rails App](rails/add-react-with-webpacker-to-a-new-rails-app.md)
 - [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
