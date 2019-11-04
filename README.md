@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™
 and pairing with smart people at Hashrocket.
 
-For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).         
+For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
 _862 TILs and counting..._
 
