@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_862 TILs and counting..._
+_863 TILs and counting..._
 
 ---
 
@@ -383,6 +383,7 @@ _862 TILs and counting..._
 ### PostgreSQL
 
 - [A Better Null Display Character](postgres/a-better-null-display-character.md)
+- [Add Foreign Key Constraint Without A Full Lock](postgres/add-foreign-key-constraint-without-a-full-lock.md)
 - [Add ON DELETE CASCADE To Foreign Key Constraint](postgres/add-on-delete-cascade-to-foreign-key-constraint.md)
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
