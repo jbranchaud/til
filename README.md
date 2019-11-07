@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_863 TILs and counting..._
+_864 TILs and counting..._
 
 ---
 
@@ -500,6 +500,7 @@ _863 TILs and counting..._
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
 - [Attribute Was](rails/attribute-was.md)
 - [Autosave False On ActiveRecord Associations](rails/autosave-false-on-activerecord-associations.md)
+- [Build A Hash Of Model Attributes](rails/build-a-hash-of-model-attributes.md)
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
 - [Cast Common Boolean-Like Values To Booleans](rails/cast-common-boolean-like-values-to-booleans.md)
 - [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
