@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_864 TILs and counting..._
+_865 TILs and counting..._
 
 ---
 
@@ -341,6 +341,7 @@ _864 TILs and counting..._
 
 ### Mac
 
+- [Access All Screen And Video Capture Options](mac/access-all-screen-and-video-capture-options.md)
 - [Access System Information On OS X](mac/access-system-information-on-osx.md)
 - [Access Unsupported Screen Resolutions With RDM](mac/access-unsupported-screen-resolutions-with-rdm.md)
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
