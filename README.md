@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_866 TILs and counting..._
+_867 TILs and counting..._
 
 ---
 
@@ -434,6 +434,7 @@ _866 TILs and counting..._
 - [Get The Size Of A Table](postgres/get-the-size-of-a-table.md)
 - [Get The Size Of An Index](postgres/get-the-size-of-an-index.md)
 - [Getting A Slice Of An Array](postgres/getting-a-slice-of-an-array.md)
+- [Group By The Result Of A Function Call](postgres/group-by-the-result-of-a-function-call.md)
 - [Insert Just The Defaults](postgres/insert-just-the-defaults.md)
 - [Integers In Postgres](postgres/integers-in-postgres.md)
 - [Intervals Of Time By Week](postgres/intervals-of-time-by-week.md)
