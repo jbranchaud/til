@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_867 TILs and counting..._
+_868 TILs and counting..._
 
 ---
 
@@ -117,6 +117,7 @@ _867 TILs and counting..._
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
 - [Resolve The Public IP Of A URL](devops/resolve-the-public-ip-of-a-url.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
+- [SSL Certificates Can Cover Multiple Domains](devops/ssl-certificates-can-cover-multiple-domains.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
 
 ### Elixir
