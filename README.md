@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_869 TILs and counting..._
+_870 TILs and counting..._
 
 ---
 
@@ -274,6 +274,7 @@ _869 TILs and counting..._
 ### JavaScript
 
 - [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
+- [Basic Date Formatting Without A Library](javascript/basic-date-formatting-without-a-library.md)
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
 - [Check The Password Confirmation With Yup](javascript/check-the-password-confirmation-with-yup.md)
