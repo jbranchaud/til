@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_871 TILs and counting..._
+_872 TILs and counting..._
 
 ---
 
@@ -933,6 +933,7 @@ _871 TILs and counting..._
 - [Quit When There Is An Argument List](vim/quit-when-there-is-an-argument-list.md)
 - [Re-indenting Your Code](vim/reindenting-your-code.md)
 - [Read In The Contents Of A Rails File](vim/read-in-the-contents-of-a-rails-file.md)
+- [Rename A File Through netrw](vim/rename-a-file-through-netrw.md)
 - [Rename Current File](vim/rename-current-file.md)
 - [Repeat The Previous Change](vim/repeat-the-previous-change.md)
 - [Repeating Characters](vim/repeating-characters.md)
