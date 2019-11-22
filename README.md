@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_873 TILs and counting..._
+_874 TILs and counting..._
 
 ---
 
@@ -96,6 +96,7 @@ _873 TILs and counting..._
 - [Animate Smoothly Between Two Background Colors](css/animate-smoothly-between-two-background-colors.md)
 - [Apply Multiple Box Shadows To Single Element](css/apply-multiple-box-shadows-to-single-element.md)
 - [Apply Styles To The Last Child Of A Specific Type](css/apply-styles-to-the-last-child-of-a-specific-type.md)
+- [Circular Icons With A Massive Border Radius](css/circular-icons-with-a-massive-border-radius.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
