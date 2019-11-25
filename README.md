@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_875 TILs and counting..._
+_876 TILs and counting..._
 
 ---
 
@@ -294,6 +294,7 @@ _875 TILs and counting..._
 - [Easy Date Comparison With DayJS](javascript/easy-date-comparison-with-dayjs.md)
 - [Expand Emojis With The Spread Operator](javascript/expand-emojis-with-the-spread-operator.md)
 - [Fill An Input With A Ton Of Text](javascript/fill-an-input-with-a-ton-of-text.md)
+- [Find Where Yarn Is Installing Binaries](javascript/find-where-yarn-is-installing-binaries.md)
 - [for...in Iterates Over Object Properties](javascript/for-in-iterates-over-object-properties.md)
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
 - [Generate Random Integers](javascript/generate-random-integers.md)
