@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_876 TILs and counting..._
+_877 TILs and counting..._
 
 ---
 
@@ -551,6 +551,7 @@ _876 TILs and counting..._
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
+- [Test If An Instance Variable Assigned](rails/test-if-an-instance-variable-was-assigned.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
