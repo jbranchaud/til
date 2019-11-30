@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_879 TILs and counting..._
+_880 TILs and counting..._
 
 ---
 
@@ -99,6 +99,7 @@ _879 TILs and counting..._
 - [Circular Icons With A Massive Border Radius](css/circular-icons-with-a-massive-border-radius.md)
 - [Create A Pulsing Background With CSS Animation](css/create-a-pulsing-background-with-css-animation.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
+- [Give Elements The Same Width With Flexbox](css/give-elements-the-same-width-with-flexbox.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
 - [Make A Block Of Text Respect New Lines](css/make-a-block-of-text-respect-new-lines.md)
