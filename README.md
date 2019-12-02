@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_881 TILs and counting..._
+_882 TILs and counting..._
 
 ---
 
@@ -262,6 +262,7 @@ _881 TILs and counting..._
 
 ### HTML
 
+- [Adding Alt Text To An Image](html/adding-alt-text-to-an-image.md)
 - [Render Text As Superscript](html/render-text-as-superscript.md)
 - [Submit A Form With A Button Outside The Form](html/submit-a-form-with-a-button-outside-the-form.md)
 
