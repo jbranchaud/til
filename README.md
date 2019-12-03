@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_883 TILs and counting..._
+_884 TILs and counting..._
 
 ---
 
@@ -559,6 +559,7 @@ _883 TILs and counting..._
 - [Test If An Instance Variable Was Assigned](rails/test-if-an-instance-variable-was-assigned.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
+- [Upgrading Your Manifest For Sprocket's 4](rails/upgrading-your-manifest-for-sprockets-4.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
 - [Wipe Out All Precompiled Assets](rails/wipe-out-all-precompiled-assets.md)
 - [Write Safer Where Clauses With Placeholders](rails/write-safer-where-clauses-with-placeholders.md)
