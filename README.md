@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_882 TILs and counting..._
+_883 TILs and counting..._
 
 ---
 
@@ -560,6 +560,7 @@ _882 TILs and counting..._
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
+- [Wipe Out All Precompiled Assets](rails/wipe-out-all-precompiled-assets.md)
 - [Write Safer Where Clauses With Placeholders](rails/write-safer-where-clauses-with-placeholders.md)
 
 ### React
