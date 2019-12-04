@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_884 TILs and counting..._
+_885 TILs and counting..._
 
 ---
 
@@ -509,6 +509,7 @@ _884 TILs and counting..._
 - [ActiveRecord Query For This Or That](rails/active-record-query-for-this-or-that.md)
 - [Advance The Date](rails/advance-the-date.md)
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
+- [Assert Two Arrays Have The Same Items With RSpec](rails/assert-two-arrays-have-the-same-items-with-rspec.md)
 - [Attach A File With Capybara](rails/attach-a-file-with-capybara.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
 - [Attribute Was](rails/attribute-was.md)
