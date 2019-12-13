@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_888 TILs and counting..._
+_889 TILs and counting..._
 
 ---
 
@@ -287,6 +287,7 @@ _888 TILs and counting..._
 - [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
 - [Check The Password Confirmation With Yup](javascript/check-the-password-confirmation-with-yup.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
+- [Conditionally Include Pairs In An Object](javascript/conditionally-include-pairs-in-an-object.md)
 - [Configure Jest To Run A Test Setup File](javascript/configure-jest-to-run-a-test-setup-file.md)
 - [Create A Cancelable Promise With PCancelable](javascript/create-a-cancelable-promise-with-pcancelable.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
