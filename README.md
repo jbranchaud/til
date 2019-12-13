@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_889 TILs and counting..._
+_890 TILs and counting..._
 
 ---
 
@@ -99,6 +99,7 @@ _889 TILs and counting..._
 - [Apply Styles To The Last Child Of A Specific Type](css/apply-styles-to-the-last-child-of-a-specific-type.md)
 - [Change The Orientation Of An Image](css/change-the-orientation-of-an-image.md)
 - [Circular Icons With A Massive Border Radius](css/circular-icons-with-a-massive-border-radius.md)
+- [Clean Up Repetition With :is() Pseudo-Class](css/clean-up-repetition-with-is-pseudo-class.md)
 - [Conditional Styling For Unsupported CSS Features](css/conditional-styling-for-unsupported-css-features.md)
 - [Create A Pulsing Background With CSS Animation](css/create-a-pulsing-background-with-css-animation.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
