@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_890 TILs and counting..._
+_891 TILs and counting..._
 
 ---
 
@@ -248,6 +248,7 @@ _890 TILs and counting..._
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Update The URL Of A Remote](git/update-the-url-of-a-remote.md)
+- [Using Commands With A Relative Date Format](git/using-commands-with-a-relative-date-format.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
 - [Viewing A File On Another Branch](git/viewing-a-file-on-another-branch.md)
 - [What Changed?](git/what-changed.md)
