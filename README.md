@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_891 TILs and counting..._
+_892 TILs and counting..._
 
 ---
 
@@ -828,6 +828,7 @@ _891 TILs and counting..._
 - [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
 - [PID Of The Current Shell](unix/pid-of-the-current-shell.md)
 - [Print A Range Of Lines For A File With Bat](unix/print-a-range-of-lines-for-a-file-with-bat.md)
+- [Print Out Files In Reverse](unix/print-out-files-in-reverse.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
