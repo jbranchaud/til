@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_892 TILs and counting..._
+_893 TILs and counting..._
 
 ---
 
@@ -215,6 +215,7 @@ _892 TILs and counting..._
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
+- [List Branches That Contain A Commit](git/list-branches-that-contain-a-commit.md)
 - [List Commits On A Branch](git/list-commits-on-a-branch.md)
 - [List Different Commits Between Two Branches](git/list-different-commits-between-two-branches.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
