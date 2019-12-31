@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_894 TILs and counting..._
+_895 TILs and counting..._
 
 ---
 
@@ -102,6 +102,7 @@ _894 TILs and counting..._
 - [Clean Up Repetition With :is() Pseudo-Class](css/clean-up-repetition-with-is-pseudo-class.md)
 - [Conditional Styling For Unsupported CSS Features](css/conditional-styling-for-unsupported-css-features.md)
 - [Create A Pulsing Background With CSS Animation](css/create-a-pulsing-background-with-css-animation.md)
+- [Define CSS Custom Properties With CSS Variables](css/define-css-custom-properties-with-scss-variables.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
 - [Give Elements The Same Width With Flexbox](css/give-elements-the-same-width-with-flexbox.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
