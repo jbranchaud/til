@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_895 TILs and counting..._
+_896 TILs and counting..._
 
 ---
 
@@ -527,6 +527,7 @@ _895 TILs and counting..._
 - [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
 - [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
+- [Comparing DateTimes Down To Second Precision](rails/comparing-datetimes-down-to-second-precision.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
