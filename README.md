@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_896 TILs and counting..._
+_897 TILs and counting..._
 
 ---
 
@@ -333,6 +333,7 @@ _896 TILs and counting..._
 - [Resolve And Pass Multiple Values From A Then](javascript/resolve-and-pass-multiple-values-from-a-then.md)
 - [Running ES6 Specs With Mocha](javascript/running-es6-specs-with-mocha.md)
 - [Scoping Variables With A Block Statement](javascript/scoping-variables-with-a-block-statement.md)
+- [Sorting Arrays Of Objects With Lodash](javascript/sorting-arrays-of-objects-with-lodash.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
 - [Spread The Rest With ES6](javascript/spread-the-rest-with-es6.md)
 - [String Interpolation With Template Literals](javascript/string-interpolation-with-template-literals.md)
