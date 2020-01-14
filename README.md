@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_897 TILs and counting..._
+_898 TILs and counting..._
 
 ---
 
@@ -105,6 +105,7 @@ _897 TILs and counting..._
 - [Define CSS Custom Properties With CSS Variables](css/define-css-custom-properties-with-scss-variables.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
 - [Give Elements The Same Width With Flexbox](css/give-elements-the-same-width-with-flexbox.md)
+- [Let Pointer Events Pass Through An Element](css/let-pointer-events-pass-through-an-element.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
 - [Make A Block Of Text Respect New Lines](css/make-a-block-of-text-respect-new-lines.md)
