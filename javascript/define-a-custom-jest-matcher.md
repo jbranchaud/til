@@ -18,12 +18,14 @@ expect.extend({
     if (pass) {
       return {
         pass: true,
-        message: `Actual ${recieved.id} matches expected ${expected.id}`
+        message: () =>
+          `expected id:${expected.id} to not match actual id:${recieved.id}`
       };
     } else {
       return {
         pass: false,
-        message: `Actual ${recieved.id} does not match expected ${expected.id}`
+        message: () =>
+          `expected id:${expected.id} to match actual id:${recieved.id}`
       };
     }
   }
@@ -32,14 +34,17 @@ expect.extend({
 
 This defines the name of the matcher (`toHaveMatchingId`), contains some logic
 to figure out whether `received` and `expected` pass the matcher, and then two
-return conditions (`pass: true` and `pass: false`) with accompanying messages.
+return conditions (`pass: true` and `pass: false`) with accompanying
+message-returning functions.
 
 It can then be used like any other Jest matcher:
 
 ```javascript
 test("compare objects", () => {
   expect({ id: "001" }).toHaveMatchingId({ id: "001" });
+  // ✅
   expect({ id: "001" }).toHaveMatchingId({ id: "002" });
+  // ❌ expected id:002 to match actual id:001
 });
 ```
 
