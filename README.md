@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_898 TILs and counting..._
+_899 TILs and counting..._
 
 ---
 
@@ -300,6 +300,7 @@ _898 TILs and counting..._
 - [Create Bootstrapped Apps With Yarn](javascript/create-bootstrapped-apps-with-yarn.md)
 - [Custom Type Checking Error Messages With Yup](javascript/custom-type-checking-error-messages-with-yup.md)
 - [Default And Named Exports From The Same Module](javascript/default-and-named-exports-from-the-same-module.md)
+- [Define A Custom Jest Matcher](javascript/define-a-custom-jest-matcher.md)
 - [Destructure With Access To Nested Value And Parent Value](javascript/destructure-with-access-to-nested-value-and-parent-value.md);
 - [Destructuring The Rest Of An Array](javascript/destructuring-the-rest-of-an-array.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
