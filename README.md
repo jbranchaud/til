@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_899 TILs and counting..._
+_900 TILs and counting..._
 
 ---
 
@@ -744,6 +744,7 @@ _899 TILs and counting..._
 - [Turning Things Into Hashes](ruby/turning-things-into-hashes.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
+- [Unpacking Strings Into Binary](ruby/unpacking-strings-into-binary.md)
 - [Up And Down With Integers](ruby/up-and-down-with-integers.md)
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
