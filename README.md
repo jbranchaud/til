@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_900 TILs and counting..._
+_901 TILs and counting..._
 
 ---
 
@@ -339,6 +339,7 @@ _900 TILs and counting..._
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
 - [Spread The Rest With ES6](javascript/spread-the-rest-with-es6.md)
 - [String Interpolation With Template Literals](javascript/string-interpolation-with-template-literals.md)
+- [Support Nested Matching In Custom Jest Matchers](javascript/support-nested-matching-in-custom-jest-matchers.md)
 - [Test Coverage Stats With Jest](javascript/test-coverage-stats-with-jest.md)
 - [The Comma Operator](javascript/the-comma-operator.md)
 - [Throttling A Function Call](javascript/throttling-a-function-call.md)
