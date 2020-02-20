@@ -8,7 +8,7 @@ which allows you to specify whether or not an index is to be added.
 
 ```ruby
 def up
-  add_reference :books, :authors, index: true
+  add_reference :books, :author, index: true
 end
 ```
 
@@ -19,7 +19,7 @@ using `uuid`s for all your primary keys.
 
 ```ruby
 def up
-  add_reference :books, :authors, type: :uuid, index: true
+  add_reference :books, :author, type: :uuid, index: true
 end
 ```
 
