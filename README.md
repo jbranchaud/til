@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_904 TILs and counting..._
+_905 TILs and counting..._
 
 ---
 
@@ -560,6 +560,7 @@ _904 TILs and counting..._
 - [Mark For Destruction](rails/mark-for-destruction.md)
 - [Merge A Scope Into An ActiveRecord Query](rails/merge-a-scope-into-an-activerecord-query.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
+- [Order Matters For `rescue_from` Blocks](rails/order-matters-for-rescue-from-blocks.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
