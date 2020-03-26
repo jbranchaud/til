@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_905 TILs and counting..._
+_906 TILs and counting..._
 
 ---
 
@@ -584,6 +584,7 @@ _905 TILs and counting..._
 - [Upgrading Your Manifest For Sprocket's 4](rails/upgrading-your-manifest-for-sprockets-4.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
 - [Wipe Out All Precompiled Assets](rails/wipe-out-all-precompiled-assets.md)
+- [Write Reversible Migration To Set Default](rails/write-reversible-migration-to-set-default.md)
 - [Write Safer Where Clauses With Placeholders](rails/write-safer-where-clauses-with-placeholders.md)
 
 ### React
