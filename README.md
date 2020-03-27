@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_906 TILs and counting..._
+_907 TILs and counting..._
 
 ---
 
@@ -691,6 +691,7 @@ _906 TILs and counting..._
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
 - [Construct A Constant From A String](ruby/construct-a-constant-from-a-string.md)
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
+- [Create a CSV::Table Object](ruby/create-a-csv-table-object.md)
 - [Create A Hash From An Array Of Arrays](ruby/create-a-hash-from-an-array-of-arrays.md)
 - [Create Listing Of All Middleman Pages](ruby/create-listing-of-all-middleman-pages.md)
 - [Create Named Structs With Struct.new](ruby/create-named-structs-with-struct-new.md)
