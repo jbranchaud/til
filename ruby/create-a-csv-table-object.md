@@ -1,10 +1,11 @@
 # Create A CSV::Table Object
 
 When you parse a file or string using `CSV.parse` (with `headers = true`) you
-get a [`CSV::Table`]() object in response. This object can be used to read what
-was in a file or it can be used to create a new file. It is also handy as a
-potential test object if you want to assume, but omit, file reading in a unit
-test.
+get a
+[`CSV::Table`](https://ruby-doc.org/stdlib-2.5.1/libdoc/csv/rdoc/CSV/Table.html)
+object in response. This object can be used to read what was in a file or it
+can be used to create a new file. It is also handy as a potential test object
+if you want to assume, but omit, file reading in a unit test.
 
 You can create a `CSV::Table` one of the following two ways. First, with a file:
 
