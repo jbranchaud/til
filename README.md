@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_907 TILs and counting..._
+_908 TILs and counting..._
 
 ---
 
@@ -570,6 +570,7 @@ _907 TILs and counting..._
 - [Rescue From](rails/rescue-from.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
+- [Schedule Sidekiq Jobs Out Into The Future](rails/schedule-sidekiq-jobs-out-into-the-future.md)
 - [Secure Passwords With Rails And Bcrypt](rails/secure-passwords-with-rails-and-bcrypt.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
