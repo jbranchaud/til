@@ -31,4 +31,13 @@ We can convert our string that has the appearance of a format into an actual
 `format6` type. To do this, we have to tell `format_from_string` what types
 each of the formats is going to have -- hence the second argument `%s`.
 
+The above example is better solved without a dynamic format string, because
+`*` replaces a fixed width with a specified one:
+
+```reason
+let some_num = 6;
+let str = Printf.sprintf("%*s, some_num, "dope");
+/* str => "  dope" */
+```
+
 [source](https://twitter.com/rickyvetter/status/1013476235253436417)
