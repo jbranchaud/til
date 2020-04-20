@@ -1,7 +1,8 @@
-# Resolve The Public IP Of A URL
+# Resolve The IP Address Of A Domain
 
-The `dig` command is a utility for doing DNS lookups. You can run it with a
-URL argument to lookup the public IP for that domain.
+The `dig` (domain information grouper) command can be used to get more
+information about a domain name. To discover the IP address for a given
+domain, invoke `dig` with the domain as an argument.
 
 ```bash
 $ dig joshbranchaud.com
@@ -24,8 +25,8 @@ joshbranchaud.com.      1800    IN      A       159.203.106.229
 ;; MSG SIZE  rcvd: 51
 ```
 
-The output is a bit noisy, but if you parse down to the _ANSWER SECTION_,
-you'll see the IP address that it resolves to.
+The *answer section* tells me that the IP address for `joshbranchaud.com` is
+`198.74.60.157`.
 
 Alternatively, you can skip the noise and get right to the IP address by
 including the `+short` flag.
