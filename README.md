@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_909 TILs and counting..._
+_908 TILs and counting..._
 
 ---
 
@@ -122,11 +122,10 @@ _909 TILs and counting..._
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Connect To An RDS PostgreSQL Database](devops/connect-to-an-rds-postgresql-database.md)
-- [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
+- [Resolve The IP Address Of A Domain](devops/resolve-the-ip-address-of-a-domain.md)
 - [Path Of The Packets](devops/path-of-the-packets.md)
 - [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
-- [Resolve The Public IP Of A URL](devops/resolve-the-public-ip-of-a-url.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [SSL Certificates Can Cover Multiple Domains](devops/ssl-certificates-can-cover-multiple-domains.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
