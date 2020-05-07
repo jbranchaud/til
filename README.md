@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_910 TILs and counting..._
+_911 TILs and counting..._
 
 ---
 
@@ -607,6 +607,7 @@ _910 TILs and counting..._
 - [Debug Jest Tests In create-react-app](react/debug-jest-tests-in-create-react-app.md)
 - [Defining State In A Simple Class Component](react/defining-state-in-a-simple-class-component.md)
 - [Destructure Variables As Props To A Component](react/destructure-variables-as-props-to-a-component.md)
+- [Details Tags Are A Controllable Component](react/details-tags-are-a-controllable-component.md)
 - [Dispatch Anywhere With Redux](react/dispatch-anywhere-with-redux.md)
 - [Dynamically Add Props To A Child Component](react/dynamically-add-props-to-a-child-component.md)
 - [Dynamically Create HTML Elements](react/dynamically-create-html-elements.md)
