@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_912 TILs and counting..._
+_913 TILs and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _912 TILs and counting..._
 * [MySQL](#mysql)
 * [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 * [Rails](#rails)
 * [React](#react)
 * [React Native](#react-native)
@@ -515,6 +516,10 @@ _912 TILs and counting..._
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
 - [Write A Query Result To File](postgres/write-a-query-result-to-file.md)
+
+### Python
+
+- [Access Instance Variables](python/access-instance-variables.md)
 
 ### Rails
 
