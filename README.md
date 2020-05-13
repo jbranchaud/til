@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_913 TILs and counting..._
+_914 TILs and counting..._
 
 ---
 
@@ -520,6 +520,7 @@ _913 TILs and counting..._
 ### Python
 
 - [Access Instance Variables](python/access-instance-variables.md)
+- [Test A Function With Pytest](python/test-a-function-with-pytest.md)
 
 ### Rails
 
