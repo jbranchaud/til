@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_914 TILs and counting..._
+_915 TILs and counting..._
 
 ---
 
@@ -446,6 +446,7 @@ _914 TILs and counting..._
 - [Determining The Age Of Things](postgres/determining-the-age-of-things.md)
 - [Difference Between Explain And Explain Analyze](postgres/difference-between-explain-and-explain-analyze.md)
 - [Dump And Restore A Database](postgres/dump-and-restore-a-database.md)
+- [Duplicate A Local Database](postgres/duplicate-a-local-database.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Escaping A Quote In A String](postgres/escaping-a-quote-in-a-string.md)
 - [Escaping String Literals With Dollar Quoting](postgres/escaping-string-literals-with-dollar-quoting.md)
