@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_915 TILs and counting..._
+_916 TILs and counting..._
 
 ---
 
@@ -1045,6 +1045,7 @@ _915 TILs and counting..._
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
 - [Open Slack's Keyboard Shortcuts Reference Panel](workflow/open-slacks-keyboard-shortcuts-reference-panel.md)
+- [Prune The Excess From node_modules](workflow/prune-the-excess-from-node-modules.md)
 - [Rotate An Image To Be Oriented Upright](workflow/rotate-an-image-to-be-oriented-upright.md)
 - [Set Recurring Reminders In Slack](workflow/set-recurring-reminders-in-slack.md)
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
