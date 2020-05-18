@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_917 TILs and counting..._
+_918 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _917 TILs and counting..._
 * [CSS](#css)
 * [Devops](#devops)
 * [Elixir](#elixir)
+* [Gatsby](#gatsby)
 * [Git](#git)
 * [Go](#go)
 * [HTML](#html)
@@ -186,6 +187,10 @@ _917 TILs and counting..._
 - [Virtual Fields With Ecto Schemas](elixir/virtual-fields-with-ecto-schemas.md)
 - [When Things Don't Match The With Statements](elixir/when-things-dont-match-the-with-statements.md)
 - [Word Lists For Atoms](elixir/word-lists-for-atoms.md)
+
+### Gatsby
+
+- [Add JavaScript To Body Of The Document](gatsby/add-javascript-to-body-of-the-document.md)
 
 ### Git
 
