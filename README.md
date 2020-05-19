@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_918 TILs and counting..._
+_919 TILs and counting..._
 
 ---
 
@@ -626,6 +626,7 @@ _918 TILs and counting..._
 - [Dynamically Add Props To A Child Component](react/dynamically-add-props-to-a-child-component.md)
 - [Dynamically Create HTML Elements](react/dynamically-create-html-elements.md)
 - [Enforce Specific Values With PropTypes](react/enforce-specific-values-with-proptypes.md)
+- [Focus An Input With useRef Hook](react/focus-an-input-with-useref-hook.md)
 - [Force A Component To Only Have One Child](react/force-a-component-to-only-have-one-child.md)
 - [Forcing A Child Remount With The Key Prop](react/forcing-a-child-remount-with-the-key-prop.md)
 - [Formik Connected Components](react/formik-connected-components.md)
