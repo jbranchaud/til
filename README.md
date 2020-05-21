@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_919 TILs and counting..._
+_920 TILs and counting..._
 
 ---
 
@@ -1047,6 +1047,7 @@ _919 TILs and counting..._
 
 ## Workflow
 
+- [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
 - [Enable Dev Tools For Safari](workflow/enable-dev-tools-for-safari.md)
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
