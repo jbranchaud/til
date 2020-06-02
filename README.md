@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_920 TILs and counting..._
+_921 TILs and counting..._
 
 ---
 
@@ -490,6 +490,7 @@ _920 TILs and counting..._
 - [Pretty Printing JSONB Rows](postgres/pretty-printing-jsonb-rows.md)
 - [Prevent A Query From Running Too Long](postgres/prevent-a-query-from-running-too-long.md)
 - [Print The Query Buffer In psql](postgres/print-the-query-buffer-in-psql.md)
+- [Remove Not Null Constraint From A Column](postgres/remove-not-null-constraint-from-a-column.md)
 - [Renaming A Sequence](postgres/renaming-a-sequence.md)
 - [Renaming A Table](postgres/renaming-a-table.md)
 - [Restart A Sequence](postgres/restart-a-sequence.md)
