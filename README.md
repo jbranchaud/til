@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_922 TILs and counting..._
+_923 TILs and counting..._
 
 ---
 
@@ -392,6 +392,7 @@ _922 TILs and counting..._
 ### MongoDB
 
 - [Determine The Database Version](mongodb/determine-the-database-version.md)
+- [Get Size Stats For A Collection](mongodb/get-size-stats-for-a-collection.md)
 
 ### MySQL
 
