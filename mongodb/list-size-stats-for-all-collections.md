@@ -10,11 +10,11 @@ size metrics for all of our database's collections:
 ```javascript
 > db.getCollectionNames().forEach(function (collectionName) {
     sizeInMb = db[collectionName].stats({ scale: 1024 * 1024 }).size;
-    print(collectionName + ": " + sizeInMb + "Mb");
+    print(collectionName + ": " + sizeInMb + "MB");
   })
-books: 10Mb
-authors: 2Mb
-genres: 1Mb
+books: 10MB
+authors: 2MB
+genres: 1MB
 ```
 
 This snippet gets all the collections for the current database and iterates
