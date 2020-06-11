@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_924 TILs and counting..._
+_925 TILs and counting..._
 
 ---
 
@@ -582,6 +582,7 @@ _924 TILs and counting..._
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
 - [Pretend Generations](rails/pretend-generations.md)
+- [Query A Single Value From The Database](rails/query-a-single-value-from-the-database.md)
 - [Read-Only Models](rails/read-only-models.md)
 - [Remove The Default Value On A Column](rails/remove-the-default-value-on-a-column.md)
 - [Rescue From](rails/rescue-from.md)
