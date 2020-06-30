@@ -9,13 +9,14 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_929 TILs and counting..._
+_930 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Ack](#ack)
+* [Amplify](#amplify)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
 * [CSS](#css)
@@ -53,6 +54,10 @@ _929 TILs and counting..._
 - [ack --bar](ack/ack-bar.md)
 - [Case-Insensitive Search](ack/case-insensitive-search.md)
 - [List Available File Types](ack/list-available-file-types.md)
+
+### Amplify
+
+- [Sign Up User With Email And Password](amplify/sign-up-user-with-email-and-password.md)
 
 ### Chrome
 
