@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_930 TILs and counting..._
+_931 TILs and counting..._
 
 ---
 
@@ -558,6 +558,7 @@ _930 TILs and counting..._
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
 - [Cast Common Boolean-Like Values To Booleans](rails/cast-common-boolean-like-values-to-booleans.md)
 - [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
+- [Check If ActiveRecord Update Fails](rails/check-if-activerecord-update-fails.md)
 - [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Comparing DateTimes Down To Second Precision](rails/comparing-datetimes-down-to-second-precision.md)
