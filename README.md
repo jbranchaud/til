@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_931 TILs and counting..._
+_932 TILs and counting..._
 
 ---
 
@@ -626,6 +626,7 @@ _931 TILs and counting..._
 - [Building A React App In The Browser](react/building-a-react-app-in-the-browser.md)
 - [Check The Type Of A Child Component](react/check-the-type-of-a-child-component.md)
 - [Conditionally Including Event Handler Functions](react/conditionally-including-event-handler-functions.md)
+- [Create A Snowpack-Bundled React App](react/create-a-snowpack-bundled-react-app.md)
 - [Create Dynamically Named Custom React Components](react/create-dynamically-named-custom-react-components.md)
 - [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
 - [create-react-app Has A Default Test Setup File](react/create-react-app-has-a-default-test-setup-file.md)
