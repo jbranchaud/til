@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_933 TILs and counting..._
+_934 TILs and counting..._
 
 ---
 
@@ -449,6 +449,7 @@ _933 TILs and counting..._
 - [Count The Number Of Trues In An Aggregate Query](postgres/count-the-number-of-trues-in-an-aggregate-query.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create An Index Without Locking The Table](postgres/create-an-index-without-locking-the-table.md)
+- [Create Database Uses Template1](postgres/create-database-uses-template1.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
 - [Create Table Adds A Data Type](postgres/create-table-adds-a-data-type.md)
 - [Creating Conditional Constraints](postgres/creating-conditional-constraints.md)
