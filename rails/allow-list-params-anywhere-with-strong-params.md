@@ -15,7 +15,7 @@ class BookTitleUpdater
   def self.run(data)
     params = ActionController::Parameters.new(data).permit(*ALLOW_LIST)
 
-    Book.find(params[:id]).update!(params)
+    Book.find(data[:id]).update!(params)
   end
 end
 ```
