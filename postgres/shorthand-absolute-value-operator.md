@@ -22,3 +22,5 @@ to do the same thing.
         1
 (1 row)
 ```
+
+[source](https://kb.objectrocket.com/postgresql/why-use-postgres-abs-function-in-sql-729)
