@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_937 TILs and counting..._
+_938 TILs and counting..._
 
 ---
 
@@ -224,6 +224,7 @@ _937 TILs and counting..._
 - [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
+- [Include A Message With Your Stashed Changes](git/include-a-message-with-your-stashed-changes.md)
 - [Include Some Stats In Your Git Log](git/include-some-stats-in-your-git-log.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
