@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_938 TILs and counting..._
+_939 TILs and counting..._
 
 ---
 
@@ -580,6 +580,7 @@ _938 TILs and counting..._
 - [Force All Users To Sign Out](rails/force-all-users-to-sign-out.md)
 - [Generating And Executing SQL](rails/generating-and-executing-sql.md)
 - [Get An Array Of Values From The Database](rails/get-an-array-of-values-from-the-database.md)
+- [Get An Empty ActiveRecord Relation](rails/get-an-empty-activerecord-relation.md)
 - [Get The Column Names For A Model](rails/get-the-column-names-for-a-model.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
