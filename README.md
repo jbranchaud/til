@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_939 TILs and counting..._
+_940 TILs and counting..._
 
 ---
 
@@ -790,6 +790,7 @@ _939 TILs and counting..._
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
+- [Turn Key And Value Arrays Into A Hash](ruby/turn-key-and-values-arrays-into-a-hash.md)
 - [Turning Any Class Into An Enumerator](ruby/turning-any-class-into-an-enumerator.md)
 - [Turning Things Into Hashes](ruby/turning-things-into-hashes.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
