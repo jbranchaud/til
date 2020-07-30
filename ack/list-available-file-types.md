@@ -2,13 +2,13 @@
 
 The `ack` utility allows you to filter the searched files based on file
 type. If you'd like to know all of the file types available, you can use the
-`--help=types` flag. This will include file types you've specified in your
+`--help-types` flag. This will include file types you've specified in your
 `.ackrc` file.
 
 Here is a sample of some of the output.
 
 ```
-$ ack --help=types
+$ ack --help-types
     ...
     --[no]css          .css .less .scss
     --[no]dart         .dart
