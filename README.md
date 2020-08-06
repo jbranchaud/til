@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_942 TILs and counting..._
+_943 TILs and counting..._
 
 ---
 
@@ -362,6 +362,7 @@ _942 TILs and counting..._
 - [Timing Processes](javascript/timing-processes.md)
 - [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
+- [Turn An HTMLCollection Into An Array](javascript/turn-an-html-collection-into-an-array.md)
 - [Turn Off Console Error Messages In A Test](javascript/turn-off-console-error-messages-in-a-test.md)
 - [Waiting On Multiple Promises](javascript/waiting-on-multiple-promises.md)
 - [Who Am I: NPM Edition](javascript/who-am-i-npm-edition.md)
