@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_940 TILs and counting..._
+_941 TILs and counting..._
 
 ---
 
@@ -857,6 +857,7 @@ _940 TILs and counting..._
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
+- [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
 - [Get Matching Filenames As Output From Grep](unix/get-matching-filenames-as-output-from-grep.md)
 - [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
