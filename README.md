@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_944 TILs and counting..._
+_945 TILs and counting..._
 
 ---
 
@@ -333,6 +333,7 @@ _944 TILs and counting..._
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
 - [Initialize A New JavaScript Project With Yarn](javascript/initialize-a-new-javascript-project-with-yarn.md)
 - [Install The Latest Version Of Node With Nvm](javascript/install-the-latest-version-of-node-with-nvm.md)
+- [Interpolate A String Into A Regex](javascript/interpolate-a-string-into-a-regex.md)
 - [ISO-8601 Formatted Dates Are Interpreted As UTC](javascript/iso-8601-formatted-dates-are-interpreted-as-utc.md)
 - [Link A JavaScript Package Locally](javascript/link-a-javascript-package-locally.md)
 - [List Top-Level NPM Dependencies](javascript/list-top-level-npm-dependencies.md)
