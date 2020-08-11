@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_945 TILs and counting..._
+_946 TILs and counting..._
 
 ---
 
@@ -673,6 +673,7 @@ _945 TILs and counting..._
 - [Spelunking Through Components With Enzyme's Dive](react/spelunking-through-components-with-enzymes-dive.md)
 - [Sync Your react-router State With Redux](react/sync-your-react-router-state-with-redux.md)
 - [Test Files In create-react-app](react/test-files-in-create-react-app.md)
+- [Test That Element Does Not Render In The Component](react/test-that-element-does-not-render-in-the-component.md)
 - [Trigger Effect Only When The Component Mounts](react/trigger-effect-only-when-the-component-mounts.md)
 - [Update Formik Initial Values When Props Change](react/update-formik-initial-values-when-props-change.md)
 - [Upgrading To The Latest React In CodeSandbox](react/upgrading-to-the-latest-react-in-codesandbox.md)
