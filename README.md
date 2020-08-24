@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_946 TILs and counting..._
+_947 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _946 TILs and counting..._
 * [Rails](#rails)
 * [React](#react)
 * [React Native](#react-native)
+* [React Testing Library](#react-testing-library)
 * [ReasonML](#reasonml)
 * [Ruby](#ruby)
 * [tmux](#tmux)
@@ -687,6 +688,10 @@ _946 TILs and counting..._
 ### React Native
 
 - [Avoid The Notch With SafeAreaView](react_native/avoid-the-notch-with-safeareaview.md)
+
+### React Testing Library
+
+- [Test A Component That Uses React Portals](react-testing-library/test-a-component-that-uses-react-portals.md)
 
 ### ReasonML
 
