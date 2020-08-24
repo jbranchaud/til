@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_947 TILs and counting..._
+_948 TILs and counting..._
 
 ---
 
@@ -691,6 +691,7 @@ _947 TILs and counting..._
 
 ### React Testing Library
 
+- [findBy\* Queries Have Async Built In](react-testing-library/find-by-queries-have-async-built-in.md)
 - [Test A Component That Uses React Portals](react-testing-library/test-a-component-that-uses-react-portals.md)
 
 ### ReasonML
