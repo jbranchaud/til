@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_950 TILs and counting..._
+_951 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _950 TILs and counting..._
 * [React Testing Library](#react-testing-library)
 * [ReasonML](#reasonml)
 * [Ruby](#ruby)
+* [Shell](#shell)
 * [tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -818,6 +819,10 @@ _950 TILs and counting..._
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Wrap Things In An Array, Even Hashes](ruby/wrap-things-in-an-array-even-hashes.md)
 - [Zero Padding](ruby/zero-padding.md)
+
+### Shell
+
+- [Check If The First Argument Is Given](shell/check-if-the-first-argument-is-given.md)
 
 ### tmux
 
