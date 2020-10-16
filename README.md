@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_954 TILs and counting..._
+_955 TILs and counting..._
 
 ---
 
@@ -219,6 +219,7 @@ _954 TILs and counting..._
 - [Diffing With Patience](git/diffing-with-patience.md)
 - [Dropping Commits With Git Rebase](git/dropping-commits-with-git-rebase.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
+- [Exclude A File From A Diff Output](git/exclude-a-file-from-a-diff-output.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Find The Date That A File Was Added To The Repo](git/find-the-date-that-a-file-was-added-to-the-repo.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
