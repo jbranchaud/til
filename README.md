@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_957 TILs and counting..._
+_958 TILs and counting..._
 
 ---
 
@@ -44,6 +44,7 @@ _957 TILs and counting..._
 * [Shell](#shell)
 * [tmux](#tmux)
 * [Unix](#unix)
+* [Vercel](#vercel)
 * [Vim](#vim)
 * [VSCode](#vscode)
 * [Webpack](#webpack)
@@ -933,6 +934,10 @@ _957 TILs and counting..._
 - [Watch The Difference](unix/watch-the-difference.md)
 - [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
 - [Where Are The Binaries?](unix/where-are-the-binaries.md)
+
+### Vercel
+
+- [Add Web Server Layer Redirects](vercel/add-web-server-layer-redirects.md)
 
 ### Vim
 
