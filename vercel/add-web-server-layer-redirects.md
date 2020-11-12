@@ -33,4 +33,4 @@ In the first rule, one path is redirected to another for the same domain. In
 the second rule, the path is redirected to an external URL.
 
 By default, these redirects get a [308 status
-code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/308#:~:text=The%20HyperText%20Transfer%20Protocol%20(HTTP,given%20by%20the%20Location%20headers.).
+code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/308).
