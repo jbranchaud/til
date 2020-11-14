@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_959 TILs and counting..._
+_960 TILs and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _959 TILs and counting..._
 * [Mac](#mac)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Next.js](#next-js)
 * [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -422,6 +423,10 @@ _959 TILs and counting..._
 - [Show Create Statement For A Table](mysql/show-create-statement-for-a-table.md)
 - [Show Tables That Match A Pattern](mysql/show-tables-that-match-a-pattern.md)
 - [Show Indexes For A Table](mysql/show-indexes-for-a-table.md)
+
+### Next.js
+
+- [Define URL Redirects In The Next Config](nextjs/define-url-redirects-in-the-next-config.md)
 
 ### Phoenix
 
