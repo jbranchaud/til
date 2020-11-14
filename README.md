@@ -32,7 +32,7 @@ _960 TILs and counting..._
 * [Mac](#mac)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
-* [Next.js](#next-js)
+* [Next.js](#nextjs)
 * [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
