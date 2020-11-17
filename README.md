@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_960 TILs and counting..._
+_961 TILs and counting..._
 
 ---
 
@@ -944,6 +944,7 @@ _960 TILs and counting..._
 
 - [Add Web Server Layer Redirects](vercel/add-web-server-layer-redirects.md)
 - [Naming Of The Vercel Config File](vercel/naming-of-the-vercel-config-file.md)
+- [Share Development Environment Variables Via CLI](vercel/share-development-environment-variables-via-cli.md)
 
 ### Vim
 
