@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_962 TILs and counting..._
+_963 TILs and counting..._
 
 ---
 
@@ -314,6 +314,7 @@ _962 TILs and counting..._
 - [Check Classes On A DOM Element](javascript/check-classes-on-a-dom-element.md)
 - [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
 - [Check The Password Confirmation With Yup](javascript/check-the-password-confirmation-with-yup.md)
+- [Compare The Equality Of Two Date Objects](javascript/compare-the-equality-of-two-date-objects.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Conditionally Include Pairs In An Object](javascript/conditionally-include-pairs-in-an-object.md)
 - [Configure Jest To Run A Test Setup File](javascript/configure-jest-to-run-a-test-setup-file.md)
