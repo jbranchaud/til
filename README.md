@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_963 TILs and counting..._
+_964 TILs and counting..._
 
 ---
 
@@ -945,6 +945,7 @@ _963 TILs and counting..._
 ### Vercel
 
 - [Add Web Server Layer Redirects](vercel/add-web-server-layer-redirects.md)
+- [Deploy An App Without Pushing An Empty Commit](vercel/deploy-an-app-without-pushing-an-empty-commit.md)
 - [Naming Of The Vercel Config File](vercel/naming-of-the-vercel-config-file.md)
 - [Share Development Environment Variables Via CLI](vercel/share-development-environment-variables-via-cli.md)
 
