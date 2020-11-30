@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_964 TILs and counting..._
+_965 TILs and counting..._
 
 ---
 
@@ -860,6 +860,7 @@ _964 TILs and counting..._
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
 - [Rename The Current Session](tmux/rename-the-current-session.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
+- [Switch To A Specific Session And Window](tmux/switch-to-a-specific-session-and-window.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
 
 ### Unix
