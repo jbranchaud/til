@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_968 TILs and counting..._
+_969 TILs and counting..._
 
 ---
 
@@ -684,6 +684,7 @@ _968 TILs and counting..._
 - [Mock A Function That A Component Imports](react/mock-a-function-that-a-component-imports.md)
 - [Navigate With State Via @reach/router](react/navigate-with-state-via-reach-router.md)
 - [Pairing A Callback With A useState Hook](react/pairing-a-callback-with-a-usestate-hook.md)
+- [Pass A Function To A useState Updater](react/pass-a-function-to-a-usestate-updater.md)
 - [Passing Props Down To React-Router Route](react/passing-props-down-to-react-router-route.md)
 - [Prevent reach/router Redirect Error Screen In Dev](react/prevent-reach-router-redirect-error-screen-in-dev.md)
 - [Proxy To An API Server In Development With CRA](react/proxy-to-an-api-server-in-development-with-cra.md)
