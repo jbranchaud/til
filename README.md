@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_969 TILs and counting..._
+_970 TILs and counting..._
 
 ---
 
@@ -324,6 +324,7 @@ _969 TILs and counting..._
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Create An Object With No Properties](javascript/create-an-object-with-no-properties.md)
 - [Create Bootstrapped Apps With Yarn](javascript/create-bootstrapped-apps-with-yarn.md)
+- [Create Future And Past Dates From Today](javascript/create-future-and-past-dates-from-today.md)
 - [Custom Type Checking Error Messages With Yup](javascript/custom-type-checking-error-messages-with-yup.md)
 - [Default And Named Exports From The Same Module](javascript/default-and-named-exports-from-the-same-module.md)
 - [Define A Custom Jest Matcher](javascript/define-a-custom-jest-matcher.md)
