@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_970 TILs and counting..._
+_971 TILs and counting..._
 
 ---
 
@@ -294,6 +294,7 @@ _970 TILs and counting..._
 
 - [Adding Alt Text To An Image](html/adding-alt-text-to-an-image.md)
 - [Disable Auto-Completion For A Form Input](html/disable-auto-completion-for-a-form-input.md)
+- [Prevent Search Engines From Indexing A Page](html/prevent-search-engines-from-indexing-a-page.md)
 - [Render Text As Superscript](html/render-text-as-superscript.md)
 - [Submit A Form With A Button Outside The Form](html/submit-a-form-with-a-button-outside-the-form.md)
 
