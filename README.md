@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_972 TILs and counting..._
+_973 TILs and counting..._
 
 ---
 
@@ -780,6 +780,7 @@ _972 TILs and counting..._
 - [Edit Previous Parts Of The Pry Buffer History](ruby/edit-previous-parts-of-the-pry-buffer-history.md)
 - [Editing Code In Pry](ruby/editing-code-in-pry.md)
 - [Encode A String As URL-Safe Base64](ruby/encode-a-string-as-url-safe-base64.md)
+- [Enumerate A Pairing Of Every Two Sequential Items](ruby/enumerate-a-pairing-of-every-two-sequential-items.md)
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
 - [Expect A Method To Be Called And Actually Call It](ruby/expect-a-method-to-be-called-and-actually-call-it.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
