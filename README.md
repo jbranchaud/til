@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_973 TILs and counting..._
+_974 TILs and counting..._
 
 ---
 
@@ -785,6 +785,7 @@ _973 TILs and counting..._
 - [Expect A Method To Be Called And Actually Call It](ruby/expect-a-method-to-be-called-and-actually-call-it.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
+- [Find The Min And Max With A Single Call](ruby/find-the-min-and-max-with-a-single-call.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Generate A Signed JWT Token](ruby/generate-a-signed-jwt-token.md)
 - [Generate Ruby Version And Gemset Files With RVM](ruby/generate-ruby-version-and-gemset-files-with-rvm.md)
