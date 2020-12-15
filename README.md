@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_975 TILs and counting..._
+_976 TILs and counting..._
 
 ---
 
@@ -443,6 +443,7 @@ _975 TILs and counting..._
 ### Next.js
 
 - [Define URL Redirects In The Next Config](nextjs/define-url-redirects-in-the-next-config.md)
+- [Remove A Query Param From The URL](nextjs/remove-a-query-param-from-the-url.md)
 
 ### Phoenix
 
