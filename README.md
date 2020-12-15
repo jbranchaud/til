@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_974 TILs and counting..._
+_975 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _974 TILs and counting..._
 * [HTML](#html)
 * [Internet](#internet)
 * [JavaScript](#javascript)
+* [jq](#jq)
 * [Linux](#linux)
 * [Mac](#mac)
 * [MongoDB](#mongodb)
@@ -383,6 +384,10 @@ _974 TILs and counting..._
 - [Who Am I: NPM Edition](javascript/who-am-i-npm-edition.md)
 - [Yarn Commands Without The Emojis](javascript/yarn-commands-without-the-emojis.md)
 - [Yup Schemas Are Validated Asynchronously](javascript/yup-schemas-are-validated-asynchronously.md)
+
+### jq
+
+- [Extract A List Of Values](jq/extract-a-list-of-values.md)
 
 ### Linux
 
