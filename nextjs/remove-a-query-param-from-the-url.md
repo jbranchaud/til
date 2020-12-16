@@ -46,5 +46,6 @@ something with the code value.
 
 This is accomplished by destructuring the target query param apart from the
 rest, constructing a new router path object with the rest of the query params,
-and then pushing that route update _shallowly_ so that data doesn't get
-refetched.
+and then [pushing that route update
+_shallowly_](https://nextjs.org/docs/routing/shallow-routing) so that data
+doesn't get refetched.
