@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_977 TILs and counting..._
+_978 TILs and counting..._
 
 ---
 
@@ -333,6 +333,7 @@ _977 TILs and counting..._
 - [Destructure With Access To Nested Value And Parent Value](javascript/destructure-with-access-to-nested-value-and-parent-value.md);
 - [Destructuring The Rest Of An Array](javascript/destructuring-the-rest-of-an-array.md)
 - [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
+- [Ensure Shell Can Find Global npm Binaries](javascript/ensure-shell-can-find-global-npm-binaries.md)
 - [Easy Date Comparison With DayJS](javascript/easy-date-comparison-with-dayjs.md)
 - [Expand Emojis With The Spread Operator](javascript/expand-emojis-with-the-spread-operator.md)
 - [Fill An Input With A Ton Of Text](javascript/fill-an-input-with-a-ton-of-text.md)
