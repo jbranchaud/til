@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_981 TILs and counting..._
+_982 TILs and counting..._
 
 ---
 
@@ -886,6 +886,7 @@ _981 TILs and counting..._
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [Switch To A Specific Session And Window](tmux/switch-to-a-specific-session-and-window.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
+- [Toggle Between Two Common Sessions](tmux/toggle-between-two-common-sessions.md)
 
 ### Unix
 
