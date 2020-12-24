@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_982 TILs and counting..._
+_983 TILs and counting..._
 
 ---
 
@@ -861,6 +861,7 @@ _982 TILs and counting..._
 
 ### tmux
 
+- [Access Past Copy Buffer History](tmux/access-past-copy-buffer-history.md)
 - [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Break Current Pane Out To Separate Window](tmux/break-current-pane-out-to-separate-window.md)
 - [Change Base Directory Of Existing Session](tmux/change-base-directory-of-existing-session.md)
