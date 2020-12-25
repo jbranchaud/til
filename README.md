@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_983 TILs and counting..._
+_984 TILs and counting..._
 
 ---
 
@@ -883,6 +883,7 @@ _983 TILs and counting..._
 - [Pane Killer](tmux/pane-killer.md)
 - [Reclaiming The Entire Window](tmux/reclaiming-the-entire-window.md)
 - [Rename The Current Session](tmux/rename-the-current-session.md)
+- [Reset An Option Back To Its Default Value](tmux/reset-an-option-back-to-its-default-value.md)
 - [Show The Current Value For An Option](tmux/show-the-current-value-for-an-option.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [Switch To A Specific Session And Window](tmux/switch-to-a-specific-session-and-window.md)
