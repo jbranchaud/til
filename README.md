@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_984 TILs and counting..._
+_985 TILs and counting..._
 
 ---
 
@@ -636,6 +636,7 @@ _984 TILs and counting..._
 - [Read In Environment-Specific Config Values](rails/read-in-environment-specific-config-values.md)
 - [Read-Only Models](rails/read-only-models.md)
 - [Remove The Default Value On A Column](rails/remove-the-default-value-on-a-column.md)
+- [Render An Alternative ActionMailer Template](rails/render-an-alternative-action-mailer-template.md)
 - [Rescue From](rails/rescue-from.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
