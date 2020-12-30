@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_987 TILs and counting..._
+_988 TILs and counting..._
 
 ---
 
@@ -908,6 +908,7 @@ _987 TILs and counting..._
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
+- [Curl With Cookies](unix/curl-with-cookies.md)
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
 - [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
