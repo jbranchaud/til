@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_986 TILs and counting..._
+_987 TILs and counting..._
 
 ---
 
@@ -804,6 +804,7 @@ _986 TILs and counting..._
 - [Iterate With An Offset Index](ruby/iterate-with-an-offset-index.md)
 - [Ins And Outs Of Pry](ruby/ins-and-outs-of-pry.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
+- [Jump Out Of A Nested Context With Throw/Catch](ruby/jump-out-of-a-nested-context-with-throw-catch.md)
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
