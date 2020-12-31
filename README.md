@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_988 TILs and counting..._
+_989 TILs and counting..._
 
 ---
 
@@ -412,6 +412,7 @@ _988 TILs and counting..._
 - [Gesture For Viewing All Windows Of Current App](mac/gesture-for-viewing-all-windows-of-current-app.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
+- [Quickly Type En Dashes And Em Dashes](mac/quickly-type-en-dashes-and-em-dashes.md)
 - [Require Additional JS Libraries In Postman](mac/require-additional-js-libraries-in-postman.md)
 - [Resize App Windows With AppleScript](mac/resize-app-windows-with-applescript.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
