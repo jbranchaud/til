@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_991 TILs and counting..._
+_992 TILs and counting..._
 
 ---
 
@@ -975,6 +975,7 @@ _991 TILs and counting..._
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [Touch Access And Modify Times Individually](unix/touch-access-and-modify-times-individually.md)
 - [Undo Some Command Line Editing](unix/undo-some-command-line-editing.md)
+- [Update Package Versions Known By asdf Plugin](unix/update-package-versions-known-by-asdf-plugin.md)
 - [Use Regex Pattern Matching With Grep](unix/use-regex-pattern-matching-with-grep.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
 - [Watch The Difference](unix/watch-the-difference.md)
