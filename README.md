@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_990 TILs and counting..._
+_991 TILs and counting..._
 
 ---
 
@@ -878,6 +878,7 @@ _990 TILs and counting..._
 - [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
+- [Get Mouse Copy/Paste Working In Kitty](tmux/get-mouse-copy-paste-working-in-kitty.md)
 - [Hiding The Status Bar](tmux/hiding-the-status-bar.md)
 - [Jumping Between Sessions](tmux/jumping-between-sessions.md)
 - [Kill All Your tmux Sessions](tmux/kill-all-your-tmux-sessions.md)
