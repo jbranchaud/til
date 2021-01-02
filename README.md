@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_989 TILs and counting..._
+_990 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _989 TILs and counting..._
 * [Git](#git)
 * [Go](#go)
 * [HTML](#html)
+* [HTTP](#http)
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [jq](#jq)
@@ -299,6 +300,10 @@ _989 TILs and counting..._
 - [Prevent Search Engines From Indexing A Page](html/prevent-search-engines-from-indexing-a-page.md)
 - [Render Text As Superscript](html/render-text-as-superscript.md)
 - [Submit A Form With A Button Outside The Form](html/submit-a-form-with-a-button-outside-the-form.md)
+
+### HTTP
+
+- [What Counts As Cross-Origin With CORS?](http/what-counts-as-cross-origin-with-cors.md)
 
 ### Internet
 
