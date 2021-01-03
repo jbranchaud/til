@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_992 TILs and counting..._
+_993 TILs and counting..._
 
 ---
 
@@ -625,6 +625,7 @@ _992 TILs and counting..._
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Inspect Previous Changes To ActiveRecord Object](rails/inspect-previous-changes-to-activerecord-object.md)
+- [List All Installable Rails Versions](rails/list-all-installable-rails-versions.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
 - [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
