@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_994 TILs and counting..._
+_996 TILs and counting..._
 
 ---
 
@@ -656,6 +656,7 @@ _994 TILs and counting..._
 - [Show Pending Migrations](rails/show-pending-migrations.md)
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
+- [Skip Validations When Creating A Record](rails/skip-validations-when-creating-a-record.md)
 - [Temporarily Disable strong_params](rails/temporarily-disable-strong-params.md)
 - [Test If An Instance Variable Was Assigned](rails/test-if-an-instance-variable-was-assigned.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
