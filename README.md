@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_998 TILs and counting..._
+_999 TILs and counting..._
 
 ---
 
@@ -911,6 +911,7 @@ _998 TILs and counting..._
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
 - [Change To That New Directory](unix/change-to-that-new-directory.md)
 - [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
+- [Check If Command Is Executable Before Using](unix/check-if-command-is-executable-before-using.md)
 - [Check The Current Working Directory](unix/check-the-current-working-directory.md)
 - [Clear The Screen](unix/clear-the-screen.md)
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
