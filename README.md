@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_997 TILs and counting..._
+_998 TILs and counting..._
 
 ---
 
@@ -1118,6 +1118,7 @@ _997 TILs and counting..._
 - [Split Different](vim/split-different.md)
 - [Split The Current Window](vim/split-the-current-window.md)
 - [Splitting For New Files](vim/splitting-for-new-files.md)
+- [Source Original vimrc When Using Neovim](vim/source-original-vimrc-when-using-neovim.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Swapping Split Windows](vim/swapping-split-windows.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
