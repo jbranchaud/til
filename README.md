@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_999 TILs and counting..._
+_1000 TILs and counting..._
 
 ---
 
@@ -963,6 +963,7 @@ _999 TILs and counting..._
 - [PID Of The Current Shell](unix/pid-of-the-current-shell.md)
 - [Print A Range Of Lines For A File With Bat](unix/print-a-range-of-lines-for-a-file-with-bat.md)
 - [Print Out Files In Reverse](unix/print-out-files-in-reverse.md)
+- [Provide A Fallback Value For Unset Parameter](unix/provide-a-fallback-value-for-unset-parameter.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
