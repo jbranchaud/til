@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1000 TILs and counting..._
+_1001 TILs and counting..._
 
 ---
 
@@ -250,6 +250,7 @@ _1000 TILs and counting..._
 - [List Most Git Commands](git/list-most-git-commands.md)
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
+- [Pick Specific Changes To Stash](git/pick-specific-changes-to-stash.md)
 - [Pulling In Changes During An Interactive Rebase](git/pulling-in-changes-during-an-interactive-rebase.md)
 - [Quicker Commit Fixes With The Fixup Flag](git/quicker-commit-fixes-with-the-fixup-flag.md)
 - [Rebase Commits With An Arbitrary Command](git/rebase-commits-with-an-arbitrary-command.md)
