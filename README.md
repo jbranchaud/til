@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1001 TILs and counting..._
+_1002 TILs and counting..._
 
 ---
 
@@ -839,6 +839,7 @@ _1001 TILs and counting..._
 - [Require Entire Gemfile In Pry Session](ruby/require-entire-gemfile-in-pry-session.md)
 - [Rerun Only Failures With RSpec](ruby/rerun-only-failures-with-rspec.md)
 - [Returning With Sequel](ruby/returning-with-sequel.md)
+- [rexml Is A Bundled Gem As Of Ruby 3.0.0](ruby/rexml-is-a-bundled-gem-as-of-ruby-3-0-0.md)
 - [Run An Older Version Of Bundler](ruby/run-an-older-version-of-bundler.md)
 - [Running A Single MiniTest Example](ruby/running-a-single-minitest-example.md)
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
