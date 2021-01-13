@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1007 TILs and counting..._
+_1008 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _1007 TILs and counting..._
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [jq](#jq)
+* [Kitty](#kitty)
 * [Linux](#linux)
 * [Mac](#mac)
 * [MongoDB](#mongodb)
@@ -398,6 +399,10 @@ _1007 TILs and counting..._
 ### jq
 
 - [Extract A List Of Values](jq/extract-a-list-of-values.md)
+
+### Kitty
+
+- [Use The Built-In Emoji Picker](kitty/use-the-built-in-emoji-picker.md)
 
 ### Linux
 
