@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1006 TILs and counting..._
+_1007 TILs and counting..._
 
 ---
 
@@ -616,6 +616,7 @@ _1006 TILs and counting..._
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Custom Validation Message](rails/custom-validation-message.md)
+- [Customize Paths And Helpers For Devise Routes](rails/customize-paths-and-helpers-for-devise-routes.md)
 - [Customize The Path Of A Resource Route](rails/customize-the-path-of-a-resource-route.md)
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
