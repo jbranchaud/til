@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1008 TILs and counting..._
+_1009 TILs and counting..._
 
 ---
 
@@ -521,6 +521,7 @@ _1008 TILs and counting..._
 - [Find The Location Of Postgres Config Files](postgres/find-the-location-of-postgres-config-files.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
 - [Generate A UUID](postgres/generate-a-uuid.md)
+- [Generate Random UUIDs Without An Extension](postgres/generate-random-uuids-without-an-extension.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Generating UUIDs With pgcrypto](postgres/generating-uuids-with-pgcrypto.md)
 - [Get The Size Of A Database](postgres/get-the-size-of-a-database.md)
