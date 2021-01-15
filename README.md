@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1010 TILs and counting..._
+_1011 TILs and counting..._
 
 ---
 
@@ -1127,6 +1127,7 @@ _1010 TILs and counting..._
 - [Select Several Results From An FZF Search](vim/select-several-results-from-an-fzf-search.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
+- [Set Up Vim-Plug With Neovim](vim/set-up-vim-plug-with-neovim.md)
 - [Setting Filetype With Modelines](vim/setting-filetype-with-modelines.md)
 - [Show All Syntax Highlighting Rules](vim/show-all-syntax-highlighting-rules.md)
 - [Show Matching Entries For Help](vim/show-matching-entries-for-help.md)
