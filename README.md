@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1013 TILs and counting..._
+_1014 TILs and counting..._
 
 ---
 
@@ -568,6 +568,7 @@ _1013 TILs and counting..._
 - [Storing Emails With citext](postgres/storing-emails-with-citext.md)
 - [String Contains Another String](postgres/string-contains-another-string.md)
 - [Switch Non-Castable Column Type With Using Clause](postgres/switch-non-castable-column-type-with-using-clause.md)
+- [Switch The Running Postgres Server Version](postgres/switch-the-running-postgres-server-version.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
 - [Temporary Tables](postgres/temporary-tables.md)
 - [Terminating A Connection](postgres/terminating-a-connection.md)
