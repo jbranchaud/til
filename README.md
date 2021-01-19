@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1016 TILs and counting..._
+_1017 TILs and counting..._
 
 ---
 
@@ -213,6 +213,7 @@ _1016 TILs and counting..._
 
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
 - [Amend Author Of Previous Commit](git/amend-author-of-previous-commit.md)
+- [Auto-Squash Those Fixup Commits](git/auto-squash-those-fixup-commits.md)
 - [Caching Credentials](git/caching-credentials.md)
 - [Change The Start Point Of A Branch](git/change-the-start-point-of-a-branch.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
