@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1015 TILs and counting..._
+_1016 TILs and counting..._
 
 ---
 
@@ -619,6 +619,7 @@ _1015 TILs and counting..._
 - [Check If ActiveRecord Update Fails](rails/check-if-activerecord-update-fails.md)
 - [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
+- [Columns With Default Values Are Nil On Create](rails/columns-with-default-values-are-nil-on-create.md)
 - [Comparing DateTimes Down To Second Precision](rails/comparing-datetimes-down-to-second-precision.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
