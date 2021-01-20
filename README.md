@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1017 TILs and counting..._
+_1018 TILs and counting..._
 
 ---
 
@@ -932,6 +932,7 @@ _1017 TILs and counting..._
 - [Check The Current Working Directory](unix/check-the-current-working-directory.md)
 - [Clear The Screen](unix/clear-the-screen.md)
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
+- [Compare Two Variables In A Bash Script](unix/compare-two-variables-in-a-bash-script.md)
 - [Configure cd To Behave Like pushd In Zsh](unix/configure-cd-to-behave-like-pushd-in-zsh.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
