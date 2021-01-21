@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1018 TILs and counting..._
+_1019 TILs and counting..._
 
 ---
 
@@ -668,6 +668,7 @@ _1018 TILs and counting..._
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
 - [Serialize With fast_jsonapi In A Rails App](rails/serialize-with-fast-jsonapi-in-a-rails-app.md)
+- [Set A Timestamp Field To The Current Time](rails/set-a-timestamp-field-to-the-current-time.md)
 - [Set default_url_options For Entire Application](rails/set-default-url-options-for-entire-application.md)
 - [Set Schema Search Path](rails/set-schema-search-path.md)
 - [Show Pending Migrations](rails/show-pending-migrations.md)
