@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1019 TILs and counting..._
+_1020 TILs and counting..._
 
 ---
 
@@ -279,6 +279,7 @@ _1019 TILs and counting..._
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
 - [Two Kinds Of Dotted Range Notation](git/two-kinds-of-dotted-range-notation.md)
+- [Unstage Changes Wih Git Restore](git/unstage-changes-with-git-restore.md)
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Update The URL Of A Remote](git/update-the-url-of-a-remote.md)
