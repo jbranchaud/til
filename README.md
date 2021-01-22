@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1020 TILs and counting..._
+_1021 TILs and counting..._
 
 ---
 
@@ -888,6 +888,7 @@ _1020 TILs and counting..._
 ### Shell
 
 - [Check If The First Argument Is Given](shell/check-if-the-first-argument-is-given.md)
+- [Format And Print The Current Date And Time](shell/format-and-print-the-current-date-and-time.md)
 
 ### tmux
 
