@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1021 TILs and counting..._
+_1022 TILs and counting..._
 
 ---
 
@@ -48,6 +48,7 @@ _1021 TILs and counting..._
 * [ReasonML](#reasonml)
 * [Ruby](#ruby)
 * [Shell](#shell)
+* [Tailwind CSS](#tailwind-css)
 * [tmux](#tmux)
 * [Unix](#unix)
 * [Vercel](#vercel)
@@ -889,6 +890,10 @@ _1021 TILs and counting..._
 
 - [Check If The First Argument Is Given](shell/check-if-the-first-argument-is-given.md)
 - [Format And Print The Current Date And Time](shell/format-and-print-the-current-date-and-time.md)
+
+### Tailwind CSS
+
+- [Base Styles For Text Link](tailwind/base-styles-for-text-link.md)
 
 ### tmux
 
