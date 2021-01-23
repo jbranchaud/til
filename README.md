@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1022 TILs and counting..._
+_1023 TILs and counting..._
 
 ---
 
@@ -461,6 +461,7 @@ _1022 TILs and counting..._
 
 ### Next.js
 
+- [Create Files And Directories For Dynamic Routes](nextjs/create-files-and-directories-for-dynamic-routes.md)
 - [Define URL Redirects In The Next Config](nextjs/define-url-redirects-in-the-next-config.md)
 - [Remove A Query Param From The URL](nextjs/remove-a-query-param-from-the-url.md)
 
