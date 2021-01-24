@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1023 TILs and counting..._
+_1024 TILs and counting..._
 
 ---
 
@@ -646,6 +646,7 @@ _1023 TILs and counting..._
 - [Inspect Previous Changes To ActiveRecord Object](rails/inspect-previous-changes-to-activerecord-object.md)
 - [List All Installable Rails Versions](rails/list-all-installable-rails-versions.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
+- [Load Records In Batches With find_each](rails/load-records-in-batches-with-find-each.md)
 - [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
