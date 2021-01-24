@@ -14,7 +14,7 @@ link:
 
 ```html
 <a
-  className="underline text-purple-600 pointer hover:text-purple-800"
+  className="underline text-purple-600 cursor-pointer hover:text-purple-800"
   href="https://twitter.com/jbrancha"
 >
   twitter
@@ -29,7 +29,7 @@ only on hover:
 
 ```css
 <a
-  className="hover:underline text-purple-600 pointer hover:text-purple-800"
+  className="hover:underline text-purple-600 cursor-pointer hover:text-purple-800"
   href="https://twitter.com/jbrancha"
 >
   twitter
