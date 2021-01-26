@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1026 TILs and counting..._
+_1027 TILs and counting..._
 
 ---
 
@@ -735,6 +735,7 @@ _1026 TILs and counting..._
 - [@reach/router Renders To A Div](react/reach-router-renders-to-a-div.md)
 - [Read Only Input Elements](react/read-only-input-elements.md)
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
+- [Set The Type For A useState Hook](react/set-the-type-for-a-usestate-hook.md)
 - [Specifying Dependencies Of A useEffect Hook](react/specifying-dependencies-of-a-useeffect-hook.md)
 - [Spelunking Through Components With Enzyme's Dive](react/spelunking-through-components-with-enzymes-dive.md)
 - [Sync Your react-router State With Redux](react/sync-your-react-router-state-with-redux.md)
