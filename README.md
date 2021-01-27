@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1027 TILs and counting..._
+_1028 TILs and counting..._
 
 ---
 
@@ -1116,6 +1116,7 @@ _1027 TILs and counting..._
 - [Open The Directory Of The Current File](vim/open-the-directory-of-the-current-file.md)
 - [Open The Gemfile](vim/open-the-gemfile.md)
 - [Open The Latest Rails Migration](vim/open-the-latest-rails-migration.md)
+- [Open The Selected Lines In GitHub With Gbrowse](vim/open-the-selected-lines-in-github-with-gbrowse.md)
 - [Open Vim To A Tag Definition](vim/open-vim-to-a-tag-definition.md)
 - [Opening a URL](vim/opening-a-url.md)
 - [Opening Man Pages In Vim](vim/opening-man-pages-in-vim.md)
