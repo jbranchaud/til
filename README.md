@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1029 TILs and counting..._
+_1030 TILs and counting..._
 
 ---
 
@@ -641,6 +641,7 @@ _1029 TILs and counting..._
 - [Get An Array Of Values From The Database](rails/get-an-array-of-values-from-the-database.md)
 - [Get An Empty ActiveRecord Relation](rails/get-an-empty-activerecord-relation.md)
 - [Get The Column Names For A Model](rails/get-the-column-names-for-a-model.md)
+- [Get The Current Time](rails/get-the-current-time.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Include Devise Helpers In Your Controller Tests](rails/include-devise-helpers-in-your-controller-tests.md)
