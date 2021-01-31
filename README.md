@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1030 TILs and counting..._
+_1031 TILs and counting..._
 
 ---
 
@@ -855,6 +855,7 @@ _1030 TILs and counting..._
 - [Pass A Block To Count](ruby/pass-a-block-to-count.md)
 - [Passing Arbitrary Methods As Blocks](ruby/passing-arbitrary-methods-as-blocks.md)
 - [Passing Arguments To A Rake Task](ruby/passing-arguments-to-a-rake-task.md)
+- [Pattern Match Values From A Hash](ruby/pattern-match-values-from-a-hash.md)
 - [Percent Notation](ruby/percent-notation.md)
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
