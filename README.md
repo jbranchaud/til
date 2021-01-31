@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1031 TILs and counting..._
+_1032 TILs and counting..._
 
 ---
 
@@ -901,6 +901,7 @@ _1031 TILs and counting..._
 ### Tailwind CSS
 
 - [Base Styles For Text Link](tailwind/base-styles-for-text-link.md)
+- [Specify Paths For Purging Unused CSS](tailwind/specify-paths-for-purging-unused-css.md)
 
 ### tmux
 
