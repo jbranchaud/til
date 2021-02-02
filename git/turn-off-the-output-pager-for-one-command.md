@@ -23,3 +23,5 @@ $ git --no-pager show
 
 This will print the details of the HEAD commit to the terminal. I can scroll
 back and reference them as needed.
+
+[source](https://stackoverflow.com/questions/2183900/how-do-i-prevent-git-diff-from-using-a-pager#:~:text=17%20Answers&text=%2D%2Dno%2Dpager%20to%20Git,fits%20in%20a%20single%20screen.&text=As%20a%20previous%20answer%20mentioned,is%20less%20than%20one%20screen.)
