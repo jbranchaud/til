@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1034 TILs and counting..._
+_1035 TILs and counting..._
 
 ---
 
@@ -1011,6 +1011,7 @@ _1034 TILs and counting..._
 - [Show A File Preview When Searching With FZF](unix/show-a-file-preview-when-searching-with-fzf.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
 - [Show The Size Of Everything In A Directory](unix/show-the-size-of-everything-in-a-directory.md)
+- [Skip Paging If Output Fits On Screen With Less](unix/skip-paging-if-output-fits-on-screen-with-less.md)
 - [SSH Escape Sequences](unix/ssh-escape-sequences.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
 - [Specify The Language For A File With Bat](unix/specify-the-language-for-a-file-with-bat.md)
