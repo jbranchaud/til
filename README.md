@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1037 TILs and counting..._
+_1038 TILs and counting..._
 
 ---
 
@@ -844,6 +844,7 @@ _1037 TILs and counting..._
 - [Jump Out Of A Nested Context With Throw/Catch](ruby/jump-out-of-a-nested-context-with-throw-catch.md)
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
 - [Limit Split](ruby/limit-split.md)
+- [List The Running Ruby Version](ruby/list-the-running-ruby-version.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
 - [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
 - [Mock Method Chain Calls With RSpec](ruby/mock-method-chain-calls-with-rspec.md)
