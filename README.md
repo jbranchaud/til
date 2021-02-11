@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1042 TILs and counting..._
+_1043 TILs and counting..._
 
 ---
 
@@ -50,6 +50,7 @@ _1042 TILs and counting..._
 * [Shell](#shell)
 * [Tailwind CSS](#tailwind-css)
 * [tmux](#tmux)
+* [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vercel](#vercel)
 * [Vim](#vim)
@@ -943,6 +944,10 @@ _1042 TILs and counting..._
 - [Switch To A Specific Session And Window](tmux/switch-to-a-specific-session-and-window.md)
 - [tmux in your tmux](tmux/tmux-in-your-tmux.md)
 - [Toggle Between Two Common Sessions](tmux/toggle-between-two-common-sessions.md)
+
+### TypeScript
+
+- [Re-Export An Imported Type](typescript/re-export-an-imported-type.md)
 
 ### Unix
 
