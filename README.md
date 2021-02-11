@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1044 TILs and counting..._
+_1045 TILs and counting..._
 
 ---
 
@@ -426,6 +426,7 @@ _1044 TILs and counting..._
 - [Access System Information On OS X](mac/access-system-information-on-osx.md)
 - [Access Unsupported Screen Resolutions With RDM](mac/access-unsupported-screen-resolutions-with-rdm.md)
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
+- [Convert An HEIC Image File To JPG](mac/convert-an-heic-image-file-to-jpg.md)
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 - [Disable Swipe Navigation For A Specific App](mac/disable-swipe-navigation-for-a-specific-app.md)
 - [Display A Message With Alfred](mac/display-a-message-with-alfred.md)
