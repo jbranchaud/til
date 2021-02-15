@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1047 TILs and counting..._
+_1048 TILs and counting..._
 
 ---
 
@@ -529,6 +529,7 @@ _1047 TILs and counting..._
 - [Escaping String Literals With Dollar Quoting](postgres/escaping-string-literals-with-dollar-quoting.md)
 - [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
+- [Find Records That Have Multiple Associated Records](postgres/find-records-that-have-multiple-associated-records.md)
 - [Find The Data Directory](postgres/find-the-data-directory.md)
 - [Find The Location Of Postgres Config Files](postgres/find-the-location-of-postgres-config-files.md)
 - [Fizzbuzz With Common Table Expressions](postgres/fizzbuzz-with-common-table-expressions.md)
