@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1048 TILs and counting..._
+_1049 TILs and counting..._
 
 ---
 
@@ -896,6 +896,7 @@ _1048 TILs and counting..._
 - [Turning Things Into Hashes](ruby/turning-things-into-hashes.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
+- [Uninstall Specific Version Of A Ruby Gem](ruby/uninstall-specific-version-of-a-ruby-gem.md)
 - [Unpacking Strings Into Binary](ruby/unpacking-strings-into-binary.md)
 - [Up And Down With Integers](ruby/up-and-down-with-integers.md)
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
