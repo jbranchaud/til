@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1050 TILs and counting..._
+_1051 TILs and counting..._
 
 ---
 
@@ -899,6 +899,7 @@ _1050 TILs and counting..._
 - [Uninstall Specific Version Of A Ruby Gem](ruby/uninstall-specific-version-of-a-ruby-gem.md)
 - [Unpacking Strings Into Binary](ruby/unpacking-strings-into-binary.md)
 - [Up And Down With Integers](ruby/up-and-down-with-integers.md)
+- [Update The Gemfile Bundled With Version](ruby/update-the-gemfile-bundled-with-version.md)
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
 - [Use Tap For Better Test Data Setup](ruby/use-tap-for-better-test-data-setup.md)
