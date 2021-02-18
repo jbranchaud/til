@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1052 TILs and counting..._
+_1053 TILs and counting..._
 
 ---
 
@@ -990,6 +990,7 @@ _1052 TILs and counting..._
 - [Find Newer Files](unix/find-newer-files.md)
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
+- [Generate A SAML Key And Certificate Pair](unix/generate-a-saml-key-and-certificate-pair.md)
 - [Get Matching Filenames As Output From Grep](unix/get-matching-filenames-as-output-from-grep.md)
 - [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
