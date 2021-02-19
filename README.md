@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1053 TILs and counting..._
+_1054 TILs and counting..._
 
 ---
 
@@ -1142,6 +1142,7 @@ _1053 TILs and counting..._
 - [Open FZF Result In A Split](vim/open-fzf-result-in-a-split.md)
 - [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
 - [Open The Directory Of The Current File](vim/open-the-directory-of-the-current-file.md)
+- [Open The Fugitive Git Summary Window](vim/open-the-fugitive-git-summary-window.md)
 - [Open The Gemfile](vim/open-the-gemfile.md)
 - [Open The Latest Rails Migration](vim/open-the-latest-rails-migration.md)
 - [Open The Selected Lines In GitHub With Gbrowse](vim/open-the-selected-lines-in-github-with-gbrowse.md)
