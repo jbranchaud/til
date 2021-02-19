@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1054 TILs and counting..._
+_1055 TILs and counting..._
 
 ---
 
@@ -253,6 +253,7 @@ _1054 TILs and counting..._
 - [List Commits On A Branch](git/list-commits-on-a-branch.md)
 - [List Different Commits Between Two Branches](git/list-different-commits-between-two-branches.md)
 - [List Filenames Without The Diffs](git/list-filenames-without-the-diffs.md)
+- [List Just The Files Involved In A Commit](git/list-just-the-files-involved-in-a-commit.md)
 - [List Most Git Commands](git/list-most-git-commands.md)
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
