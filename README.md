@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1055 TILs and counting..._
+_1056 TILs and counting..._
 
 ---
 
@@ -25,6 +25,7 @@ _1055 TILs and counting..._
 * [Elixir](#elixir)
 * [Gatsby](#gatsby)
 * [Git](#git)
+* [GitHub Actions](#github-actions)
 * [Go](#go)
 * [HTML](#html)
 * [HTTP](#http)
@@ -297,6 +298,10 @@ _1055 TILs and counting..._
 - [What Changed?](git/what-changed.md)
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
+
+### GitHub Actions
+
+- [Capture An Output Value For Use In A Later Step](github-actions/capture-an-output-value-for-use-in-a-later-step.md)
 
 ### Go
 
