@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1056 TILs and counting..._
+_1057 TILs and counting..._
 
 ---
 
@@ -816,6 +816,7 @@ _1056 TILs and counting..._
 ### Ruby
 
 - [A Shorthand For Rerunning Failed Tests With RSpec](ruby/a-shorthand-for-rerunning-failed-tests-with-rspec.md)
+- [Add Linux As A Bundler Platform](ruby/add-linux-as-a-bundler-platform.md)
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assert About An Object's Attributes With RSpec](ruby/assert-about-an-objects-attributes-with-rspec.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
