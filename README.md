@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1059 TILs and counting..._
+_1060 TILs and counting..._
 
 ---
 
@@ -304,6 +304,7 @@ _1059 TILs and counting..._
 ### GitHub Actions
 
 - [Capture An Output Value For Use In A Later Step](github-actions/capture-an-output-value-for-use-in-a-later-step.md)
+- [Reference An Encrypted Secret In An Action](github-actions/reference-an-encrypted-secret-in-an-action.md)
 
 ### Go
 
