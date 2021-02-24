@@ -7,7 +7,7 @@ like [husky](https://github.com/typicode/husky) or with a custom script.
 
 As you're working on a feature branch, you can and should make frequent
 checkpoint commits like a climber puts
-[pitons](https://en.wikipedia.org/wiki/Piton#:~:text=In%20climbing%2C%20a%20piton%20(%2F,assist%20progress%20in%20aid%20climbing.)
+[pitons](https://en.wikipedia.org/wiki/Piton#:~:text=In%20climbing%2C%20a%20piton%20(%2F,assist%20progress%20in%20aid%20climbing)
 into the rock face. These are anchor points that reduce the risk of losing
 work. They make it easier and safer to return to a point in time when your code
 was in a "good" state.
