@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1062 TILs and counting..._
+_1063 TILs and counting..._
 
 ---
 
@@ -884,6 +884,7 @@ _1062 TILs and counting..._
 - [Percent Notation](ruby/percent-notation.md)
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
+- [Read The First Line From A File](ruby/read-the-first-line-from-a-file.md)
 - [Rendering ERB](ruby/rendering-erb.md)
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
 - [Require Entire Gemfile In Pry Session](ruby/require-entire-gemfile-in-pry-session.md)
