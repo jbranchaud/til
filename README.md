@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1061 TILs and counting..._
+_1062 TILs and counting..._
 
 ---
 
@@ -1181,6 +1181,7 @@ _1061 TILs and counting..._
 - [Reset Target tslime Pane](vim/reset-target-tslime-pane.md)
 - [Reverse A Group Of Lines](vim/reverse-a-group-of-lines.md)
 - [Rotate Everything By 13 Letters](vim/rotate-everything-by-13-letters.md)
+- [Rotate The Orientation Of Split Windows](vim/rotate-the-orientation-of-split-windows.md)
 - [Running Bundle With vim-bundler](vim/running-bundle-with-vim-bundler.md)
 - [Scrolling Relative to the Cursor](vim/scrolling-relative-to-the-cursor.md)
 - [Search Backward Through A File](vim/search-backward-through-a-file.md)
