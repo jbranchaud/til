@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1065 TILs and counting..._
+_1066 TILs and counting..._
 
 ---
 
@@ -48,6 +48,7 @@ _1065 TILs and counting..._
 * [React Testing Library](#react-testing-library)
 * [ReasonML](#reasonml)
 * [Ruby](#ruby)
+* [sed](#sed)
 * [Shell](#shell)
 * [Tailwind CSS](#tailwind-css)
 * [tmux](#tmux)
@@ -922,6 +923,10 @@ _1065 TILs and counting..._
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Wrap Things In An Array, Even Hashes](ruby/wrap-things-in-an-array-even-hashes.md)
 - [Zero Padding](ruby/zero-padding.md)
+
+### sed
+
+- [Use An Alternative Delimiter In A Substitution](sed/use-an-alternative-delimiter-in-a-substitution.md)
 
 ### Shell
 
