@@ -926,6 +926,7 @@ _1066 TILs and counting..._
 
 ### sed
 
+- [Extract Value From Command Output With Sed](sed/extract-value-from-command-output-with-sed.md)
 - [Use An Alternative Delimiter In A Substitution](sed/use-an-alternative-delimiter-in-a-substitution.md)
 
 ### Shell
@@ -1001,7 +1002,6 @@ _1066 TILs and counting..._
 - [Display The Contents Of A Directory As A Tree](unix/display-the-contents-of-a-directory-as-a-tree.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
-- [Extract Value From Command Output With Sed](unix/extract-value-from-command-output-with-sed.md)
 - [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
