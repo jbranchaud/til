@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1064 TILs and counting..._
+_1065 TILs and counting..._
 
 ---
 
@@ -1171,6 +1171,7 @@ _1064 TILs and counting..._
 - [Quick File Info](vim/quick-file-info.md)
 - [Quick Man Pages](vim/quick-man-pages.md)
 - [Quick Quickfix List Navigation](vim/quick-quickfix-list-navigation.md)
+- [Quickly Fix A Misspelled Word](vim/quickly-fix-a-misspelled-word.md)
 - [Quickly Switch To A Buffer By Number](vim/quickly-switch-to-a-buffer-by-number.md)
 - [Quit When There Is An Argument List](vim/quit-when-there-is-an-argument-list.md)
 - [Re-indenting Your Code](vim/reindenting-your-code.md)
