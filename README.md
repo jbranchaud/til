@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1066 TILs and counting..._
+_1067 TILs and counting..._
 
 ---
 
@@ -532,6 +532,7 @@ _1066 TILs and counting..._
 - [Determine Types Of JSONB Records](postgres/determine-types-of-jsonb-records.md)
 - [Determining The Age Of Things](postgres/determining-the-age-of-things.md)
 - [Difference Between Explain And Explain Analyze](postgres/difference-between-explain-and-explain-analyze.md)
+- [Dump All Databases To A SQL File](postgres/dump-all-databases-to-a-sql-file.md)
 - [Dump And Restore A Database](postgres/dump-and-restore-a-database.md)
 - [Duplicate A Local Database](postgres/duplicate-a-local-database.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
