@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1067 TILs and counting..._
+_1068 TILs and counting..._
 
 ---
 
@@ -1216,6 +1216,7 @@ _1067 TILs and counting..._
 - [Turning Off Search Highlighting](vim/turning-off-search-highlighting.md)
 - [Unloading A Buffer](vim/unloading-a-buffer.md)
 - [Use Active Window With BufExplorer](vim/use-active-window-with-bufexplorer.md)
+- [Use The Terminal Inside A Vim Session](vim/use-the-terminal-inside-a-vim-session.md)
 - [Using vim-surround With A Visual Selection](vim/using-vim-surround-with-a-visual-selection.md)
 - [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
