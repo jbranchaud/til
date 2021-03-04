@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1068 TILs and counting..._
+_1069 TILs and counting..._
 
 ---
 
@@ -649,6 +649,7 @@ _1068 TILs and counting..._
 - [Comparing DateTimes Down To Second Precision](rails/comparing-datetimes-down-to-second-precision.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
+- [Create A Custom Named References Column](rails/create-a-custom-named-references-column.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Custom Validation Message](rails/custom-validation-message.md)
 - [Customize Paths And Helpers For Devise Routes](rails/customize-paths-and-helpers-for-devise-routes.md)
