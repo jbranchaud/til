@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1069 TILs and counting..._
+_1070 TILs and counting..._
 
 ---
 
@@ -599,6 +599,7 @@ _1069 TILs and counting..._
 - [Terminating A Connection](postgres/terminating-a-connection.md)
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
+- [Track psql History Separately Per Database](postgres/track-psql-history-separately-per-database.md)
 - [Truncate All Rows](postgres/truncate-all-rows.md)
 - [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
 - [Turning Timing On](postgres/turn-timing-on.md)
