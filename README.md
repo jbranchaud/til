@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1070 TILs and counting..._
+_1071 TILs and counting..._
 
 ---
 
@@ -1145,6 +1145,7 @@ _1070 TILs and counting..._
 - [Interactive Buffer List](vim/interactive-buffer-list.md)
 - [Joining Lines Together](vim/joining-lines-together.md)
 - [Jump Back To The Latest Jump Position](vim/jump-back-to-the-latest-jump-position.md)
+- [Jump Between And Stage Git Hunks With Fugitive](vim/jump-between-and-stage-git-hunks-with-fugitive.md)
 - [Jump To Matching Pair](vim/jump-to-matching-pair.md)
 - [Jump To The Next Misspelling](vim/jump-to-the-next-misspelling.md)
 - [List All Buffers](vim/list-all-buffers.md)
