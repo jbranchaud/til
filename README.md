@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1073 TILs and counting..._
+_1074 TILs and counting..._
 
 ---
 
@@ -1252,6 +1252,7 @@ _1073 TILs and counting..._
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
 - [Enable Dev Tools For Safari](workflow/enable-dev-tools-for-safari.md)
+- [Get Your Public IP Address](workflow/get-your-public-ip-address.md)
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
 - [Open Slack's Keyboard Shortcuts Reference Panel](workflow/open-slacks-keyboard-shortcuts-reference-panel.md)
