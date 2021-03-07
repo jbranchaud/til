@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1074 TILs and counting..._
+_1075 TILs and counting..._
 
 ---
 
@@ -645,6 +645,7 @@ _1074 TILs and counting..._
 - [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
 - [Change The Time Zone Offset Of A DateTime Object](rails/change-the-time-zone-offset-of-a-datetime-object.md)
 - [Check If ActiveRecord Update Fails](rails/check-if-activerecord-update-fails.md)
+- [Check If Any Records Have A Null Value](rails/check-if-any-records-have-a-null-value.md)
 - [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Columns With Default Values Are Nil On Create](rails/columns-with-default-values-are-nil-on-create.md)
