@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1076 TILs and counting..._
+_1077 TILs and counting..._
 
 ---
 
@@ -933,6 +933,7 @@ _1076 TILs and counting..._
 
 - [Apply Multiple Substitutions To The Input](sed/apply-multiple-substitutions-to-the-input.md)
 - [Extract Value From Command Output With Sed](sed/extract-value-from-command-output-with-sed.md)
+- [Output Only Lines Involved In A Substitution](sed/output-only-lines-involved-in-a-substitution.md)
 - [Use An Alternative Delimiter In A Substitution](sed/use-an-alternative-delimiter-in-a-substitution.md)
 
 ### Shell
