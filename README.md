@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1077 TILs and counting..._
+_1078 TILs and counting..._
 
 ---
 
@@ -517,6 +517,7 @@ _1077 TILs and counting..._
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
 - [Convert A String To A Timestamp](postgres/convert-a-string-to-a-timestamp.md)
+- [Count How Many Records There Are Of Each Type](postgres/count-how-many-records-there-are-of-each-type.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Count The Number Of Trues In An Aggregate Query](postgres/count-the-number-of-trues-in-an-aggregate-query.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
