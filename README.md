@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1079 TILs and counting..._
+_1080 TILs and counting..._
 
 ---
 
@@ -1009,6 +1009,7 @@ _1079 TILs and counting..._
 - [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Display The Contents Of A Directory As A Tree](unix/display-the-contents-of-a-directory-as-a-tree.md)
+- [Do A Dry Run Of An rsync](unix/do-a-dry-run-of-an-rsync.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Enable Multi-Select Of Results With fzf](unix/enable-multi-select-of-results-with-fzf.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
