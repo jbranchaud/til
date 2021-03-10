@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1080 TILs and counting..._
+_1081 TILs and counting..._
 
 ---
 
@@ -227,6 +227,7 @@ _1080 TILs and counting..._
 - [Cherry Pick A Range Of Commits](git/cherry-pick-a-range-of-commits.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Clean Up Old Remote Tracking References](git/clean-up-old-remote-tracking-references.md)
+- [Clone A Repo Just For The Files, Without History](git/clone-a-repo-just-for-the-files-without-history.md)
 - [Clone A Repo Locally From .git](git/clone-a-repo-locally-from-git.md)
 - [Configure Global gitignore File](git/configure-global-gitignore-file.md)
 - [Configuring The Pager](git/configuring-the-pager.md)
