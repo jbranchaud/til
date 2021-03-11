@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1082 TILs and counting..._
+_1083 TILs and counting..._
 
 ---
 
@@ -507,6 +507,7 @@ _1082 TILs and counting..._
 - [Between Symmetric](postgres/between-symmetric.md)
 - [Capitalize All The Words](postgres/capitalize-all-the-words.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
+- [Check If The Local Server Is Running](postgres/check-if-the-local-server-is-running.md)
 - [Check Table For Any Oprhaned Records](postgres/check-table-for-any-orphaned-records.md)
 - [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
