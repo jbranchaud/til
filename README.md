@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1083 TILs and counting..._
+_1084 TILs and counting..._
 
 ---
 
@@ -1016,6 +1016,7 @@ _1083 TILs and counting..._
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Enable Multi-Select Of Results With fzf](unix/enable-multi-select-of-results-with-fzf.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
+- [Exclude Certain Files From An rsync Run](unix/exclude-certain-files-from-an-rsync-run.md)
 - [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
