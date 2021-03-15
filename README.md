@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1086 TILs and counting..._
+_1087 TILs and counting..._
 
 ---
 
@@ -589,6 +589,7 @@ _1086 TILs and counting..._
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
+- [Set A Statement Timeout Threshold For A Session](postgres/set-a-statement-timeout-threshold-for-a-session.md)
 - [Sets With The Values Command](postgres/sets-with-the-values-command.md)
 - [Shorthand Absolute Value Operator](postgres/shorthand-absolute-value-operator.md)
 - [Show All Versions Of An Operator](postgres/show-all-versions-of-an-operator.md)
