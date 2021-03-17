@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1088 TILs and counting..._
+_1089 TILs and counting..._
 
 ---
 
@@ -272,6 +272,7 @@ _1088 TILs and counting..._
 - [Renaming A Branch](git/renaming-a-branch.md)
 - [Resetting A Reset](git/resetting-a-reset.md)
 - [Resolve A Merge Conflict From Stash Pop](git/resolve-a-merge-conflict-from-stash-pop.md)
+- [Run A Git Command From Outside The Repo](git/run-a-git-command-from-outside-the-repo.md)
 - [Set A Custom Pager For A Specific Command](git/set-a-custom-pager-for-a-specific-command.md)
 - [Show All Commits For A File Beyond Renaming](git/show-all-commits-for-a-file-beyond-renaming.md)
 - [Show Changes For Files That Match A Pattern](git/show-changes-for-files-that-match-a-pattern.md)
