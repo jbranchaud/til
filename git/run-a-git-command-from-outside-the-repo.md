@@ -18,3 +18,7 @@ $ git -C ~/code/til log
 
 Notice that the `-C` flag and its argument are positioned directly after `git`.
 The command (`log`) should be positioned after that.
+
+See `man git` for more details.
+
+[source](https://stackoverflow.com/a/35899275/535590)
