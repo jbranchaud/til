@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1090 TILs and counting..._
+_1091 TILs and counting..._
 
 ---
 
@@ -678,6 +678,7 @@ _1090 TILs and counting..._
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Include Devise Helpers In Your Controller Tests](rails/include-devise-helpers-in-your-controller-tests.md)
 - [Inspect Previous Changes To ActiveRecord Object](rails/inspect-previous-changes-to-activerecord-object.md)
+- [Link To The Current Page With Query Params](rails/link-to-the-current-page-with-query-params.md)
 - [List All Installable Rails Versions](rails/list-all-installable-rails-versions.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
 - [Load Records In Batches With find_each](rails/load-records-in-batches-with-find-each.md)
