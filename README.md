@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1092 TILs and counting..._
+_1093 TILs and counting..._
 
 ---
 
@@ -1171,6 +1171,7 @@ _1092 TILs and counting..._
 - [List All Buffers](vim/list-all-buffers.md)
 - [List Of Plugins](vim/list-of-plugins.md)
 - [Load A Directory Of Files Into The Buffer List](vim/load-a-directory-of-files-into-the-buffer-list.md)
+- [Make Directories For The Current File](vim/make-directories-for-the-current-file.md)
 - [Marks Across Vim Sessions](vim/marks-across-vim-sessions.md)
 - [Match The Beginning And End Of Words](vim/match-the-beginning-and-end-of-words.md)
 - [Moving To A Specific Line](vim/moving-to-a-specific-line.md)
