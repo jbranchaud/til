@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1094 TILs and counting..._
+_1095 TILs and counting..._
 
 ---
 
@@ -232,6 +232,7 @@ _1094 TILs and counting..._
 - [Clone A Repo Locally From .git](git/clone-a-repo-locally-from-git.md)
 - [Configure Global gitignore File](git/configure-global-gitignore-file.md)
 - [Configuring The Pager](git/configuring-the-pager.md)
+- [Copy A File From Another Branch](git/copy-a-file-from-another-branch.md)
 - [Create A New Branch With Git Switch](git/create-a-new-branch-with-git-switch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
