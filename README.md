@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1093 TILs and counting..._
+_1094 TILs and counting..._
 
 ---
 
@@ -661,6 +661,7 @@ _1093 TILs and counting..._
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
 - [Count The Number Of Records By Attribute](rails/count-the-number-of-records-by-attribute.md)
 - [Create A Custom Named References Column](rails/create-a-custom-named-references-column.md)
+- [Create A Join Table With The Migration DSL](rails/create-a-join-table-with-the-migration-dsl.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Custom Validation Message](rails/custom-validation-message.md)
 - [Customize Paths And Helpers For Devise Routes](rails/customize-paths-and-helpers-for-devise-routes.md)
