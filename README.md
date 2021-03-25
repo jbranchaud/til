@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1097 TILs and counting..._
+_1098 TILs and counting..._
 
 ---
 
@@ -290,6 +290,7 @@ _1097 TILs and counting..._
 - [Skip Pre-Commit Hooks](git/skip-pre-commit-hooks.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
+- [Stash A Single Untracked File](git/stash-a-single-untracked-file.md)
 - [Stash Everything](git/stash-everything.md)
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
