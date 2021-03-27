@@ -3,8 +3,8 @@
 > Today I Learned
 
 A collection of concise write-ups on small things I learn day to day across 
-a variety of languages and technologies. These are things that don't
-warrant a full blog post. These are things I've picked up by Learning
+a variety of languages and technologies. 
+These are things that don't warrant a full blog post. These are things I've picked up by Learning
 In Public™ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
