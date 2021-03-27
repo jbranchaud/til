@@ -1257,7 +1257,7 @@ _1100 TILs and counting..._
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
 
-## VSCode
+### VSCode
 
 - [Add The VSCode CLI To Your Path](vscode/add-the-vscode-cli-to-your-path.md)
 - [Advance Through Search Results](vscode/advance-through-search-results.md)
@@ -1265,7 +1265,7 @@ _1100 TILs and counting..._
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
 - [Toggle Between Terminals](vscode/toggle-between-terminals.md)
 
-## Webpack
+### Webpack
 
 - [Better Module Imports With Aliases](webpack/better-module-imports-with-aliases.md)
 - [Debugging With Full Source Maps](webpack/debugging-with-full-source-maps.md)
@@ -1273,7 +1273,7 @@ _1100 TILs and counting..._
 - [Specify Port Of CRA's Webpack Dev Server](webpack/specify-port-of-cra-webpack-dev-server.md)
 - [Use A Specific Config File](webpack/use-a-specific-config-file.md)
 
-## Workflow
+### Workflow
 
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
@@ -1289,7 +1289,7 @@ _1100 TILs and counting..._
 - [Update asdf Plugins With Latest Package Versions](workflow/update-asdf-plugins-with-latest-package-versions.md)
 - [View The PR For The Current GitHub Branch](workflow/view-the-pr-for-the-current-github-branch.md)
 
-## YAML
+### YAML
 
 - [Create Multi-Line Strings Without The Line Breaks](yaml/create-multi-line-strings-without-the-line-breaks.md)
 
