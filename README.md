@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1099 TILs and counting..._
+_1100 TILs and counting..._
 
 ---
 
@@ -1001,6 +1001,7 @@ _1099 TILs and counting..._
 
 - [Add Types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
 - [Re-Export An Imported Type](typescript/re-export-an-imported-type.md)
+- [Zero-Config Environments For Trying Out Types](typescript/zero-config-environments-for-trying-out-types.md)
 
 ### Unix
 
