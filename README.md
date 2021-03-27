@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1098 TILs and counting..._
+_1099 TILs and counting..._
 
 ---
 
@@ -1111,6 +1111,7 @@ _1098 TILs and counting..._
 - [Allow Neovim To Copy/Paste With System Clipboard](vim/allow-neovim-to-copy-paste-with-system-clipboard.md)
 - [Almost The End Of The Line](vim/almost-the-end-of-the-line.md)
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
+- [Always Keep The Gutter Open](vim/always-keep-the-gutter-open.md)
 - [Amend Commits With Fugitive](vim/amend-commits-with-fugitive.md)
 - [Backspace Options](vim/backspace-options.md)
 - [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
