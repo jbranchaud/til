@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1101 TILs and counting..._
+_1102 TILs and counting..._
 
 ---
 
@@ -407,6 +407,7 @@ _1101 TILs and counting..._
 - [Start Node Process In Specific Timezone](javascript/start-node-process-in-specific-timezone.md)
 - [String Interpolation With Template Literals](javascript/string-interpolation-with-template-literals.md)
 - [Support Nested Matching In Custom Jest Matchers](javascript/support-nested-matching-in-custom-jest-matchers.md)
+- [Tell Prettier To Not Format A Statement](javascript/tell-prettier-to-not-format-a-statement.md)
 - [Test Coverage Stats With Jest](javascript/test-coverage-stats-with-jest.md)
 - [Test Timing-Based Code With Jest Fake Timers](javascript/test-timing-based-code-with-jest-fake-timers.md)
 - [The Comma Operator](javascript/the-comma-operator.md)
