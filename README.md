@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1103 TILs and counting..._
+_1104 TILs and counting..._
 
 ---
 
@@ -243,6 +243,7 @@ _1103 TILs and counting..._
 - [Excluding Files Locally](git/excluding-files-locally.md)
 - [Find The Date That A File Was Added To The Repo](git/find-the-date-that-a-file-was-added-to-the-repo.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
+- [Get The Name Of The Current Branch](git/get-the-name-of-the-current-branch.md)
 - [Get The Short Version Of The Latest Commit](git/get-the-short-version-of-the-latest-commit.md)
 - [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
 - [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
