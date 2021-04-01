@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1104 TILs and counting..._
+_1105 TILs and counting..._
 
 ---
 
@@ -694,6 +694,7 @@ _1104 TILs and counting..._
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
 - [Manually Run A Migration From Rails Console](rails/manually-run-a-migration-from-rails-console.md)
 - [Mark For Destruction](rails/mark-for-destruction.md)
+- [Mask An ActiveRecord Attribute](rails/mask-an-activerecord-attribute.md)
 - [Merge A Scope Into An ActiveRecord Query](rails/merge-a-scope-into-an-activerecord-query.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Order Matters For `rescue_from` Blocks](rails/order-matters-for-rescue-from-blocks.md)
