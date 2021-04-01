@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1105 TILs and counting..._
+_1106 TILs and counting..._
 
 ---
 
@@ -956,6 +956,7 @@ _1105 TILs and counting..._
 - [Grab All The Method Names Defined In A Ruby File](sed/grab-all-the-method-names-defined-in-a-ruby-file.md)
 - [OSX sed Does Regex A Bit Different](sed/osx-sed-does-regex-a-bit-different.md)
 - [Output Only Lines Involved In A Substitution](sed/output-only-lines-involved-in-a-substitution.md)
+- [Reference A Capture In The Regex](sed/reference-a-capture-in-the-regex.md)
 - [Use An Alternative Delimiter In A Substitution](sed/use-an-alternative-delimiter-in-a-substitution.md)
 
 ### Shell
