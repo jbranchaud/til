@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1109 TILs and counting..._
+_1110 TILs and counting..._
 
 ---
 
@@ -322,6 +322,10 @@ _1109 TILs and counting..._
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
 - [Upgrading From An Older Version On Mac](go/upgrading-from-an-older-version-on-mac.md)
+
+### Heroku
+
+- [Set And Show Heroku Env Variables](heroku/set-and-show-heroku-env-variables.md)
 
 ### HTML
 
