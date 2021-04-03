@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1108 TILs and counting..._
+_1109 TILs and counting..._
 
 ---
 
@@ -1008,6 +1008,7 @@ _1108 TILs and counting..._
 - [Add Types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
 - [Compiler Checks For Unused Params And Variables](typescript/compiler-checks-for-unused-params-and-variables.md)
 - [Re-Export An Imported Type](typescript/re-export-an-imported-type.md)
+- [Type Narrowing With Similarly Shaped Objects](typescript/type-narrowing-with-similarly-shaped-objects.md)
 - [Zero-Config Environments For Trying Out Types](typescript/zero-config-environments-for-trying-out-types.md)
 
 ### Unix
