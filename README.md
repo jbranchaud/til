@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1111 TILs and counting..._
+_1112 TILs and counting..._
 
 ---
 
@@ -1290,6 +1290,7 @@ _1111 TILs and counting..._
 
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
+- [Create A Public URL For A Local Server](workflow/create-a-public-url-for-a-local-server.md)
 - [Enable Dev Tools For Safari](workflow/enable-dev-tools-for-safari.md)
 - [Forward Stripe Events To Local Server](workflow/forward-stripe-events-to-local-server.md)
 - [Get Your Public IP Address](workflow/get-your-public-ip-address.md)
