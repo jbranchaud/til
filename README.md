@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1112 TILs and counting..._
+_1113 TILs and counting..._
 
 ---
 
@@ -959,6 +959,7 @@ _1112 TILs and counting..._
 - [Equivalence Classes Of Repetition MetaChars](sed/equivalence-classes-of-repetition-metachars.md)
 - [Extract Value From Command Output With Sed](sed/extract-value-from-command-output-with-sed.md)
 - [Grab All The Method Names Defined In A Ruby File](sed/grab-all-the-method-names-defined-in-a-ruby-file.md)
+- [Grab The First Line Of A File](sed/grab-the-first-line-of-a-file.md)
 - [OSX sed Does Regex A Bit Different](sed/osx-sed-does-regex-a-bit-different.md)
 - [Output Only Lines Involved In A Substitution](sed/output-only-lines-involved-in-a-substitution.md)
 - [Reference A Capture In The Regex](sed/reference-a-capture-in-the-regex.md)
