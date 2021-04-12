@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1113 TILs and counting..._
+_1114 TILs and counting..._
 
 ---
 
@@ -974,6 +974,7 @@ _1113 TILs and counting..._
 
 - [Base Styles For Text Link](tailwind/base-styles-for-text-link.md)
 - [Specify Paths For Purging Unused CSS](tailwind/specify-paths-for-purging-unused-css.md)
+- [Use Tailwind Typography Prose In Dark Mode](tailwind/use-tailwind-typography-prose-in-dark-mode.md)
 
 ### tmux
 
