@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1114 TILs and counting..._
+_1115 TILs and counting..._
 
 ---
 
@@ -1048,6 +1048,7 @@ _1114 TILs and counting..._
 - [Exclude Certain Files From An rsync Run](unix/exclude-certain-files-from-an-rsync-run.md)
 - [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
+- [Find A File Installed By Brew](unix/find-a-file-installed-by-brew.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
