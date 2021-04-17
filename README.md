@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1116 TILs and counting..._
+_1117 TILs and counting..._
 
 ---
 
@@ -1093,6 +1093,7 @@ _1116 TILs and counting..._
 - [Search History](unix/search-history.md)
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
+- [Set The asdf Package Version For A Single Shell](unix/set-the-asdf-package-version-for-a-single-shell.md)
 - [Show A File Preview When Searching With FZF](unix/show-a-file-preview-when-searching-with-fzf.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
 - [Show The Size Of Everything In A Directory](unix/show-the-size-of-everything-in-a-directory.md)
