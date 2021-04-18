@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1117 TILs and counting..._
+_1118 TILs and counting..._
 
 ---
 
@@ -970,6 +970,10 @@ _1117 TILs and counting..._
 
 - [Check If The First Argument Is Given](shell/check-if-the-first-argument-is-given.md)
 - [Format And Print The Current Date And Time](shell/format-and-print-the-current-date-and-time.md)
+
+### Streaming
+
+- [Monitor An Audio Input Device In OBS](streaming/monitor-an-audio-input-device-in-obs.md)
 
 ### Tailwind CSS
 
