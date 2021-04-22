@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1118 TILs and counting..._
+_1119 TILs and counting..._
 
 ---
 
@@ -434,6 +434,7 @@ _1118 TILs and counting..._
 
 ### Kitty
 
+- [Set The Title Of A Window](kitty/set-the-title-of-a-window.md)
 - [Use The Built-In Emoji Picker](kitty/use-the-built-in-emoji-picker.md)
 
 ### Linux
