@@ -6,6 +6,11 @@ with installs of PostgreSQL. By default, when installing PostgreSQL with
 [`asdf-postgres`](https://github.com/smashedtoatoms/asdf-postgres) plugin, the
 `uuid-ossp` extension is not included.
 
+Without it I had trouble running schema migrations against a database that was
+trying to create the `uuid-ossp` extension:
+
+> postgresql uuid-ossp.control file missing in extention folder
+
 To include `uuid-ossp` when installing Postgres with `asdf`, you'll need to
 include _extra config options_.
 
