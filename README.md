@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1120 TILs and counting..._
+_1121 TILs and counting..._
 
 ---
 
@@ -1314,6 +1314,10 @@ _1120 TILs and counting..._
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
 - [Update asdf Plugins With Latest Package Versions](workflow/update-asdf-plugins-with-latest-package-versions.md)
 - [View The PR For The Current GitHub Branch](workflow/view-the-pr-for-the-current-github-branch.md)
+
+### XState
+
+- [Use An XState Machine With React](xstate/use-an-xstate-machine-with-react.md)
 
 ### YAML
 
