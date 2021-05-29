@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1126 TILs and counting..._
+_1127 TILs and counting..._
 
 ---
 
@@ -326,6 +326,7 @@ _1126 TILs and counting..._
 
 ### Heroku
 
+- [Deploy A Review App To A Different Stack](heroku/deploy-a-review-app-to-a-different-stack.md)
 - [Set And Show Heroku Env Variables](heroku/set-and-show-heroku-env-variables.md)
 
 ### HTML
