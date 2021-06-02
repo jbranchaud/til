@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1127 TILs and counting..._
+_1128 TILs and counting..._
 
 ---
 
@@ -1047,6 +1047,7 @@ _1127 TILs and counting..._
 - [Configure cd To Behave Like pushd In Zsh](unix/configure-cd-to-behave-like-pushd-in-zsh.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
+- [Count The Number Of Matches In A Grep](unix/count-the-number-of-matches-in-a-grep.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Curl With Cookies](unix/curl-with-cookies.md)
 - [Curling For Headers](unix/curling-for-headers.md)
