@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1128 TILs and counting..._
+_1129 TILs and counting..._
 
 ---
 
@@ -385,6 +385,7 @@ _1128 TILs and counting..._
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
 - [Generate Random Integers](javascript/generate-random-integers.md)
 - [Get The Location And Size Of An Element](javascript/get-the-location-and-size-of-an-element.md)
+- [Get The Response Status From An Axios Error](javascript/get-the-response-status-from-an-axios-error.md)
 - [Get The Time Zone Of The Client Computer](javascript/get-the-time-zone-of-the-client-computer.md)
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
