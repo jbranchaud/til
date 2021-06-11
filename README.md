@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1129 TILs and counting..._
+_1130 TILs and counting..._
 
 ---
 
@@ -865,6 +865,7 @@ _1129 TILs and counting..._
 - [Assert About An Object's Attributes With RSpec](ruby/assert-about-an-objects-attributes-with-rspec.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
+- [Build HTTP And HTTPS URLs](ruby/build-http-and-https-urls.md)
 - [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
 - [Check Return Status Of Running A Shell Command](ruby/check-return-status-of-running-a-shell-command.md)
 - [Click On Text With Capybara](ruby/click-on-text-with-capybara.md)
