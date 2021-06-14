@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1130 TILs and counting..._
+_1131 TILs and counting..._
 
 ---
 
@@ -1051,6 +1051,7 @@ _1130 TILs and counting..._
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
 - [Count The Number Of Matches In A Grep](unix/count-the-number-of-matches-in-a-grep.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
+- [Create A Sequence Of Values With A Step](unix/create-a-sequence-of-values-with-a-step.md)
 - [Curl With Cookies](unix/curl-with-cookies.md)
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
