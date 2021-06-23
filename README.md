@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1132 TILs and counting..._
+_1133 TILs and counting..._
 
 ---
 
@@ -746,6 +746,7 @@ _1132 TILs and counting..._
 - [Specify New Attributes For #find_or_create_by](rails/specify-new-attributes-for-find-or-create-by.md)
 - [Temporarily Disable strong_params](rails/temporarily-disable-strong-params.md)
 - [Test If An Instance Variable Was Assigned](rails/test-if-an-instance-variable-was-assigned.md)
+- [Test If deliver_later Is Called For A Mailer](rails/test-if-deliver-later-is-called-for-a-mailer.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Upgrading Your Manifest For Sprocket's 4](rails/upgrading-your-manifest-for-sprockets-4.md)
