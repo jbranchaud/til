@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1133 TILs and counting..._
+_1134 TILs and counting..._
 
 ---
 
@@ -630,6 +630,7 @@ _1133 TILs and counting..._
 - [Turning Timing On](postgres/turn-timing-on.md)
 - [Two Ways To Compute Factorial](postgres/two-ways-to-compute-factorial.md)
 - [Types By Category](postgres/types-by-category.md)
+- [Union All Rows Including Duplicates](postgres/union-all-rows-including-duplicates.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)
 - [Use Not Valid To Immediately Enforce A Constraint](postgres/use-not-valid-to-immediately-enforce-a-constraint.md)
