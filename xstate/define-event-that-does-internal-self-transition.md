@@ -65,3 +65,5 @@ states: {
 ```
 
 An undefined target is an internal, self-transition.
+
+[source](https://dev.to/jbranchaud/1-7-gui-tasks-with-react-and-xstate-counter-4l9i)
