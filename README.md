@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1139 TILs and counting..._
+_1140 TILs and counting..._
 
 ---
 
@@ -864,6 +864,7 @@ _1139 TILs and counting..._
 
 ### Ruby
 
+- [A Basic Case Statement](ruby/a-basic-case-statement.md)
 - [A Shorthand For Rerunning Failed Tests With RSpec](ruby/a-shorthand-for-rerunning-failed-tests-with-rspec.md)
 - [Add Comments To Regex With Free-Spacing](ruby/add-comments-to-regex-with-free-spacing.md)
 - [Add Linux As A Bundler Platform](ruby/add-linux-as-a-bundler-platform.md)
