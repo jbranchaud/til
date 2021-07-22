@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1141 TILs and counting..._
+_1142 TILs and counting..._
 
 ---
 
@@ -630,6 +630,7 @@ _1141 TILs and counting..._
 - [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
 - [Turning Timing On](postgres/turn-timing-on.md)
 - [Two Ways To Compute Factorial](postgres/two-ways-to-compute-factorial.md)
+- [Two Ways To Escape A Quote In A String](postgres/two-ways-to-escape-a-quote-in-a-string.md)
 - [Types By Category](postgres/types-by-category.md)
 - [Union All Rows Including Duplicates](postgres/union-all-rows-including-duplicates.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
