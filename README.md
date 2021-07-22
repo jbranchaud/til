@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1140 TILs and counting..._
+_1141 TILs and counting..._
 
 ---
 
@@ -1336,6 +1336,7 @@ _1140 TILs and counting..._
 
 - [Define Event That Does Internal Self Transition](xstate/define-event-that-does-internal-self-transition.md)
 - [Inline Actions vs Actions In Machine Options](xstate/inline-actions-vs-actions-in-machine-options.md)
+- [Simple States And Composite States](xstate/simple-states-and-composite-states.md)
 - [Use An XState Machine With React](xstate/use-an-xstate-machine-with-react.md)
 
 ### YAML
