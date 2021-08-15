@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1143 TILs and counting..._
+_1144 TILs and counting..._
 
 ---
 
@@ -926,6 +926,7 @@ _1143 TILs and counting..._
 - [Or Operator Precedence](ruby/or-operator-precedence.md)
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
+- [Parse JSON Into An OpenStruct](ruby/parse-json-into-an-open-struct.md)
 - [Parsing A CSV With Quotes In The Data](ruby/parsing-a-csv-with-quotes-in-the-data.md)
 - [Pass A Block To Count](ruby/pass-a-block-to-count.md)
 - [Passing Arbitrary Methods As Blocks](ruby/passing-arbitrary-methods-as-blocks.md)
