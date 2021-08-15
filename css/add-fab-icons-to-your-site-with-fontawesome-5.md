@@ -1,12 +1,14 @@
-# Add Fab Icons To Your Site With FontAwesome 5
+# 在你的網站新增 Fab 圖示使用 `FontAwesome 5`
 
-Check out the latest version of [FontAwesome](https://fontawesome.com/).
+檢查最新版本的[FontAwesome](https://fontawesome.com/).
 
-> Version 5 has been re-written and re-designed completely from scratch.
+> 版本: 5 已經被重寫且完全的重新設計.
 
-One part of the rewrite is that _brand_ icons have been organized into their
-own collection. Whether you are using the full suite or just the brands
-bundle, you'll be referencing these icons with the `fab` class name.
+其中一個改動為 `brand` 圖標已經組織到他們自己的收藏。
+
+無論你使用全套或是使用品牌bundle(捆)，
+
+你都必須使用 `fab` 這個類名來引用這些圖標。
 
 ```html
 <i class="fab fa-react" />
