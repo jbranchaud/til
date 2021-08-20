@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1145 TILs and counting..._
+_1146 TILs and counting..._
 
 ---
 
@@ -889,6 +889,7 @@ _1145 TILs and counting..._
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
+- [Define A Method On A Struct](ruby/define-a-method-on-a-struct.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
