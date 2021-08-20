@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1144 TILs and counting..._
+_1145 TILs and counting..._
 
 ---
 
@@ -1336,6 +1336,7 @@ _1144 TILs and counting..._
 
 ### XState
 
+- [Always Use Inline Functions With Assign](xstate/always-use-inline-functions-with-assign.md)
 - [Define Event That Does Internal Self Transition](xstate/define-event-that-does-internal-self-transition.md)
 - [Events Stop Propagating Once Handled](xstate/events-stop-propagating-once-handled.md)
 - [Inline Actions vs Actions In Machine Options](xstate/inline-actions-vs-actions-in-machine-options.md)
