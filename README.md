@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1147 TILs and counting..._
+_1148 TILs and counting..._
 
 ---
 
@@ -910,6 +910,7 @@ _1147 TILs and counting..._
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
 - [If You Detect None](ruby/if-you-detect-none.md)
 - [Iterate With An Offset Index](ruby/iterate-with-an-offset-index.md)
+- [Include Extra Context In A Honeybadger Notify](ruby/include-extra-context-in-a-honeybadger-notify.md)
 - [Ins And Outs Of Pry](ruby/ins-and-outs-of-pry.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
 - [IRB Has Built-In Benchmarking With Ruby 3](ruby/irb-has-built-in-benchmarking-with-ruby-3.md)
