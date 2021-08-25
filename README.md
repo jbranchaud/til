@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1146 TILs and counting..._
+_1147 TILs and counting..._
 
 ---
 
@@ -1347,6 +1347,7 @@ _1146 TILs and counting..._
 ### YAML
 
 - [Create Multi-Line Strings Without The Line Breaks](yaml/create-multi-line-strings-without-the-line-breaks.md)
+- [YAML Is A Superset Of JSON](yaml/yaml-is-a-superset-of-json.md)
 
 ## Usage
 
