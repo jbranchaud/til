@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1149 TILs and counting..._
+_1150 TILs and counting..._
 
 ---
 
@@ -731,6 +731,7 @@ _1149 TILs and counting..._
 - [Render The Response Body In Controller Specs](rails/render-the-response-body-in-controller-specs.md)
 - [Replace An Index With A Unique Index](rails/replace-an-index-with-a-unique-index.md)
 - [Rescue From](rails/rescue-from.md)
+- [Rescue From With A Separate Method](rails/rescue-from-with-a-separate-method.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Rollback A Specific Migration Out Of Order](rails/rollback-a-specific-migration-out-of-order.md)
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
