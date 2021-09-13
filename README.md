@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1150 TILs and counting..._
+_1151 TILs and counting..._
 
 ---
 
@@ -723,6 +723,7 @@ _1150 TILs and counting..._
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
 - [Pretend Generations](rails/pretend-generations.md)
+- [Prevent Writes With A Sandboxed Rails Console](rails/prevent-writes-with-a-sandboxed-rails-console.md)
 - [Query A Single Value From The Database](rails/query-a-single-value-from-the-database.md)
 - [Read In Environment-Specific Config Values](rails/read-in-environment-specific-config-values.md)
 - [Read-Only Models](rails/read-only-models.md)
