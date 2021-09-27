@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1154 TILs and counting..._
+_1155 TILs and counting..._
 
 ---
 
@@ -228,6 +228,7 @@ _1154 TILs and counting..._
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Cherry Pick A Range Of Commits](git/cherry-pick-a-range-of-commits.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
+- [Clean Out Working Copy With Patched Restore](git/clean-out-working-copy-with-patched-restore.md)
 - [Clean Up Old Remote Tracking References](git/clean-up-old-remote-tracking-references.md)
 - [Clone A Repo Just For The Files, Without History](git/clone-a-repo-just-for-the-files-without-history.md)
 - [Clone A Repo Locally From .git](git/clone-a-repo-locally-from-git.md)
