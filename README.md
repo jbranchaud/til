@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1156 TILs and counting..._
+_1157 TILs and counting..._
 
 ---
 
@@ -47,6 +47,7 @@ _1156 TILs and counting..._
 * [React Native](#react-native)
 * [React Testing Library](#react-testing-library)
 * [ReasonML](#reasonml)
+* [RSpec](#rspec)
 * [Ruby](#ruby)
 * [sed](#sed)
 * [Shell](#shell)
@@ -869,6 +870,10 @@ _1156 TILs and counting..._
 - [Two Ways To Find An Item In A List](reason/two-ways-to-find-an-item-in-a-list.md)
 - [Using Optional Labeled Function Arguments](reason/using-optional-labeled-function-arguments.md)
 - [Wrapping A Component For Use In JavaScript](reason/wrapping-a-component-for-use-in-javascript.md)
+
+### RSpec
+
+- [Check Specific Arguments To Received Method](rspec/check-specific-arguments-to-received-method.md)
 
 ### Ruby
 
