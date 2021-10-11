@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1157 TILs and counting..._
+_1158 TILs and counting..._
 
 ---
 
@@ -705,6 +705,7 @@ _1157 TILs and counting..._
 - [Get An Empty ActiveRecord Relation](rails/get-an-empty-activerecord-relation.md)
 - [Get The Column Names For A Model](rails/get-the-column-names-for-a-model.md)
 - [Get The Current Time](rails/get-the-current-time.md)
+- [Grab A Random Record From The Database](rails/grab-a-random-record-from-the-database.md)
 - [Handle Named Arguments In A Rake Task](rails/handle-named-arguments-in-a-rake-task.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
