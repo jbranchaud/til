@@ -36,7 +36,7 @@ The above example is better solved without a dynamic format string, because
 
 ```reason
 let some_num = 6;
-let str = Printf.sprintf("%*s, some_num, "dope");
+let str = Printf.sprintf("%*s", some_num, "dope");
 /* str => "  dope" */
 ```
 
