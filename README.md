@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1158 TILs and counting..._
+_1159 TILs and counting..._
 
 ---
 
@@ -1358,6 +1358,7 @@ _1158 TILs and counting..._
 - [Inline Actions vs Actions In Machine Options](xstate/inline-actions-vs-actions-in-machine-options.md)
 - [Make Immediate And Delayed Transitions](xstate/make-immediate-and-delayed-transitions.md)
 - [Simple States And Composite States](xstate/simple-states-and-composite-states.md)
+- [Start A Machine In A Specific State](xstate/start-a-machine-in-a-specific-state.md)
 - [Use An XState Machine With React](xstate/use-an-xstate-machine-with-react.md)
 
 ### YAML
