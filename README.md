@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1161 TILs and counting..._
+_1162 TILs and counting..._
 
 ---
 
@@ -915,6 +915,7 @@ _1161 TILs and counting..._
 - [Evaluating One-Off Commands](ruby/evaluating-one-off-commands.md)
 - [Exclude Values From An Array](ruby/exclude-values-from-an-array.md)
 - [Expect A Method To Be Called And Actually Call It](ruby/expect-a-method-to-be-called-and-actually-call-it.md)
+- [Extract A Column Of Data From A CSV File](ruby/extract-a-column-of-data-from-a-csv-file.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
 - [Find The Min And Max With A Single Call](ruby/find-the-min-and-max-with-a-single-call.md)
