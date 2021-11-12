@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1164 TILs and counting..._
+_1165 TILs and counting..._
 
 ---
 
@@ -82,6 +82,7 @@ _1164 TILs and counting..._
 - [Copy Some Data From The Console](chrome/copy-some-data-from-the-console.md)
 - [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
 - [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
+- [Keybinding To Focus The Address Bar](chrome/keybinding-to-focus-the-address-bar.md)
 - [Pretty Print Tabular Data](chrome/pretty-print-tabular-data.md)
 - [Reference The Selected Node](chrome/reference-the-selected-node.md)
 - [Selecting DOM Elements Faster Than Ever](chrome/selecting-dom-elements-faster-than-ever.md)
