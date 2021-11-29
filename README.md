@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1166 TILs and counting..._
+_1167 TILs and counting..._
 
 ---
 
@@ -333,6 +333,7 @@ _1166 TILs and counting..._
 
 - [Deploy A Review App To A Different Stack](heroku/deploy-a-review-app-to-a-different-stack.md)
 - [Set And Show Heroku Env Variables](heroku/set-and-show-heroku-env-variables.md)
+- [SSH Into Heroku Server Hosting App](heroku/ssh-into-heroku-server-hosting-app.md)
 
 ### HTML
 
