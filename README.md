@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1167 TILs and counting..._
+_1168 TILs and counting..._
 
 ---
 
@@ -900,6 +900,7 @@ _1167 TILs and counting..._
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
 - [Construct A Constant From A String](ruby/construct-a-constant-from-a-string.md)
+- [Convert A Unix Epoch Timestamp To A Time Object](ruby/convert-a-unix-epoch-timestamp-to-a-time-object.md)
 - [Create an Array of Stringed Numbers](ruby/create-an-array-of-stringed-numbers.md)
 - [Create a CSV::Table Object](ruby/create-a-csv-table-object.md)
 - [Create A Hash From An Array Of Arrays](ruby/create-a-hash-from-an-array-of-arrays.md)
