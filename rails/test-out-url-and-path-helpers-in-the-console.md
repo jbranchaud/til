@@ -36,3 +36,5 @@ and `*_url` path helpers.
 
 For the `*_url` path helpers, make sure you have [`default_url_options`
 set](set-default-url-options-for-entire-application.md).
+
+[source](https://stackoverflow.com/a/13553422/535590)
