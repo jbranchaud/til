@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1168 TILs and counting..._
+_1169 TILs and counting..._
 
 ---
 
@@ -765,6 +765,7 @@ _1168 TILs and counting..._
 - [Temporarily Disable strong_params](rails/temporarily-disable-strong-params.md)
 - [Test If An Instance Variable Was Assigned](rails/test-if-an-instance-variable-was-assigned.md)
 - [Test If deliver_later Is Called For A Mailer](rails/test-if-deliver-later-is-called-for-a-mailer.md)
+- [Test Out URL And Path Helpers In The Console](rails/test-out-url-and-path-helpers-in-the-console.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Upgrading Your Manifest For Sprocket's 4](rails/upgrading-your-manifest-for-sprockets-4.md)
