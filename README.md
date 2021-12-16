@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1171 TILs and counting..._
+_1172 TILs and counting..._
 
 ---
 
@@ -1321,6 +1321,7 @@ _1171 TILs and counting..._
 - [Using vim-surround With A Visual Selection](vim/using-vim-surround-with-a-visual-selection.md)
 - [Verbose Commits With Fugitive](vim/verbose-commits-with-fugitive.md)
 - [View Commit History of a File](vim/view-commit-history-of-a-file.md)
+- [View The Current File In GitHub](vim/view-the-current-file-in-github.md)
 - [Viewing Man Pages with man.vim](vim/viewing-man-pages-with-man-vim.md)
 - [Vim Without The Extras](vim/vim-without-the-extras.md)
 - [What Is On The Runtime Path?](vim/what-is-on-the-runtime-path.md)
