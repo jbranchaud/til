@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1172 TILs and counting..._
+_1173 TILs and counting..._
 
 ---
 
@@ -982,6 +982,7 @@ _1172 TILs and counting..._
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
+- [Triple Equals: The Case Equality Operator](ruby/triple-equals-the-case-equality-operator.md)
 - [Turn Key And Value Arrays Into A Hash](ruby/turn-key-and-values-arrays-into-a-hash.md)
 - [Turning Any Class Into An Enumerator](ruby/turning-any-class-into-an-enumerator.md)
 - [Turning Things Into Hashes](ruby/turning-things-into-hashes.md)
