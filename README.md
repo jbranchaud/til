@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1174 TILs and counting..._
+_1175 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _1174 TILs and counting..._
 * [Chrome](#chrome)
 * [Clojure](#clojure)
 * [CSS](#css)
+* [Deno](#deno)
 * [Devops](#devops)
 * [Elixir](#elixir)
 * [Gatsby](#gatsby)
@@ -141,6 +142,10 @@ _1174 TILs and counting..._
 - [:root Has Higher Specificity Than html](css/root-has-higher-specificity-than-html.md)
 - [Style A Background With A Linear Gradient](css/style-a-background-with-a-linear-gradient.md)
 - [Using Maps In SCSS](css/using-maps-in-scss.md)
+
+### Deno
+
+- [Read In The Contents Of A File](deno/read-in-the-contents-of-a-file.md)
 
 ### Devops
 
