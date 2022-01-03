@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1175 TILs and counting..._
+_1176 TILs and counting..._
 
 ---
 
@@ -1061,6 +1061,7 @@ _1175 TILs and counting..._
 - [Remove The Delay On The Escape Key](tmux/remove-the-delay-on-the-escape-key.md)
 - [Rename The Current Session](tmux/rename-the-current-session.md)
 - [Reset An Option Back To Its Default Value](tmux/reset-an-option-back-to-its-default-value.md)
+- [Set Session Specific Environment Variables](tmux/set-session-specific-environment-variables.md)
 - [Show The Current Value For An Option](tmux/show-the-current-value-for-an-option.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [Switch To A Specific Session And Window](tmux/switch-to-a-specific-session-and-window.md)
