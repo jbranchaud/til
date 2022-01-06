@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1178 TILs and counting..._
+_1179 TILs and counting..._
 
 ---
 
@@ -905,6 +905,7 @@ _1178 TILs and counting..._
 - [Block Comments](ruby/block-comments.md)
 - [Build HTTP And HTTPS URLs](ruby/build-http-and-https-urls.md)
 - [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
+- [Check For Any Overlaps In List Of Ranges](ruby/check-for-any-overlaps-in-list-of-ranges.md)
 - [Check If An Object Includes A Module](ruby/check-if-an-object-includes-a-module.md)
 - [Check Return Status Of Running A Shell Command](ruby/check-return-status-of-running-a-shell-command.md)
 - [Click On Text With Capybara](ruby/click-on-text-with-capybara.md)
