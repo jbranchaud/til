@@ -1411,7 +1411,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2015-2021 Josh Branchaud
+&copy; 2015-2022 Josh Branchaud
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
