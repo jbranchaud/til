@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1179 TILs and counting..._
+_1180 TILs and counting..._
 
 ---
 
@@ -595,6 +595,7 @@ _1179 TILs and counting..._
 - [Get The Size Of An Index](postgres/get-the-size-of-an-index.md)
 - [Getting A Slice Of An Array](postgres/getting-a-slice-of-an-array.md)
 - [Group By The Result Of A Function Call](postgres/group-by-the-result-of-a-function-call.md)
+- [Include All Queries In The Log File](postgres/include-all-queries-in-the-log-file.md)
 - [Insert A Bunch Of Records With Generate Series](postgres/insert-a-bunch-of-records-with-generate-series.md)
 - [Insert Just The Defaults](postgres/insert-just-the-defaults.md)
 - [Install Postgres With uuid-ossp Using asdf](postgres/install-postgres-with-uuid-ossp-using-asdf.md)
