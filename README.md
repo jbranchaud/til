@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1180 TILs and counting..._
+_1181 TILs and counting..._
 
 ---
 
@@ -1236,6 +1236,7 @@ _1180 TILs and counting..._
 - [End Of The Word](vim/end-of-the-word.md)
 - [Escaping Terminal-Mode In An Nvim Terminal](vim/escaping-terminal-mode-in-an-nvim-terminal.md)
 - [Filter Lines Through An External Program](vim/filter-lines-through-an-external-program.md)
+- [Find The Nth Character Position In A File](vim/find-the-nth-character-position-in-a-file.md)
 - [Fix The Spelling Of A Word](vim/fix-the-spelling-of-a-word.md)
 - [Fold A Visual Selection And Expand It Back](vim/fold-a-visual-selection-and-expand-it-back.md)
 - [For When That Escape Key Is Hard To Reach](vim/for-when-that-escape-key-is-hard-to-reach.md)
