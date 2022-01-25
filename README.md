@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1182 TILs and counting..._
+_1183 TILs and counting..._
 
 ---
 
@@ -609,6 +609,7 @@ _1182 TILs and counting..._
 - [List All Versions Of A Function](postgres/list-all-versions-of-a-function.md)
 - [List Available Schemas](postgres/list-available-schemas.md)
 - [List Connections To A Database](postgres/list-connections-to-a-database.md)
+- [List Databases Available For Connecting](postgres/list-databases-available-for-connecting.md)
 - [List Database Objects With Disk Usage](postgres/list-database-objects-with-disk-usage.md)
 - [List Database Users](postgres/list-database-users.md)
 - [List Various Kinds Of Objects](postgres/list-various-kinds-of-objects.md)
