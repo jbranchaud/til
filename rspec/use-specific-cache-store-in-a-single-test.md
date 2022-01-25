@@ -38,4 +38,4 @@ describe '#caching_feature' do
 end
 ```
 
-[source](https://makandracards.com/makandra/46189-how-to-rails-cache-for-individual-rspec-tests)
+[One source](https://stackoverflow.com/a/31932795/535590) and [another](https://makandracards.com/makandra/46189-how-to-rails-cache-for-individual-rspec-tests)
