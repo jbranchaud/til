@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1181 TILs and counting..._
+_1182 TILs and counting..._
 
 ---
 
@@ -893,6 +893,7 @@ _1181 TILs and counting..._
 
 - [Check Specific Arguments To Received Method](rspec/check-specific-arguments-to-received-method.md)
 - [Find Minimal Set Of Tests Causing A Flicker](rspec/find-minimal-set-of-tests-causing-a-flicker.md)
+- [Use Specific Cache Store In A Single Test](rspec/use-specific-cache-store-in-a-single-test.md)
 
 ### Ruby
 
