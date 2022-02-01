@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1183 TILs and counting..._
+_1184 TILs and counting..._
 
 ---
 
@@ -992,6 +992,7 @@ _1183 TILs and counting..._
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
 - [Silence The Output Of A Ruby Statement In Pry](ruby/silence-the-output-of-a-ruby-statement-in-pry.md)
 - [Single And Double Quoted String Notation](ruby/single-and-double-quoted-string-notation.md)
+- [Skip Specific CVEs When Auditing Your Bundle](ruby/skip-specific-cves-when-auditing-your-bundle.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
