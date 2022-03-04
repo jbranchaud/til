@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1186 TILs and counting..._
+_1187 TILs and counting..._
 
 ---
 
@@ -616,6 +616,7 @@ _1186 TILs and counting..._
 - [List Various Kinds Of Objects](postgres/list-various-kinds-of-objects.md)
 - [Lower Is Faster Than ilike](postgres/lower-is-faster-than-ilike.md)
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
+- [Open Heroku Database In Postico From Terminal](postgres/open-heroku-database-in-postico-from-terminal.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
 - [Prepare, Execute, And Deallocate Statements](postgres/prepare-execute-and-deallocate-statements.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
