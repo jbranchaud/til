@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1189 TILs and counting..._
+_1190 TILs and counting..._
 
 ---
 
@@ -722,6 +722,7 @@ _1189 TILs and counting..._
 - [Find Records With Multiple Associated Records](rails/find-records-with-multiple-associated-records.md)
 - [Force All Users To Sign Out](rails/force-all-users-to-sign-out.md)
 - [Generating And Executing SQL](rails/generating-and-executing-sql.md)
+- [Get ActiveRecord Attribute Directly From Database](rails/get-active-record-attribute-directly-from-database.md)
 - [Get An Array Of Values From The Database](rails/get-an-array-of-values-from-the-database.md)
 - [Get An Empty ActiveRecord Relation](rails/get-an-empty-activerecord-relation.md)
 - [Get The Column Names For A Model](rails/get-the-column-names-for-a-model.md)
