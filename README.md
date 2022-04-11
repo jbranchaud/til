@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1190 TILs and counting..._
+_1191 TILs and counting..._
 
 ---
 
@@ -1162,6 +1162,7 @@ _1190 TILs and counting..._
 - [Print A Range Of Lines For A File With Bat](unix/print-a-range-of-lines-for-a-file-with-bat.md)
 - [Print Out Files In Reverse](unix/print-out-files-in-reverse.md)
 - [Provide A Fallback Value For Unset Parameter](unix/provide-a-fallback-value-for-unset-parameter.md)
+- [Remove A Directory Called `-p`](unix/remove-a-directory-called-dash-p.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
