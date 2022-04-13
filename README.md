@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1191 TILs and counting..._
+_1192 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _1191 TILs and counting..._
 * [Git](#git)
 * [GitHub Actions](#github-actions)
 * [Go](#go)
+* [GROQ](#groq)
 * [Heroku](#heroku)
 * [HTML](#html)
 * [HTTP](#http)
@@ -335,6 +336,10 @@ _1191 TILs and counting..._
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
 - [Upgrading From An Older Version On Mac](go/upgrading-from-an-older-version-on-mac.md)
+
+### GROQ
+
+- [Grab Values From An Array Of References](groq/grab-values-from-an-array-of-references.md)
 
 ### Heroku
 
