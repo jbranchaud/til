@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1198 TILs and counting..._
+_1199 TILs and counting..._
 
 ---
 
@@ -1104,6 +1104,7 @@ _1198 TILs and counting..._
 - [Interfaces With The Same Name Are Merged](typescript/interfaces-with-the-same-name-are-merged.md)
 - [Re-Export An Imported Type](typescript/re-export-an-imported-type.md)
 - [Type Narrowing With Similarly Shaped Objects](typescript/type-narrowing-with-similarly-shaped-objects.md)
+- [Type Promise Results With The Awaited Type](typescript/type-promise-results-with-the-awaited-type.md)
 - [Use An Array Check For Type Narrowing](typescript/use-an-array-check-for-type-narrowing.md)
 - [Zero-Config Environments For Trying Out Types](typescript/zero-config-environments-for-trying-out-types.md)
 
