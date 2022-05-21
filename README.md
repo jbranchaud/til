@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1200 TILs and counting..._
+_1201 TILs and counting..._
 
 ---
 
@@ -566,6 +566,7 @@ _1200 TILs and counting..._
 - [Count Records By Type](postgres/count-records-by-type.md)
 - [Count The Number Of Trues In An Aggregate Query](postgres/count-the-number-of-trues-in-an-aggregate-query.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
+- [Create A Table From The Structure Of Another](postgres/create-a-table-from-the-structure-of-another.md)
 - [Create An Index Without Locking The Table](postgres/create-an-index-without-locking-the-table.md)
 - [Create Database Uses Template1](postgres/create-database-uses-template1.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
