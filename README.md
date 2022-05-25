@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1203 TILs and counting..._
+_1204 TILs and counting..._
 
 ---
 
@@ -44,6 +44,7 @@ _1203 TILs and counting..._
 * [Next.js](#nextjs)
 * [Phoenix](#phoenix)
 * [PostgreSQL](#postgresql)
+* [Prisma](#prisma)
 * [Python](#python)
 * [Rails](#rails)
 * [React](#react)
@@ -677,6 +678,10 @@ _1203 TILs and counting..._
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
 - [Write A Query Result To File](postgres/write-a-query-result-to-file.md)
+
+### Prisma
+
+- [Grab A Limited Set Of Records](prisma/grab-a-limited-set-of-records.md)
 
 ### Python
 
