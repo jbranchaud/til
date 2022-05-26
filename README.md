@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1205 TILs and counting..._
+_1206 TILs and counting..._
 
 ---
 
@@ -915,6 +915,7 @@ _1205 TILs and counting..._
 
 ### Remix
 
+- [Get Query Params From The Request URL](remix/get-query-params-from-the-request-url.md)
 - [Relative And Absolute Paths In Links](remix/relative-and-absolute-paths-in-links.md)
 - [Run The Development Server From Another Port](remix/run-the-development-server-from-another-port.md)
 - [Set The Title Of A Page](remix/set-the-title-of-a-page.md)
