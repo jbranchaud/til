@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1206 TILs and counting..._
+_1207 TILs and counting..._
 
 ---
 
@@ -682,6 +682,7 @@ _1206 TILs and counting..._
 
 ### Prisma
 
+- [Execute A Raw SQL Query](prisma/execute-a-raw-sql-query.md)
 - [Grab A Limited Set Of Records](prisma/grab-a-limited-set-of-records.md)
 
 ### Python
