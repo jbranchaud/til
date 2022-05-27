@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1207 TILs and counting..._
+_1208 TILs and counting..._
 
 ---
 
@@ -782,6 +782,7 @@ _1207 TILs and counting..._
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Rollback A Specific Migration Out Of Order](rails/rollback-a-specific-migration-out-of-order.md)
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
+- [Run A Rake Task Programmatically](rails/run-a-rake-task-programmatically.md)
 - [Run Some Code Whenever Rails Console Starts](rails/run-some-code-whenever-rails-console-starts.md)
 - [Schedule Sidekiq Jobs Out Into The Future](rails/schedule-sidekiq-jobs-out-into-the-future.md)
 - [Secure Passwords With Rails And Bcrypt](rails/secure-passwords-with-rails-and-bcrypt.md)
