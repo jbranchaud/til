@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1208 TILs and counting..._
+_1209 TILs and counting..._
 
 ---
 
@@ -618,6 +618,7 @@ _1208 TILs and counting..._
 - [Integers In Postgres](postgres/integers-in-postgres.md)
 - [Intervals Of Time By Week](postgres/intervals-of-time-by-week.md)
 - [Is It Null Or Not Null?](postgres/is-it-null-or-not-null.md)
+- [Label Dollar-Quoted Strings With A Tag](postgres/label-dollar-quoted-strings-with-a-tag.md)
 - [Limit Execution Time Of Statements](postgres/limit-execution-time-of-statements.md)
 - [List All Columns Of A Specific Type](postgres/list-all-columns-of-a-specific-type.md)
 - [List All Rows In A Table](postgres/list-all-rows-in-a-table.md)
