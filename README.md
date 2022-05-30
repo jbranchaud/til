@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1210 TILs and counting..._
+_1211 TILs and counting..._
 
 ---
 
@@ -755,6 +755,7 @@ _1210 TILs and counting..._
 - [Link To The Current Page With Query Params](rails/link-to-the-current-page-with-query-params.md)
 - [List All Installable Rails Versions](rails/list-all-installable-rails-versions.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
+- [Load A File When Starting Rails Console](rails/load-a-file-when-starting-rails-console.md)
 - [Load Records In Batches With find_each](rails/load-records-in-batches-with-find-each.md)
 - [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
