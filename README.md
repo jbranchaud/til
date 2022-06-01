@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1212 TILs and counting..._
+_1213 TILs and counting..._
 
 ---
 
@@ -1118,6 +1118,7 @@ _1212 TILs and counting..._
 - [Add Types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
 - [Compiler Checks For Unused Params And Variables](typescript/compiler-checks-for-unused-params-and-variables.md)
 - [Extract Object Type Keys Into A Union Type](typescript/extract-object-type-keys-into-a-union-type.md)
+- [Extract Object Type Values Into A Union Type](typescript/extract-object-type-values-into-a-union-type.md)
 - [Interfaces With The Same Name Are Merged](typescript/interfaces-with-the-same-name-are-merged.md)
 - [Re-Export An Imported Type](typescript/re-export-an-imported-type.md)
 - [Type Narrowing With Similarly Shaped Objects](typescript/type-narrowing-with-similarly-shaped-objects.md)
