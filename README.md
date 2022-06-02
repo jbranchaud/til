@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1213 TILs and counting..._
+_1214 TILs and counting..._
 
 ---
 
@@ -652,6 +652,7 @@ _1213 TILs and counting..._
 - [Sets With The Values Command](postgres/sets-with-the-values-command.md)
 - [Shorthand Absolute Value Operator](postgres/shorthand-absolute-value-operator.md)
 - [Show All Versions Of An Operator](postgres/show-all-versions-of-an-operator.md)
+- [Show The Hidden Queries Behind Backslash Commands](postgres/show-the-hidden-queries-behind-backslash-commands.md)
 - [Sleeping](postgres/sleeping.md)
 - [Special Math Operators](postgres/special-math-operators.md)
 - [Storing Emails With citext](postgres/storing-emails-with-citext.md)
