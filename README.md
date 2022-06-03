@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1215 TILs and counting..._
+_1216 TILs and counting..._
 
 ---
 
@@ -584,6 +584,7 @@ _1215 TILs and counting..._
 - [Difference Between Explain And Explain Analyze](postgres/difference-between-explain-and-explain-analyze.md)
 - [Dump All Databases To A SQL File](postgres/dump-all-databases-to-a-sql-file.md)
 - [Dump And Restore A Database](postgres/dump-and-restore-a-database.md)
+- [Dump The SQL Needed To Recreate A Table](postgres/dump-the-sql-needed-recreate-a-table.md)
 - [Duplicate A Local Database](postgres/duplicate-a-local-database.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Enable Logging Of Database Activity](postgres/enable-logging-of-database-activity.md)
