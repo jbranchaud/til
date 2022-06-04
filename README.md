@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1216 TILs and counting..._
+_1217 TILs and counting..._
 
 ---
 
@@ -1157,6 +1157,7 @@ _1216 TILs and counting..._
 - [Do A Dry Run Of An rsync](unix/do-a-dry-run-of-an-rsync.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Enable Multi-Select Of Results With fzf](unix/enable-multi-select-of-results-with-fzf.md)
+- [Exclude A Command From The ZSH History File](unix/exclude-a-command-from-the-zsh-history-file.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
 - [Exclude Certain Files From An rsync Run](unix/exclude-certain-files-from-an-rsync-run.md)
 - [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
