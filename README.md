@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1218 TILs and counting..._
+_1219 TILs and counting..._
 
 ---
 
@@ -984,6 +984,7 @@ _1218 TILs and counting..._
 - [Generate A Signed JWT Token](ruby/generate-a-signed-jwt-token.md)
 - [Generate Ruby Version And Gemset Files With RVM](ruby/generate-ruby-version-and-gemset-files-with-rvm.md)
 - [Get Info About Your RubyGems Environment](ruby/get-info-about-your-ruby-gems-environment.md)
+- [Get The Output Of Running A System Program](ruby/get-the-output-of-running-a-system-program.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
 - [If You Detect None](ruby/if-you-detect-none.md)
 - [Iterate With An Offset Index](ruby/iterate-with-an-offset-index.md)
