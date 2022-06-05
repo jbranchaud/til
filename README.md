@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1217 TILs and counting..._
+_1218 TILs and counting..._
 
 ---
 
@@ -612,6 +612,7 @@ _1217 TILs and counting..._
 - [Group By The Result Of A Function Call](postgres/group-by-the-result-of-a-function-call.md)
 - [Idempotent Inserts](postgres/idempotent-inserts.md)
 - [Include All Queries In The Log File](postgres/include-all-queries-in-the-log-file.md)
+- [Include Multiple Tables In A pg_dump](postgres/include-multiple-tables-in-a-pg-dump.md)
 - [Insert A Bunch Of Records With Generate Series](postgres/insert-a-bunch-of-records-with-generate-series.md)
 - [Insert Just The Defaults](postgres/insert-just-the-defaults.md)
 - [Inspect Progress Of Long-Running Create Index](postgres/inspect-progress-of-long-running-create-index.md)
