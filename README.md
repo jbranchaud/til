@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1219 TILs and counting..._
+_1220 TILs and counting..._
 
 ---
 
@@ -1186,6 +1186,7 @@ _1219 TILs and counting..._
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
 - [Less With Style](unix/less-with-style.md)
+- [List All The Enabled ZSH Options](unix/list-all-the-enabled-zsh-options.md)
 - [List All Users](unix/list-all-users.md)
 - [List Files Ordered By Modification Date](unix/list-files-ordered-by-modification-date.md)
 - [List Names Of Files With Matches](unix/list-names-of-files-with-matches.md)
