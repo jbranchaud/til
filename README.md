@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1220 TILs and counting..._
+_1221 TILs and counting..._
 
 ---
 
@@ -708,6 +708,7 @@ _1220 TILs and counting..._
 - [Advance The Date](rails/advance-the-date.md)
 - [Allow List Params Anywhere With Strong Params](rails/allow-list-params-anywhere-with-strong-params.md)
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
+- [Alphabetize Schema Columns To Keep Them Consistent](rails/alphabetize-schema-columns-to-keep-them-consistent.md)
 - [Assert Two Arrays Have The Same Items With RSpec](rails/assert-two-arrays-have-the-same-items-with-rspec.md)
 - [Attach A File With Capybara](rails/attach-a-file-with-capybara.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
