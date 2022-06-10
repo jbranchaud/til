@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1224 TILs and counting..._
+_1225 TILs and counting..._
 
 ---
 
@@ -1001,6 +1001,7 @@ _1224 TILs and counting..._
 - [Limit Split](ruby/limit-split.md)
 - [List The Running Ruby Version](ruby/list-the-running-ruby-version.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
+- [Make An Executable Ruby Script](ruby/make-an-executable-ruby-script.md)
 - [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
 - [Mock Method Chain Calls With RSpec](ruby/mock-method-chain-calls-with-rspec.md)
 - [Mocking Requests With Partial URIs Using Regex](ruby/mocking-requests-with-partial-uris-using-regex.md)
