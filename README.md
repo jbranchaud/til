@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1225 TILs and counting..._
+_1226 TILs and counting..._
 
 ---
 
@@ -408,6 +408,7 @@ _1225 TILs and counting..._
 - [for...in Iterates Over Object Properties](javascript/for-in-iterates-over-object-properties.md)
 - [Formatting Values With Units For Display](javascript/formatting-values-with-units-for-display.md)
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
+- [Generate A V4 UUID In The Browser](javascript/generate-a-v4-uuid-in-the-browser.md)
 - [Generate Random Integers](javascript/generate-random-integers.md)
 - [Get The Location And Size Of An Element](javascript/get-the-location-and-size-of-an-element.md)
 - [Get The Response Status From An Axios Error](javascript/get-the-response-status-from-an-axios-error.md)
