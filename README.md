@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1226 TILs and counting..._
+_1227 TILs and counting..._
 
 ---
 
@@ -767,6 +767,7 @@ _1226 TILs and counting..._
 - [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
+- [Make Remove Column Migration Reversible](rails/make-remove-column-migration-reversible.md)
 - [Manually Run A Migration From Rails Console](rails/manually-run-a-migration-from-rails-console.md)
 - [Mark For Destruction](rails/mark-for-destruction.md)
 - [Mask An ActiveRecord Attribute](rails/mask-an-activerecord-attribute.md)
