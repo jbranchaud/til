@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1230 TILs and counting..._
+_1231 TILs and counting..._
 
 ---
 
@@ -342,6 +342,7 @@ _1230 TILs and counting..._
 
 ### GROQ
 
+- [Grab Multiple Values From A Reference](groq/grab-multiple-values-from-a-reference.md)
 - [Grab Values From An Array Of References](groq/grab-values-from-an-array-of-references.md)
 - [Include Type Of Operation In Webhook Response](groq/include-type-of-operation-in-webhook-response.md)
 
