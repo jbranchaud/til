@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1229 TILs and counting..._
+_1230 TILs and counting..._
 
 ---
 
@@ -431,6 +431,7 @@ _1229 TILs and counting..._
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
 - [Obtain Undefined Value With The Void Operator](javascript/obtain-undefined-value-with-the-void-operator.md)
 - [Parse A Date From A Timestamp](javascript/parse-a-date-from-a-timestamp.md)
+- [Purge Null And Undefined Values From Object](javascript/purge-null-and-undefined-values-from-object.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
 - [Reach Into An Object For Nested Data With Get](javascript/reach-into-an-object-for-nested-data-with-get.md)
 - [Render An Array Of Elements With React 16](javascript/render-an-array-of-elements-with-react-16.md)
