@@ -1,7 +1,8 @@
 # Respond With JSON Regardless Of Content Type
 
 Let's say you want to serve some JSON from an endpoint (for example, you might
-be serving the `apple-app-site-association` file for iOS Universal Links).
+be serving [the `apple-app-site-association` file for iOS Universal
+Links](https://developer.apple.com/documentation/xcode/supporting-associated-domains)).
 Regardless of whether the endpoint is requested as JSON (`application/json`),
 HTML (`text/html`), or something else (`plain/text`), you want to respond with
 JSON.
