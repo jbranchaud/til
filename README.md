@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1234 TILs and counting..._
+_1235 TILs and counting..._
 
 ---
 
@@ -1135,6 +1135,7 @@ _1234 TILs and counting..._
 
 - [Add Types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
 - [Compiler Checks For Unused Params And Variables](typescript/compiler-checks-for-unused-params-and-variables.md)
+- [Create Union Type From Constants](typescript/create-union-type-from-constants.md)
 - [Extract Object Type Keys Into A Union Type](typescript/extract-object-type-keys-into-a-union-type.md)
 - [Extract Object Type Values Into A Union Type](typescript/extract-object-type-values-into-a-union-type.md)
 - [Generate Inferred Type From Zod Schema](typescript/generate-inferred-type-from-zod-schema.md)
