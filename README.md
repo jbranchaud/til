@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1235 TILs and counting..._
+_1236 TILs and counting..._
 
 ---
 
@@ -788,6 +788,7 @@ _1235 TILs and counting..._
 - [Query A Single Value From The Database](rails/query-a-single-value-from-the-database.md)
 - [Read In Environment-Specific Config Values](rails/read-in-environment-specific-config-values.md)
 - [Read-Only Models](rails/read-only-models.md)
+- [Remove A Database Column From A Table](rails/remove-a-database-column-from-a-table.md)
 - [Remove The Default Value On A Column](rails/remove-the-default-value-on-a-column.md)
 - [Render An Alternative ActionMailer Template](rails/render-an-alternative-action-mailer-template.md)
 - [Render The Response Body In Controller Specs](rails/render-the-response-body-in-controller-specs.md)
