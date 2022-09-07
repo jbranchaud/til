@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1239 TILs and counting..._
+_1240 TILs and counting..._
 
 ---
 
@@ -344,6 +344,7 @@ _1239 TILs and counting..._
 
 - [Grab Multiple Values From A Reference](groq/grab-multiple-values-from-a-reference.md)
 - [Grab Values From An Array Of References](groq/grab-values-from-an-array-of-references.md)
+- [Include Attributes When Conditional Check Passes](groq/include-attributes-when-conditional-check-passes.md)
 - [Include Type Of Operation In Webhook Response](groq/include-type-of-operation-in-webhook-response.md)
 
 ### Heroku
