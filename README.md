@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1242 TILs and counting..._
+_1243 TILs and counting..._
 
 ---
 
@@ -157,6 +157,7 @@ _1242 TILs and counting..._
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
 - [Allow Cross-Origin Requests To Include Cookies](devops/allow-cross-origin-requests-to-include-cookies.md)
 - [Allow HTTPS Through Your UFW Firewall](devops/allow-https-through-your-ufw-firewall.md)
+- [Check For Cached Site Assocation File For iOS](devops/check-for-cached-site-association-file-for-ios.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Connect To An RDS PostgreSQL Database](devops/connect-to-an-rds-postgresql-database.md)
