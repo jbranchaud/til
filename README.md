@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1245 TILs and counting..._
+_1246 TILs and counting..._
 
 ---
 
@@ -520,6 +520,7 @@ _1245 TILs and counting..._
 
 ### MySQL
 
+- [Default Username And Password For New Instance](mysql/default-username-and-password-for-new-instance.md)
 - [Display Output In A Vertical Format](mysql/display-output-in-a-vertical-format.md)
 - [Doing Date Math](mysql/doing-date-math.md)
 - [Dump A Database To A File](mysql/dump-a-database-to-a-file.md)
