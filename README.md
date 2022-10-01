@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1248 TILs and counting..._
+_1249 TILs and counting..._
 
 ---
 
@@ -557,6 +557,7 @@ _1248 TILs and counting..._
 ### pnpm
 
 - [Execute A Command From The Workspace Root](pnpm/execute-a-command-from-the-workspace-root.md)
+- [Install Command Runs For Entire Workspace](pnpm/install-command-runs-for-entire-workspace.md)
 
 ### PostgreSQL
 
