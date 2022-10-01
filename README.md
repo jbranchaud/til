@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1247 TILs and counting..._
+_1248 TILs and counting..._
 
 ---
 
@@ -235,6 +235,7 @@ _1247 TILs and counting..._
 ### Git
 
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
+- [Add A Range Of Filename To gitignore](git/add-a-range-of-filenames-to-gitignore.md)
 - [Amend Author Of Previous Commit](git/amend-author-of-previous-commit.md)
 - [Auto-Squash Those Fixup Commits](git/auto-squash-those-fixup-commits.md)
 - [Caching Credentials](git/caching-credentials.md)
