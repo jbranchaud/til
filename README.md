@@ -310,7 +310,7 @@ _1248 TILs and counting..._
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Skip A Bad Commit When Bisecting](git/skip-a-bad-commit-when-bisecting.md)
 - [Skip Pre-Commit Hooks](git/skip-pre-commit-hooks.md)
-- [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
+- [Staging Changes Within Vim](git/staging-changes-within-vim.md)
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
 - [Stash A Single Untracked File](git/stash-a-single-untracked-file.md)
 - [Stash Everything](git/stash-everything.md)
