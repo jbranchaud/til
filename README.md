@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1250 TILs and counting..._
+_1251 TILs and counting..._
 
 ---
 
@@ -317,6 +317,7 @@ _1250 TILs and counting..._
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
+- [Transition A Branch From One Base To Another](git/transition-a-branch-from-one-base-to-another.md)
 - [Turn Off The Output Pager For One Command](git/turn-off-the-output-pager-for-one-command.md)
 - [Two Kinds Of Dotted Range Notation](git/two-kinds-of-dotted-range-notation.md)
 - [Unstage Changes Wih Git Restore](git/unstage-changes-with-git-restore.md)
