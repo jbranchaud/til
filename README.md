@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1249 TILs and counting..._
+_1250 TILs and counting..._
 
 ---
 
@@ -522,6 +522,7 @@ _1249 TILs and counting..._
 
 ### MySQL
 
+- [Change Existing Column To Not Null](mysql/change-existing-column-to-not-null.md)
 - [Default Username And Password For New Instance](mysql/default-username-and-password-for-new-instance.md)
 - [Display Output In A Vertical Format](mysql/display-output-in-a-vertical-format.md)
 - [Doing Date Math](mysql/doing-date-math.md)
