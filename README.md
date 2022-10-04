@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1251 TILs and counting..._
+_1252 TILs and counting..._
 
 ---
 
@@ -69,6 +69,7 @@ _1251 TILs and counting..._
 * [Workflow](#workflow)
 * [XState](#xstate)
 * [YAML](#yaml)
+* [Zod](#zod)
 
 ---
 
@@ -1479,6 +1480,10 @@ _1251 TILs and counting..._
 
 - [Create Multi-Line Strings Without The Line Breaks](yaml/create-multi-line-strings-without-the-line-breaks.md)
 - [YAML Is A Superset Of JSON](yaml/yaml-is-a-superset-of-json.md)
+
+### Zod
+
+- [Create Union Type Of Nearly Identical Objects](zod/create-union-type-of-nearly-identical-objects.md)
 
 ## Usage
 
