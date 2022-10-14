@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1254 TILs and counting..._
+_1255 TILs and counting..._
 
 ---
 
@@ -43,6 +43,7 @@ _1254 TILs and counting..._
 * [Netlify](#netlify)
 * [Next.js](#nextjs)
 * [Phoenix](#phoenix)
+* [Planetscale](#planetscale)
 * [pnpm](#pnpm)
 * [PostgreSQL](#postgresql)
 * [Prisma](#prisma)
@@ -556,6 +557,10 @@ _1254 TILs and counting..._
 - [Serve Static Assets From Custom Directory](phoenix/serve-static-assets-from-custom-directory.md)
 - [Specifying The Digest Directory](phoenix/specifying-the-digest-directory.md)
 - [Specifying The Server Port](phoenix/specifying-the-server-port.md)
+
+### Planetscale
+
+- [Seed Production Data Into Another Branch](planetscale/seed-production-data-into-another-branch.md)
 
 ### pnpm
 
