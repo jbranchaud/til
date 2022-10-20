@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1256 TILs and counting..._
+_1257 TILs and counting..._
 
 ---
 
@@ -40,6 +40,7 @@ _1256 TILs and counting..._
 * [Mac](#mac)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Neovim](#neovim)
 * [Netlify](#netlify)
 * [Next.js](#nextjs)
 * [Phoenix](#phoenix)
@@ -535,6 +536,10 @@ _1256 TILs and counting..._
 - [Show Create Statement For A Table](mysql/show-create-statement-for-a-table.md)
 - [Show Tables That Match A Pattern](mysql/show-tables-that-match-a-pattern.md)
 - [Show Indexes For A Table](mysql/show-indexes-for-a-table.md)
+
+### Neovim
+
+- [Create User Command To Open Init Config](neovim/create-user-command-to-open-init-config.md)
 
 ### Netlify
 
