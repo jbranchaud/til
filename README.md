@@ -539,6 +539,7 @@ _1257 TILs and counting..._
 
 ### Neovim
 
+- [Allow Neovim To Copy/Paste With System Clipboard](neovim/allow-neovim-to-copy-paste-with-system-clipboard.md)
 - [Create User Command To Open Init Config](neovim/create-user-command-to-open-init-config.md)
 
 ### Netlify
@@ -1293,7 +1294,6 @@ _1257 TILs and counting..._
 - [Add A File Without Loading It](vim/add-a-file-without-loading-it.md)
 - [Add Custom Dictionary Words](vim/add-custom-dictionary-words.md)
 - [All The Ways To Write And Quit In Vim](vim/all-the-ways-to-write-and-quit-in-vim.md)
-- [Allow Neovim To Copy/Paste With System Clipboard](vim/allow-neovim-to-copy-paste-with-system-clipboard.md)
 - [Almost The End Of The Line](vim/almost-the-end-of-the-line.md)
 - [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
 - [Always Keep The Gutter Open](vim/always-keep-the-gutter-open.md)
