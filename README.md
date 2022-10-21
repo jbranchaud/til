@@ -541,6 +541,7 @@ _1257 TILs and counting..._
 
 - [Allow Neovim To Copy/Paste With System Clipboard](neovim/allow-neovim-to-copy-paste-with-system-clipboard.md)
 - [Create User Command To Open Init Config](neovim/create-user-command-to-open-init-config.md)
+- [Set Up Vim-Plug With Neovim](neovim/set-up-vim-plug-with-neovim.md)
 
 ### Netlify
 
@@ -1414,7 +1415,6 @@ _1257 TILs and counting..._
 - [Select Several Results From An FZF Search](vim/select-several-results-from-an-fzf-search.md)
 - [Set End Of Line Markers](vim/set-end-of-line-markers.md)
 - [Set Your Color Scheme](vim/set-your-color-scheme.md)
-- [Set Up Vim-Plug With Neovim](vim/set-up-vim-plug-with-neovim.md)
 - [Setting Filetype With Modelines](vim/setting-filetype-with-modelines.md)
 - [Show All Syntax Highlighting Rules](vim/show-all-syntax-highlighting-rules.md)
 - [Show Matching Entries For Help](vim/show-matching-entries-for-help.md)
