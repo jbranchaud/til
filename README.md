@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1258 TILs and counting..._
+_1259 TILs and counting..._
 
 ---
 
@@ -541,6 +541,7 @@ _1258 TILs and counting..._
 
 - [Allow Neovim To Copy/Paste With System Clipboard](neovim/allow-neovim-to-copy-paste-with-system-clipboard.md)
 - [Create User Command To Open Init Config](neovim/create-user-command-to-open-init-config.md)
+- [Run A Lua Statement From The Command Prompt](neovim/run-a-lua-statement-from-the-command-prompt.md)
 - [Set Up Vim-Plug With Neovim](neovim/set-up-vim-plug-with-neovim.md)
 
 ### Netlify
