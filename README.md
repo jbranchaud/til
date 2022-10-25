@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1259 TILs and counting..._
+_1260 TILs and counting..._
 
 ---
 
@@ -1058,6 +1058,7 @@ _1259 TILs and counting..._
 - [Passing Arguments To A Rake Task](ruby/passing-arguments-to-a-rake-task.md)
 - [Pattern Match Values From A Hash](ruby/pattern-match-values-from-a-hash.md)
 - [Percent Notation](ruby/percent-notation.md)
+- [Precedence Of Logical Operators](ruby/precedence-of-logical-operators.md)
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
 - [Read The First Line From A File](ruby/read-the-first-line-from-a-file.md)
