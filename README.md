@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1260 TILs and counting..._
+_1261 TILs and counting..._
 
 ---
 
@@ -857,6 +857,7 @@ _1260 TILs and counting..._
 - [Use IRB And Ruby Flags With Rails Console](rails/use-irb-and-ruby-flags-with-rails-console.md)
 - [Verify And Read A Signed Cookie Value](rails/verify-and-read-a-signed-cookie-value.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
+- [Why Redirect And Return In Controllers](rails/why-redirect-and-return-in-controllers.md)
 - [Wipe Out All Precompiled Assets](rails/wipe-out-all-precompiled-assets.md)
 - [Write Reversible Migration To Set Default](rails/write-reversible-migration-to-set-default.md)
 - [Write Safer Where Clauses With Placeholders](rails/write-safer-where-clauses-with-placeholders.md)
