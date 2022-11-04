@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1262 TILs and counting..._
+_1263 TILs and counting..._
 
 ---
 
@@ -588,6 +588,7 @@ _1262 TILs and counting..._
 - [Capitalize All The Words](postgres/capitalize-all-the-words.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
 - [Check If The Local Server Is Running](postgres/check-if-the-local-server-is-running.md)
+- [Check If User Role Exists For Database](postgres/check-if-user-role-exists-for-database.md)
 - [Check Table For Any Oprhaned Records](postgres/check-table-for-any-orphaned-records.md)
 - [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
