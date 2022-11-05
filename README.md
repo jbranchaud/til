@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1263 TILs and counting..._
+_1264 TILs and counting..._
 
 ---
 
@@ -521,6 +521,7 @@ _1263 TILs and counting..._
 
 - [Determine The Database Version](mongodb/determine-the-database-version.md)
 - [Dump A Remote Database](mongodb/dump-a-remote-database.md)
+- [Dump And Restore With A Single gzip File](mongodb/dump-and-restore-with-a-single-gzip-file.md)
 - [Get Size Stats For A Collection](mongodb/get-size-stats-for-a-collection.md)
 - [List Size Stats For All Collections](mongodb/list-size-stats-for-all-collections.md)
 
