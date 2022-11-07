@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1265 TILs and counting..._
+_1266 TILs and counting..._
 
 ---
 
@@ -1369,6 +1369,7 @@ _1265 TILs and counting..._
 - [Jump To Matching Pair](vim/jump-to-matching-pair.md)
 - [Jump To The Next Misspelling](vim/jump-to-the-next-misspelling.md)
 - [List All Buffers](vim/list-all-buffers.md)
+- [List autocmds Configured For The Current Buffer](vim/list-autocmds-configured-for-the-current-buffer.md)
 - [List Of Plugins](vim/list-of-plugins.md)
 - [Load A Directory Of Files Into The Buffer List](vim/load-a-directory-of-files-into-the-buffer-list.md)
 - [Make Directories For The Current File](vim/make-directories-for-the-current-file.md)
