@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1266 TILs and counting..._
+_1267 TILs and counting..._
 
 ---
 
@@ -1142,6 +1142,7 @@ _1266 TILs and counting..._
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
 - [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
+- [Display Titles For Each Pane In A Window](tmux/display-titles-for-each-pane-in-a-window.md)
 - [Enabling Vi Mode](tmux/enabling-vi-mode.md)
 - [Get Mouse Copy/Paste Working In Kitty](tmux/get-mouse-copy-paste-working-in-kitty.md)
 - [Hiding The Status Bar](tmux/hiding-the-status-bar.md)
