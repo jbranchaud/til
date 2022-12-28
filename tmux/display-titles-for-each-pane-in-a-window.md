@@ -21,7 +21,7 @@ Hit `<prefix>:` to issue the following command to `tmux`:
 Or issue the command from one of your pane's terminal prompts:
 
 ```
-$ tmxu set pane-border-status top
+$ tmux set pane-border-status top
 ```
 
 Either way, it will replace the top border line with text telling you the pane
