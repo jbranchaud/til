@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1272 TILs and counting..._
+_1273 TILs and counting..._
 
 ---
 
@@ -478,6 +478,7 @@ _1272 TILs and counting..._
 ### jq
 
 - [Extract A List Of Values](jq/extract-a-list-of-values.md)
+- [Reduce Object To Just Entries Of A Specific Type](jq/reduce-object-to-just-entries-of-a-specific-type.md)
 
 ### Kitty
 
