@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1276 TILs and counting..._
+_1277 TILs and counting..._
 
 ---
 
@@ -1514,6 +1514,7 @@ _1276 TILs and counting..._
 ### Zod
 
 - [Check If An Object Is Empty With Zod](zod/check-if-an-object-is-empty-with-zod.md)
+- [Create A Schema That Matches On Any Object](zod/create-a-schema-that-matches-on-any-object.md)
 - [Create Union Type Of Nearly Identical Objects](zod/create-union-type-of-nearly-identical-objects.md)
 - [Incorporate Existing Type Into Zod Schema](zod/incorporate-existing-type-into-zod-schema.md)
 
