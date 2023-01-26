@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1277 TILs and counting..._
+_1278 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _1277 TILs and counting..._
 
 * [Ack](#ack)
 * [Amplify](#amplify)
+* [Ansible](#ansible)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
 * [CSS](#css)
@@ -84,6 +85,10 @@ _1277 TILs and counting..._
 ### Amplify
 
 - [Sign Up User With Email And Password](amplify/sign-up-user-with-email-and-password.md)
+
+### Ansible
+
+- [Loop Over A List Of Dictionaries](ansible/loop-over-a-list-of-dictionaries.md)
 
 ### Chrome
 
