@@ -19,4 +19,4 @@ host `staging` like so:
 staging ansible_host=192.168.1.50
 ```
 
-[source](http://docs.ansible.com/ansible/intro_inventory.html)
+[source](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html#inventory-aliases)
