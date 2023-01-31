@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1279 TILs and counting..._
+_1280 TILs and counting..._
 
 ---
 
@@ -1222,6 +1222,7 @@ _1279 TILs and counting..._
 - [Curl With Cookies](unix/curl-with-cookies.md)
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
+- [Different Ways To Generate A v4 UUID](unix/different-ways-to-generate-a-v4-uuid.md)
 - [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Display The Contents Of A Directory As A Tree](unix/display-the-contents-of-a-directory-as-a-tree.md)
