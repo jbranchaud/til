@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1280 TILs and counting..._
+_1281 TILs and counting..._
 
 ---
 
@@ -1250,6 +1250,7 @@ _1280 TILs and counting..._
 - [Grep For Files With Multiple Matches](unix/grep-for-files-with-multiple-matches.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
+- [Ignore A Directory During ripgrep Search](unix/ignore-a-directory-during-ripgrep-search.md)
 - [Ignore The Alias When Running A Command](unix/ignore-the-alias-when-running-a-command.md)
 - [Interactively Browse Available Node Versions](unix/interactively-browse-availabile-node-versions.md)
 - [Jump To The Ends Of Your Shell History](unix/jump-to-the-ends-of-your-shell-history.md)
