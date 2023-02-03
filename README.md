@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1282 TILs and counting..._
+_1283 TILs and counting..._
 
 ---
 
@@ -1451,6 +1451,7 @@ _1282 TILs and counting..._
 - [Source Original vimrc When Using Neovim](vim/source-original-vimrc-when-using-neovim.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Swapping Split Windows](vim/swapping-split-windows.md)
+- [Swap The Position Of Two Split Windows](vim/swap-the-position-of-two-split-windows.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
 - [Toggle Absolute And Relative Paths In BufExplorer](vim/toggle-absolute-and-relative-paths-in-bufexplorer.md)
