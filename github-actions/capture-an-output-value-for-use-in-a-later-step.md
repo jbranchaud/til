@@ -23,11 +23,11 @@ version from my `.tool-versions` file with a step that uses `set-output`.
   - name: Read Node.js version to install from `.tool-versions`
     id: nodejs
     run: >-
-      echo "::set-output name=NODE_VERSION::$(
+      echo "NODE_VERSION=$(
         cat .tool-versions |
         grep nodejs |
         sed 's/nodejs \(.*\)$/\1/'
-      )"
+      )" >> $GITHUB_OUTPUT
 ```
 
 `echo` runs the command in the string which sets `NODE_VERSION` as an output
@@ -45,4 +45,4 @@ This output value can be referenced in a later step.
 `steps` has a reference to the `nodejs` step (note the `id` above) which then
 has `outputs` like the `NODE_VERSION`.
 
-[source](https://docs.github.com/en/actions/reference/workflow-commands-for-github-actions#using-workflow-commands-to-access-toolkit-functions)
+[source](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-output-parameter)
