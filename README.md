@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1288 TILs and counting..._
+_1289 TILs and counting..._
 
 ---
 
@@ -1043,6 +1043,7 @@ _1288 TILs and counting..._
 - [Extract A Column Of Data From A CSV File](ruby/extract-a-column-of-data-from-a-csv-file.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
+- [Fetch Warns About Superseding Block Argument](ruby/fetch-warns-about-superseding-block-argument.md)
 - [Find The Min And Max With A Single Call](ruby/find-the-min-and-max-with-a-single-call.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Generate A Signed JWT Token](ruby/generate-a-signed-jwt-token.md)
