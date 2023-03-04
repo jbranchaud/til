@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1289 TILs and counting..._
+_1290 TILs and counting..._
 
 ---
 
@@ -502,6 +502,7 @@ _1289 TILs and counting..._
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
 - [Show Current System Time And Settings](linux/show-current-system-time-and-settings.md)
+- [Show Used And Available System Memory](linux/show-used-and-available-system-memory.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
 ### Mac
