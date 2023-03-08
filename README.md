@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1291 TILs and counting..._
+_1292 TILs and counting..._
 
 ---
 
@@ -1191,6 +1191,7 @@ _1291 TILs and counting..._
 
 ### TypeScript
 
+- [Add Generic Typing To An Anonymous Function](typescript/add-generic-typing-to-an-anonymous-function.md)
 - [Add Types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
 - [Compiler Checks For Unused Params And Variables](typescript/compiler-checks-for-unused-params-and-variables.md)
 - [Create A Non-Empty Array Type](typescript/create-a-non-empty-array-type.md)
