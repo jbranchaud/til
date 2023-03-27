@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1292 TILs and counting..._
+_1293 TILs and counting..._
 
 ---
 
@@ -1219,6 +1219,7 @@ _1292 TILs and counting..._
 - [Change To That New Directory](unix/change-to-that-new-directory.md)
 - [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
 - [Check If Command Is Executable Before Using](unix/check-if-command-is-executable-before-using.md)
+- [Check SSH Key Fingerprints Of Known Hosts](unix/check-ssh-key-fingerprints-of-known-hosts.md)
 - [Check The Current Working Directory](unix/check-the-current-working-directory.md)
 - [Clear The Screen](unix/clear-the-screen.md)
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
