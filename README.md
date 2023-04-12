@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1295 TILs and counting..._
+_1296 TILs and counting..._
 
 ---
 
@@ -1161,6 +1161,7 @@ _1295 TILs and counting..._
 - [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Break Current Pane Out To Separate Window](tmux/break-current-pane-out-to-separate-window.md)
 - [Change Base Directory Of Existing Session](tmux/change-base-directory-of-existing-session.md)
+- [Change Base Directory Without Detaching](tmux/change-base-directory-without-detaching.md)
 - [Change The Default Prefix Key](tmux/change-the-default-prefix-key.md)
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
 - [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
