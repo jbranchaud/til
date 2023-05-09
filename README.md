@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1300 TILs and counting..._
+_1301 TILs and counting..._
 
 ---
 
@@ -763,6 +763,7 @@ _1300 TILs and counting..._
 - [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
 - [ActiveRecord Query For This Or That](rails/active-record-query-for-this-or-that.md)
 - [Advance The Date](rails/advance-the-date.md)
+- [Allow Associations To Be Optional](rails/allow-associations-to-be-optional.md)
 - [Allow List Params Anywhere With Strong Params](rails/allow-list-params-anywhere-with-strong-params.md)
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Alphabetize Schema Columns To Keep Them Consistent](rails/alphabetize-schema-columns-to-keep-them-consistent.md)
