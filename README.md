@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1302 TILs and counting..._
+_1303 TILs and counting..._
 
 ---
 
@@ -1253,6 +1253,7 @@ _1302 TILs and counting..._
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find All Files Matching A Name With fd](unix/find-all-files-matching-a-name-with-fd.md)
 - [Find A File Installed By Brew](unix/find-a-file-installed-by-brew.md)
+- [Find Duplicate Lines In A File](unix/find-duplicate-lines-in-a-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
