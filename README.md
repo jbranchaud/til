@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1304 TILs and counting..._
+_1305 TILs and counting..._
 
 ---
 
@@ -1235,6 +1235,7 @@ _1304 TILs and counting..._
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
 - [Count The Number Of Matches In A Grep](unix/count-the-number-of-matches-in-a-grep.md)
+- [Count The Number Of ripgrep Pattern Matches](unix/count-the-number-of-ripgrep-pattern-matches.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Create A Sequence Of Values With A Step](unix/create-a-sequence-of-values-with-a-step.md)
 - [Curl With Cookies](unix/curl-with-cookies.md)
