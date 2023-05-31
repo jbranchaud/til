@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1306 TILs and counting..._
+_1307 TILs and counting..._
 
 ---
 
@@ -745,6 +745,7 @@ _1306 TILs and counting..._
 - [Batch Insert Records With createMany](prisma/batch-insert-records-with-create-many.md)
 - [Execute A Raw SQL Query](prisma/execute-a-raw-sql-query.md)
 - [Grab A Limited Set Of Records](prisma/grab-a-limited-set-of-records.md)
+- [Open Connections To Multiple Databases](prisma/open-connections-to-multiple-databases.md)
 - [Specify Alternate Location For Prisma Schema](prisma/specify-alternate-location-for-prisma-schema.md)
 
 ### Python
