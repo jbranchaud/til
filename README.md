@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1308 TILs and counting..._
+_1309 TILs and counting..._
 
 ---
 
@@ -307,6 +307,7 @@ _1308 TILs and counting..._
 - [Review Commits From Before A Certain Date](git/review-commits-from-before-a-certain-date.md)
 - [Run A Git Command From Outside The Repo](git/run-a-git-command-from-outside-the-repo.md)
 - [Set A Custom Pager For A Specific Command](git/set-a-custom-pager-for-a-specific-command.md)
+- [Set Default Branch Name For New Repos](git/set-default-branch-name-for-new-repos.md)
 - [Shorthand To Force Push A Branch](git/shorthand-to-force-push-a-branch.md)
 - [Show All Commits For A File Beyond Renaming](git/show-all-commits-for-a-file-beyond-renaming.md)
 - [Show Changes For Files That Match A Pattern](git/show-changes-for-files-that-match-a-pattern.md)
