@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1309 TILs and counting..._
+_1310 TILs and counting..._
 
 ---
 
@@ -432,6 +432,7 @@ _1309 TILs and counting..._
 - [Generate Random Integers](javascript/generate-random-integers.md)
 - [Get The Location And Size Of An Element](javascript/get-the-location-and-size-of-an-element.md)
 - [Get The Response Status From An Axios Error](javascript/get-the-response-status-from-an-axios-error.md)
+- [Get The Time Components Of A Date](javascript/get-the-time-components-of-a-date.md)
 - [Get The Time Zone Of The Client Computer](javascript/get-the-time-zone-of-the-client-computer.md)
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
 - [Globally Install Specific Version Of PNPM](javascript/globally-install-specific-version-of-pnpm.md)
