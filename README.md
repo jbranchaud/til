@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1313 TILs and counting..._
+_1314 TILs and counting..._
 
 ---
 
@@ -1212,6 +1212,7 @@ _1313 TILs and counting..._
 - [Create Union Type From Constants](typescript/create-union-type-from-constants.md)
 - [Extract Object Type Keys Into A Union Type](typescript/extract-object-type-keys-into-a-union-type.md)
 - [Extract Object Type Values Into A Union Type](typescript/extract-object-type-values-into-a-union-type.md)
+- [Generate An Initial tsconfig File](typescript/generate-an-initial-tsconfig-file.md)
 - [Generate Inferred Type From Zod Schema](typescript/generate-inferred-type-from-zod-schema.md)
 - [Get The Return Type Of An Async Function](typescript/get-the-return-type-of-an-async-function.md)
 - [Interfaces With The Same Name Are Merged](typescript/interfaces-with-the-same-name-are-merged.md)
