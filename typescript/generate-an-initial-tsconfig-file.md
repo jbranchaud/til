@@ -1,7 +1,8 @@
 # Generate An Initial tsconfig File
 
-A new `tsconfig.json` file can be generated using the `tsc` CLI which is part
-of the `typescript` node package.
+A new `tsconfig.json` file can be generated using [the `tsc`
+CLI](https://www.typescriptlang.org/docs/handbook/compiler-options.html) which
+is part of the `typescript` node package.
 
 You'll first want to add `typescript` to your project:
 
@@ -46,3 +47,5 @@ annotations that looks something like this:
   }
 }
 ```
+
+[source](https://stackoverflow.com/a/57510415/535590)
