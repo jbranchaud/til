@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1312 TILs and counting..._
+_1313 TILs and counting..._
 
 ---
 
@@ -470,6 +470,7 @@ _1312 TILs and counting..._
 - [String Interpolation With Template Literals](javascript/string-interpolation-with-template-literals.md)
 - [Support Nested Matching In Custom Jest Matchers](javascript/support-nested-matching-in-custom-jest-matchers.md)
 - [Tell Jest To Focus On Running Only One Test](javascript/tell-jest-to-focus-on-running-only-one-test.md)
+- [Tell Node To Treat JS Files As ESM](javascript/tell-node-to-treat-js-files-as-esm.md)
 - [Tell Prettier To Not Format A Statement](javascript/tell-prettier-to-not-format-a-statement.md)
 - [Test Coverage Stats With Jest](javascript/test-coverage-stats-with-jest.md)
 - [Test Timing-Based Code With Jest Fake Timers](javascript/test-timing-based-code-with-jest-fake-timers.md)
