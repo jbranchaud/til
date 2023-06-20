@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1315 TILs and counting..._
+_1316 TILs and counting..._
 
 ---
 
@@ -347,6 +347,7 @@ _1315 TILs and counting..._
 - [Cache Playwright Dependencies Across Workflows](github-actions/cache-playwright-dependencies-across-workflows.md)
 - [Capture An Output Value For Use In A Later Step](github-actions/capture-an-output-value-for-use-in-a-later-step.md)
 - [Reference An Encrypted Secret In An Action](github-actions/reference-an-encrypted-secret-in-an-action.md)
+- [Trigger A Workflow Via An API Call](github-actions/trigger-a-workflow-via-an-api-call.md)
 
 ### Go
 
