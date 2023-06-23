@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1318 TILs and counting..._
+_1319 TILs and counting..._
 
 ---
 
@@ -1269,6 +1269,7 @@ _1318 TILs and counting..._
 - [Find Duplicate Lines In A File](unix/find-duplicate-lines-in-a-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
+- [Find Occurrences Of Multiple Values With Ripgrep](unix/find-occurrences-of-multiple-values-with-ripgrep.md)
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
 - [Generate A SAML Key And Certificate Pair](unix/generate-a-saml-key-and-certificate-pair.md)
