@@ -22,7 +22,7 @@ insert ignore into MerchantAccount (col1, col2, col3)
 ```
 
 Notice all I had to do was update the statment by adding `ignore` right after
-`insert.`
+[`insert`](https://dev.mysql.com/doc/refman/8.0/en/insert.html).
 
 > If you use the `IGNORE` modifier, ignorable errors that occur while executing
 > the `INSERT` statement are ignored. For example, without `IGNORE`, a row that
@@ -31,4 +31,4 @@ Notice all I had to do was update the statment by adding `ignore` right after
 > row is discarded and no error occurs. Ignored errors generate warnings
 > instead.
 
-[source](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
+[source](https://dev.mysql.com/doc/refman/8.0/en/sql-mode.html#ignore-effect-on-execution)
