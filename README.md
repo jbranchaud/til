@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1320 TILs and counting..._
+_1321 TILs and counting..._
 
 ---
 
@@ -1316,6 +1316,7 @@ _1320 TILs and counting..._
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Replace Pattern Across Many Files In A Project](unix/replace-pattern-across-many-files-in-a-project.md)
 - [Run A Command Repeatedly Several Times](unix/run-a-command-repeatedly-several-times.md)
+- [Run A cURL Command Without The Progress Meter](unix/run-a-curl-command-without-the-progress-meter.md)
 - [Safely Edit The Sudoers File With Vim](unix/safely-edit-the-sudoers-file-with-vim.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
