@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1321 TILs and counting..._
+_1322 TILs and counting..._
 
 ---
 
@@ -845,6 +845,7 @@ _1321 TILs and counting..._
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Params Is A Hash With Indifferent Access](rails/params-is-a-hash-with-indifferent-access.md)
 - [Parse Query Params From A URL](rails/parse-query-params-from-a-url.md)
+- [Parse Request Params In Rack::Attack Block](rails/parse-request-params-in-rack-attack-block.md)
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
 - [Pretend Generations](rails/pretend-generations.md)
