@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1324 TILs and counting..._
+_1325 TILs and counting..._
 
 ---
 
@@ -1116,6 +1116,7 @@ _1324 TILs and counting..._
 - [Scripting With RVM](ruby/scripting-with-rvm.md)
 - [Scroll To Top Of Page With Capybara](ruby/scroll-to-top-of-page-with-capybara.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
+- [Shift The Month On A Date Object](ruby/shift-the-month-on-a-date-object.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
 - [Silence The Output Of A Ruby Statement In Pry](ruby/silence-the-output-of-a-ruby-statement-in-pry.md)
 - [Single And Double Quoted String Notation](ruby/single-and-double-quoted-string-notation.md)
