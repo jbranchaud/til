@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1326 TILs and counting..._
+_1327 TILs and counting..._
 
 ---
 
@@ -1347,6 +1347,7 @@ _1326 TILs and counting..._
 - [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
 - [Where Are The Binaries?](unix/where-are-the-binaries.md)
 - [xargs Default Command Is echo](unix/xargs-default-command-is-echo.md)
+- [xargs Ignores Alias Substitution By Default](unix/xargs-ignores-alias-substitution-by-default.md)
 
 ### Vercel
 
