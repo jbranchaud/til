@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1328 TILs and counting..._
+_1329 TILs and counting..._
 
 ---
 
@@ -1306,6 +1306,7 @@ _1328 TILs and counting..._
 - [List The Available JDKs](unix/list-the-available-jdks.md)
 - [List The Stack Of Remembered Directories](unix/list-the-stack-of-remembered-directories.md)
 - [Load Env Vars In Bash Script](unix/load-env-vars-in-bash-script.md)
+- [Look Through All Files That Have Been Git Stashed](unix/look-through-all-files-that-have-been-git-stashed.md)
 - [Map A Domain To localhost](unix/map-a-domain-to-localhost.md)
 - [Negative Look-Ahead Search With ripgrep](unix/negative-look-ahead-search-with-ripgrep.md)
 - [Occupy A Local Port With Netcat](unix/occupy-a-local-port-with-netcat.md)
