@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1330 TILs and counting..._
+_1331 TILs and counting..._
 
 ---
 
@@ -740,6 +740,7 @@ _1330 TILs and counting..._
 - [Types By Category](postgres/types-by-category.md)
 - [Union All Rows Including Duplicates](postgres/union-all-rows-including-duplicates.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
+- [Use A Trigger To Mirror Inserts To Another Table](postgres/use-a-trigger-to-mirror-inserts-to-another-table.md)
 - [Use Argument Indexes](postgres/use-argument-indexes.md)
 - [Use Not Valid To Immediately Enforce A Constraint](postgres/use-not-valid-to-immediately-enforce-a-constraint.md)
 - [Use Rename To Hot Swap Two Tables](postgres/use-rename-to-hot-swap-two-tables.md)
