@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1332 TILs and counting..._
+_1333 TILs and counting..._
 
 ---
 
@@ -492,6 +492,7 @@ _1332 TILs and counting..._
 
 ### jq
 
+- [Combine An Array Of Objects Into A Single Object](jq/combine-an-array-of-objects-into-a-single-object.md)
 - [Count Each Collection In A JSON Object](jq/count-each-collection-in-a-json-object.md)
 - [Count The Number Of Things In A JSON File](jq/count-the-number-of-things-in-a-json-file.md)
 - [Extract A List Of Values](jq/extract-a-list-of-values.md)
