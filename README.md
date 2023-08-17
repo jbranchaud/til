@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1333 TILs and counting..._
+_1334 TILs and counting..._
 
 ---
 
@@ -840,6 +840,7 @@ _1333 TILs and counting..._
 - [Load Records In Batches With find_each](rails/load-records-in-batches-with-find-each.md)
 - [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
+- [Make A String Attribute Easy To Inquire About](rails/make-a-string-attribute-easy-to-inquire-about.md)
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
 - [Make Remove Column Migration Reversible](rails/make-remove-column-migration-reversible.md)
 - [Manually Run A Migration From Rails Console](rails/manually-run-a-migration-from-rails-console.md)
