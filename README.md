@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1334 TILs and counting..._
+_1335 TILs and counting..._
 
 ---
 
@@ -1322,6 +1322,7 @@ _1334 TILs and counting..._
 - [Print Milliseconds In Human-Readable Format](unix/print-milliseconds-in-human-readable-format.md)
 - [Print Out Files In Reverse](unix/print-out-files-in-reverse.md)
 - [Print The Current Date In Human-Readable Format](unix/print-the-current-date-in-human-readable-format.md)
+- [Produce A Lowercase V4 UUID](unix/produce-a-lowercase-v4-uuid.md)
 - [Provide A Fallback Value For Unset Parameter](unix/provide-a-fallback-value-for-unset-parameter.md)
 - [Remove A Directory Called `-p`](unix/remove-a-directory-called-dash-p.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
