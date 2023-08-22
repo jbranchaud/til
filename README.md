@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1335 TILs and counting..._
+_1336 TILs and counting..._
 
 ---
 
@@ -848,6 +848,7 @@ _1335 TILs and counting..._
 - [Mask An ActiveRecord Attribute](rails/mask-an-activerecord-attribute.md)
 - [Merge A Scope Into An ActiveRecord Query](rails/merge-a-scope-into-an-activerecord-query.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
+- [Mock Rails Environment With An Inquiry Instance](rails/mock-rails-environment-with-an-inquiry-instance.md)
 - [Order Matters For `rescue_from` Blocks](rails/order-matters-for-rescue-from-blocks.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Params Is A Hash With Indifferent Access](rails/params-is-a-hash-with-indifferent-access.md)
