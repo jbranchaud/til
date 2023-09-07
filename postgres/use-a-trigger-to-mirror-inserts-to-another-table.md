@@ -13,7 +13,7 @@ inserting the newly inserted rows into `another_table`.
 create or replace function mirror_table_to_another_table()
   returns trigger as $mirrored_table$
     begin
-      if (TG_OP = 'insert') then
+      if (TG_OP = 'INSERT') then
         insert into another_table
           select * from new_table;
       end if;
