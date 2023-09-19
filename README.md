@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1337 TILs and counting..._
+_1338 TILs and counting..._
 
 ---
 
@@ -1318,6 +1318,7 @@ _1337 TILs and counting..._
 - [Occupy A Local Port With Netcat](unix/occupy-a-local-port-with-netcat.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
 - [Open The Current Command In An Editor](unix/open-the-current-command-in-an-editor.md)
+- [Output The Last N Bytes Of A Large File](unix/output-the-last-n-bytes-of-a-large-file.md)
 - [Partial String Matching In Bash Scripts](unix/partial-string-matching-in-bash-scripts.md)
 - [PID Of The Current Shell](unix/pid-of-the-current-shell.md)
 - [Print A Range Of Lines For A File With Bat](unix/print-a-range-of-lines-for-a-file-with-bat.md)
