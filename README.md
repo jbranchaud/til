@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1341 TILs and counting..._
+_1342 TILs and counting..._
 
 ---
 
@@ -1124,6 +1124,7 @@ _1341 TILs and counting..._
 - [Safe Navigation Operator](ruby/safe-navigation-operator.md)
 - [Scripting With RVM](ruby/scripting-with-rvm.md)
 - [Scroll To Top Of Page With Capybara](ruby/scroll-to-top-of-page-with-capybara.md)
+- [Search For Gem Versions Available To Install](ruby/search-for-gem-versions-available-to-install.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Shift The Month On A Date Object](ruby/shift-the-month-on-a-date-object.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
