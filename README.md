@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1345 TILs and counting..._
+_1346 TILs and counting..._
 
 ---
 
@@ -283,6 +283,7 @@ _1345 TILs and counting..._
 - [Include Some Stats In Your Git Log](git/include-some-stats-in-your-git-log.md)
 - [Intent To Add](git/intent-to-add.md)
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
+- [Keep File Locally With `git rm`](git/keep-file-locally-with-git-rm.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
 - [List Branches That Contain A Commit](git/list-branches-that-contain-a-commit.md)
