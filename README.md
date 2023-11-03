@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1346 TILs and counting..._
+_1347 TILs and counting..._
 
 ---
 
@@ -402,6 +402,7 @@ _1346 TILs and counting..._
 ### JavaScript
 
 - [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
+- [Add Item To An Array Of References In Sanity](javascript/add-item-to-an-array-of-references-in-sanity.md)
 - [Basic Date Formatting Without A Library](javascript/basic-date-formatting-without-a-library.md)
 - [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
 - [Check Classes On A DOM Element](javascript/check-classes-on-a-dom-element.md)
