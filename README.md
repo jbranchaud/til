@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1347 TILs and counting..._
+_1348 TILs and counting..._
 
 ---
 
@@ -760,6 +760,7 @@ _1347 TILs and counting..._
 
 - [Apply Separate Formatting With A Blank Line](prisma/apply-separate-formatting-with-a-blank-line.md)
 - [Batch Insert Records With createMany](prisma/batch-insert-records-with-create-many.md)
+- [Configure Client To Log SQL Queries](prisma/configure-client-to-log-sql-queries.md)
 - [Execute A Raw SQL Query](prisma/execute-a-raw-sql-query.md)
 - [Grab A Limited Set Of Records](prisma/grab-a-limited-set-of-records.md)
 - [Open Connections To Multiple Databases](prisma/open-connections-to-multiple-databases.md)
