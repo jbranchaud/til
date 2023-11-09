@@ -27,4 +27,7 @@ export const prisma =
   })
 ```
 
+If we look in our app server logs when a code path that contains a Prisma query
+executes, we'll see a line for each SQL statement.
+
 [source](https://github.com/prisma/prisma/discussions/3967)
