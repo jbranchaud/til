@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1349 TILs and counting..._
+_1350 TILs and counting..._
 
 ---
 
@@ -499,6 +499,7 @@ _1349 TILs and counting..._
 - [Count Each Collection In A JSON Object](jq/count-each-collection-in-a-json-object.md)
 - [Count The Number Of Things In A JSON File](jq/count-the-number-of-things-in-a-json-file.md)
 - [Extract A List Of Values](jq/extract-a-list-of-values.md)
+- [Filter Out Results Based On List Of Values](jq/filter-out-results-based-on-list-of-values.md)
 - [Find All Objects In An Array Where Key Is Set](jq/find-all-objects-in-an-array-where-key-is-set.md)
 - [Find All Objects With A Matching Key Value Pair](jq/find-all-objects-with-a-matching-key-value-pair.md)
 - [Get The First Item For Every Top-Level Key](jq/get-the-first-item-for-every-top-level-key.md)
