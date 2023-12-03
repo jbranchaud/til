@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1353 TILs and counting..._
+_1354 TILs and counting..._
 
 ---
 
@@ -60,6 +60,7 @@ _1353 TILs and counting..._
 * [Ruby](#ruby)
 * [sed](#sed)
 * [Shell](#shell)
+* [SQLite](#sqlite)
 * [Streaming](#streaming)
 * [Tailwind CSS](#tailwind-css)
 * [tmux](#tmux)
@@ -1180,6 +1181,10 @@ _1353 TILs and counting..._
 
 - [Check If The First Argument Is Given](shell/check-if-the-first-argument-is-given.md)
 - [Format And Print The Current Date And Time](shell/format-and-print-the-current-date-and-time.md)
+
+### SQLite
+
+- [Display Results In Readable Column Format](sqlite/display-results-in-readable-column-format.md)
 
 ### Streaming
 
