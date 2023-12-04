@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1354 TILs and counting..._
+_1355 TILs and counting..._
 
 ---
 
@@ -43,6 +43,7 @@ _1354 TILs and counting..._
 * [MySQL](#mysql)
 * [Neovim](#neovim)
 * [Netlify](#netlify)
+* [NextAuth.js](#next-auth)
 * [Next.js](#nextjs)
 * [Phoenix](#phoenix)
 * [Planetscale](#planetscale)
@@ -579,6 +580,10 @@ _1354 TILs and counting..._
 ### Netlify
 
 - [Override The Default Yarn Version](netlify/override-the-default-yarn-version.md)
+
+### NextAuth.js
+
+- [Adjust The Shape Of The User Type](next-auth/adjust-the-shape-of-the-user-type.md)
 
 ### Next.js
 
