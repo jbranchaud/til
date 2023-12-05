@@ -1,0 +1,46 @@
+# Add Progress Reporting To Long-Running Script
+
+A script that is going to iterate over and process a ton of data can take a
+long time to run. It can be hard to predict how long it will take to run. So,
+it is nice to have some indication of it's progress as it goes.
+
+Here is a small snippet that I add to the main loop so that I have some
+feedback while the script runs:
+
+```ruby
+running_count = 0
+
+tons_of_data.each do |item|
+  running_count += 1
+  if running_count % 1000 == 0
+    print '@'
+  elsif running_count % 100 == 0
+    print '*'
+  else
+    print '.'
+  end
+
+  # process this `item` ...
+end
+```
+
+Then I get some output that looks like this over time as the script runs.
+
+```
+...............................................................................
+....................*..........................................................
+.........................................*.....................................
+..............................................................*................
+...............................................................................
+....*..........................................................................
+.........................*.....................................................
+..............................................*................................
+...................................................................*...........
+...............................................................................
+.........*.....................................................................
+..............................*................................................
+...................................................@..................
+```
+
+I can get a sense of how quickly it is processing each record and roughly count
+how far along it is.

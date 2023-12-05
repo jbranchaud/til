@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1355 TILs and counting..._
+_1356 TILs and counting..._
 
 ---
 
@@ -1045,6 +1045,7 @@ _1355 TILs and counting..._
 - [A Shorthand For Rerunning Failed Tests With RSpec](ruby/a-shorthand-for-rerunning-failed-tests-with-rspec.md)
 - [Add Comments To Regex With Free-Spacing](ruby/add-comments-to-regex-with-free-spacing.md)
 - [Add Linux As A Bundler Platform](ruby/add-linux-as-a-bundler-platform.md)
+- [Add Progress Reporting To Long-Running Script](ruby/add-progress-reporting-to-long-running-script.md)
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assert About An Object's Attributes With RSpec](ruby/assert-about-an-objects-attributes-with-rspec.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
