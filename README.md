@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1356 TILs and counting..._
+_1357 TILs and counting..._
 
 ---
 
@@ -1529,6 +1529,7 @@ _1356 TILs and counting..._
 - [Split The Current Window](vim/split-the-current-window.md)
 - [Splitting For New Files](vim/splitting-for-new-files.md)
 - [Source Original vimrc When Using Neovim](vim/source-original-vimrc-when-using-neovim.md)
+- [Sum A Bunch Of Numbers In The Current File](vim/sum-a-bunch-of-numbers-in-the-current-file.md)
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Swapping Split Windows](vim/swapping-split-windows.md)
 - [Swap The Position Of Two Split Windows](vim/swap-the-position-of-two-split-windows.md)
