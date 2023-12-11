@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1357 TILs and counting..._
+_1358 TILs and counting..._
 
 ---
 
@@ -566,6 +566,7 @@ _1357 TILs and counting..._
 - [Dump A Database To A File](mysql/dump-a-database-to-a-file.md)
 - [Ignore Duplicates When Inserting Records](mysql/ignore-duplicates-when-inserting-records.md)
 - [List Databases And Tables](mysql/list-databases-and-tables.md)
+- [Select Rows After An Offset](mysql/select-rows-after-an-offset.md)
 - [Show Create Statement For A Table](mysql/show-create-statement-for-a-table.md)
 - [Show Tables That Match A Pattern](mysql/show-tables-that-match-a-pattern.md)
 - [Show Indexes For A Table](mysql/show-indexes-for-a-table.md)
