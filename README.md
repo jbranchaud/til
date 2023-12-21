@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1358 TILs and counting..._
+_1359 TILs and counting..._
 
 ---
 
@@ -592,6 +592,7 @@ _1358 TILs and counting..._
 - [Define URL Redirects In The Next Config](nextjs/define-url-redirects-in-the-next-config.md)
 - [Make Environment Variable Publicly Available](nextjs/make-environment-variable-publicly-available.md)
 - [Push A Route With A URL Object](nextjs/push-a-route-with-a-url-object.md)
+- [Redirect An Unauthorized User](nextjs/redirect-an-unauthorized-user.md)
 - [Remove A Query Param From The URL](nextjs/remove-a-query-param-from-the-url.md)
 - [Ship Public Assets With A Next.js App](nextjs/ship-public-assets-with-a-nextjs-app.md)
 
