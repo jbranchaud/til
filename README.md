@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1361 TILs and counting..._
+_1362 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _1361 TILs and counting..._
 * [Heroku](#heroku)
 * [HTML](#html)
 * [HTTP](#http)
+* [Inngest](#inngest)
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [jq](#jq)
@@ -388,6 +389,10 @@ _1361 TILs and counting..._
 ### HTTP
 
 - [What Counts As Cross-Origin With CORS?](http/what-counts-as-cross-origin-with-cors.md)
+
+### Inngest
+
+- [Exit Function Early Without Retries](inngest/exit-function-early-without-retries.md)
 
 ### Internet
 
