@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1362 TILs and counting..._
+_1363 TILs and counting..._
 
 ---
 
@@ -475,6 +475,7 @@ _1362 TILs and counting..._
 - [Run Multiple Node Scripts Concurrently](javascript/run-multiple-node-scripts-concurrently.md)
 - [Running ES6 Specs With Mocha](javascript/running-es6-specs-with-mocha.md)
 - [Scoping Variables With A Block Statement](javascript/scoping-variables-with-a-block-statement.md)
+- [Short Circuit Concurrently When Process Fails](javascript/short-circuit-concurrently-when-process-fails.md)
 - [Sleep For A Bit In Async Code](javascript/sleep-for-a-bit-in-async-code.md)
 - [Sorting Arrays Of Objects With Lodash](javascript/sorting-arrays-of-objects-with-lodash.md)
 - [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
