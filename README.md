@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1363 TILs and counting..._
+_1364 TILs and counting..._
 
 ---
 
@@ -512,6 +512,7 @@ _1363 TILs and counting..._
 - [Find All Objects In An Array Where Key Is Set](jq/find-all-objects-in-an-array-where-key-is-set.md)
 - [Find All Objects With A Matching Key Value Pair](jq/find-all-objects-with-a-matching-key-value-pair.md)
 - [Get The First Item For Every Top-Level Key](jq/get-the-first-item-for-every-top-level-key.md)
+- [Get The Last Item From An Array](jq/get-the-last-item-from-an-array.md)
 - [Reduce Object To Just Entries Of A Specific Type](jq/reduce-object-to-just-entries-of-a-specific-type.md)
 - [Turn A List From A Command Into JSON](jq/turn-a-list-from-a-command-into-json.md)
 - [Zip Two JSON Files Together Based On Shared ID](jq/zip-two-json-files-together-based-on-shared-id.md)
