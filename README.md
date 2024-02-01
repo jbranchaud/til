@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1365 TILs and counting..._
+_1366 TILs and counting..._
 
 ---
 
@@ -1568,6 +1568,7 @@ _1365 TILs and counting..._
 - [Advance Through Search Results](vscode/advance-through-search-results.md)
 - [Enable Breadcrumbs For Version 1.26 Release](vscode/enable-breadcrumbs-for-version-126-release.md)
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
+- [Step Through Project-Wide Search Results](vscode/step-through-project-wide-search-results.md)
 - [Toggle Between Terminals](vscode/toggle-between-terminals.md)
 
 ### Webpack
