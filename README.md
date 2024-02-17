@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1367 TILs and counting..._
+_1368 TILs and counting..._
 
 ---
 
@@ -1372,6 +1372,7 @@ _1367 TILs and counting..._
 - [Safely Edit The Sudoers File With Vim](unix/safely-edit-the-sudoers-file-with-vim.md)
 - [Saying Yes](unix/saying-yes.md)
 - [Search Files Specific To A Language](unix/search-files-specific-to-a-language.md)
+- [Search For Homebrew Packages To Install](unix/search-for-homebrew-packages-to-install.md)
 - [Search History](unix/search-history.md)
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
