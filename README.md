@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1370 TILs and counting..._
+_1371 TILs and counting..._
 
 ---
 
@@ -271,6 +271,7 @@ _1370 TILs and counting..._
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Exclude A File From A Diff Output](git/exclude-a-file-from-a-diff-output.md)
 - [Excluding Files Locally](git/excluding-files-locally.md)
+- [Extend Git With Custom Commands](git/extend-git-with-custom-commands.md)
 - [Find And Remove Files That Match A Name](git/find-and-remove-files-that-match-a-name.md)
 - [Find The Date That A File Was Added To The Repo](git/find-the-date-that-a-file-was-added-to-the-repo.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
