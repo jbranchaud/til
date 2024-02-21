@@ -27,3 +27,5 @@ Run an `npm install` again and the funding message will no longer show.
 This edits the `npmrc` located in the `/etc` directory of wherever your current
 version of Node is installed. Running `npm config edit --global` will open you
 up to this file as well.
+
+h/t Dillon Hafer
