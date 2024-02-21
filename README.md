@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1372 TILs and counting..._
+_1373 TILs and counting..._
 
 ---
 
@@ -497,6 +497,7 @@ _1372 TILs and counting..._
 - [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 - [Turn An HTMLCollection Into An Array](javascript/turn-an-html-collection-into-an-array.md)
 - [Turn Off Console Error Messages In A Test](javascript/turn-off-console-error-messages-in-a-test.md)
+- [Turn Off npm Funding Message](javascript/turn-off-npm-funding-message.md)
 - [Waiting On Multiple Promises](javascript/waiting-on-multiple-promises.md)
 - [Who Am I: NPM Edition](javascript/who-am-i-npm-edition.md)
 - [Write A JavaScript Object To A JSON File](javascript/write-a-javascript-object-to-a-json-file.md)
