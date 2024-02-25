@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1378 TILs and counting..._
+_1379 TILs and counting..._
 
 ---
 
@@ -110,6 +110,7 @@ _1378 TILs and counting..._
 - [Simulating Various Connection Speeds](chrome/simulating-various-connection-speeds.md)
 - [Toggle Device Mode](chrome/toggle-device-mode.md)
 - [Toggle Open The Console Drawer](chrome/toggle-open-the-console-drawer.md)
+- [Trigger Commands From The Devtools Command Palette](chrome/trigger-commands-from-the-devtools-command-palette.md)
 - [View Network Traffic For New Tabs](chrome/view-network-traffic-for-new-tabs.md)
 
 ### Clojure
