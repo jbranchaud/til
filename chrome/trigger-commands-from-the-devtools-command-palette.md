@@ -19,4 +19,7 @@ When I'm ready to turn it back on. I can hit `cmd+shift+p` again and search for
 `enab`. The `Enable JavaScript` option appears and I can select it to turn it
 back on.
 
+Note: you'll need to have the devtools panel open and your focus will need to
+be on it for the keybinding to be picked up.
+
 [source](https://developer.chrome.com/docs/devtools/command-menu)
