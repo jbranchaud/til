@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1380 TILs and counting..._
+_1381 TILs and counting..._
 
 ---
 
@@ -1295,6 +1295,7 @@ _1380 TILs and counting..._
 - [Cat Files With Color Using Bat](unix/cat-files-with-color-using-bat.md)
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
 - [Change To That New Directory](unix/change-to-that-new-directory.md)
+- [Check Connected Stripe Account Name](unix/check-connected-stripe-account-name.md)
 - [Check If A Port Is In Use](unix/check-if-a-port-is-in-use.md)
 - [Check If Command Is Executable Before Using](unix/check-if-command-is-executable-before-using.md)
 - [Check SSH Key Fingerprints Of Known Hosts](unix/check-ssh-key-fingerprints-of-known-hosts.md)
