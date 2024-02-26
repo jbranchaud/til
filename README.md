@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1379 TILs and counting..._
+_1380 TILs and counting..._
 
 ---
 
@@ -465,6 +465,7 @@ _1379 TILs and counting..._
 - [ISO-8601 Formatted Dates Are Interpreted As UTC](javascript/iso-8601-formatted-dates-are-interpreted-as-utc.md)
 - [Link A JavaScript Package Locally](javascript/link-a-javascript-package-locally.md)
 - [List Top-Level NPM Dependencies](javascript/list-top-level-npm-dependencies.md)
+- [Load And Use Env Var In Node Script](javascript/load-and-use-env-var-in-node-script.md)
 - [Make The Browser Editable With Design Mode](javascript/make-the-browser-editable-with-design-mode.md)
 - [Matching A Computed Property In Function Args](javascript/matching-a-computed-property-in-function-args.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
