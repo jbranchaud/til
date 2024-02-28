@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1382 TILs and counting..._
+_1383 TILs and counting..._
 
 ---
 
@@ -474,6 +474,7 @@ _1382 TILs and counting..._
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
 - [Obtain Undefined Value With The Void Operator](javascript/obtain-undefined-value-with-the-void-operator.md)
+- [Open Global npm Config File](javascript/open-global-npm-config-file.md)
 - [Parse A Date From A Timestamp](javascript/parse-a-date-from-a-timestamp.md)
 - [Pre And Post Hooks For Yarn Scripts](javascript/pre-and-post-hooks-for-yarn-scripts.md)
 - [Purge Null And Undefined Values From Object](javascript/purge-null-and-undefined-values-from-object.md)
