@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1383 TILs and counting..._
+_1384 TILs and counting..._
 
 ---
 
@@ -1351,6 +1351,7 @@ _1383 TILs and counting..._
 - [Ignore A Directory During ripgrep Search](unix/ignore-a-directory-during-ripgrep-search.md)
 - [Ignore The Alias When Running A Command](unix/ignore-the-alias-when-running-a-command.md)
 - [Interactively Browse Available Node Versions](unix/interactively-browse-availabile-node-versions.md)
+- [Interactively Switch asdf Package Versions](unix/interactively-switch-asdf-package-versions.md)
 - [Jump To The Ends Of Your Shell History](unix/jump-to-the-ends-of-your-shell-history.md)
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
