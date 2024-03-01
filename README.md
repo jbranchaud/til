@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1384 TILs and counting..._
+_1385 TILs and counting..._
 
 ---
 
@@ -1410,6 +1410,7 @@ _1384 TILs and counting..._
 - [Use fzf To Change Directories](unix/use-fzf-to-change-directories.md)
 - [Use Regex Pattern Matching With Grep](unix/use-regex-pattern-matching-with-grep.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
+- [View The Source For A Brew Formula](unix/view-the-source-for-a-brew-formula.md)
 - [Watch The Difference](unix/watch-the-difference.md)
 - [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
 - [Where Are The Binaries?](unix/where-are-the-binaries.md)
