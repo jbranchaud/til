@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1388 TILs and counting..._
+_1389 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _1388 TILs and counting..._
 * [Ack](#ack)
 * [Amplify](#amplify)
 * [Ansible](#ansible)
+* [Brew](#brew)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
 * [CSS](#css)
@@ -93,6 +94,10 @@ _1388 TILs and counting..._
 ### Ansible
 
 - [Loop Over A List Of Dictionaries](ansible/loop-over-a-list-of-dictionaries.md)
+
+### Brew
+
+- [Configure Brew Environment Variables](brew/configure-brew-environment-variables.md)
 
 ### Chrome
 
