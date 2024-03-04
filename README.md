@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1387 TILs and counting..._
+_1388 TILs and counting..._
 
 ---
 
@@ -1406,6 +1406,7 @@ _1387 TILs and counting..._
 - [Specify The Language For A File With Bat](unix/specify-the-language-for-a-file-with-bat.md)
 - [Sort In Numerical Order](unix/sort-in-numerical-order.md)
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
+- [Tell direnv To Load The Env File](unix/tell-direnv-to-load-the-env-file.md)
 - [Touch Access And Modify Times Individually](unix/touch-access-and-modify-times-individually.md)
 - [Undo Some Command Line Editing](unix/undo-some-command-line-editing.md)
 - [Update Package Versions Known By asdf Plugin](unix/update-package-versions-known-by-asdf-plugin.md)
