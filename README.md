@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1390 TILs and counting..._
+_1391 TILs and counting..._
 
 ---
 
@@ -528,6 +528,7 @@ _1390 TILs and counting..._
 - [Filter Out Results Based On List Of Values](jq/filter-out-results-based-on-list-of-values.md)
 - [Find All Objects In An Array Where Key Is Set](jq/find-all-objects-in-an-array-where-key-is-set.md)
 - [Find All Objects With A Matching Key Value Pair](jq/find-all-objects-with-a-matching-key-value-pair.md)
+- [Get A Slice Of The Ends Of An Array](jq/get-a-slice-of-the-ends-of-an-array.md)
 - [Get The First Item For Every Top-Level Key](jq/get-the-first-item-for-every-top-level-key.md)
 - [Get The Last Item From An Array](jq/get-the-last-item-from-an-array.md)
 - [Reduce Object To Just Entries Of A Specific Type](jq/reduce-object-to-just-entries-of-a-specific-type.md)
