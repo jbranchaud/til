@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1392 TILs and counting..._
+_1393 TILs and counting..._
 
 ---
 
@@ -488,6 +488,7 @@ _1392 TILs and counting..._
 - [Reach Into An Object For Nested Data With Get](javascript/reach-into-an-object-for-nested-data-with-get.md)
 - [Render An Array Of Elements With React 16](javascript/render-an-array-of-elements-with-react-16.md)
 - [Resolve And Pass Multiple Values From A Then](javascript/resolve-and-pass-multiple-values-from-a-then.md)
+- [Run A Bash Script From A Node Script](javascript/run-a-bash-script-from-a-node-script.md)
 - [Run Multiple Node Scripts Concurrently](javascript/run-multiple-node-scripts-concurrently.md)
 - [Running ES6 Specs With Mocha](javascript/running-es6-specs-with-mocha.md)
 - [Scoping Variables With A Block Statement](javascript/scoping-variables-with-a-block-statement.md)
