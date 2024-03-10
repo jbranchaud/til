@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1393 TILs and counting..._
+_1394 TILs and counting..._
 
 ---
 
@@ -1235,6 +1235,7 @@ _1393 TILs and counting..._
 
 ### Tailwind CSS
 
+- [Apply Tailwind Classes To Existing CSS Class](tailwind/apply-tailwind-classes-to-existing-css-class.md)
 - [Base Styles For Text Link](tailwind/base-styles-for-text-link.md)
 - [Specify Paths For Purging Unused CSS](tailwind/specify-paths-for-purging-unused-css.md)
 - [Use Tailwind Typography Prose In Dark Mode](tailwind/use-tailwind-typography-prose-in-dark-mode.md)
