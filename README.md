@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1394 TILs and counting..._
+_1395 TILs and counting..._
 
 ---
 
@@ -194,6 +194,7 @@ _1394 TILs and counting..._
 ### Docker
 
 - [Configure Different Host And Container Ports](docker/configure-different-host-and-container-ports.md)
+- [Run A Basic PostgreSQL Server In Docker](docker/run-a-basic-postgresql-server-in-docker.md)
 
 ### Elixir
 
