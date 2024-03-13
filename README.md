@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1396 TILs and counting..._
+_1397 TILs and counting..._
 
 ---
 
@@ -1187,6 +1187,7 @@ _1396 TILs and counting..._
 - [Single And Double Quoted String Notation](ruby/single-and-double-quoted-string-notation.md)
 - [Skip Specific CVEs When Auditing Your Bundle](ruby/skip-specific-cves-when-auditing-your-bundle.md)
 - [Specify Dependencies For A Rake Task](ruby/specify-dependencies-for-a-rake-task.md)
+- [Specify How Random Array#sample Is](ruby/specify-how-random-array-sample-is.md)
 - [Split A Float Into Its Integer And Decimal](ruby/split-a-float-into-its-integer-and-decimal.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
