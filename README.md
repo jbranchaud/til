@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1398 TILs and counting..._
+_1399 TILs and counting..._
 
 ---
 
@@ -621,6 +621,7 @@ _1398 TILs and counting..._
 
 - [Create Files And Directories For Dynamic Routes](nextjs/create-files-and-directories-for-dynamic-routes.md)
 - [Define URL Redirects In The Next Config](nextjs/define-url-redirects-in-the-next-config.md)
+- [Fetch Does Not Work In API Serverless Function](nextjs/fetch-does-not-work-in-api-serverless-function.md)
 - [Make Environment Variable Publicly Available](nextjs/make-environment-variable-publicly-available.md)
 - [Match Middleware On Groups Of Paths](nextjs/match-middleware-on-groups-of-paths.md)
 - [Push A Route With A URL Object](nextjs/push-a-route-with-a-url-object.md)
