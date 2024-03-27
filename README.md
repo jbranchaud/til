@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1402 TILs and counting..._
+_1403 TILs and counting..._
 
 ---
 
@@ -1377,6 +1377,7 @@ _1402 TILs and counting..._
 - [Less With Style](unix/less-with-style.md)
 - [List All The Enabled ZSH Options](unix/list-all-the-enabled-zsh-options.md)
 - [List All Users](unix/list-all-users.md)
+- [List Files In A Single Column](unix/list-files-in-a-single-column.md)
 - [List Files Ordered By Modification Date](unix/list-files-ordered-by-modification-date.md)
 - [List Names Of Files With Matches](unix/list-names-of-files-with-matches.md)
 - [List Of Sessions To A Machine](unix/list-of-sessions-to-a-machine.md)
