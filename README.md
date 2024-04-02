@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1404 TILs and counting..._
+_1405 TILs and counting..._
 
 ---
 
@@ -1089,6 +1089,7 @@ _1404 TILs and counting..._
 - [Add Progress Reporting To Long-Running Script](ruby/add-progress-reporting-to-long-running-script.md)
 - [Are They All True?](ruby/are-they-all-true.md)
 - [Assert About An Object's Attributes With RSpec](ruby/assert-about-an-objects-attributes-with-rspec.md)
+- [Audit Your Ruby Project For Any CVEs](ruby/audit-your-ruby-project-for-any-cves.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
 - [Build HTTP And HTTPS URLs](ruby/build-http-and-https-urls.md)
