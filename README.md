@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1405 TILs and counting..._
+_1406 TILs and counting..._
 
 ---
 
@@ -1427,6 +1427,7 @@ _1405 TILs and counting..._
 - [Tell direnv To Load The Env File](unix/tell-direnv-to-load-the-env-file.md)
 - [Touch Access And Modify Times Individually](unix/touch-access-and-modify-times-individually.md)
 - [Undo Some Command Line Editing](unix/undo-some-command-line-editing.md)
+- [Unrestrict Where ripgrep Searches](unix/unrestrict-where-ripgrep-searches.md)
 - [Update Package Versions Known By asdf Plugin](unix/update-package-versions-known-by-asdf-plugin.md)
 - [Use fzf To Change Directories](unix/use-fzf-to-change-directories.md)
 - [Use Regex Pattern Matching With Grep](unix/use-regex-pattern-matching-with-grep.md)
