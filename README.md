@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1407 TILs and counting..._
+_1408 TILs and counting..._
 
 ---
 
@@ -397,6 +397,7 @@ _1407 TILs and counting..._
 - [Adding Alt Text To An Image](html/adding-alt-text-to-an-image.md)
 - [Determine Which Button Submitted The Form](html/determine-which-button-submitted-the-form.md)
 - [Disable Auto-Completion For A Form Input](html/disable-auto-completion-for-a-form-input.md)
+- [Make Elements Non-Interactive With Inert](html/make-elements-non-interactive-with-inert.md)
 - [Prevent Search Engines From Indexing A Page](html/prevent-search-engines-from-indexing-a-page.md)
 - [Render Text As Superscript](html/render-text-as-superscript.md)
 - [Submit A Form With A Button Outside The Form](html/submit-a-form-with-a-button-outside-the-form.md)
