@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1409 TILs and counting..._
+_1410 TILs and counting..._
 
 ---
 
@@ -879,6 +879,7 @@ _1409 TILs and counting..._
 - [Get ActiveRecord Attribute Directly From Database](rails/get-active-record-attribute-directly-from-database.md)
 - [Get An Array Of Values From The Database](rails/get-an-array-of-values-from-the-database.md)
 - [Get An Empty ActiveRecord Relation](rails/get-an-empty-activerecord-relation.md)
+- [Get Formatted UTC Offset Value](rails/get-formatted-utc-offset-value.md)
 - [Get Help With A Rails App Update](rails/get-help-with-a-rails-app-update.md)
 - [Get The Column Names For A Model](rails/get-the-column-names-for-a-model.md)
 - [Get The Current Time](rails/get-the-current-time.md)
