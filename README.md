@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1410 TILs and counting..._
+_1411 TILs and counting..._
 
 ---
 
@@ -437,6 +437,7 @@ _1410 TILs and counting..._
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
 - [Conditionally Include Pairs In An Object](javascript/conditionally-include-pairs-in-an-object.md)
 - [Configure Jest To Run A Test Setup File](javascript/configure-jest-to-run-a-test-setup-file.md)
+- [Convert Seconds To Date Object](javascript/convert-seconds-to-date-object.md)
 - [Create A Cancelable Promise With PCancelable](javascript/create-a-cancelable-promise-with-pcancelable.md)
 - [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
 - [Create An Object With No Properties](javascript/create-an-object-with-no-properties.md)
