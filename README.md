@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1411 TILs and counting..._
+_1412 TILs and counting..._
 
 ---
 
@@ -1116,6 +1116,7 @@ _1411 TILs and counting..._
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
 - [Define A Method On A Struct](ruby/define-a-method-on-a-struct.md)
+- [Define Multiline Strings With Heredocs](ruby/define-multiline-strings-with-heredocs.md)
 - [Destructure The First Item From An Array](ruby/destructure-the-first-item-from-an-array.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
