@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1412 TILs and counting..._
+_1413 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _1412 TILs and counting..._
 * [jq](#jq)
 * [Kitty](#kitty)
 * [Linux](#linux)
+* [LLM](#llm)
 * [Mac](#mac)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
@@ -553,6 +554,10 @@ _1412 TILs and counting..._
 - [Show Current System Time And Settings](linux/show-current-system-time-and-settings.md)
 - [Show Used And Available System Memory](linux/show-used-and-available-system-memory.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
+
+### LLM
+
+- [Send cURL To Claude Text Completion API](llm/send-curl-to-claude-text-completion-api.md)
 
 ### Mac
 
