@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1415 TILs and counting..._
+_1416 TILs and counting..._
 
 ---
 
@@ -558,6 +558,7 @@ _1415 TILs and counting..._
 ### LLM
 
 - [Send cURL To Claude Text Completion API](llm/send-curl-to-claude-text-completion-api.md)
+- [Use The llm CLI With Claude Models](llm/use-the-llm-cli-with-claude-models.md)
 
 ### Mac
 
