@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1418 TILs and counting..._
+_1419 TILs and counting..._
 
 ---
 
@@ -905,6 +905,7 @@ _1418 TILs and counting..._
 - [Load A File When Starting Rails Console](rails/load-a-file-when-starting-rails-console.md)
 - [Load Records In Batches With find_each](rails/load-records-in-batches-with-find-each.md)
 - [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
+- [Look Up Time Zone Info For Identifier](rails/look-up-time-zone-info-for-identifier.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
 - [Make A String Attribute Easy To Inquire About](rails/make-a-string-attribute-easy-to-inquire-about.md)
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
