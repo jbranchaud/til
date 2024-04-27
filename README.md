@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1420 TILs and counting..._
+_1421 TILs and counting..._
 
 ---
 
@@ -410,6 +410,7 @@ _1420 TILs and counting..._
 
 ### Inngest
 
+- [Ensure Lookup Can Be Retried](inngest/ensure-lookup-can-be-retried.md)
 - [Exit Function Early Without Retries](inngest/exit-function-early-without-retries.md)
 
 ### Internet
