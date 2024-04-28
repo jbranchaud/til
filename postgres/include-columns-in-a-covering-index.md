@@ -20,7 +20,7 @@ keyword:
 ```sql
 create index user_id_on_events_idx
   on (user_id)
-  includes (identifier, type);
+  include (identifier, type);
 ```
 
 An index on its own can already cause a significant speed up to the queries it
