@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1422 TILs and counting..._
+_1423 TILs and counting..._
 
 ---
 
@@ -1629,6 +1629,7 @@ _1422 TILs and counting..._
 - [Add The VSCode CLI To Your Path](vscode/add-the-vscode-cli-to-your-path.md)
 - [Advance Through Search Results](vscode/advance-through-search-results.md)
 - [Enable Breadcrumbs For Version 1.26 Release](vscode/enable-breadcrumbs-for-version-126-release.md)
+- [Find The Location Of User Settings JSON File](vscode/find-the-location-of-user-settings-json-file.md)
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
 - [Pop Open The Quick Fix Window](vscode/pop-open-the-quick-fix-window.md)
 - [Step Through Project-Wide Search Results](vscode/step-through-project-wide-search-results.md)
