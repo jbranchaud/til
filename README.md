@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1426 TILs and counting..._
+_1427 TILs and counting..._
 
 ---
 
@@ -1376,6 +1376,7 @@ _1426 TILs and counting..._
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
 - [Generate A SAML Key And Certificate Pair](unix/generate-a-saml-key-and-certificate-pair.md)
+- [Generate Base64 Encoding Without Newlines](unix/generate-base64-encoding-without-newlines.md)
 - [Generate Random 20-Character Hex String](unix/generate-random-20-character-hex-string.md)
 - [Get A List Of Locales On Your System](unix/get-a-list-of-locales-on-your-system.md)
 - [Get Matching Filenames As Output From Grep](unix/get-matching-filenames-as-output-from-grep.md)
