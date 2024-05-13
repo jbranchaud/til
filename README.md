@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1427 TILs and counting..._
+_1428 TILs and counting..._
 
 ---
 
@@ -462,6 +462,7 @@ _1427 TILs and counting..._
 - [Find Where Yarn Is Installing Binaries](javascript/find-where-yarn-is-installing-binaries.md)
 - [for...in Iterates Over Object Properties](javascript/for-in-iterates-over-object-properties.md)
 - [Format A Decimal To A Fixed Number Of Digits](javascript/format-a-decimal-to-a-fixed-number-of-digits.md)
+- [Format Time Zone Identifier](javascript/format-time-zone-identifier.md)
 - [Formatting Values With Units For Display](javascript/formatting-values-with-units-for-display.md)
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
 - [Generate A V4 UUID In The Browser](javascript/generate-a-v4-uuid-in-the-browser.md)
