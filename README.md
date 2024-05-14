@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1428 TILs and counting..._
+_1429 TILs and counting..._
 
 ---
 
@@ -611,6 +611,7 @@ _1428 TILs and counting..._
 - [List Databases And Tables](mysql/list-databases-and-tables.md)
 - [Run Statements In A Transaction](mysql/run-statements-in-a-transaction.md)
 - [Select Rows After An Offset](mysql/select-rows-after-an-offset.md)
+- [Set Value On Null JSON Column](mysql/set-value-on-null-json-column.md)
 - [Show Create Statement For A Table](mysql/show-create-statement-for-a-table.md)
 - [Show Tables That Match A Pattern](mysql/show-tables-that-match-a-pattern.md)
 - [Show Indexes For A Table](mysql/show-indexes-for-a-table.md)
