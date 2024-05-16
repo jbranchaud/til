@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1430 TILs and counting..._
+_1431 TILs and counting..._
 
 ---
 
@@ -734,6 +734,7 @@ _1430 TILs and counting..._
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Generating UUIDs With pgcrypto](postgres/generating-uuids-with-pgcrypto.md)
 - [Get A Quick Approximate Count Of A Table](postgres/get-a-quick-approximate-count-of-a-table.md)
+- [Get Row Count For Most Recent Query](postgres/get-row-count-for-most-recent-query.md)
 - [Get The Size On Disk of An Index](postgres/get-the-size-on-disk-of-an-index.md)
 - [Get The Size Of A Database](postgres/get-the-size-of-a-database.md)
 - [Get The Size Of A Table](postgres/get-the-size-of-a-table.md)
