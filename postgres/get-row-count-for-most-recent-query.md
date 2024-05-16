@@ -61,3 +61,5 @@ Time: 2.804 ms
 > \echo :ROW_COUNT
 3
 ```
+
+[source](https://postgresql.verite.pro/blog/2024/05/13/advanced-psql-coproc.html)
