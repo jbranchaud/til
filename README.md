@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1433 TILs and counting..._
+_1434 TILs and counting..._
 
 ---
 
@@ -607,6 +607,7 @@ _1433 TILs and counting..._
 - [Display Output In A Vertical Format](mysql/display-output-in-a-vertical-format.md)
 - [Doing Date Math](mysql/doing-date-math.md)
 - [Dump A Database To A File](mysql/dump-a-database-to-a-file.md)
+- [Echo A Message From A SQL File](mysql/echo-a-message-from-a-sql-file.md)
 - [Ignore Duplicates When Inserting Records](mysql/ignore-duplicates-when-inserting-records.md)
 - [List Databases And Tables](mysql/list-databases-and-tables.md)
 - [Run Statements In A Transaction](mysql/run-statements-in-a-transaction.md)
