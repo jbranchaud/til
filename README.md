@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1434 TILs and counting..._
+_1435 TILs and counting..._
 
 ---
 
@@ -634,6 +634,7 @@ _1434 TILs and counting..._
 
 ### Next.js
 
+- [Avoid Conflicting Files](nextjs/avoid-conflicting-files.md)
 - [Create Files And Directories For Dynamic Routes](nextjs/create-files-and-directories-for-dynamic-routes.md)
 - [Define URL Redirects In The Next Config](nextjs/define-url-redirects-in-the-next-config.md)
 - [Fetch Does Not Work In API Serverless Function](nextjs/fetch-does-not-work-in-api-serverless-function.md)
