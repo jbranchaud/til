@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1437 TILs and counting..._
+_1438 TILs and counting..._
 
 ---
 
@@ -1101,6 +1101,7 @@ _1437 TILs and counting..._
 
 - [Avoid Accidentally Disabling Pry](rspec/avoid-accidentally-disabling-pry.md)
 - [Check Specific Arguments To Received Method](rspec/check-specific-arguments-to-received-method.md)
+- [Configure Tests To Run In Random Order](rspec/configure-tests-to-run-in-random-order.md)
 - [Find Minimal Set Of Tests Causing A Flicker](rspec/find-minimal-set-of-tests-causing-a-flicker.md)
 - [Format Test Results As A JSON File](rspec/format-test-results-as-a-json-file.md)
 - [Run Tests With Documentation Formatting](rspec/run-tests-with-documentation-formatting.md)
