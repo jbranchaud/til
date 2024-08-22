@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1436 TILs and counting..._
+_1437 TILs and counting..._
 
 ---
 
@@ -1180,6 +1180,7 @@ _1436 TILs and counting..._
 - [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
 - [Mock Method Chain Calls With RSpec](ruby/mock-method-chain-calls-with-rspec.md)
 - [Mocking Requests With Partial URIs Using Regex](ruby/mocking-requests-with-partial-uris-using-regex.md)
+- [Multi-Line Comments](ruby/multi-line-comments.md)
 - [Named Regex Captures Are Assigned To Variables](ruby/named-regex-captures-are-assigned-to-variables.md)
 - [Navigate Back In The Browser With Capybara](ruby/navigate-back-in-the-browser-with-capybara.md)
 - [Next And Previous Floats](ruby/next-and-previous-floats.md)
