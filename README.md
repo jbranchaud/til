@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1441 TILs and counting..._
+_1442 TILs and counting..._
 
 ---
 
@@ -897,6 +897,7 @@ _1441 TILs and counting..._
 - [Find Or Create A Record With FactoryBot](rails/find-or-create-a-record-with-factory-bot.md)
 - [Find Records With Multiple Associated Records](rails/find-records-with-multiple-associated-records.md)
 - [Force All Users To Sign Out](rails/force-all-users-to-sign-out.md)
+- [Generate A Model](rails/generate-a-model.md)
 - [Generate A Rails App From The Main Branch](rails/generate-a-rails-app-from-the-main-branch.md)
 - [Generating And Executing SQL](rails/generating-and-executing-sql.md)
 - [Get A Quick Approximate Count Of A Large Table](rails/get-a-quick-approximate-count-of-a-large-table.md)
