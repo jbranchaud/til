@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1443 TILs and counting..._
+_1444 TILs and counting..._
 
 ---
 
@@ -1224,6 +1224,7 @@ _1443 TILs and counting..._
 - [Silence The Output Of A Ruby Statement In Pry](ruby/silence-the-output-of-a-ruby-statement-in-pry.md)
 - [Single And Double Quoted String Notation](ruby/single-and-double-quoted-string-notation.md)
 - [Skip Specific CVEs When Auditing Your Bundle](ruby/skip-specific-cves-when-auditing-your-bundle.md)
+- [Skip The Front Of An Array With Drop](ruby/skip-the-front-of-an-array-with-drop.md)
 - [Specify Dependencies For A Rake Task](ruby/specify-dependencies-for-a-rake-task.md)
 - [Specify How Random Array#sample Is](ruby/specify-how-random-array-sample-is.md)
 - [Split A Float Into Its Integer And Decimal](ruby/split-a-float-into-its-integer-and-decimal.md)
