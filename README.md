@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1444 TILs and counting..._
+_1445 TILs and counting..._
 
 ---
 
@@ -390,6 +390,7 @@ _1444 TILs and counting..._
 
 ### Heroku
 
+- [Connect To A Database By Color](heroku/connect-to-a-database-by-color.md)
 - [Deploy A Review App To A Different Stack](heroku/deploy-a-review-app-to-a-different-stack.md)
 - [Diagnose Problems In A Heroku Postgres Database](heroku/diagnose-problems-in-a-heroku-postgres-database.md)
 - [Open Dashboard For Specific Add-On](heroku/open-dashboard-for-specific-add-on.md)
