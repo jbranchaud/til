@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1445 TILs and counting..._
+_1446 TILs and counting..._
 
 ---
 
@@ -376,6 +376,7 @@ _1445 TILs and counting..._
 
 - [Access Go Docs Offline](go/access-go-docs-offline.md)
 - [Build For A Specific OS And Architecture](go/build-for-a-specific-os-and-architecture.md)
+- [Find Executables Installed By Go](go/find-executables-installed-by-go.md)
 - [Not So Random](go/not-so-random.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
