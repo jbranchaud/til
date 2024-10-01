@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1447 TILs and counting..._
+_1448 TILs and counting..._
 
 ---
 
@@ -986,6 +986,7 @@ _1447 TILs and counting..._
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Upgrading Your Manifest For Sprocket's 4](rails/upgrading-your-manifest-for-sprockets-4.md)
 - [Use IRB And Ruby Flags With Rails Console](rails/use-irb-and-ruby-flags-with-rails-console.md)
+- [Validate Column Data With Check Constraints](rails/validate-column-data-with-check-constraints.md)
 - [Verify And Read A Signed Cookie Value](rails/verify-and-read-a-signed-cookie-value.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
 - [Why Redirect And Return In Controllers](rails/why-redirect-and-return-in-controllers.md)
