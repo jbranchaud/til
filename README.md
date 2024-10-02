@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1448 TILs and counting..._
+_1449 TILs and counting..._
 
 ---
 
@@ -429,6 +429,10 @@ _1448 TILs and counting..._
 - [Get Random Images From Unsplash](internet/get-random-images-from-unsplash.md)
 - [Search Tweets By Author](internet/search-tweets-by-author.md)
 - [Show All Pivotal Stories With Blockers](internet/show-all-pivotal-stories-with-blockers.md)
+
+### Java
+
+- [Install Java On Mac With Brew](java/install-java-on-mac-with-brew.md)
 
 ### JavaScript
 
