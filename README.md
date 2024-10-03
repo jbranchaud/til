@@ -37,6 +37,7 @@ _1449 TILs and counting..._
 * [HTTP](#http)
 * [Inngest](#inngest)
 * [Internet](#internet)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [jq](#jq)
 * [Kitty](#kitty)
