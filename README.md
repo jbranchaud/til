@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1451 TILs and counting..._
+_1452 TILs and counting..._
 
 ---
 
@@ -1387,6 +1387,7 @@ _1451 TILs and counting..._
 - [Display The Contents Of A Directory As A Tree](unix/display-the-contents-of-a-directory-as-a-tree.md)
 - [Do A Dry Run Of An rsync](unix/do-a-dry-run-of-an-rsync.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
+- [Download A File With Curl](unix/download-a-file-with-curl.md)
 - [Enable Multi-Select Of Results With fzf](unix/enable-multi-select-of-results-with-fzf.md)
 - [Exclude A Command From The ZSH History File](unix/exclude-a-command-from-the-zsh-history-file.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
