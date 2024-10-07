@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1452 TILs and counting..._
+_1453 TILs and counting..._
 
 ---
 
@@ -1396,6 +1396,7 @@ _1452 TILs and counting..._
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find All Files Matching A Name With fd](unix/find-all-files-matching-a-name-with-fd.md)
 - [Find All Files With A Specific Extension With fd](unix/find-all-files-with-a-specific-extension-with-fd.md)
+- [Find Any Dotfiles That Modify Path Env Var](unix/find-any-dotfiles-that-modify-path-env-var.md)
 - [Find A File Installed By Brew](unix/find-a-file-installed-by-brew.md)
 - [Find Duplicate Lines In A File](unix/find-duplicate-lines-in-a-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
