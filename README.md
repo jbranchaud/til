@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1454 TILs and counting..._
+_1455 TILs and counting..._
 
 ---
 
@@ -1730,6 +1730,7 @@ _1454 TILs and counting..._
 ### Zsh
 
 - [Add To The Path Via Path Array](zsh/add-to-the-path-via-path-array.md)
+- [Link A Scalar To An Array](zsh/link-a-scalar-to-an-array.md)
 
 ## Usage
 
