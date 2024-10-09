@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1457 TILs and counting..._
+_1458 TILs and counting..._
 
 ---
 
@@ -965,6 +965,7 @@ _1457 TILs and counting..._
 - [Rescue From With A Separate Method](rails/rescue-from-with-a-separate-method.md)
 - [Respond With JSON Regardless of Content Type](rails/respond-with-json-regardless-of-content-type.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
+- [Rollback A Couple Migrations](rails/rollback-a-couple-migrations.md)
 - [Rollback A Specific Migration Out Of Order](rails/rollback-a-specific-migration-out-of-order.md)
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
 - [Run A Rake Task Programmatically](rails/run-a-rake-task-programmatically.md)
