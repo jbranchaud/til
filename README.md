@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1458 TILs and counting..._
+_1459 TILs and counting..._
 
 ---
 
@@ -590,6 +590,7 @@ _1458 TILs and counting..._
 - [Find The Process Using A Specific Port](mac/find-the-process-using-a-specific-port.md)
 - [Gesture For Viewing All Windows Of Current App](mac/gesture-for-viewing-all-windows-of-current-app.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
+- [Keyboard Shortcuts For Interesting With Text Areas](mac/keyboard-shortcuts-for-interacting-with-text-areas.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Open Finder.app To Specific Directory](mac/open-finder-app-to-specific-directory.md)
 - [Quickly Type En Dashes And Em Dashes](mac/quickly-type-en-dashes-and-em-dashes.md)
