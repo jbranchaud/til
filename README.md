@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1460 TILs and counting..._
+_1461 TILs and counting..._
 
 ---
 
@@ -990,6 +990,7 @@ _1460 TILs and counting..._
 - [Skip Validations When Creating A Record](rails/skip-validations-when-creating-a-record.md)
 - [Specify New Attributes For #find_or_create_by](rails/specify-new-attributes-for-find-or-create-by.md)
 - [Temporarily Disable strong_params](rails/temporarily-disable-strong-params.md)
+- [Temporarily Turn Off Pending Migrations Error](rails/temporarily-turn-off-pending-migrations-error.md)
 - [Test For A Subset Of Attributes On A Model](rails/test-for-a-subset-of-attributes-on-a-model.md)
 - [Test If An Instance Variable Was Assigned](rails/test-if-an-instance-variable-was-assigned.md)
 - [Test If deliver_later Is Called For A Mailer](rails/test-if-deliver-later-is-called-for-a-mailer.md)
