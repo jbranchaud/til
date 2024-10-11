@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1459 TILs and counting..._
+_1460 TILs and counting..._
 
 ---
 
@@ -101,6 +101,7 @@ _1459 TILs and counting..._
 ### Brew
 
 - [Configure Brew Environment Variables](brew/configure-brew-environment-variables.md)
+- [Export List Of Everything Installed By Brew](brew/export-list-of-everything-installed-by-brew.md)
 - [List All Services Managed By Brew](brew/list-all-services-managed-by-brew.md)
 
 ### Chrome
