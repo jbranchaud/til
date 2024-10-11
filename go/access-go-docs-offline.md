@@ -15,4 +15,10 @@ $ godoc -http=:6060
 
 and then visit `localhost:6060`.
 
+Note: if you do not already have `godoc` installed, you can install it with:
+
+```bash
+$ go install golang.org/x/tools/cmd/godoc@latest
+```
+
 [source](http://www.andybritcliffe.com/post/44610795381/offline-go-lang-documentation)
