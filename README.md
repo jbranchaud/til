@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1462 TILs and counting..._
+_1463 TILs and counting..._
 
 ---
 
@@ -449,6 +449,7 @@ _1462 TILs and counting..._
 - [Check If A Number Is Positive Or Negative](javascript/check-if-a-number-is-positive-or-negative.md)
 - [Check If File Exists Before Reading It](javascript/check-if-file-exists-before-reading-it.md)
 - [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
+- [Check Media Queries From JavaScript](javascript/check-media-queries-from-javascript.md)
 - [Check The Password Confirmation With Yup](javascript/check-the-password-confirmation-with-yup.md)
 - [Compare The Equality Of Two Date Objects](javascript/compare-the-equality-of-two-date-objects.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
