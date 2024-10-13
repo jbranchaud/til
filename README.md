@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1463 TILs and counting..._
+_1464 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _1463 TILs and counting..._
 * [Ack](#ack)
 * [Amplify](#amplify)
 * [Ansible](#ansible)
+* [Astro](#astro)
 * [Brew](#brew)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
@@ -97,6 +98,10 @@ _1463 TILs and counting..._
 ### Ansible
 
 - [Loop Over A List Of Dictionaries](ansible/loop-over-a-list-of-dictionaries.md)
+
+### Astro
+
+- [Markdown Files Are Of Type MarkdownInstance](astro/markdown-files-are-of-type-markdown-instance.md)
 
 ### Brew
 
