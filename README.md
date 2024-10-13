@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1465 TILs and counting..._
+_1466 TILs and counting..._
 
 ---
 
@@ -101,6 +101,7 @@ _1465 TILs and counting..._
 
 ### Astro
 
+- [Generate Types For A Content Collection](astro/generate-types-for-a-content-collection.md)
 - [Markdown Files Are Of Type MarkdownInstance](astro/markdown-files-are-of-type-markdown-instance.md)
 
 ### Brew
