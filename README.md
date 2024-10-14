@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1466 TILs and counting..._
+_1467 TILs and counting..._
 
 ---
 
@@ -442,6 +442,7 @@ _1466 TILs and counting..._
 
 ### Java
 
+- [Ensure Resources Always Get Closed](java/ensure-resources-always-get-closed.md)
 - [Install Java On Mac With Brew](java/install-java-on-mac-with-brew.md)
 - [Run A Hello World Program In Eclipse](java/run-a-hello-world-program-in-eclipse.md)
 
