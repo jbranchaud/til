@@ -18,7 +18,7 @@ At some point I added it to my repo's `.git/info/exclude` file. The `-v` flag
 How about these pesky `.DS_Store` directories? How are those being ignored?
 
 ```bash
-git check-ignore .DS_Store -v
+$ git check-ignore -v .DS_Store
 /Users/jbranchaud/.gitignore:3:.DS_Store        .DS_Store
 ```
 
