@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1469 TILs and counting..._
+_1470 TILs and counting..._
 
 ---
 
@@ -1707,6 +1707,7 @@ _1469 TILs and counting..._
 - [Create A Public URL For A Local Server](workflow/create-a-public-url-for-a-local-server.md)
 - [Enable Dev Tools For Safari](workflow/enable-dev-tools-for-safari.md)
 - [Forward Stripe Events To Local Server](workflow/forward-stripe-events-to-local-server.md)
+- [Get URL For GitHub User Profile Photo](workflow/get-url-for-github-user-profile-photo.md)
 - [Get Your Public IP Address](workflow/get-your-public-ip-address.md)
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
