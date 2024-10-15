@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1468 TILs and counting..._
+_1469 TILs and counting..._
 
 ---
 
@@ -276,6 +276,7 @@ _1468 TILs and counting..._
 - [Auto-Squash Those Fixup Commits](git/auto-squash-those-fixup-commits.md)
 - [Caching Credentials](git/caching-credentials.md)
 - [Change The Start Point Of A Branch](git/change-the-start-point-of-a-branch.md)
+- [Check How A File Is Being Ignored](git/check-how-a-file-is-being-ignored.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
