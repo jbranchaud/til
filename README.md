@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1470 TILs and counting..._
+_1471 TILs and counting..._
 
 ---
 
@@ -1386,6 +1386,7 @@ _1470 TILs and counting..._
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
 - [Compare Two Variables In A Bash Script](unix/compare-two-variables-in-a-bash-script.md)
 - [Configure cd To Behave Like pushd In Zsh](unix/configure-cd-to-behave-like-pushd-in-zsh.md)
+- [Convert JPEG To PNG With ffmpeg](unix/convert-jpeg-to-png-with-ffmpeg.md)
 - [Convert SVG To Favicon](unix/convert-svg-to-favicon.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
