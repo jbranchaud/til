@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1473 TILs and counting..._
+_1474 TILs and counting..._
 
 ---
 
@@ -796,6 +796,7 @@ _1473 TILs and counting..._
 - [Max Identifier Length Is 63 Bytes](postgres/max-identifier-length-is-63-bytes.md)
 - [Open Heroku Database In Postico From Terminal](postgres/open-heroku-database-in-postico-from-terminal.md)
 - [pg Prefix Is Reserved For System Schemas](postgres/pg-prefix-is-reserved-for-system-schemas.md)
+- [Postgres Does Not Support Unsigned Integers](postgres/postgres-does-not-support-unsigned-integers.md)
 - [Prepare, Execute, And Deallocate Statements](postgres/prepare-execute-and-deallocate-statements.md)
 - [Pretty Print Data Sizes](postgres/pretty-print-data-sizes.md)
 - [Pretty Printing JSONB Rows](postgres/pretty-printing-jsonb-rows.md)
