@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1472 TILs and counting..._
+_1473 TILs and counting..._
 
 ---
 
@@ -326,6 +326,7 @@ _1472 TILs and counting..._
 - [List Untracked Files](git/list-untracked-files.md)
 - [List Untracked Files For Scripting](git/list-untracked-files-for-scripting.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
+- [Override The Global Git Ignore File](git/override-the-global-git-ignore-file.md)
 - [Pick Specific Changes To Stash](git/pick-specific-changes-to-stash.md)
 - [Pulling In Changes During An Interactive Rebase](git/pulling-in-changes-during-an-interactive-rebase.md)
 - [Push To A Branch On Another Remote](git/push-to-a-branch-on-another-remote.md)
