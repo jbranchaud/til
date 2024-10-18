@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1474 TILs and counting..._
+_1475 TILs and counting..._
 
 ---
 
@@ -1719,6 +1719,7 @@ _1474 TILs and counting..._
 - [Prune The Excess From node_modules](workflow/prune-the-excess-from-node-modules.md)
 - [Rotate An Image To Be Oriented Upright](workflow/rotate-an-image-to-be-oriented-upright.md)
 - [See Overlaps For A Set Of Time Zones](workflow/see-overlaps-for-a-set-of-time-zones.md)
+- [Send A Message To A Discord Channel](workflow/send-a-message-to-a-discord-channel.md)
 - [Set Recurring Reminders In Slack](workflow/set-recurring-reminders-in-slack.md)
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
 - [Update asdf Plugins With Latest Package Versions](workflow/update-asdf-plugins-with-latest-package-versions.md)
