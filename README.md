@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1475 TILs and counting..._
+_1476 TILs and counting..._
 
 ---
 
@@ -744,6 +744,7 @@ _1475 TILs and counting..._
 - [Duplicate A Local Database](postgres/duplicate-a-local-database.md)
 - [Edit Existing Functions](postgres/edit-existing-functions.md)
 - [Enable Logging Of Database Activity](postgres/enable-logging-of-database-activity.md)
+- [Enforce Uniqueness On Column Expression](postgres/enforce-uniqueness-on-column-expression.md)
 - [Escaping A Quote In A String](postgres/escaping-a-quote-in-a-string.md)
 - [Escaping String Literals With Dollar Quoting](postgres/escaping-string-literals-with-dollar-quoting.md)
 - [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
