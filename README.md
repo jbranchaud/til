@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1476 TILs and counting..._
+_1477 TILs and counting..._
 
 ---
 
@@ -435,6 +435,7 @@ _1476 TILs and counting..._
 - [Add Emoji To GitHub Repository Description](internet/add-emoji-to-github-repository-description.md)
 - [Check Your Public IP Address](internet/check-your-public-ip-address.md)
 - [Enable Keyboard Shortcuts In Gmail](internet/enable-keyboard-shortcuts-in-gmail.md)
+- [Exclude AI Overview From Google Search](internet/exclude-ai-overview-from-google-search.md)
 - [Exclude Whitespace Changes From GitHub Diffs](internet/exclude-whitespace-changes-from-github-diffs.md)
 - [Figure Out Your Public IP Address](internet/figure-out-your-public-ip-address.md)
 - [Focus The URL Bar](internet/focus-the-url-bar.md)
