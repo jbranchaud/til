@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1478 TILs and counting..._
+_1479 TILs and counting..._
 
 ---
 
@@ -1758,6 +1758,7 @@ _1478 TILs and counting..._
 
 - [Add To The Path Via Path Array](zsh/add-to-the-path-via-path-array.md)
 - [Link A Scalar To An Array](zsh/link-a-scalar-to-an-array.md)
+- [Use A Space To Exclude Command From History](zsh/use-a-space-to-exclude-command-from-history.md)
 
 ## Usage
 
