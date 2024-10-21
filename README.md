@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1477 TILs and counting..._
+_1478 TILs and counting..._
 
 ---
 
@@ -804,6 +804,7 @@ _1477 TILs and counting..._
 - [Pretty Printing JSONB Rows](postgres/pretty-printing-jsonb-rows.md)
 - [Prevent A Query From Running Too Long](postgres/prevent-a-query-from-running-too-long.md)
 - [Print The Query Buffer In psql](postgres/print-the-query-buffer-in-psql.md)
+- [Put Unique Constraint On Generated Column](postgres/put-unique-constraint-on-generated-column.md)
 - [Remove Not Null Constraint From A Column](postgres/remove-not-null-constraint-from-a-column.md)
 - [Renaming A Sequence](postgres/renaming-a-sequence.md)
 - [Renaming A Table](postgres/renaming-a-table.md)
