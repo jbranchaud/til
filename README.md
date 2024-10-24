@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1481 TILs and counting..._
+_1482 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _1481 TILs and counting..._
 * [Deno](#deno)
 * [Devops](#devops)
 * [Docker](#docker)
+* [Drizzle](#drizzle)
 * [Elixir](#elixir)
 * [Gatsby](#gatsby)
 * [Git](#git)
@@ -207,6 +208,10 @@ _1481 TILs and counting..._
 - [Configure Different Host And Container Ports](docker/configure-different-host-and-container-ports.md)
 - [List Running Docker Containers](docker/list-running-docker-containers.md)
 - [Run A Basic PostgreSQL Server In Docker](docker/run-a-basic-postgresql-server-in-docker.md)
+
+### Drizzle
+
+- [Create bigint Identity Column For Primary Key](drizzle/create-bigint-identity-column-for-primary-key.md)
 
 ### Elixir
 
