@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1480 TILs and counting..._
+_1481 TILs and counting..._
 
 ---
 
@@ -1706,6 +1706,7 @@ _1480 TILs and counting..._
 ### Workflow
 
 - [Add Hotkeys For Specific Raycast Extensions](workflow/add-hotkeys-for-specific-raycast-extensions.md)
+- [Add Subscriber To Kit Form Via API](workflow/add-subscriber-to-kit-form-via-api.md)
 - [Add Subtitles To Existing Mux Video Asset](workflow/add-subtitles-to-existing-mux-video-asset.md)
 - [Access 1Password Credential From CLI](workflow/access-1password-credential-from-cli.md)
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
