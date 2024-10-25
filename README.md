@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1482 TILs and counting..._
+_1483 TILs and counting..._
 
 ---
 
@@ -510,6 +510,7 @@ _1482 TILs and counting..._
 - [List Top-Level NPM Dependencies](javascript/list-top-level-npm-dependencies.md)
 - [Load And Use Env Var In Node Script](javascript/load-and-use-env-var-in-node-script.md)
 - [Make The Browser Editable With Design Mode](javascript/make-the-browser-editable-with-design-mode.md)
+- [Make Truly Deep Clone With Structured Clone](javascript/make-truly-deep-clone-with-structured-clone.md)
 - [Matching A Computed Property In Function Args](javascript/matching-a-computed-property-in-function-args.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
 - [Mock A Function With Return Values Using Jest](javascript/mock-a-function-with-return-values-using-jest.md)
