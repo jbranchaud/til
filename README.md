@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1484 TILs and counting..._
+_1485 TILs and counting..._
 
 ---
 
@@ -703,6 +703,7 @@ _1484 TILs and counting..._
 - [A Better Null Display Character](postgres/a-better-null-display-character.md)
 - [Add Foreign Key Constraint Without A Full Lock](postgres/add-foreign-key-constraint-without-a-full-lock.md)
 - [Add ON DELETE CASCADE To Foreign Key Constraint](postgres/add-on-delete-cascade-to-foreign-key-constraint.md)
+- [Add Unique Constraint Using Existing Index](postgres/add-unique-constraint-using-existing-index.md)
 - [Adding Composite Uniqueness Constraints](postgres/adding-composite-uniqueness-constraints.md)
 - [Aggregate A Column Into An Array](postgres/aggregate-a-column-into-an-array.md)
 - [Assumed Radius Of The Earth](postgres/assumed-radius-of-the-earth.md)
