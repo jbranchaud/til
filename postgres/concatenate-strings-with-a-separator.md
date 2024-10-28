@@ -39,3 +39,15 @@ create table folders (
 
 The first argument to `concat_ws` is the separator I want to use. The remaining
 arguments are the strings that should be concatenated with that separator.
+
+One other things that is nice about `concat_ws` is that it will ignore `null`
+values that it receives.
+
+```sql
+> select concat_ws(':', 'one', 'two', null, 'three');
++---------------+
+| concat_ws     |
+|---------------|
+| one:two:three |
++---------------+
+```
