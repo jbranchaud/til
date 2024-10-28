@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1485 TILs and counting..._
+_1486 TILs and counting..._
 
 ---
 
@@ -723,6 +723,7 @@ _1485 TILs and counting..._
 - [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
 - [Compute The Levenshtein Distance Of Two Strings](postgres/compute-the-levenshtein-distance-of-two-strings.md)
 - [Compute The md5 Hash Of A String](postgres/compute-the-md5-hash-of-a-string.md)
+- [Concatenate Strings With A Separator](postgres/concatenate-strings-with-a-separator.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
 - [Convert A String To A Timestamp](postgres/convert-a-string-to-a-timestamp.md)
