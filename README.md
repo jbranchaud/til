@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1489 TILs and counting..._
+_1490 TILs and counting..._
 
 ---
 
@@ -212,6 +212,7 @@ _1489 TILs and counting..._
 ### Drizzle
 
 - [Create bigint Identity Column For Primary Key](drizzle/create-bigint-identity-column-for-primary-key.md)
+- [Drizzle Tracks Migrations In A Log Table](drizzle/drizzle-tracks-migrations-in-a-log-table.md)
 - [Get Fields For Inserted Row](drizzle/get-fields-for-inserted-row.md)
 
 ### Elixir
