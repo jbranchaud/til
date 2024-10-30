@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1490 TILs and counting..._
+_1491 TILs and counting..._
 
 ---
 
@@ -524,6 +524,7 @@ _1490 TILs and counting..._
 - [Open Global npm Config File](javascript/open-global-npm-config-file.md)
 - [Parse A Date From A Timestamp](javascript/parse-a-date-from-a-timestamp.md)
 - [Pre And Post Hooks For Yarn Scripts](javascript/pre-and-post-hooks-for-yarn-scripts.md)
+- [Prevent Hidden Element From Flickering On Load](javascript/prevent-hidden-element-from-flickering-on-load.md)
 - [Purge Null And Undefined Values From Object](javascript/purge-null-and-undefined-values-from-object.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
 - [Reach Into An Object For Nested Data With Get](javascript/reach-into-an-object-for-nested-data-with-get.md)
