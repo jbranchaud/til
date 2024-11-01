@@ -32,6 +32,16 @@ select string_agg(
 from positions, random_bytes, chars;
 ```
 
+Here is an example of the output:
+
+```sql
++----------+
+| short_id |
+|----------|
+| NXdu9AnV |
++----------+
+```
+
 The
 [`generate_series`](https://www.postgresql.org/docs/current/functions-srf.html)
 gives us an 8-row table from 0 to 7 that we can use as indexes into the byte
