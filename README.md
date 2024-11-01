@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1492 TILs and counting..._
+_1493 TILs and counting..._
 
 ---
 
@@ -771,6 +771,7 @@ _1492 TILs and counting..._
 - [Force SSL When Making A psql Connection](postgres/force-ssl-when-making-a-psql-connection.md)
 - [Generate A UUID](postgres/generate-a-uuid.md)
 - [Generate Modern Primary Key Columns](postgres/generate-modern-primary-key-columns.md)
+- [Generate Random Alphanumeric Identifier](postgres/generate-random-alphanumeric-identifier.md)
 - [Generate Random UUIDs Without An Extension](postgres/generate-random-uuids-without-an-extension.md)
 - [Generate Series Of Numbers](postgres/generate-series-of-numbers.md)
 - [Generating UUIDs With pgcrypto](postgres/generating-uuids-with-pgcrypto.md)
