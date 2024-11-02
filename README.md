@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1493 TILs and counting..._
+_1494 TILs and counting..._
 
 ---
 
@@ -980,6 +980,7 @@ _1493 TILs and counting..._
 - [Parse Request Params In Rack::Attack Block](rails/parse-request-params-in-rack-attack-block.md)
 - [Perform SQL Explain With ActiveRecord](rails/perform-sql-explain-with-activerecord.md)
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
+- [Prefer select_all Over execute For Read Queries](rails/prefer-select-all-over-execute-for-read-queries.md)
 - [Pretend Generations](rails/pretend-generations.md)
 - [Prevent Writes With A Sandboxed Rails Console](rails/prevent-writes-with-a-sandboxed-rails-console.md)
 - [Query A Single Value From The Database](rails/query-a-single-value-from-the-database.md)
