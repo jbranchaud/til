@@ -35,10 +35,19 @@ result = ActiveRecord::Base.connection.select_all(books_by_status_query)
 ```
 
 It has the advantage of semantically communicating that it's just a read and
-won't have any side-effects.
+won't have any side-effects. It also avoids an unnecessary clear of the query
+cache.
 
-> Note: the query is assumed to have side effects and the query cache will be
-> cleared. If the query is read-only, consider using select_all instead.
+> Note: [when execute is used] the query is assumed to have side effects and
+> the query cache will be cleared. If the query is read-only, consider using
+> select_all instead.
+
+The `#execute` method also has been known to leak memory with some database
+connectors.
+
+> Note: depending on your database connector, the result returned by this
+> method may be manually memory managed. Consider using exec_query wrapper
+> instead.
 
 We can then iterate through and transform the results just as we would have
 done with `#execute`.
