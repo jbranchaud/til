@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1494 TILs and counting..._
+_1495 TILs and counting..._
 
 ---
 
@@ -839,6 +839,7 @@ _1494 TILs and counting..._
 - [Survey Of User-Defined Ordering Of Records](postgres/survey-of-user-defined-ordering-of-records.md)
 - [Switch Non-Castable Column Type With Using Clause](postgres/switch-non-castable-column-type-with-using-clause.md)
 - [Switch The Running Postgres Server Version](postgres/switch-the-running-postgres-server-version.md)
+- [Table Names Are Treated As Lower-Case By Default](postgres/table-names-are-treated-as-lower-case-by-default.md)
 - [Temporarily Disable Triggers](postgres/temporarily-disable-triggers.md)
 - [Temporary Tables](postgres/temporary-tables.md)
 - [Terminating A Connection](postgres/terminating-a-connection.md)
