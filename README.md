@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1497 TILs and counting..._
+_1498 TILs and counting..._
 
 ---
 
@@ -441,6 +441,7 @@ _1497 TILs and counting..._
 ### Internet
 
 - [Add Emoji To GitHub Repository Description](internet/add-emoji-to-github-repository-description.md)
+- [Add Styled Alerts To GitHub Markdown Documents](internet/add-styled-alerts-to-github-markdown-documents.md)
 - [Analyze Your Website Performance](internet/analyze-your-website-performance.md)
 - [Check Your Public IP Address](internet/check-your-public-ip-address.md)
 - [Digraph Unicode Characters Have A Titlecase](internet/digraph-unicode-characters-have-a-titlecase.md)
