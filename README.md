@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1498 TILs and counting..._
+_1499 TILs and counting..._
 
 ---
 
@@ -1383,6 +1383,7 @@ _1498 TILs and counting..._
 - [Generate An Initial tsconfig File](typescript/generate-an-initial-tsconfig-file.md)
 - [Generate Inferred Type From Zod Schema](typescript/generate-inferred-type-from-zod-schema.md)
 - [Get The Return Type Of An Async Function](typescript/get-the-return-type-of-an-async-function.md)
+- [Ignore All Errors In A TypeScript File](typescript/ignore-all-errors-in-a-typescript-file.md)
 - [Interfaces With The Same Name Are Merged](typescript/interfaces-with-the-same-name-are-merged.md)
 - [Narrow The Type Of An Array To Its Values](typescript/narrow-the-type-of-an-array-to-its-values.md)
 - [Re-Export An Imported Type](typescript/re-export-an-imported-type.md)
