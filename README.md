@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1499 TILs and counting..._
+_1500 TILs and counting..._
 
 ---
 
@@ -1354,6 +1354,7 @@ _1499 TILs and counting..._
 - [Kill The Current Session](tmux/kill-the-current-session.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [List Sessions](tmux/list-sessions.md)
+- [Open New Splits To The Current Directory](tmux/open-new-splits-to-the-current-directory.md)
 - [Open New Window With A Specific Directory](tmux/open-new-window-with-a-specific-directory.md)
 - [Organizing Windows](tmux/organizing-windows.md)
 - [Paging Up And Down](tmux/paging-up-and-down.md)
