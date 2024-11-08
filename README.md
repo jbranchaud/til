@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1500 TILs and counting..._
+_1501 TILs and counting..._
 
 ---
 
@@ -885,6 +885,7 @@ _1500 TILs and counting..._
 
 - [Access Instance Variables](python/access-instance-variables.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
+- [Store And Access Immutable Data In A Tuple](python/store-and-access-immutable-data-in-a-tuple.md)
 - [Test A Function With Pytest](python/test-a-function-with-pytest.md)
 - [Use pipx To Install End User Apps](python/use-pipx-to-install-end-user-apps.md)
 
