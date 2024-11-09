@@ -14,7 +14,7 @@ table.
 This can be specified by including `id: :bigint` as an option to the
 `create_table` method.
 
-```rails
+```ruby
 class CreatePosts < ActiveRecord::Migration[8.0]
   def change
     create_table :posts, id: :bigint do |t|
