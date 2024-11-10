@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1502 TILs and counting..._
+_1503 TILs and counting..._
 
 ---
 
@@ -157,6 +157,7 @@ _1502 TILs and counting..._
 ### CSS
 
 - [Add Fab Icons To Your Site With FontAwesome 5](css/add-fab-icons-to-your-site-with-fontawesome-5.md)
+- [Add Line Numbers To A Code Block With Counter](css/add-line-numbers-to-a-code-block-with-counter.md)
 - [Animate Smoothly Between Two Background Colors](css/animate-smoothly-between-two-background-colors.md)
 - [Apply Multiple Box Shadows To Single Element](css/apply-multiple-box-shadows-to-single-element.md)
 - [Apply Styles Based On Dark-Mode Preferences](css/apply-styles-based-on-dark-mode-preferences.md)
