@@ -41,3 +41,9 @@ the query. And the `#take` corresponds to the `limit 1`.
 Knowing that, we can understand that we will also get the first record from the
 database if we call `#find_by` with `{}`. Again, no conditions to filter on, so
 give me all books limited to one.
+
+One small caveat: notice how there is no `order by` clause in the above SQL
+output. This differs from `Books.first` which implicitly does an order on the
+`id` column. Though these method are likely to return the same result, the
+ordering of `#find_by` is not guaranteed to be the same without an `order by`
+clause.
