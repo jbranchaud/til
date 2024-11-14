@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1505 TILs and counting..._
+_1506 TILs and counting..._
 
 ---
 
@@ -942,6 +942,7 @@ _1505 TILs and counting..._
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
 - [Different Ways To Add A Foreign Key Reference](rails/different-ways-to-add-a-foreign-key-reference.md)
 - [Disambiguate Where In A Joined Relation](rails/disambiguate-where-in-a-joined-relation.md)
+- [Empty find_by Returns First Record](rails/empty-find-by-returns-first-record.md)
 - [Ensure A Rake Task Cannot Write Data](rails/ensure-a-rake-task-cannot-write-data.md)
 - [Ensure Migrations Use The Latest Schema](rails/ensure-migrations-use-the-latest-schema.md)
 - [Ensure Record Saved With after_commit Callback](rails/ensure-record-saved-with-after-commit-callback.md)
