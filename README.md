@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1507 TILs and counting..._
+_1508 TILs and counting..._
 
 ---
 
@@ -1465,6 +1465,7 @@ _1507 TILs and counting..._
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
 - [Globbing For All Directories In Zsh](unix/globbing-for-all-directories-in-zsh.md)
 - [Globbing For Filenames In Zsh](unix/globbing-for-filenames-in-zsh.md)
+- [Gracefully Exit A Script With Trap](unix/gracefully-exit-a-script-with-trap.md)
 - [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
 - [Grep For Files With Multiple Matches](unix/grep-for-files-with-multiple-matches.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
