@@ -9,3 +9,15 @@ function! CountTILs()
 endfunction
 
 nnoremap <leader>c :call CountTILs()<cr>
+
+augroup DisableMarkdownFormattingForTILReadme
+    autocmd!
+    autocmd BufRead ~/code/til/README.md autocmd! Format
+augroup END
+
+" local til_readme_group = vim.api.nvim_create_augroup('DisableMarkdownFormattingForTILReadme', { clear = true })
+" vim.api.nvim_create_autocmd('BufRead', {
+"   command = 'autocmd! Format',
+"   group = til_readme_group,
+"   pattern = vim.fn.expand '~/code/til/README.md',
+" })
