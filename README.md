@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1514 TILs and counting..._
+_1515 TILs and counting..._
 
 ---
 
@@ -1225,6 +1225,7 @@ _1514 TILs and counting..._
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Format A Hash Into A String Template](ruby/format-a-hash-into-a-string-template.md)
 - [Forward All Arguments To Another Method](ruby/forward-all-arguments-to-another-method.md)
+- [Gather Positional Arguments In Method Definition](ruby/gather-positional-arguments-in-method-definition.md)
 - [Generate A Signed JWT Token](ruby/generate-a-signed-jwt-token.md)
 - [Generate Ruby Version And Gemset Files With RVM](ruby/generate-ruby-version-and-gemset-files-with-rvm.md)
 - [Get Info About Your RubyGems Environment](ruby/get-info-about-your-ruby-gems-environment.md)
