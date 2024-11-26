@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1517 TILs and counting..._
+_1518 TILs and counting..._
 
 ---
 
@@ -1540,6 +1540,7 @@ _1517 TILs and counting..._
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [Tell direnv To Load The Env File](unix/tell-direnv-to-load-the-env-file.md)
 - [Touch Access And Modify Times Individually](unix/touch-access-and-modify-times-individually.md)
+- [Type Fewer Paths With Brace Expansion](unix/type-fewer-paths-with-brace-expansion.md)
 - [Undo Changes Made To Current Terminal Prompt](unix/undo-changes-made-to-current-terminal-prompt.md)
 - [Undo Some Command Line Editing](unix/undo-some-command-line-editing.md)
 - [Unrestrict Where ripgrep Searches](unix/unrestrict-where-ripgrep-searches.md)
