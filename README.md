@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1518 TILs and counting..._
+_1519 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _1518 TILs and counting..._
 * [Internet](#internet)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [jj](#jj)
 * [jq](#jq)
 * [Kitty](#kitty)
 * [Linux](#linux)
@@ -568,6 +569,10 @@ _1518 TILs and counting..._
 - [Write A JavaScript Object To A JSON File](javascript/write-a-javascript-object-to-a-json-file.md)
 - [Yarn Commands Without The Emojis](javascript/yarn-commands-without-the-emojis.md)
 - [Yup Schemas Are Validated Asynchronously](javascript/yup-schemas-are-validated-asynchronously.md)
+
+### jj
+
+- [Colocate jj And git Directories For Project](jj/colocate-jj-and-git-directories-for-project.md)
 
 ### jq
 
