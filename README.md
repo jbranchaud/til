@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1519 TILs and counting..._
+_1520 TILs and counting..._
 
 ---
 
@@ -1188,6 +1188,7 @@ _1519 TILs and counting..._
 - [Audit Your Ruby Project For Any CVEs](ruby/audit-your-ruby-project-for-any-cves.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
+- [Block Syntaxes Have Different Precedence](ruby/block-syntaxes-have-different-precedence.md)
 - [Build HTTP And HTTPS URLs](ruby/build-http-and-https-urls.md)
 - [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
 - [Check For Any Overlaps In List Of Ranges](ruby/check-for-any-overlaps-in-list-of-ranges.md)
