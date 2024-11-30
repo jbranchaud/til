@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1521 TILs and counting..._
+_1522 TILs and counting..._
 
 ---
 
@@ -573,6 +573,7 @@ _1521 TILs and counting..._
 ### jj
 
 - [Colocate jj And git Directories For Project](jj/colocate-jj-and-git-directories-for-project.md)
+- [Find System-wide Config File For User](jj/find-system-wide-config-file-for-user.md)
 
 ### jq
 
