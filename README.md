@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1522 TILs and counting..._
+_1523 TILs and counting..._
 
 ---
 
@@ -637,6 +637,7 @@ _1522 TILs and counting..._
 - [Specify App When Opening From Command Line](mac/specify-app-when-opening-from-command-line.md)
 - [Use Default Screenshot Shortcuts With CleanShot X](mac/use-default-screenshot-shortcuts-with-cleanshot-x.md)
 - [View All Windows Of The Current App](mac/view-all-windows-of-the-current-app.md)
+- [Write System Clipboard To A File](mac/write-system-clipboard-to-a-file.md)
 
 ### MongoDB
 
