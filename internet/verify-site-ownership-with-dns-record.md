@@ -17,7 +17,7 @@ You can also manually create the TXT record if necessary.
 Either way, it will look something like:
 
 ```bash
-!dig -t TXT visualmode.dev
+$ dig -t TXT visualmode.dev
 
 ;; ANSWER SECTION:
 visualmode.dev.         377     IN      TXT     "google-site-verification=MBZ2S2fhnh2gHRxFniRrYW-O6mdyimJDRFj-f
