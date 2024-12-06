@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1527 TILs and counting..._
+_1528 TILs and counting..._
 
 ---
 
@@ -1511,6 +1511,7 @@ _1527 TILs and counting..._
 - [List Stats For A File](unix/list-stats-for-a-file.md)
 - [List The Available JDKs](unix/list-the-available-jdks.md)
 - [List The Stack Of Remembered Directories](unix/list-the-stack-of-remembered-directories.md)
+- [List TXT DNS Records For A Domain](unix/list-txt-dns-records-for-a-domain.md)
 - [Load Env Vars In Bash Script](unix/load-env-vars-in-bash-script.md)
 - [Look Through All Files That Have Been Git Stashed](unix/look-through-all-files-that-have-been-git-stashed.md)
 - [Make Direnv Less Noisy](unix/make-direnv-less-noisy.md)
