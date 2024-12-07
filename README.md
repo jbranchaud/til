@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1530 TILs and counting..._
+_1531 TILs and counting..._
 
 ---
 
@@ -1748,6 +1748,7 @@ _1530 TILs and counting..._
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
 - [Pop Open The Quick Fix Window](vscode/pop-open-the-quick-fix-window.md)
 - [Step Through Project-Wide Search Results](vscode/step-through-project-wide-search-results.md)
+- [Synchronize Vim Clipboard With System Clipboard](vscode/synchronize-vim-clipboard-with-system-clipboard.md)
 - [Toggle Between Terminals](vscode/toggle-between-terminals.md)
 - [Turn Off Display Of Tabs For Files](vscode/turn-off-display-of-tabs-for-files.md)
 
