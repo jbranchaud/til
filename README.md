@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1531 TILs and counting..._
+_1532 TILs and counting..._
 
 ---
 
@@ -398,6 +398,7 @@ _1531 TILs and counting..._
 ### Go
 
 - [Access Go Docs Offline](go/access-go-docs-offline.md)
+- [Add A Method To A Struct](go/add-a-method-to-a-struct.md)
 - [Build For A Specific OS And Architecture](go/build-for-a-specific-os-and-architecture.md)
 - [Combine Two Slices](go/combine-two-slices.md)
 - [Do Something N Times](go/do-something-n-times.md)
