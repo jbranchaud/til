@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1533 TILs and counting..._
+_1534 TILs and counting..._
 
 ---
 
@@ -408,6 +408,7 @@ _1533 TILs and counting..._
 - [Parse Flags From CLI Arguments](go/parse-flags-from-cli-arguments.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
+- [Sort Slice In Ascending Or Descending Order](go/sort-slice-in-ascending-or-descending-order.md)
 - [Upgrading From An Older Version On Mac](go/upgrading-from-an-older-version-on-mac.md)
 
 ### GROQ
