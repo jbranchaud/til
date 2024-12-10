@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1532 TILs and counting..._
+_1533 TILs and counting..._
 
 ---
 
@@ -1223,6 +1223,7 @@ _1532 TILs and counting..._
 - [Define Multiline Strings With Heredocs](ruby/define-multiline-strings-with-heredocs.md)
 - [Destructure The First Item From An Array](ruby/destructure-the-first-item-from-an-array.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
+- [Disable Interpolation For A Heredoc String](ruby/disable-interpolation-for-a-heredoc-string.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
 - [Edit Previous Parts Of The Pry Buffer History](ruby/edit-previous-parts-of-the-pry-buffer-history.md)
