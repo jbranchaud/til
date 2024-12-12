@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1534 TILs and counting..._
+_1535 TILs and counting..._
 
 ---
 
@@ -317,6 +317,7 @@ _1534 TILs and counting..._
 - [Grab A Single File From A Stash](git/grab-a-single-file-from-a-stash.md)
 - [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
+- [Highlight Extra Whitespace In Diff Output](git/highlight-extra-whitespace-in-diff-output.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
 - [Ignore Files Specific To Your Workflow](git/ignore-files-specific-to-your-workflow.md)
 - [Include A Message With Your Stashed Changes](git/include-a-message-with-your-stashed-changes.md)
