@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1536 TILs and counting..._
+_1537 TILs and counting..._
 
 ---
 
@@ -311,6 +311,7 @@ _1536 TILs and counting..._
 - [Find And Remove Files That Match A Name](git/find-and-remove-files-that-match-a-name.md)
 - [Find The Date That A File Was Added To The Repo](git/find-the-date-that-a-file-was-added-to-the-repo.md)
 - [Find The Initial Commit](git/find-the-initial-commit.md)
+- [Fix Whitespace Errors Throughout Branch Commits](git/fix-whitespace-errors-throughout-branch-commits.md)
 - [Get Latest Commit Timestamp For A File](git/get-latest-commit-timestamp-for-a-file.md)
 - [Get The Name Of The Current Branch](git/get-the-name-of-the-current-branch.md)
 - [Get The Short Version Of The Latest Commit](git/get-the-short-version-of-the-latest-commit.md)
