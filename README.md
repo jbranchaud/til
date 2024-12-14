@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1537 TILs and counting..._
+_1538 TILs and counting..._
 
 ---
 
@@ -405,6 +405,7 @@ _1537 TILs and counting..._
 - [Combine Two Slices](go/combine-two-slices.md)
 - [Do Something N Times](go/do-something-n-times.md)
 - [Find Executables Installed By Go](go/find-executables-installed-by-go.md)
+- [Format Date And Time With Time Constants](go/format-date-and-time-with-time-constants.md)
 - [Not So Random](go/not-so-random.md)
 - [Parse A String Into Individual Fields](go/parse-a-string-into-individual-fields.md)
 - [Parse Flags From CLI Arguments](go/parse-flags-from-cli-arguments.md)
