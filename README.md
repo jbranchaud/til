@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1545 TILs and counting..._
+_1546 TILs and counting..._
 
 ---
 
@@ -406,6 +406,7 @@ _1545 TILs and counting..._
 - [Check If Cobra Flag Was Set](go/check-if-cobra-flag-was-set.md)
 - [Combine Two Slices](go/combine-two-slices.md)
 - [Detect If Stdin Comes From A Redirect](go/detect-if-stdin-comes-from-a-redirect.md)
+- [Deterministically Seed A Random Number Generator](go/deterministically-seed-a-random-number-generator.md)
 - [Do Something N Times](go/do-something-n-times.md)
 - [Find Executables Installed By Go](go/find-executables-installed-by-go.md)
 - [Format Date And Time With Time Constants](go/format-date-and-time-with-time-constants.md)
