@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1544 TILs and counting..._
+_1545 TILs and counting..._
 
 ---
 
@@ -1797,6 +1797,7 @@ _1544 TILs and counting..._
 - [See Overlaps For A Set Of Time Zones](workflow/see-overlaps-for-a-set-of-time-zones.md)
 - [Send A Message To A Discord Channel](workflow/send-a-message-to-a-discord-channel.md)
 - [Set Recurring Reminders In Slack](workflow/set-recurring-reminders-in-slack.md)
+- [Show Linting Errors In Zed](workflow/show-linting-errors-in-zed.md)
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
 - [Update asdf Plugins With Latest Package Versions](workflow/update-asdf-plugins-with-latest-package-versions.md)
 - [View The PR For The Current GitHub Branch](workflow/view-the-pr-for-the-current-github-branch.md)
