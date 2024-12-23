@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1546 TILs and counting..._
+_1547 TILs and counting..._
 
 ---
 
@@ -383,6 +383,7 @@ _1546 TILs and counting..._
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Update The URL Of A Remote](git/update-the-url-of-a-remote.md)
+- [Use External Diff Tool Like Difftastic](git/use-external-diff-tool-like-difftastic.md)
 - [Using Commands With A Relative Date Format](git/using-commands-with-a-relative-date-format.md)
 - [Verbose Commit Message](git/verbose-commit-message.md)
 - [Viewing A File On Another Branch](git/viewing-a-file-on-another-branch.md)
