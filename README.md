@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1548 TILs and counting..._
+_1549 TILs and counting..._
 
 ---
 
@@ -1217,6 +1217,7 @@ _1548 TILs and counting..._
 - [Check If A URL Resolves To 200](ruby/check-if-a-url-resolves-to-200.md)
 - [Check If An Object Includes A Module](ruby/check-if-an-object-includes-a-module.md)
 - [Check Return Status Of Running A Shell Command](ruby/check-return-status-of-running-a-shell-command.md)
+- [Clamp To An Endless Range](ruby/clamp-to-an-endless-range.md)
 - [Click On Text With Capybara](ruby/click-on-text-with-capybara.md)
 - [Colorful Output With MiniTest](ruby/colorful-output-with-minitest.md)
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
