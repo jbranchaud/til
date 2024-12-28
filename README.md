@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1550 TILs and counting..._
+_1551 TILs and counting..._
 
 ---
 
@@ -1785,6 +1785,7 @@ _1550 TILs and counting..._
 - [Add Subtitles To Existing Mux Video Asset](workflow/add-subtitles-to-existing-mux-video-asset.md)
 - [Access 1Password Credential From CLI](workflow/access-1password-credential-from-cli.md)
 - [Allow Key-Repeating With Cursor](workflow/allow-key-repeating-with-cursor.md)
+- [Break Justfile Into Separate Hidden Steps](workflow/break-justfile-into-separate-hidden-steps.md)
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Configure Email Redirect With Cloudflare](workflow/configure-email-redirect-with-cloudflare.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
