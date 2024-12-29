@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1551 TILs and counting..._
+_1552 TILs and counting..._
 
 ---
 
@@ -415,6 +415,7 @@ _1551 TILs and counting..._
 - [Not So Random](go/not-so-random.md)
 - [Parse A String Into Individual Fields](go/parse-a-string-into-individual-fields.md)
 - [Parse Flags From CLI Arguments](go/parse-flags-from-cli-arguments.md)
+- [Pass A Struct To A Function](go/pass-a-struct-to-a-function.md)
 - [Produce The Zero Value Of A Generic Type](go/produce-the-zero-value-of-a-generic-type.md)
 - [Redirect File To Stdin During Delve Debug](go/redirect-file-to-stdin-during-delve-debug.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
