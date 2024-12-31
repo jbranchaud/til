@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1552 TILs and counting..._
+_1553 TILs and counting..._
 
 ---
 
@@ -1269,6 +1269,7 @@ _1552 TILs and counting..._
 - [Iterate With An Offset Index](ruby/iterate-with-an-offset-index.md)
 - [Include Extra Context In A Honeybadger Notify](ruby/include-extra-context-in-a-honeybadger-notify.md)
 - [Ins And Outs Of Pry](ruby/ins-and-outs-of-pry.md)
+- [Install Latest Version Of Ruby With asdf](ruby/install-latest-version-of-ruby-with-asdf.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
 - [IRB Has Built-In Benchmarking With Ruby 3](ruby/irb-has-built-in-benchmarking-with-ruby-3.md)
 - [Jump Out Of A Nested Context With Throw/Catch](ruby/jump-out-of-a-nested-context-with-throw-catch.md)
