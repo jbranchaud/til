@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1554 TILs and counting..._
+_1555 TILs and counting..._
 
 ---
 
@@ -1303,6 +1303,7 @@ _1554 TILs and counting..._
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
 - [Read The First Line From A File](ruby/read-the-first-line-from-a-file.md)
+- [Refer To Implicit Block Argument With It](ruby/refer-to-implicit-block-argument-with-it.md)
 - [Rendering ERB](ruby/rendering-erb.md)
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
 - [Require Entire Gemfile In Pry Session](ruby/require-entire-gemfile-in-pry-session.md)
