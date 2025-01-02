@@ -1864,7 +1864,7 @@ I shamelessly stole this idea from
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jwworth/til](https://github.com/jwworth/til)
-* [thoughtbot/til](https://github.com/thoughtbot/til)
+* [til.simonwillison.net](https://til.simonwillison.net/)
 
 ## License
 
