@@ -12,6 +12,10 @@ For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-
 
 _1556 TILs and counting..._
 
+See some of the other learning resources I work on:
+- [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
+- [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
+
 ---
 
 ### Categories
