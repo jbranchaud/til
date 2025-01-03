@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1555 TILs and counting..._
+_1556 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1571,6 +1571,7 @@ See some of the other learning resources I work on:
 - [Search History](unix/search-history.md)
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
+- [See Where asdf Gets Current Tool Version](unix/see-where-asdf-gets-current-tool-version.md)
 - [Set The asdf Package Version For A Single Shell](unix/set-the-asdf-package-version-for-a-single-shell.md)
 - [Show A File Preview When Searching With FZF](unix/show-a-file-preview-when-searching-with-fzf.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
