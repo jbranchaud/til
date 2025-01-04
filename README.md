@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1556 TILs and counting..._
+_1557 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -411,6 +411,7 @@ See some of the other learning resources I work on:
 - [Build For A Specific OS And Architecture](go/build-for-a-specific-os-and-architecture.md)
 - [Check If Cobra Flag Was Set](go/check-if-cobra-flag-was-set.md)
 - [Combine Two Slices](go/combine-two-slices.md)
+- [Configure Max String Print Length For Delve](go/configure-max-string-print-length-for-delve.md)
 - [Connect To A SQLite Database](go/connect-to-a-sqlite-database.md)
 - [Create A Slice From An Array](go/create-a-slice-from-an-array.md)
 - [Detect If Stdin Comes From A Redirect](go/detect-if-stdin-comes-from-a-redirect.md)
