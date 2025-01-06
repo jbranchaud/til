@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1557 TILs and counting..._
+_1558 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -661,6 +661,7 @@ See some of the other learning resources I work on:
 - [Run AppleScript Commands Inline In The Terminal](mac/run-applescript-commands-inline-in-the-terminal.md)
 - [Set A Window To Its Default Zoom Level](mac/set-a-window-to-its-default-zoom-level.md)
 - [Specify App When Opening From Command Line](mac/specify-app-when-opening-from-command-line.md)
+- [Start Amphetamine Session With AppleScript](mac/start-amphetamine-session-with-applescript.md)
 - [Use Default Screenshot Shortcuts With CleanShot X](mac/use-default-screenshot-shortcuts-with-cleanshot-x.md)
 - [View All Windows Of The Current App](mac/view-all-windows-of-the-current-app.md)
 - [Write System Clipboard To A File](mac/write-system-clipboard-to-a-file.md)
