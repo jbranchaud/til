@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1558 TILs and counting..._
+_1559 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -416,6 +416,7 @@ See some of the other learning resources I work on:
 - [Create A Slice From An Array](go/create-a-slice-from-an-array.md)
 - [Detect If Stdin Comes From A Redirect](go/detect-if-stdin-comes-from-a-redirect.md)
 - [Deterministically Seed A Random Number Generator](go/deterministically-seed-a-random-number-generator.md)
+- [Difference Between Slice And Pointer To Slice](go/difference-between-slice-and-pointer-to-slice.md)
 - [Do Something N Times](go/do-something-n-times.md)
 - [Find Executables Installed By Go](go/find-executables-installed-by-go.md)
 - [Format Date And Time With Time Constants](go/format-date-and-time-with-time-constants.md)
