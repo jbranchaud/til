@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1562 TILs and counting..._
+_1563 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1804,6 +1804,7 @@ See some of the other learning resources I work on:
 - [Break Justfile Into Separate Hidden Steps](workflow/break-justfile-into-separate-hidden-steps.md)
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Configure Email Redirect With Cloudflare](workflow/configure-email-redirect-with-cloudflare.md)
+- [Control Media With Drop Keyboard](workflow/control-media-with-drop-keyboard.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
 - [Create A Local Sanity Dataset Backup](workflow/create-a-local-sanity-dataset-backup.md)
 - [Create A Public URL For A Local Server](workflow/create-a-public-url-for-a-local-server.md)
