@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1564 TILs and counting..._
+_1565 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1816,6 +1816,7 @@ See some of the other learning resources I work on:
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
 - [Open Slack's Keyboard Shortcuts Reference Panel](workflow/open-slacks-keyboard-shortcuts-reference-panel.md)
+- [Pop Videos Out As Picture-in-Picture](workflow/pop-videos-out-as-picture-in-picture.md)
 - [Prune The Excess From node_modules](workflow/prune-the-excess-from-node-modules.md)
 - [Rotate An Image To Be Oriented Upright](workflow/rotate-an-image-to-be-oriented-upright.md)
 - [See Overlaps For A Set Of Time Zones](workflow/see-overlaps-for-a-set-of-time-zones.md)
