@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1565 TILs and counting..._
+_1566 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -304,6 +304,7 @@ See some of the other learning resources I work on:
 - [Configuring The Pager](git/configuring-the-pager.md)
 - [Copy A File From Another Branch](git/copy-a-file-from-another-branch.md)
 - [Count All Files Of Specific Type Tracked By Git](git/count-all-files-of-specific-type-tracked-by-git.md)
+- [Count Number Of Commits On A Branch](git/count-number-of-commits-on-a-branch.md)
 - [Create A New Branch With Git Switch](git/create-a-new-branch-with-git-switch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
