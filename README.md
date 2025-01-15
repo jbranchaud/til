@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1566 TILs and counting..._
+_1567 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1056,6 +1056,7 @@ See some of the other learning resources I work on:
 - [Run A Rake Task Programmatically](rails/run-a-rake-task-programmatically.md)
 - [Run Commands With Specific Rails Version](rails/run-commands-with-specific-rails-version.md)
 - [Run Some Code Whenever Rails Console Starts](rails/run-some-code-whenever-rails-console-starts.md)
+- [Scaffold Auth Functionality With Rails 8 Generator](rails/scaffold-auth-functionality-with-rails-8-generator.md)
 - [Schedule Sidekiq Jobs Out Into The Future](rails/schedule-sidekiq-jobs-out-into-the-future.md)
 - [Secure Passwords With Rails And Bcrypt](rails/secure-passwords-with-rails-and-bcrypt.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
