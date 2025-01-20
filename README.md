@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1568 TILs and counting..._
+_1569 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1009,6 +1009,7 @@ See some of the other learning resources I work on:
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Include Devise Helpers In Your Controller Tests](rails/include-devise-helpers-in-your-controller-tests.md)
+- [Inspect Configuration Of Database Connection](rails/inspect-configuration-of-database-connection.md)
 - [Inspect Previous Changes To ActiveRecord Object](rails/inspect-previous-changes-to-activerecord-object.md)
 - [Link To The Current Page With Query Params](rails/link-to-the-current-page-with-query-params.md)
 - [List All Installable Rails Versions](rails/list-all-installable-rails-versions.md)
