@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1570 TILs and counting..._
+_1571 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -954,6 +954,7 @@ See some of the other learning resources I work on:
 - [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
 - [Alphabetize Schema Columns To Keep Them Consistent](rails/alphabetize-schema-columns-to-keep-them-consistent.md)
 - [Alter The Rails Setup Script](rails/alter-the-rails-setup-script.md)
+- [Apply Basic HTML Formatting To Block Of Text](rails/apply-basic-html-formatting-to-block-of-text.md)
 - [Assert Two Arrays Have The Same Items With RSpec](rails/assert-two-arrays-have-the-same-items-with-rspec.md)
 - [Attach A File With Capybara](rails/attach-a-file-with-capybara.md)
 - [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
