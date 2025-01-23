@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1571 TILs and counting..._
+_1572 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -206,6 +206,7 @@ See some of the other learning resources I work on:
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
 - [Resolve The Public IP Of A URL](devops/resolve-the-public-ip-of-a-url.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
+- [Set Up Domain For Hatchbox Rails App](devops/set-up-domain-for-hatchbox-rails-app.md)
 - [SSH Into A Docker Container](devops/ssh-into-a-docker-container.md)
 - [SSL Certificates Can Cover Multiple Domains](devops/ssl-certificates-can-cover-multiple-domains.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
