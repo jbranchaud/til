@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1572 TILs and counting..._
+_1573 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1032,6 +1032,7 @@ See some of the other learning resources I work on:
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Mock Rails Environment With An Inquiry Instance](rails/mock-rails-environment-with-an-inquiry-instance.md)
 - [Order Matters For `rescue_from` Blocks](rails/order-matters-for-rescue-from-blocks.md)
+- [Override Text Displayed By Form Label](rails/override-text-displayed-by-form-label.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Params Is A Hash With Indifferent Access](rails/params-is-a-hash-with-indifferent-access.md)
 - [Parse Query Params From A URL](rails/parse-query-params-from-a-url.md)
