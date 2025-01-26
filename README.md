@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1574 TILs and counting..._
+_1575 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -780,6 +780,7 @@ See some of the other learning resources I work on:
 - [Convert A String To A Timestamp](postgres/convert-a-string-to-a-timestamp.md)
 - [Count How Many Records There Are Of Each Type](postgres/count-how-many-records-there-are-of-each-type.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
+- [Count The Number Of Items In An Array](postgres/count-the-number-of-items-in-an-array.md)
 - [Count The Number Of Trues In An Aggregate Query](postgres/count-the-number-of-trues-in-an-aggregate-query.md)
 - [Create A Cluster In A Specific Data Directory](postgres/create-a-cluster-in-a-specific-data-directory.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
