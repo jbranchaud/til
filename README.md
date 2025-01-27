@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1575 TILs and counting..._
+_1576 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -199,6 +199,7 @@ See some of the other learning resources I work on:
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Connect To An RDS PostgreSQL Database](devops/connect-to-an-rds-postgresql-database.md)
+- [Default Rails Deploy Script On Hatchbox](devops/default-rails-deploy-script-on-hatchbox.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
 - [Hatchbox Exports Env Vars With asdf](devops/hatchbox-exports-env-vars-with-asdf.md)
 - [Path Of The Packets](devops/path-of-the-packets.md)
