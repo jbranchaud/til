@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1576 TILs and counting..._
+_1577 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1545,6 +1545,7 @@ See some of the other learning resources I work on:
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
 - [Last Argument Of The Last Command](unix/last-argument-of-the-last-command.md)
 - [Less With Style](unix/less-with-style.md)
+- [List All Fonts On Your Machine](unix/list-all-fonts-on-your-machine.md)
 - [List All The Enabled ZSH Options](unix/list-all-the-enabled-zsh-options.md)
 - [List All Users](unix/list-all-users.md)
 - [List Files In A Single Column](unix/list-files-in-a-single-column.md)
