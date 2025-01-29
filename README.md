@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1578 TILs and counting..._
+_1579 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -905,6 +905,7 @@ See some of the other learning resources I work on:
 - [Two Ways To Compute Factorial](postgres/two-ways-to-compute-factorial.md)
 - [Two Ways To Escape A Quote In A String](postgres/two-ways-to-escape-a-quote-in-a-string.md)
 - [Types By Category](postgres/types-by-category.md)
+- [Unable To Infer Data Type In Production](postgres/unable-to-infer-data-type-in-production.md)
 - [Union All Rows Including Duplicates](postgres/union-all-rows-including-duplicates.md)
 - [Use A psqlrc File For Common Settings](postgres/use-a-psqlrc-file-for-common-settings.md)
 - [Use A Trigger To Mirror Inserts To Another Table](postgres/use-a-trigger-to-mirror-inserts-to-another-table.md)
