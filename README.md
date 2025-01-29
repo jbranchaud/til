@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1577 TILs and counting..._
+_1578 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1074,6 +1074,7 @@ See some of the other learning resources I work on:
 - [Set DateTime To Include Time Zone In Migrations](rails/set-datetime-to-include-time-zone-in-migrations.md)
 - [Set Default As SQL Function In Migration](rails/set-default-as-sql-function-in-migration.md)
 - [Set default_url_options For Entire Application](rails/set-default-url-options-for-entire-application.md)
+- [Set Meta Tags In ERB Views](rails/set-meta-tags-in-erb-views.md)
 - [Set Schema Search Path](rails/set-schema-search-path.md)
 - [Set Statement Timeout For All Postgres Connections](rails/set-statement-timeout-for-all-postgres-connections.md)
 - [Set The Default Development Port](rails/set-the-default-development-port.md)
