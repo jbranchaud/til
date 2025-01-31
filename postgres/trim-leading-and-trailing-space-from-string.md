@@ -5,10 +5,20 @@ functions](https://www.postgresql.org/docs/current/functions-string.html),
 including several for doing various string trimming.
 
 We can use the simplest form of `trim` to remove leading and trailing space
-characters from a string. The syntax for calling `trim` is a bit odd relative
-to other PostgreSQL functions and functions in other languages.
+characters from a string.
 
-Here is the "grammar" as described in the docs:
+```sql
+> select trim('  Taco Cat ');
++----------+
+| btrim    |
+|----------|
+| Taco Cat |
++----------+
+```
+
+The syntax for calling `trim` is a bit odd relative to other PostgreSQL
+functions and functions in other languages. Here is the "grammar" as described
+in the docs:
 
 ```
 trim ( [ LEADING | TRAILING | BOTH ] [ characters text ] FROM string text ) → text
@@ -42,3 +52,7 @@ string:
 | aco Ca |
 +--------+
 ```
+
+Notice that in all the above examples the column name of the result is `btrim`.
+That's probably because `btrim` (_trim both ends_) is being called under the
+hood for the `both` option.
