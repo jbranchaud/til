@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1580 TILs and counting..._
+_1581 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -899,6 +899,7 @@ See some of the other learning resources I work on:
 - [Timestamp Functions](postgres/timestamp-functions.md)
 - [Toggling The Pager In PSQL](postgres/toggling-the-pager-in-psql.md)
 - [Track psql History Separately Per Database](postgres/track-psql-history-separately-per-database.md)
+- [Trim Leading And Trailing Space From String](postgres/trim-leading-and-trailing-space-from-string.md)
 - [Truncate All Rows](postgres/truncate-all-rows.md)
 - [Truncate Tables With Dependents](postgres/truncate-tables-with-dependents.md)
 - [Turning Timing On](postgres/turn-timing-on.md)
