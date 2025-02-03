@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1583 TILs and counting..._
+_1584 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1279,6 +1279,7 @@ See some of the other learning resources I work on:
 - [Exit A Process With An Error Message](ruby/exit-a-process-with-an-error-message.md)
 - [Expect A Method To Be Called And Actually Call It](ruby/expect-a-method-to-be-called-and-actually-call-it.md)
 - [Extract A Column Of Data From A CSV File](ruby/extract-a-column-of-data-from-a-csv-file.md)
+- [Extract Capture Group Matches With String Slices](ruby/extract-capture-group-matches-with-string-slices.md)
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
 - [Fetch Warns About Superseding Block Argument](ruby/fetch-warns-about-superseding-block-argument.md)
