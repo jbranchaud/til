@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1582 TILs and counting..._
+_1583 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -993,6 +993,7 @@ See some of the other learning resources I work on:
 - [Define The Root Path For The App](rails/define-the-root-path-for-the-app.md)
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
+- [Determine The Configured Primary Key Type](rails/determine-the-configured-primary-key-type.md)
 - [Different Ways To Add A Foreign Key Reference](rails/different-ways-to-add-a-foreign-key-reference.md)
 - [Disambiguate Where In A Joined Relation](rails/disambiguate-where-in-a-joined-relation.md)
 - [Empty find_by Returns First Record](rails/empty-find-by-returns-first-record.md)
