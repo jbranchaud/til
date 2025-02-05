@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1584 TILs and counting..._
+_1585 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1498,6 +1498,7 @@ See some of the other learning resources I work on:
 - [Count The Lines In A CSV Where A Column Is Empty](unix/count-the-lines-in-a-csv-where-a-column-is-empty.md)
 - [Count The Number Of Matches In A Grep](unix/count-the-number-of-matches-in-a-grep.md)
 - [Count The Number Of ripgrep Pattern Matches](unix/count-the-number-of-ripgrep-pattern-matches.md)
+- [Count The Number Of Words On A Webpage](unix/count-the-number-of-words-on-a-webpage.md)
 - [Create A File Descriptor with Process Substitution](unix/create-a-file-descriptor-with-process-substitution.md)
 - [Create A Sequence Of Values With A Step](unix/create-a-sequence-of-values-with-a-step.md)
 - [Curl With Cookies](unix/curl-with-cookies.md)
