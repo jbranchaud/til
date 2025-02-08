@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1585 TILs and counting..._
+_1586 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -356,6 +356,7 @@ See some of the other learning resources I work on:
 - [Quicker Commit Fixes With The Fixup Flag](git/quicker-commit-fixes-with-the-fixup-flag.md)
 - [Rebase Commits With An Arbitrary Command](git/rebase-commits-with-an-arbitrary-command.md)
 - [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
+- [Reference Commits Earlier Than Reflog Remembers](git/reference-commits-earlier-than-reflog-remembers.md)
 - [Remove Untracked Files From A Directory](git/remove-untracked-files-from-a-directory.md)
 - [Rename A Remote](git/rename-a-remote.md)
 - [Renaming A Branch](git/renaming-a-branch.md)
