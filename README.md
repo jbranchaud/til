@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1586 TILs and counting..._
+_1587 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1536,6 +1536,7 @@ See some of the other learning resources I work on:
 - [Get Matching Filenames As Output From Grep](unix/get-matching-filenames-as-output-from-grep.md)
 - [Get The SHA256 Hash For A File](unix/get-the-sha256-hash-for-a-file.md)
 - [Get The Unix Timestamp](unix/get-the-unix-timestamp.md)
+- [Get Word Count For All Files In Git Repo](unix/get-word-count-for-all-files-in-git-repo.md)
 - [Global Substitution On The Previous Command](unix/global-substitution-on-the-previous-command.md)
 - [Globbing For All Directories In Zsh](unix/globbing-for-all-directories-in-zsh.md)
 - [Globbing For Filenames In Zsh](unix/globbing-for-filenames-in-zsh.md)
