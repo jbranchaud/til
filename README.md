@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1587 TILs and counting..._
+_1588 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -671,6 +671,7 @@ See some of the other learning resources I work on:
 - [Set A Window To Its Default Zoom Level](mac/set-a-window-to-its-default-zoom-level.md)
 - [Specify App When Opening From Command Line](mac/specify-app-when-opening-from-command-line.md)
 - [Start Amphetamine Session With AppleScript](mac/start-amphetamine-session-with-applescript.md)
+- [Uninstall LogiTech G Hub From Mac](mac/uninstall-logitech-g-hub-from-mac.md)
 - [Use A Different Font With iTerm2](mac/use-a-different-font-with-iterm2.md)
 - [Use Default Screenshot Shortcuts With CleanShot X](mac/use-default-screenshot-shortcuts-with-cleanshot-x.md)
 - [View All Windows Of The Current App](mac/view-all-windows-of-the-current-app.md)
