@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1589 TILs and counting..._
+_1590 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -216,6 +216,7 @@ See some of the other learning resources I work on:
 
 - [Configure Different Host And Container Ports](docker/configure-different-host-and-container-ports.md)
 - [List Running Docker Containers](docker/list-running-docker-containers.md)
+- [Prevent Containers From Running On Startup](docker/prevent-containers-from-running-on-startup.md)
 - [Run A Basic PostgreSQL Server In Docker](docker/run-a-basic-postgresql-server-in-docker.md)
 
 ### Drizzle
