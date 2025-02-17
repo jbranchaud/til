@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1590 TILs and counting..._
+_1591 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -24,6 +24,7 @@ See some of the other learning resources I work on:
 * [Amplify](#amplify)
 * [Ansible](#ansible)
 * [Astro](#astro)
+* [AWS](#aws)
 * [Brew](#brew)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
@@ -109,6 +110,10 @@ See some of the other learning resources I work on:
 
 - [Generate Types For A Content Collection](astro/generate-types-for-a-content-collection.md)
 - [Markdown Files Are Of Type MarkdownInstance](astro/markdown-files-are-of-type-markdown-instance.md)
+
+### AWS
+
+- [AWS CLI Requires Groff Executable](aws/aws-cli-requires-groff-executable.md)
 
 ### Brew
 
