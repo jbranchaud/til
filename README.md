@@ -98,10 +98,6 @@ See some of the other learning resources I work on:
 - [Case-Insensitive Search](ack/case-insensitive-search.md)
 - [List Available File Types](ack/list-available-file-types.md)
 
-### Amplify
-
-- [Sign Up User With Email And Password](amplify/sign-up-user-with-email-and-password.md)
-
 ### Ansible
 
 - [Loop Over A List Of Dictionaries](ansible/loop-over-a-list-of-dictionaries.md)
@@ -114,6 +110,7 @@ See some of the other learning resources I work on:
 ### AWS
 
 - [AWS CLI Requires Groff Executable](aws/aws-cli-requires-groff-executable.md)
+- [Sign Up User With Email And Password](aws/sign-up-user-with-email-and-password.md)
 
 ### Brew
 
