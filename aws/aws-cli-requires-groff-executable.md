@@ -15,7 +15,8 @@ This may only be an issue on MacOS Ventura for older versions of the CLI, per
 
 > The CLI's help commands are currently broken on macOS Ventura because Ventura has replaced groff with mandoc. This PR fixes the issue by falling back on mandoc if groff doesn't exist in the path.
 
-There are two ways of dealing with this. One would be to install the missing dependency:
+There are two ways of dealing with this. One would be to install the missing
+dependency, [`groff`](https://www.gnu.org/software/groff/):
 
 ```bash
 $ brew install groff
