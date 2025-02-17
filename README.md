@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1592 TILs and counting..._
+_1593 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1319,6 +1319,7 @@ See some of the other learning resources I work on:
 - [Named Regex Captures Are Assigned To Variables](ruby/named-regex-captures-are-assigned-to-variables.md)
 - [Navigate Back In The Browser With Capybara](ruby/navigate-back-in-the-browser-with-capybara.md)
 - [Next And Previous Floats](ruby/next-and-previous-floats.md)
+- [OpenStruct Has Bad Performance Characteristics](ruby/open-struct-has-bad-performance-characteristics.md)
 - [Or Operator Precedence](ruby/or-operator-precedence.md)
 - [Output Bytecode For A Ruby Program](ruby/output-bytecode-for-a-ruby-program.md)
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
