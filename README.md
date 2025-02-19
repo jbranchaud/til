@@ -21,7 +21,6 @@ See some of the other learning resources I work on:
 ### Categories
 
 * [Ack](#ack)
-* [Amplify](#amplify)
 * [Ansible](#ansible)
 * [Astro](#astro)
 * [AWS](#aws)
