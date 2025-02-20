@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1595 TILs and counting..._
+_1596 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1532,6 +1532,7 @@ See some of the other learning resources I work on:
 - [Find Newer Files](unix/find-newer-files.md)
 - [Find Occurrences Of Multiple Values With Ripgrep](unix/find-occurrences-of-multiple-values-with-ripgrep.md)
 - [Find Top-Level Directories Matching A Pattern](unix/find-top-level-directories-matching-a-pattern.md)
+- [Fix Previous Command With fc](unix/fix-previous-command-with-fc.md)
 - [Fix Shim Path After asdf Upgrade](unix/fix-shim-path-after-asdf-upgrade.md)
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
