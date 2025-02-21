@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1596 TILs and counting..._
+_1597 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -178,6 +178,7 @@ See some of the other learning resources I work on:
 - [Define HSL Colors With Alpha Values](css/define-hsl-colors-with-alpha-values.md)
 - [Display Responsive iframe Maintaining Aspect Ratio](css/display-responsive-iframe-maintaining-aspect-ratio.md)
 - [Dry Up SCSS With Mixins](css/dry-up-scss-with-mixins.md)
+- [Filter Blur Requires Expensive Calculation](css/filter-blur-requires-expensive-calculation.md)
 - [Give Elements The Same Width With Flexbox](css/give-elements-the-same-width-with-flexbox.md)
 - [Let Pointer Events Pass Through An Element](css/let-pointer-events-pass-through-an-element.md)
 - [Lighten And Darken With CSS Brightness Filter](css/lighten-and-darken-with-css-brightness-filter.md)
