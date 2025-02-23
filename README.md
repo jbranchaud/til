@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1598 TILs and counting..._
+_1599 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1575,6 +1575,7 @@ See some of the other learning resources I work on:
 - [List Parent pid With ps](unix/list-parent-pid-with-ps.md)
 - [List Stats For A File](unix/list-stats-for-a-file.md)
 - [List The Available JDKs](unix/list-the-available-jdks.md)
+- [List The PID And Name Of Current Shell Process](unix/list-the-pid-and-name-of-current-shell-process.md)
 - [List The Stack Of Remembered Directories](unix/list-the-stack-of-remembered-directories.md)
 - [List TXT DNS Records For A Domain](unix/list-txt-dns-records-for-a-domain.md)
 - [Load Env Vars In Bash Script](unix/load-env-vars-in-bash-script.md)
