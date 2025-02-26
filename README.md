@@ -956,6 +956,8 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Rails
 
+- [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
+- [ActiveRecord Query For This Or That](rails/active-record-query-for-this-or-that.md)
 - [Add A Check Constraint To A Table](rails/add-a-check-constraint-to-a-table.md)
 - [Add A Database Index If It Does Not Already Exist](rails/add-a-database-index-if-it-does-not-already-exist.md)
 - [Add A Foreign Key Reference To A Table](rails/add-a-foreign-key-reference-to-a-table.md)
@@ -965,8 +967,6 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Add React With Webpacker To A New Rails App](rails/add-react-with-webpacker-to-a-new-rails-app.md)
 - [Add timestamptz Columns With The Migration DSL](rails/add-timestamptz-columns-with-the-migration-dsl.md)
 - [Adjust The Production Log Level](rails/adjust-the-production-log-level.md)
-- [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
-- [ActiveRecord Query For This Or That](rails/active-record-query-for-this-or-that.md)
 - [Advance The Date](rails/advance-the-date.md)
 - [Allow Associations To Be Optional](rails/allow-associations-to-be-optional.md)
 - [Allow List Params Anywhere With Strong Params](rails/allow-list-params-anywhere-with-strong-params.md)
