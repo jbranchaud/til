@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1601 TILs and counting..._
+_1602 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -961,6 +961,7 @@ See some of the other learning resources I work on:
 - [Add ActiveRecord Error Not Tied To Any Attribute](rails/add-activerecord-error-not-tied-to-any-attribute.md)
 - [Add React With Webpacker To A New Rails App](rails/add-react-with-webpacker-to-a-new-rails-app.md)
 - [Add timestamptz Columns With The Migration DSL](rails/add-timestamptz-columns-with-the-migration-dsl.md)
+- [Adjust The Production Log Level](rails/adjust-the-production-log-level.md)
 - [Access Secrets In A Rails 5.2 App](rails/access-secrets-in-a-rails-5-2-app.md)
 - [ActiveRecord Query For This Or That](rails/active-record-query-for-this-or-that.md)
 - [Advance The Date](rails/advance-the-date.md)
