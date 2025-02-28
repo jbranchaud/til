@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1602 TILs and counting..._
+_1603 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1896,6 +1896,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [A Better Way To Reload ZSH Configuration](zsh/a-better-way-to-reload-zsh-configuration.md)
 - [Add To The Path Via Path Array](zsh/add-to-the-path-via-path-array.md)
+- [Create And Jump Into A Directory](zsh/create-and-jump-into-a-directory.md)
 - [Link A Scalar To An Array](zsh/link-a-scalar-to-an-array.md)
 - [Use A Space To Exclude Command From History](zsh/use-a-space-to-exclude-command-from-history.md)
 
