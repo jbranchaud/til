@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1603 TILs and counting..._
+_1604 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1074,6 +1074,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Rescue From](rails/rescue-from.md)
 - [Rescue From With A Separate Method](rails/rescue-from-with-a-separate-method.md)
 - [Respond With JSON Regardless of Content Type](rails/respond-with-json-regardless-of-content-type.md)
+- [Restart Puma Server By Touching Restart File](rails/restart-puma-server-by-touching-restart-file.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
 - [Rollback A Couple Migrations](rails/rollback-a-couple-migrations.md)
 - [Rollback A Specific Migration Out Of Order](rails/rollback-a-specific-migration-out-of-order.md)
