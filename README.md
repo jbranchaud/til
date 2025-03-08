@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1609 TILs and counting..._
+_1610 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -191,6 +191,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
 - [Make A Block Of Text Respect New Lines](css/make-a-block-of-text-respect-new-lines.md)
 - [Parameterized SCSS Mixins](css/parameterized-scss-mixins.md)
+- [Prevent Invisible Elements From Being Clicked](css/prevent-invisible-elements-from-being-clicked.md)
 - [:root Has Higher Specificity Than html](css/root-has-higher-specificity-than-html.md)
 - [Style A Background With A Linear Gradient](css/style-a-background-with-a-linear-gradient.md)
 - [Using Maps In SCSS](css/using-maps-in-scss.md)
