@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1612 TILs and counting..._
+_1613 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -501,6 +501,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Figure Out Your Public IP Address](internet/figure-out-your-public-ip-address.md)
 - [Focus The URL Bar](internet/focus-the-url-bar.md)
 - [Get Random Images From Unsplash](internet/get-random-images-from-unsplash.md)
+- [Grab The RSS Feed For A Substack Blog](internet/grab-the-rss-feed-for-a-substack-blog.md)
 - [Search Tweets By Author](internet/search-tweets-by-author.md)
 - [Show All Pivotal Stories With Blockers](internet/show-all-pivotal-stories-with-blockers.md)
 - [Verify Site Ownership With DNS Record](internet/verify-site-ownership-with-dns-record.md)
