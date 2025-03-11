@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1614 TILs and counting..._
+_1615 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -495,6 +495,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Analyze Your Website Performance](internet/analyze-your-website-performance.md)
 - [Check Your Public IP Address](internet/check-your-public-ip-address.md)
 - [Digraph Unicode Characters Have A Titlecase](internet/digraph-unicode-characters-have-a-titlecase.md)
+- [Download A Google Doc As Specific Format](internet/download-a-google-doc-as-specific-format.md)
 - [Enable Keyboard Shortcuts In Gmail](internet/enable-keyboard-shortcuts-in-gmail.md)
 - [Exclude AI Overview From Google Search](internet/exclude-ai-overview-from-google-search.md)
 - [Exclude Whitespace Changes From GitHub Diffs](internet/exclude-whitespace-changes-from-github-diffs.md)
