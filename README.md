@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1615 TILs and counting..._
+_1616 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -959,6 +959,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### Python
 
 - [Access Instance Variables](python/access-instance-variables.md)
+- [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
