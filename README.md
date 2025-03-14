@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1617 TILs and counting..._
+_1618 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -697,6 +697,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [List The Files Being Loaded By Mise](mise/list-the-files-being-loaded-by-mise.md)
 - [Preserve Color Output For Task Command](mise/preserve-color-output-for-task-command.md)
 - [Read Existing Dot Env File Into Env Vars](mise/read-existing-dot-env-file-into-env-vars.md)
+- [Run A Command With Specific Tool Version](mise/run-a-command-with-specific-tool-version.md)
 
 ### MongoDB
 
