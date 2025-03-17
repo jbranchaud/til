@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1619 TILs and counting..._
+_1620 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -838,6 +838,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Escaping String Literals With Dollar Quoting](postgres/escaping-string-literals-with-dollar-quoting.md)
 - [Export Query Results To A CSV](postgres/export-query-results-to-a-csv.md)
 - [Extracting Nested JSON Data](postgres/extracting-nested-json-data.md)
+- [Fetch Data From An Endpoint In SQL](postgres/fetch-data-from-an-endpoint-in-sql.md)
 - [Fetch Specific Number Of Results](postgres/fetch-specific-number-of-results.md)
 - [Find Duplicate Records In Table Without Unique Id](postgres/find-duplicate-records-in-table-without-unique-id.md)
 - [Find Records That Contain Duplicate Values](postgres/find-records-that-contain-duplicate-values.md)
