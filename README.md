@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1621 TILs and counting..._
+_1622 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -116,6 +116,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Find And Follow Server Logs](aws/find-and-follow-server-logs.md)
 - [Sign Up User With Email And Password](aws/sign-up-user-with-email-and-password.md)
 - [SSH Into An ECS Container](aws/ssh-into-an-ecs-container.md)
+- [Turn Off Output Pager For A Command](aws/turn-off-output-pager-for-a-command.md)
 - [Use Specific AWS Profile With CLI](aws/use-specific-aws-profile-with-cli.md)
 
 ### Brew
