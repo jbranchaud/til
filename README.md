@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1620 TILs and counting..._
+_1621 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1382,6 +1382,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Shift The Month On A Date Object](ruby/shift-the-month-on-a-date-object.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
+- [Show The Bundler Location Of An Installed Gem](ruby/show-the-bundler-location-of-an-installed-gem.md)
 - [Silence The Output Of A Ruby Statement In Pry](ruby/silence-the-output-of-a-ruby-statement-in-pry.md)
 - [Single And Double Quoted String Notation](ruby/single-and-double-quoted-string-notation.md)
 - [Skip Specific CVEs When Auditing Your Bundle](ruby/skip-specific-cves-when-auditing-your-bundle.md)
