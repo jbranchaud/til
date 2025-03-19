@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1623 TILs and counting..._
+_1624 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1732,6 +1732,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Generate and Edit Rails Migration](vim/generate-and-edit-rails-migration.md)
 - [Get The pid Of The Session](vim/get-the-pid-of-the-session.md)
 - [Go Back To The Previous Window](vim/go-back-to-the-previous-window.md)
+- [Go To Beginning And End Of Line](vim/go-to-beginning-and-end-of-line.md)
 - [Go To File With Line Number](vim/go-to-file-with-line-number.md)
 - [Grepping Through The Vim Help Files](vim/grepping-through-the-vim-help-files.md)
 - [Head of File Name](vim/head-of-file-name.md)
