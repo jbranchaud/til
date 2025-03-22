@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1625 TILs and counting..._
+_1626 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -912,6 +912,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Sets With The Values Command](postgres/sets-with-the-values-command.md)
 - [Shorthand Absolute Value Operator](postgres/shorthand-absolute-value-operator.md)
 - [Show All Versions Of An Operator](postgres/show-all-versions-of-an-operator.md)
+- [Show Reconstructed Constraints For A Table](postgres/show-reconstructed-constraints-for-a-table.md)
 - [Show The Hidden Queries Behind Backslash Commands](postgres/show-the-hidden-queries-behind-backslash-commands.md)
 - [Sleeping](postgres/sleeping.md)
 - [Special Math Operators](postgres/special-math-operators.md)
