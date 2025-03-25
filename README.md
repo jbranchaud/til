@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1626 TILs and counting..._
+_1627 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -137,6 +137,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Navigate The Browser History With Vimium](chrome/navigate-the-browser-history-with-vimium.md)
 - [Pretty Print Tabular Data](chrome/pretty-print-tabular-data.md)
 - [Reference The Selected Node](chrome/reference-the-selected-node.md)
+- [Search Tabs With The Vimium Vomnibar](chrome/search-tabs-with-the-vimium-vomnibar.md)
 - [Selecting DOM Elements Faster Than Ever](chrome/selecting-dom-elements-faster-than-ever.md)
 - [Simulating Various Connection Speeds](chrome/simulating-various-connection-speeds.md)
 - [Toggle Device Mode](chrome/toggle-device-mode.md)
