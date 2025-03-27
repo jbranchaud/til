@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1628 TILs and counting..._
+_1629 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1035,6 +1035,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Ensure A Rake Task Cannot Write Data](rails/ensure-a-rake-task-cannot-write-data.md)
 - [Ensure Migrations Use The Latest Schema](rails/ensure-migrations-use-the-latest-schema.md)
 - [Ensure Record Saved With after_commit Callback](rails/ensure-record-saved-with-after-commit-callback.md)
+- [Filter ActiveModel Validation Errors](rails/filter-active-model-validation-errors.md)
 - [Filter ActiveStorage Blobs To Only Images](rails/filter-active-storage-blobs-to-only-images.md)
 - [Find Or Create A Record With FactoryBot](rails/find-or-create-a-record-with-factory-bot.md)
 - [Find Records With Multiple Associated Records](rails/find-records-with-multiple-associated-records.md)
