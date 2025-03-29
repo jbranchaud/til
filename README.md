@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1630 TILs and counting..._
+_1631 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1588,6 +1588,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Grep For Files Without A Match](unix/grep-for-files-without-a-match.md)
 - [Grep For Files With Multiple Matches](unix/grep-for-files-with-multiple-matches.md)
 - [Grep For Multiple Patterns](unix/grep-for-multiple-patterns.md)
+- [Have Script ShellCheck Itself When Executing](unix/have-script-shellcheck-itself-when-executing.md)
 - [Hexdump A Compiled File](unix/hexdump-a-compiled-file.md)
 - [Ignore A Directory During ripgrep Search](unix/ignore-a-directory-during-ripgrep-search.md)
 - [Ignore The Alias When Running A Command](unix/ignore-the-alias-when-running-a-command.md)
