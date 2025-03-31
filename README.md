@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1631 TILs and counting..._
+_1632 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -135,6 +135,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
 - [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
 - [Keybinding To Focus The Address Bar](chrome/keybinding-to-focus-the-address-bar.md)
+- [Open Current Tab In New Window With Vimium](chrome/open-current-tab-in-new-window-with-vimium.md)
 - [Pause JavaScript From The Source DevTools Panel](chrome/pause-javascript-from-the-source-devtools-panel.md)
 - [Navigate The Browser History With Vimium](chrome/navigate-the-browser-history-with-vimium.md)
 - [Pretty Print Tabular Data](chrome/pretty-print-tabular-data.md)
