@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1632 TILs and counting..._
+_1633 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1700,6 +1700,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Breaking The Undo Sequence](vim/breaking-the-undo-sequence.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Build And Install A Go Program](vim/build-and-install-a-go-program.md)
+- [Bypass On-Save Tooling When Writing File](vim/bypass-on-save-tooling-when-writing-file.md)
 - [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
 - [Center The Cursor](vim/center-the-cursor.md)
