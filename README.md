@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1634 TILs and counting..._
+_1635 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -820,6 +820,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Create A Table From The Structure Of Another](postgres/create-a-table-from-the-structure-of-another.md)
 - [Create An Index Across Two Columns](postgres/create-an-index-across-two-columns.md)
 - [Create An Index Without Locking The Table](postgres/create-an-index-without-locking-the-table.md)
+- [Create And Execute SQL Statements With \gexec](postgres/create-and-execute-sql-statements-with-gexec.md)
 - [Create Database Uses Template1](postgres/create-database-uses-template1.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
 - [Create Table Adds A Data Type](postgres/create-table-adds-a-data-type.md)
