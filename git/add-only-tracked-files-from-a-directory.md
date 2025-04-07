@@ -9,10 +9,10 @@ test runs. Most of these files are tracked (already checked in to the
 repository). There are also many new files generated as part of the most recent
 test run.
 
-I want to staging the changes to files that are already tracked, but hold off
-on doing anything with the new files.
+I want to stage the changes to files that are already tracked, but hold off on
+doing anything with the new files.
 
-Running `git add spec/cassettes` won't do the track because that will pull in
+Running `git add spec/cassettes` won't do the trick because that will pull in
 everything. Running `git add --patch spec/cassettes` will take long and be
 tedious. Instead what I want is the `-u` flag. It's short for _update_ which
 means it will only stage already tracked files.
