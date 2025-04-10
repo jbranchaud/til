@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1635 TILs and counting..._
+_1636 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
@@ -1620,6 +1620,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Load Env Vars In Bash Script](unix/load-env-vars-in-bash-script.md)
 - [Look Through All Files That Have Been Git Stashed](unix/look-through-all-files-that-have-been-git-stashed.md)
 - [Make Direnv Less Noisy](unix/make-direnv-less-noisy.md)
+- [Make Neovim The Default Way To View Man Pages](unix/make-neovim-the-default-way-to-view-man-pages.md)
 - [Manually Pass Two Git Files To Delta](unix/manually-pass-two-git-files-to-delta.md)
 - [Map A Domain To localhost](unix/map-a-domain-to-localhost.md)
 - [Negative Look-Ahead Search With ripgrep](unix/negative-look-ahead-search-with-ripgrep.md)
