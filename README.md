@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1639 TILs and counting..._
+_1640 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -349,6 +349,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Grep For A Pattern On Another Branch](git/grep-for-a-pattern-on-another-branch.md)
 - [Grep Over Commit Messages](git/grep-over-commit-messages.md)
 - [Highlight Extra Whitespace In Diff Output](git/highlight-extra-whitespace-in-diff-output.md)
+- [Highlight Small Change On Single Line](git/highlight-small-change-on-single-line.md)
 - [Ignore Changes To A Tracked File](git/ignore-changes-to-a-tracked-file.md)
 - [Ignore Files Specific To Your Workflow](git/ignore-files-specific-to-your-workflow.md)
 - [Include A Message With Your Stashed Changes](git/include-a-message-with-your-stashed-changes.md)
