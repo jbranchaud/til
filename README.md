@@ -13,6 +13,7 @@ For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-
 _1639 TILs and counting..._
 
 See some of the other learning resources I work on:
+- [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
 - [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
 
