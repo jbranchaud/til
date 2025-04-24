@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1640 TILs and counting..._
+_1641 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1603,6 +1603,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Include Ignore Files In Ripgrep Search](unix/include-ignore-files-in-ripgrep-search.md)
 - [Interactively Browse Available Node Versions](unix/interactively-browse-availabile-node-versions.md)
 - [Interactively Switch asdf Package Versions](unix/interactively-switch-asdf-package-versions.md)
+- [Interpret Cron Schedule From The CLI](unix/interpret-cron-schedule-from-the-cli.md)
 - [Jump To The Ends Of Your Shell History](unix/jump-to-the-ends-of-your-shell-history.md)
 - [Kill Everything Running On A Certain Port](unix/kill-everything-running-on-a-certain-port.md)
 - [Killing A Frozen SSH Session](unix/killing-a-frozen-ssh-session.md)
