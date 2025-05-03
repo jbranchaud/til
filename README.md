@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1642 TILs and counting..._
+_1643 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -317,6 +317,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Cherry Pick A Range Of Commits](git/cherry-pick-a-range-of-commits.md)
+- [Cherry Pick Multiple Commits At Once](git/cherry-pick-multiple-commits-at-once.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Clean Out Working Copy With Patched Restore](git/clean-out-working-copy-with-patched-restore.md)
 - [Clean Up Old Remote Tracking References](git/clean-up-old-remote-tracking-references.md)
