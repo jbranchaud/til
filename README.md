@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1643 TILs and counting..._
+_1644 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1032,6 +1032,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
 - [Custom Validation Message](rails/custom-validation-message.md)
 - [Customize Paths And Helpers For Devise Routes](rails/customize-paths-and-helpers-for-devise-routes.md)
+- [Customize Template For New Schema Migration](rails/customize-template-for-new-schema-migration.md)
 - [Customize The Path Of A Resource Route](rails/customize-the-path-of-a-resource-route.md)
 - [Define The Root Path For The App](rails/define-the-root-path-for-the-app.md)
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
