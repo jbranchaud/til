@@ -1955,6 +1955,10 @@ current number of TILs and display the result in the command tray.
 
 ## About
 
+I've written more about how this repo came to be in [How I Built a Learning
+Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9) and [A
+Decade of TILs](https://www.visualmode.dev/a-decade-of-tils).
+
 I shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til).
 
