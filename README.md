@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1645 TILs and counting..._
+_1646 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -385,6 +385,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Renaming A Branch](git/renaming-a-branch.md)
 - [Resetting A Reset](git/resetting-a-reset.md)
 - [Resolve A Merge Conflict From Stash Pop](git/resolve-a-merge-conflict-from-stash-pop.md)
+- [Restore File From One Branch To The Current](git/restore-file-from-one-branch-to-the-current.md)
 - [Review Commits From Before A Certain Date](git/review-commits-from-before-a-certain-date.md)
 - [Run A Git Command From Outside The Repo](git/run-a-git-command-from-outside-the-repo.md)
 - [Set A Custom Pager For A Specific Command](git/set-a-custom-pager-for-a-specific-command.md)
