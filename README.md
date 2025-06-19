@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1647 TILs and counting..._
+_1648 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -912,6 +912,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Prevent A Query From Running Too Long](postgres/prevent-a-query-from-running-too-long.md)
 - [Print The Query Buffer In psql](postgres/print-the-query-buffer-in-psql.md)
 - [Put Unique Constraint On Generated Column](postgres/put-unique-constraint-on-generated-column.md)
+- [References Target Primary Key By Default](postgres/references-target-primary-key-by-default.md)
 - [Remove Not Null Constraint From A Column](postgres/remove-not-null-constraint-from-a-column.md)
 - [Renaming A Sequence](postgres/renaming-a-sequence.md)
 - [Renaming A Table](postgres/renaming-a-table.md)
