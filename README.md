@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1648 TILs and counting..._
+_1649 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1083,6 +1083,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Make A String Attribute Easy To Inquire About](rails/make-a-string-attribute-easy-to-inquire-about.md)
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
 - [Make Remove Column Migration Reversible](rails/make-remove-column-migration-reversible.md)
+- [Manage Timestamps With Upsert](rails/manage-timestamps-with-upsert.md)
 - [Manually Run A Migration From Rails Console](rails/manually-run-a-migration-from-rails-console.md)
 - [Mark For Destruction](rails/mark-for-destruction.md)
 - [Mask An ActiveRecord Attribute](rails/mask-an-activerecord-attribute.md)
