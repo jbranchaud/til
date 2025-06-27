@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1649 TILs and counting..._
+_1650 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1915,6 +1915,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Temporarily Hide CleanShot X Capture Previews](workflow/temporarily-hide-cleanshot-x-capture-previews.md)
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
 - [Update asdf Plugins With Latest Package Versions](workflow/update-asdf-plugins-with-latest-package-versions.md)
+- [View A Nicely-Formatted CSV In Terminal](workflow/view-a-nicely-formatted-csv-in-terminal.md)
 - [View The PR For The Current GitHub Branch](workflow/view-the-pr-for-the-current-github-branch.md)
 
 ### XState
