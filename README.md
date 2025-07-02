@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1651 TILs and counting..._
+_1652 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1534,6 +1534,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### Unix
 
 - [All The Environment Variables](unix/all-the-environment-variables.md)
+- [Authorize A cURL Request](unix/authorize-a-curl-request.md)
 - [Cat A File With Line Numbers](unix/cat-a-file-with-line-numbers.md)
 - [Cat Files With Color Using Bat](unix/cat-files-with-color-using-bat.md)
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
