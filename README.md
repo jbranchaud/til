@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1652 TILs and counting..._
+_1653 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1314,6 +1314,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Create Listing Of All Middleman Pages](ruby/create-listing-of-all-middleman-pages.md)
 - [Create Named Structs With Struct.new](ruby/create-named-structs-with-struct-new.md)
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
+- [Decompose Unicode Character With Diacritic Mark](ruby/decompose-unicode-character-with-diacritic-mark.md)
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
 - [Define A Method On A Struct](ruby/define-a-method-on-a-struct.md)
