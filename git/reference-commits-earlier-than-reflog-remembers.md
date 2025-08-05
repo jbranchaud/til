@@ -2,7 +2,7 @@
 
 While preparing some stats for a recent blog post on [A Decade of
 TILs](https://www.visualmode.dev/a-decade-of-tils), I ran into an issue
-referencing chuncks of time further back than 2020.
+referencing chunks of time further back than 2020.
 
 ```bash
 ❯ git diff --diff-filter=A --name-only HEAD@{2016-02-06}..HEAD@{2017-02-06} -- "*.md"
