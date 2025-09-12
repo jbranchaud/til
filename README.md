@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1654 TILs and counting..._
+_1655 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1093,6 +1093,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Mock Rails Environment With An Inquiry Instance](rails/mock-rails-environment-with-an-inquiry-instance.md)
 - [Order Matters For `rescue_from` Blocks](rails/order-matters-for-rescue-from-blocks.md)
 - [Override Text Displayed By Form Label](rails/override-text-displayed-by-form-label.md)
+- [Parameterize A String With Underscores](rails/parameterize-a-string-with-underscores.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
 - [Params Is A Hash With Indifferent Access](rails/params-is-a-hash-with-indifferent-access.md)
 - [Parse Query Params From A URL](rails/parse-query-params-from-a-url.md)
