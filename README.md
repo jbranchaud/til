@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1655 TILs and counting..._
+_1656 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1295,6 +1295,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Assert About An Object's Attributes With RSpec](ruby/assert-about-an-objects-attributes-with-rspec.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Audit Your Ruby Project For Any CVEs](ruby/audit-your-ruby-project-for-any-cves.md)
+- [Avoid Double Negation With Minitest Refute](ruby/avoid-double-negation-with-minitest-refute.md)
 - [Block Comments](ruby/block-comments.md)
 - [Block Syntaxes Have Different Precedence](ruby/block-syntaxes-have-different-precedence.md)
 - [Build HTTP And HTTPS URLs](ruby/build-http-and-https-urls.md)
