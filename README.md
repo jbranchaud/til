@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1656 TILs and counting..._
+_1657 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1470,6 +1470,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Apply Tailwind Classes To Existing CSS Class](tailwind/apply-tailwind-classes-to-existing-css-class.md)
 - [Base Styles For Text Link](tailwind/base-styles-for-text-link.md)
+- [Disable And Enable A Button](tailwind/disable-and-enable-a-button.md)
 - [Specify Paths For Purging Unused CSS](tailwind/specify-paths-for-purging-unused-css.md)
 - [Use Tailwind Typography Prose In Dark Mode](tailwind/use-tailwind-typography-prose-in-dark-mode.md)
 
