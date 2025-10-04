@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1658 TILs and counting..._
+_1659 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -484,6 +484,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### HTML
 
 - [Adding Alt Text To An Image](html/adding-alt-text-to-an-image.md)
+- [Allow Number Input To Accept Decimal Values](html/allow-number-input-to-accept-decimal-values.md)
 - [Determine Which Button Submitted The Form](html/determine-which-button-submitted-the-form.md)
 - [Disable Auto-Completion For A Form Input](html/disable-auto-completion-for-a-form-input.md)
 - [Disclose Additional Details](html/disclose-additional-details.md)
