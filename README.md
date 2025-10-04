@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1657 TILs and counting..._
+_1658 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1126,6 +1126,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Run Some Code Whenever Rails Console Starts](rails/run-some-code-whenever-rails-console-starts.md)
 - [Scaffold Auth Functionality With Rails 8 Generator](rails/scaffold-auth-functionality-with-rails-8-generator.md)
 - [Schedule Sidekiq Jobs Out Into The Future](rails/schedule-sidekiq-jobs-out-into-the-future.md)
+- [Scope Records To A Lower Or Upper Bound](rails/scope-records-to-a-lower-or-upper-bound.md)
 - [Secure Passwords With Rails And Bcrypt](rails/secure-passwords-with-rails-and-bcrypt.md)
 - [Select A Select By Selector](rails/select-a-select-by-selector.md)
 - [Select A Specific Rails Version To Install](rails/select-a-specific-rails-version-to-install.md)
