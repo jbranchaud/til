@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1659 TILs and counting..._
+_1660 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1103,6 +1103,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Polymorphic Path Helpers](rails/polymorphic-path-helpers.md)
 - [Prefer select_all Over execute For Read Queries](rails/prefer-select-all-over-execute-for-read-queries.md)
 - [Pretend Generations](rails/pretend-generations.md)
+- [Prevent Mailer Previews From Cluttering Database](rails/prevent-mailer-previews-from-cluttering-database.md)
 - [Prevent Writes With A Sandboxed Rails Console](rails/prevent-writes-with-a-sandboxed-rails-console.md)
 - [Provide Fake Form Helper To Controllers](rails/provide-fake-form-helper-to-controllers.md)
 - [Query A Single Value From The Database](rails/query-a-single-value-from-the-database.md)
