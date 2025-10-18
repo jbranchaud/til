@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1661 TILs and counting..._
+_1662 TILs and counting..._
 
 See some of the other learning resources I work on:
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
@@ -1687,6 +1687,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [Tell direnv To Load The Env File](unix/tell-direnv-to-load-the-env-file.md)
 - [Touch Access And Modify Times Individually](unix/touch-access-and-modify-times-individually.md)
+- [Transform Text To Lowercase](unix/transform-text-to-lowercase.md)
 - [Type Fewer Paths With Brace Expansion](unix/type-fewer-paths-with-brace-expansion.md)
 - [Undo Changes Made To Current Terminal Prompt](unix/undo-changes-made-to-current-terminal-prompt.md)
 - [Undo Some Command Line Editing](unix/undo-some-command-line-editing.md)
