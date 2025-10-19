@@ -10,9 +10,10 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1662 TILs and counting..._
+_1663 TILs and counting..._
 
 See some of the other learning resources I work on:
+
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
 - [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
@@ -391,6 +392,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Run A Git Command From Outside The Repo](git/run-a-git-command-from-outside-the-repo.md)
 - [Set A Custom Pager For A Specific Command](git/set-a-custom-pager-for-a-specific-command.md)
 - [Set Default Branch Name For New Repos](git/set-default-branch-name-for-new-repos.md)
+- [Set Up GPG Signing Key](git/set-up-gpg-signing-key.md)
 - [Shorthand To Force Push A Branch](git/shorthand-to-force-push-a-branch.md)
 - [Show All Commits For A File Beyond Renaming](git/show-all-commits-for-a-file-beyond-renaming.md)
 - [Show Changes For Files That Match A Pattern](git/show-changes-for-files-that-match-a-pattern.md)
