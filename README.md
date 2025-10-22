@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1663 TILs and counting..._
+_1664 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -681,6 +681,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Access All Screen And Video Capture Options](mac/access-all-screen-and-video-capture-options.md)
 - [Access System Information On OS X](mac/access-system-information-on-osx.md)
 - [Access Unsupported Screen Resolutions With RDM](mac/access-unsupported-screen-resolutions-with-rdm.md)
+- [Capture Screenshot To Clipboard From CLI](mac/capture-screenshot-to-clipboard-from-cli.md)
 - [Check Network Quality Stats From The Command Line](mac/check-network-quality-stats-from-the-command-line.md)
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Convert An HEIC Image File To JPG](mac/convert-an-heic-image-file-to-jpg.md)
