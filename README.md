@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1664 TILs and counting..._
+_1665 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -125,6 +125,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Brew
 
+- [Clean Up Your Brew Installations](brew/clean-up-your-brew-installations.md)
 - [Configure Brew Environment Variables](brew/configure-brew-environment-variables.md)
 - [Export List Of Everything Installed By Brew](brew/export-list-of-everything-installed-by-brew.md)
 - [List All Services Managed By Brew](brew/list-all-services-managed-by-brew.md)
