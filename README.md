@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1665 TILs and counting..._
+_1666 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1358,6 +1358,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Generate Ruby Version And Gemset Files With RVM](ruby/generate-ruby-version-and-gemset-files-with-rvm.md)
 - [Get Info About Your RubyGems Environment](ruby/get-info-about-your-ruby-gems-environment.md)
 - [Get Specific Values From Arrays And Hashes](ruby/get-specific-values-from-hashes-and-arrays.md)
+- [Get The Names Of The Month](ruby/get-the-names-of-the-month.md)
 - [Get The Output Of Running A System Program](ruby/get-the-output-of-running-a-system-program.md)
 - [Get UTC Offset For Different Time Zones](ruby/get-utc-offset-for-different-time-zones.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
