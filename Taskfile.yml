@@ -74,16 +74,3 @@ tasks:
         fi
     interactive: true
     silent: true
-
-  notes:help:
-    desc: Show available notes commands
-    cmds:
-      - echo "Available notes tasks:"
-      - echo "  task notes:edit     - Edit notes (syncs first)"
-      - echo "  task notes:push     - Commit and push changes"
-      - echo "  task notes:save     - Edit and push in one command"
-      - echo "  task notes:sync     - Pull latest changes"
-      - echo "  task notes:status   - Check git status"
-      - echo "  task notes:diff     - Show uncommitted changes"
-      - echo "  task notes:log      - Show recent commits"
-    silent: true
