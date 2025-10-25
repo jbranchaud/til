@@ -67,7 +67,7 @@ tasks:
     desc: Interactive picker for notes tasks
     cmds:
       - |
-        TASK=$(task --list | grep "^\* notes:" | sed 's/^\* notes://' | sed 's/\s\+/ - /' | fzf --prompt="Select notes task: " --height=40% --reverse)
+        TASK=$(task --list | grep "^\* notes:" | sed 's/^\* notes://' | sed 's/\s\+/ - /' | fzf --prompt="Select notes task: " --height=40% --reverse) || true
         if [ -n "$TASK" ]; then
           TASK_NAME=$(echo "$TASK" | awk '{print $1}' | sed 's/:$//')
           task notes:$TASK_NAME
