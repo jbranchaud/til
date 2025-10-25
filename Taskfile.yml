@@ -6,6 +6,11 @@ vars:
   EDITOR: '{{.EDITOR | default "nvim"}}'
 
 tasks:
+  default:
+    desc: Show available commands
+    cmds:
+      - task --list
+
   notes:sync:
     desc: Sync latest changes from the notes submodule
     cmds:
