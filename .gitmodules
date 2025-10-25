@@ -1,3 +1,4 @@
 [submodule "notes"]
 	path = notes
 	url = git@github.com:jbranchaud/til-notes-private.git
+	branch = main
