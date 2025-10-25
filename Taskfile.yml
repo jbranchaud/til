@@ -1,0 +1,72 @@
+version: '3'
+
+vars:
+  NOTES_DIR: notes
+  NOTES_FILE: '{{.NOTES_DIR}}/NOTES.md'
+  EDITOR: '{{.EDITOR | default "nvim"}}'
+
+tasks:
+  notes:sync:
+    desc: Sync latest changes from the notes submodule
+    cmds:
+      - git submodule update --remote {{.NOTES_DIR}}
+      - cd {{.NOTES_DIR}} && git checkout main
+    silent: false
+
+  notes:edit:
+    desc: Edit NOTES.md (syncs latest changes first)
+    deps: [notes:sync]
+    cmds:
+      - $EDITOR {{.NOTES_FILE}}
+    interactive: true
+
+  notes:push:
+    desc: Commit and push changes to notes submodule
+    dir: '{{.NOTES_DIR}}'
+    cmds:
+      - git add NOTES.md
+      - git diff --cached --quiet || git commit -m "Update notes - $(date '+%Y-%m-%d %H:%M')"
+      - git push
+    silent: false
+
+  notes:status:
+    desc: Check status of notes submodule
+    dir: '{{.NOTES_DIR}}'
+    cmds:
+      - git status
+
+  notes:save:
+    desc: Quick save - edit, commit, and push notes
+    cmds:
+      - task notes:edit
+      - task notes:push
+
+  notes:pull:
+    desc: Pull latest changes (alias for sync)
+    cmds:
+      - task notes:sync
+
+  notes:diff:
+    desc: Show uncommitted changes in notes
+    dir: '{{.NOTES_DIR}}'
+    cmds:
+      - git diff NOTES.md
+
+  notes:log:
+    desc: Show recent commit history for notes
+    dir: '{{.NOTES_DIR}}'
+    cmds:
+      - git log --oneline -10
+
+  notes:help:
+    desc: Show available notes commands
+    cmds:
+      - echo "Available notes tasks:"
+      - echo "  task notes:edit     - Edit notes (syncs first)"
+      - echo "  task notes:push     - Commit and push changes"
+      - echo "  task notes:save     - Edit and push in one command"
+      - echo "  task notes:sync     - Pull latest changes"
+      - echo "  task notes:status   - Check git status"
+      - echo "  task notes:diff     - Show uncommitted changes"
+      - echo "  task notes:log      - Show recent commits"
+    silent: true
