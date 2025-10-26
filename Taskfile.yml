@@ -11,6 +11,18 @@ tasks:
     cmds:
       - task --list
 
+  notes:
+    desc: Interactive picker for notes tasks
+    cmds:
+      - |
+        TASK=$(task --list | grep "^\* notes:" | sed 's/^\* notes://' | sed 's/\s\+/ - /' | fzf --prompt="Select notes task: " --height=40% --reverse) || true
+        if [ -n "$TASK" ]; then
+          TASK_NAME=$(echo "$TASK" | awk '{print $1}' | sed 's/:$//')
+          task notes:$TASK_NAME
+        fi
+    interactive: true
+    silent: true
+
   notes:sync:
     desc: Sync latest changes from the notes submodule
     cmds:
@@ -62,15 +74,3 @@ tasks:
     dir: '{{.NOTES_DIR}}'
     cmds:
       - git log --oneline -10
-
-  notes:
-    desc: Interactive picker for notes tasks
-    cmds:
-      - |
-        TASK=$(task --list | grep "^\* notes:" | sed 's/^\* notes://' | sed 's/\s\+/ - /' | fzf --prompt="Select notes task: " --height=40% --reverse) || true
-        if [ -n "$TASK" ]; then
-          TASK_NAME=$(echo "$TASK" | awk '{print $1}' | sed 's/:$//')
-          task notes:$TASK_NAME
-        fi
-    interactive: true
-    silent: true
