@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1666 TILs and counting..._
+_1667 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -748,6 +748,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Allow Neovim To Copy/Paste With System Clipboard](neovim/allow-neovim-to-copy-paste-with-system-clipboard.md)
 - [Create User Command To Open Init Config](neovim/create-user-command-to-open-init-config.md)
+- [Jump Between Changes In Current File](neovim/jump-between-changes-in-current-file.md)
 - [Run A Lua Statement From The Command Prompt](neovim/run-a-lua-statement-from-the-command-prompt.md)
 - [Run nvim With Factory Defaults](neovim/run-nvim-with-factory-defaults.md)
 - [Set Up Vim-Plug With Neovim](neovim/set-up-vim-plug-with-neovim.md)
