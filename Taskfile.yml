@@ -23,6 +23,12 @@ tasks:
     interactive: true
     silent: true
 
+  notes:edit:
+    desc: All-in-one edit, commit, and push notes
+    cmds:
+      - task notes:open
+      - task notes:push
+
   notes:sync:
     desc: Sync latest changes from the notes submodule
     cmds:
@@ -30,8 +36,8 @@ tasks:
       - cd {{.NOTES_DIR}} && git checkout main
     silent: false
 
-  notes:edit:
-    desc: Edit NOTES.md (syncs latest changes first)
+  notes:open:
+    desc: Opens NOTES.md (syncs latest changes first) in default editor
     deps: [notes:sync]
     cmds:
       - $EDITOR {{.NOTES_FILE}}
@@ -51,12 +57,6 @@ tasks:
     dir: '{{.NOTES_DIR}}'
     cmds:
       - git status
-
-  notes:save:
-    desc: Quick save - edit, commit, and push notes
-    cmds:
-      - task notes:edit
-      - task notes:push
 
   notes:pull:
     desc: Pull latest changes (alias for sync)
