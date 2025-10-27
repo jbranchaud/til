@@ -416,7 +416,6 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
 - [Transition A Branch From One Base To Another](git/transition-a-branch-from-one-base-to-another.md)
-- [Tell gh What The Default Repo Is](git/tell-gh-what-the-default-repo-is.md)
 - [Turn Off The Output Pager For One Command](git/turn-off-the-output-pager-for-one-command.md)
 - [Two Kinds Of Dotted Range Notation](git/two-kinds-of-dotted-range-notation.md)
 - [Unstage Changes Wih Git Restore](git/unstage-changes-with-git-restore.md)
@@ -434,6 +433,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### GitHub
 
 - [Open A PR To An Unforked Repo](github/open-a-pr-to-an-unforked-repo.md)
+- [Tell gh What The Default Repo Is](github/tell-gh-what-the-default-repo-is.md)
 
 ### GitHub Actions
 
