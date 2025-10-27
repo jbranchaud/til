@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1668 TILs and counting..._
+_1669 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -40,6 +40,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [Elixir](#elixir)
 * [Gatsby](#gatsby)
 * [Git](#git)
+* [GitHub](#github)
 * [GitHub Actions](#github-actions)
 * [Go](#go)
 * [GROQ](#groq)
@@ -429,6 +430,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [What Changed?](git/what-changed.md)
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
+
+### GitHub
+
+- [Open A PR To An Unforked Repo](github/open-a-pr-to-an-unforked-repo.md)
 
 ### GitHub Actions
 
