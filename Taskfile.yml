@@ -46,12 +46,12 @@ tasks:
   notes:push:
     desc: Commit and push changes to notes submodule
     dir: '{{.NOTES_DIR}}'
-    preconditions:
-      - sh: git add NOTES.md && ! git diff --cached --quiet
-        msg: "No changes to commit"
     cmds:
+      - git add NOTES.md
       - git commit -m "Update notes - $(date '+%Y-%m-%d %H:%M')"
       - git push
+    status:
+      - git add NOTES.md && git diff --cached --quiet
     silent: false
 
   notes:status:
