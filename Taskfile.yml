@@ -51,7 +51,7 @@ tasks:
       - git commit -m "Update notes - $(date '+%Y-%m-%d %H:%M')"
       - git push
     status:
-      - git add NOTES.md && git diff --cached --quiet
+      - git diff --exit-code NOTES.md
     silent: false
 
   notes:status:
