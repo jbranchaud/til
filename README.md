@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1670 TILs and counting..._
+_1671 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -83,6 +83,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [SQLite](#sqlite)
 * [Streaming](#streaming)
 * [Tailwind CSS](#tailwind-css)
+* [Taskfile](#taskfile)
 * [tmux](#tmux)
 * [TypeScript](#typescript)
 * [Unix](#unix)
@@ -1493,6 +1494,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Disable And Enable A Button](tailwind/disable-and-enable-a-button.md)
 - [Specify Paths For Purging Unused CSS](tailwind/specify-paths-for-purging-unused-css.md)
 - [Use Tailwind Typography Prose In Dark Mode](tailwind/use-tailwind-typography-prose-in-dark-mode.md)
+
+### Taskfile
+
+- [Run A Task If It Meets Criteria](taskfile/run-a-task-if-it-meets-criteria.md)
 
 ### tmux
 
