@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1672 TILs and counting..._
+_1673 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1503,6 +1503,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### tmux
 
 - [Access Past Copy Buffer History](tmux/access-past-copy-buffer-history.md)
+- [Add Bindings To Split Panes To Current Directory](tmux/add-bindings-to-split-panes-to-current-directory.md)
 - [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Break Current Pane Out To Separate Window](tmux/break-current-pane-out-to-separate-window.md)
 - [Change Base Directory Of Existing Session](tmux/change-base-directory-of-existing-session.md)
