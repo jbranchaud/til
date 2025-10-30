@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1673 TILs and counting..._
+_1674 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1855,6 +1855,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Replace A Character](vim/replace-a-character.md)
 - [Reset Target tslime Pane](vim/reset-target-tslime-pane.md)
 - [Reverse A Group Of Lines](vim/reverse-a-group-of-lines.md)
+- [Reword A Commit Message With Fugitive](vim/reword-a-commit-message-with-fugitive.md)
 - [Rotate Everything By 13 Letters](vim/rotate-everything-by-13-letters.md)
 - [Rotate The Orientation Of Split Windows](vim/rotate-the-orientation-of-split-windows.md)
 - [Running Bundle With vim-bundler](vim/running-bundle-with-vim-bundler.md)
