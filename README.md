@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1674 TILs and counting..._
+_1675 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1605,6 +1605,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Enable Multi-Select Of Results With fzf](unix/enable-multi-select-of-results-with-fzf.md)
 - [Exclude A Command From The ZSH History File](unix/exclude-a-command-from-the-zsh-history-file.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
+- [Exclude A Specific File From fd Results](unix/exclude-a-specific-file-from-fd-results.md)
 - [Exclude Certain Files From An rsync Run](unix/exclude-certain-files-from-an-rsync-run.md)
 - [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
