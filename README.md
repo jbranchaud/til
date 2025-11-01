@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1675 TILs and counting..._
+_1676 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -942,6 +942,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
 - [Set A Statement Timeout Threshold For A Session](postgres/set-a-statement-timeout-threshold-for-a-session.md)
+- [Set Up A Project-Local Cluster With Postgres.app](postgres/set-up-a-project-local-cluster-with-postgres-app.md)
 - [Sets With The Values Command](postgres/sets-with-the-values-command.md)
 - [Shorthand Absolute Value Operator](postgres/shorthand-absolute-value-operator.md)
 - [Show All Versions Of An Operator](postgres/show-all-versions-of-an-operator.md)
