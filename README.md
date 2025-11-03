@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1679 TILs and counting..._
+_1680 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1909,6 +1909,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Find The Location Of User Settings JSON File](vscode/find-the-location-of-user-settings-json-file.md)
 - [Jump To Problems In The Current File](vscode/jump-to-problems-in-the-current-file.md)
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
+- [Open File On Remote Like GitHub](vscode/open-file-on-remote-like-github.md)
 - [Pop Open The Quick Fix Window](vscode/pop-open-the-quick-fix-window.md)
 - [Step Through Project-Wide Search Results](vscode/step-through-project-wide-search-results.md)
 - [Synchronize Vim Clipboard With System Clipboard](vscode/synchronize-vim-clipboard-with-system-clipboard.md)
