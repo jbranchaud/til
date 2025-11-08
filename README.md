@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1680 TILs and counting..._
+_1681 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1051,6 +1051,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Comparing DateTimes Down To Second Precision](rails/comparing-datetimes-down-to-second-precision.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
+- [Convert JSON Field To Hash With Indifferent Access](rails/convert-json-field-to-hash-with-indifferent-access.md)
 - [Count The Number Of Records By Attribute](rails/count-the-number-of-records-by-attribute.md)
 - [Create A Custom Named References Column](rails/create-a-custom-named-references-column.md)
 - [Create A Join Table With The Migration DSL](rails/create-a-join-table-with-the-migration-dsl.md)
