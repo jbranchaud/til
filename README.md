@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1683 TILs and counting..._
+_1684 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -409,6 +409,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Show File Diffs When Viewing Git Log](git/show-file-diffs-when-viewing-git-log.md)
 - [Show List Of Most Recently Committed Branches](git/show-list-of-most-recently-committed-branches.md)
 - [Show Only Commits That Touch Specific Lines](git/show-only-commits-that-touch-specific-lines.md)
+- [Show Summary Stats For Current Branch](git/show-summary-stats-for-current-branch.md)
 - [Show The diffstat Summary Of A Commit](git/show-the-diffstat-summary-of-a-commit.md)
 - [Show The Good And The Bad With Git Bisect](git/show-the-good-and-the-bad-with-git-bisect.md)
 - [Show What Is In A Stash](git/show-what-is-in-a-stash.md)
