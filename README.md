@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1685 TILs and counting..._
+_1686 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -702,6 +702,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Convert An HEIC Image File To JPG](mac/convert-an-heic-image-file-to-jpg.md)
 - [Default Screenshot Location](mac/default-screenshot-location.md)
+- [Detect How Long A User Has Been Idle](mac/detect-how-long-a-user-has-been-idle.md)
 - [Disable Swipe Navigation For A Specific App](mac/disable-swipe-navigation-for-a-specific-app.md)
 - [Display A Message With Alfred](mac/display-a-message-with-alfred.md)
 - [Find The Process Using A Specific Port](mac/find-the-process-using-a-specific-port.md)
