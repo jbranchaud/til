@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1686 TILs and counting..._
+_1687 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1710,6 +1710,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Securely Remove Files](unix/securely-remove-files.md)
 - [See Where asdf Gets Current Tool Version](unix/see-where-asdf-gets-current-tool-version.md)
 - [Set The asdf Package Version For A Single Shell](unix/set-the-asdf-package-version-for-a-single-shell.md)
+- [Shorten SSH Commands With Aliases](unix/shorten-ssh-commands-with-aliases.md)
 - [Show A File Preview When Searching With FZF](unix/show-a-file-preview-when-searching-with-fzf.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
 - [Show The Size Of Everything In A Directory](unix/show-the-size-of-everything-in-a-directory.md)
