@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1687 TILs and counting..._
+_1688 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1946,6 +1946,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Create A Local Sanity Dataset Backup](workflow/create-a-local-sanity-dataset-backup.md)
 - [Create A Public URL For A Local Server](workflow/create-a-public-url-for-a-local-server.md)
 - [Create Todo Items In Logseq](workflow/create-todo-items-in-logseq.md)
+- [Do Project Time Tracking From The CLI](workflow/do-project-time-tracking-from-the-cli.md)
 - [Enable Dev Tools For Safari](workflow/enable-dev-tools-for-safari.md)
 - [Forward Stripe Events To Local Server](workflow/forward-stripe-events-to-local-server.md)
 - [Get URL For GitHub User Profile Photo](workflow/get-url-for-github-user-profile-photo.md)
