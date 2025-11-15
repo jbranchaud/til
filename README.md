@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1689 TILs and counting..._
+_1690 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -711,6 +711,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [Inspect Assertions Preventing Sleep](mac/inspect-assertions-preventing-sleep.md)
 - [Keyboard Shortcuts For Interesting With Text Areas](mac/keyboard-shortcuts-for-interacting-with-text-areas.md)
+- [Launch Some Confetti](mac/launch-some-confetti.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Open Finder.app To Specific Directory](mac/open-finder-app-to-specific-directory.md)
 - [Prevent Sleep With The Caffeinate Command](mac/prevent-sleep-with-the-caffeinate-command.md)
