@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1691 TILs and counting..._
+_1692 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -657,6 +657,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Colocate jj And git Directories For Project](jj/colocate-jj-and-git-directories-for-project.md)
 - [Find System-wide Config File For User](jj/find-system-wide-config-file-for-user.md)
+- [Squash Changes Into Parent Commit Interactively](jj/squash-changes-into-parent-commit-interactively.md)
 
 ### jq
 
