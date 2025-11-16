@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1690 TILs and counting..._
+_1691 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -808,6 +808,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Planetscale
 
+- [See What Databases You Have Access To](planetscale/see-what-databases-you-have-access-to.md)
 - [Seed Production Data Into Another Branch](planetscale/seed-production-data-into-another-branch.md)
 
 ### pnpm
