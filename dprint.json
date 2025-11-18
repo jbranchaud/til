@@ -1,7 +1,4 @@
 {
   "excludes": ["README.md"],
-  "markdown": {
-    "textWrap": "never"
-  },
   "plugins": ["https://plugins.dprint.dev/markdown-0.16.0.wasm"]
 }
