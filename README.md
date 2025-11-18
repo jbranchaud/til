@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1693 TILs and counting..._
+_1694 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -31,6 +31,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [AWS](#aws)
 * [Brew](#brew)
 * [Chrome](#chrome)
+* [Claude Code](#claude-code)
 * [Clojure](#clojure)
 * [CSS](#css)
 * [Deno](#deno)
@@ -153,6 +154,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Toggle Open The Console Drawer](chrome/toggle-open-the-console-drawer.md)
 - [Trigger Commands From The Devtools Command Palette](chrome/trigger-commands-from-the-devtools-command-palette.md)
 - [View Network Traffic For New Tabs](chrome/view-network-traffic-for-new-tabs.md)
+
+### Claude Code
+
+- [Open Current Prompt In Default Editor](claude-code/open-current-prompt-in-default-editor.md)
 
 ### Clojure
 
