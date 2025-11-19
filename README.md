@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1695 TILs and counting..._
+_1696 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -380,6 +380,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
 - [List All Files Added During Span Of Time](git/list-all-files-added-during-span-of-time.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
+- [List All Git Aliases From gitconfig](git/list-all-git-aliases-from-gitconfig.md)
 - [List Branches That Contain A Commit](git/list-branches-that-contain-a-commit.md)
 - [List Commits On A Branch](git/list-commits-on-a-branch.md)
 - [List Different Commits Between Two Branches](git/list-different-commits-between-two-branches.md)
