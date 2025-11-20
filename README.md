@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1696 TILs and counting..._
+_1697 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -763,6 +763,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Doing Date Math](mysql/doing-date-math.md)
 - [Dump A Database To A File](mysql/dump-a-database-to-a-file.md)
 - [Echo A Message From A SQL File](mysql/echo-a-message-from-a-sql-file.md)
+- [Get Idea Of What Is In A JSON Column](mysql/get-idea-of-what-is-in-a-json-column.md)
 - [Ignore Duplicates When Inserting Records](mysql/ignore-duplicates-when-inserting-records.md)
 - [List Databases And Tables](mysql/list-databases-and-tables.md)
 - [Run Statements In A Transaction](mysql/run-statements-in-a-transaction.md)
