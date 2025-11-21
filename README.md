@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1697 TILs and counting..._
+_1698 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1617,6 +1617,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Curl With Cookies](unix/curl-with-cookies.md)
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
+- [Determine ipv4 And ipv6 Public IP Addresses](unix/determine-ipv4-and-ipv6-public-ip-addresses.md)
 - [Different Ways To Generate A v4 UUID](unix/different-ways-to-generate-a-v4-uuid.md)
 - [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
