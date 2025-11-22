@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1698 TILs and counting..._
+_1699 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -157,6 +157,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Claude Code
 
+- [Monitor Usage Limits From CLI](claude-code/monitor-usage-limits-from-cli.md)
 - [Open Current Prompt In Default Editor](claude-code/open-current-prompt-in-default-editor.md)
 
 ### Clojure
