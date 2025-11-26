@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1699 TILs and counting..._
+_1700 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1357,6 +1357,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Create a CSV::Table Object](ruby/create-a-csv-table-object.md)
 - [Create A Hash From An Array Of Arrays](ruby/create-a-hash-from-an-array-of-arrays.md)
 - [Create Listing Of All Middleman Pages](ruby/create-listing-of-all-middleman-pages.md)
+- [Create Mock Class That Can Be Overridden](ruby/create-mock-class-that-can-be-overridden.md)
 - [Create Named Structs With Struct.new](ruby/create-named-structs-with-struct-new.md)
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 - [Decompose Unicode Character With Diacritic Mark](ruby/decompose-unicode-character-with-diacritic-mark.md)
