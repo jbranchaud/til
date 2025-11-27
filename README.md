@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1700 TILs and counting..._
+_1701 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1196,6 +1196,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Upgrading Your Manifest For Sprocket's 4](rails/upgrading-your-manifest-for-sprockets-4.md)
 - [Use IRB And Ruby Flags With Rails Console](rails/use-irb-and-ruby-flags-with-rails-console.md)
+- [Use .ruby Extension For Template File](rails/use-ruby-extension-for-template-file.md)
 - [Useful ActiveSupport Constants For Durations](rails/useful-active-support-constants-for-durations.md)
 - [Validate Column Data With Check Constraints](rails/validate-column-data-with-check-constraints.md)
 - [Verify And Read A Signed Cookie Value](rails/verify-and-read-a-signed-cookie-value.md)
