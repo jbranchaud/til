@@ -8,7 +8,7 @@ warrant a full blog post. These are things I've picked up by [Learning In
 Public™](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9) and
 pairing with smart people at Hashrocket.
 
-For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
+For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
 _1703 TILs and counting..._
 
