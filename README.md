@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1704 TILs and counting..._
+_1705 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1413,6 +1413,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [List The Running Ruby Version](ruby/list-the-running-ruby-version.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
 - [Make An Executable Ruby Script](ruby/make-an-executable-ruby-script.md)
+- [Make Structs Easier To Use With Keyword Initialization](ruby/make-structs-easier-to-use-with-keyword-initialization.md)
 - [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
 - [Mock Method Chain Calls With RSpec](ruby/mock-method-chain-calls-with-rspec.md)
 - [Mocking Requests With Partial URIs Using Regex](ruby/mocking-requests-with-partial-uris-using-regex.md)
