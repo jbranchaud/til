@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1705 TILs and counting..._
+_1706 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1500,6 +1500,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [OSX sed Does Regex A Bit Different](sed/osx-sed-does-regex-a-bit-different.md)
 - [Output Only Lines Involved In A Substitution](sed/output-only-lines-involved-in-a-substitution.md)
 - [Reference A Capture In The Regex](sed/reference-a-capture-in-the-regex.md)
+- [Reference The Full Match In The Replacement](sed/reference-the-full-match-in-the-replacement.md)
 - [Use An Alternative Delimiter In A Substitution](sed/use-an-alternative-delimiter-in-a-substitution.md)
 
 ### Shell
