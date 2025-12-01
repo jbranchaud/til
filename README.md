@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1703 TILs and counting..._
+_1704 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1716,6 +1716,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Produce A Lowercase V4 UUID](unix/produce-a-lowercase-v4-uuid.md)
 - [Provide A Fallback Value For Unset Parameter](unix/provide-a-fallback-value-for-unset-parameter.md)
 - [Remove A Directory Called `-p`](unix/remove-a-directory-called-dash-p.md)
+- [Rename A Bunch Of Files By Constructing mv Commands](unix/rename-a-bunch-of-files-by-constructing-mv-commands.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Replace Pattern Across Many Files In A Project](unix/replace-pattern-across-many-files-in-a-project.md)
 - [Run A Command Repeatedly Several Times](unix/run-a-command-repeatedly-several-times.md)
