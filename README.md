@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1706 TILs and counting..._
+_1707 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -664,6 +664,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### jj
 
 - [Colocate jj And git Directories For Project](jj/colocate-jj-and-git-directories-for-project.md)
+- [Describe Current Changes And Create New Change](jj/describe-current-changes-and-create-new-change.md)
 - [Find System-wide Config File For User](jj/find-system-wide-config-file-for-user.md)
 - [Squash Changes Into Parent Commit Interactively](jj/squash-changes-into-parent-commit-interactively.md)
 
