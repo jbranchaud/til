@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1709 TILs and counting..._
+_1710 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -506,6 +506,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Open Dashboard For Specific Add-On](heroku/open-dashboard-for-specific-add-on.md)
 - [Run SQL Against Remote Postgres Database](heroku/run-sql-against-remote-postgres-database.md)
 - [Set And Show Heroku Env Variables](heroku/set-and-show-heroku-env-variables.md)
+- [Specify Default Team And App For Project](heroku/specify-default-team-and-app-for-project.md)
 - [SSH Into Heroku Server Hosting App](heroku/ssh-into-heroku-server-hosting-app.md)
 
 ### HTML
