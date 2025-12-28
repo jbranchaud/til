@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1711 TILs and counting..._
+_1712 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1167,6 +1167,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
 - [Run A Rake Task Programmatically](rails/run-a-rake-task-programmatically.md)
 - [Run Commands With Specific Rails Version](rails/run-commands-with-specific-rails-version.md)
+- [Run Dev Processes With Overmind Instead Of Foreman](rails/run-dev-processes-with-overmind-instead-of-foreman.md)
 - [Run Rails Console With Remote Dokku App](rails/run-rails-console-with-remote-dokku-app.md)
 - [Run Some Code Whenever Rails Console Starts](rails/run-some-code-whenever-rails-console-starts.md)
 - [Scaffold Auth Functionality With Rails 8 Generator](rails/scaffold-auth-functionality-with-rails-8-generator.md)
