@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1713 TILs and counting..._
+_1714 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1569,6 +1569,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Reset An Option Back To Its Default Value](tmux/reset-an-option-back-to-its-default-value.md)
 - [Set Environment Variables When Creating Session](tmux/set-environment-variables-when-creating-session.md)
 - [Set Session Specific Environment Variables](tmux/set-session-specific-environment-variables.md)
+- [Set Up Forwarding Prefix For Nested Session](tmux/set-up-forwarding-prefix-for-nested-session.md)
 - [Show The Current Value For An Option](tmux/show-the-current-value-for-an-option.md)
 - [Swap Split Panes](tmux/swap-split-panes.md)
 - [Switch To A Specific Session And Window](tmux/switch-to-a-specific-session-and-window.md)
