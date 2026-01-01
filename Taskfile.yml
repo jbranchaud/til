@@ -32,8 +32,7 @@ tasks:
   notes:sync:
     desc: Sync latest changes from the notes submodule
     cmds:
-      - git submodule update --remote {{.NOTES_DIR}}
-      - cd {{.NOTES_DIR}} && git checkout main
+      - cd {{.NOTES_DIR}} && git checkout main && git pull
     silent: false
 
   notes:open:
