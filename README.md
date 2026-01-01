@@ -2056,7 +2056,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2015-2025 Josh Branchaud
+&copy; 2015-2026 Josh Branchaud
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
