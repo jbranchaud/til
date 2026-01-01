@@ -47,7 +47,7 @@ tasks:
     desc: Commit and push changes to notes submodule
     dir: '{{.NOTES_DIR}}'
     cmds:
-      - git pull --rebase origin main
+      - git pull --rebase
       - git add NOTES.md
       - git commit -m "Update notes - $(date '+%Y-%m-%d %H:%M')"
       - git push
