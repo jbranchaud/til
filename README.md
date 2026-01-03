@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1718 TILs and counting..._
+_1719 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -349,6 +349,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Count Number Of Commits On A Branch](git/count-number-of-commits-on-a-branch.md)
 - [Create A New Branch With Git Switch](git/create-a-new-branch-with-git-switch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
+- [Determine Absolute Path Of Top-Level Project Directory](git/determine-absolute-path-of-top-level-project-directory.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Diffing With Patience](git/diffing-with-patience.md)
 - [Dropping Commits With Git Rebase](git/dropping-commits-with-git-rebase.md)
