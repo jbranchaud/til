@@ -23,4 +23,5 @@ Here is a [full list of idomatic version files supported by
 
 See
 [`idiomatic_version_file_enable_tools`](https://mise.jdx.dev/configuration/settings.html#idiomatic_version_file_enable_tools)
+as well as the [Ruby-specific documentation](https://mise.jdx.dev/lang/ruby.html#ruby-version-and-gemfile-support)
 for more details.
