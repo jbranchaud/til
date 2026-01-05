@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1719 TILs and counting..._
+_1720 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -502,6 +502,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Heroku
 
+- [Check Ruby Version For Production App](heroku/check-ruby-version-for-production-app.md)
 - [Connect To A Database By Color](heroku/connect-to-a-database-by-color.md)
 - [Deploy A Review App To A Different Stack](heroku/deploy-a-review-app-to-a-different-stack.md)
 - [Diagnose Problems In A Heroku Postgres Database](heroku/diagnose-problems-in-a-heroku-postgres-database.md)
