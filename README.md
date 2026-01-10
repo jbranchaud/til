@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1724 TILs and counting..._
+_1725 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -550,6 +550,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Focus The URL Bar](internet/focus-the-url-bar.md)
 - [Get Random Images From Unsplash](internet/get-random-images-from-unsplash.md)
 - [Grab The RSS Feed For A Substack Blog](internet/grab-the-rss-feed-for-a-substack-blog.md)
+- [Hide Overflowing Text For Google Sheets Column](internet/hide-overflowing-text-for-google-sheets-column.md)
 - [Search Tweets By Author](internet/search-tweets-by-author.md)
 - [Show All Pivotal Stories With Blockers](internet/show-all-pivotal-stories-with-blockers.md)
 - [Verify Site Ownership With DNS Record](internet/verify-site-ownership-with-dns-record.md)
