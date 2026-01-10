@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1722 TILs and counting..._
+_1723 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -426,6 +426,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Show What Is In A Stash](git/show-what-is-in-a-stash.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Skip A Bad Commit When Bisecting](git/skip-a-bad-commit-when-bisecting.md)
+- [Skip Git Hooks As Needed](git/skip-git-hooks-as-needed.md)
 - [Skip Pre-Commit Hooks](git/skip-pre-commit-hooks.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md)
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
