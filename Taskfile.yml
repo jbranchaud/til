@@ -60,11 +60,6 @@ tasks:
     cmds:
       - git status
 
-  notes:pull:
-    desc: Pull latest changes (alias for sync)
-    cmds:
-      - task notes:sync
-
   notes:diff:
     desc: Show uncommitted changes in notes
     dir: '{{.NOTES_DIR}}'
