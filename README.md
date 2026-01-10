@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1723 TILs and counting..._
+_1724 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1641,6 +1641,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Curling For Headers](unix/curling-for-headers.md)
 - [Curling With Basic Auth Credentials](unix/curling-with-basic-auth-credentials.md)
 - [Determine ipv4 And ipv6 Public IP Addresses](unix/determine-ipv4-and-ipv6-public-ip-addresses.md)
+- [Diff Two Files In Unified Format](unix/diff-two-files-in-unified-format.md)
 - [Different Ways To Generate A v4 UUID](unix/different-ways-to-generate-a-v4-uuid.md)
 - [Display All The Terminal Colors](unix/display-all-the-terminal-colors.md)
 - [Display Free Disk Space](unix/display-free-disk-space.md)
