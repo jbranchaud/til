@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1726 TILs and counting..._
+_1727 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1756,6 +1756,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Show A File Preview When Searching With FZF](unix/show-a-file-preview-when-searching-with-fzf.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
 - [Show The Size Of Everything In A Directory](unix/show-the-size-of-everything-in-a-directory.md)
+- [Show Tree View Of Processes And Subprocesses](unix/show-tree-view-of-processes-and-subprocesses.md)
 - [Skip Paging If Output Fits On Screen With Less](unix/skip-paging-if-output-fits-on-screen-with-less.md)
 - [SSH Escape Sequences](unix/ssh-escape-sequences.md)
 - [SSH With Port Forwarding](unix/ssh-with-port-forwarding.md)
