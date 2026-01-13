@@ -30,7 +30,7 @@ to the `column` command to improve the formatting a little:
 
 ```bash
 ❯ tmux list-panes -a -F "#{session_name}:#{window_index}.#{pane_index} #{pane_pid} #{pane_current_command}" \
-∙ | column -t
+  | column -t
 PLP:1.1             62364  zsh
 TIL:1.1             62345  nvim
 TIL:1.2             65838  task
