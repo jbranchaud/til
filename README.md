@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1727 TILs and counting..._
+_1728 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1566,6 +1566,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Kill Other Connections To A Session](tmux/kill-other-connections-to-a-session.md)
 - [Kill The Current Session](tmux/kill-the-current-session.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
+- [List Processes Running Across All Session](tmux/list-processes-running-across-all-sessions.md)
 - [List Sessions](tmux/list-sessions.md)
 - [Open New Splits To The Current Directory](tmux/open-new-splits-to-the-current-directory.md)
 - [Open New Window With A Specific Directory](tmux/open-new-window-with-a-specific-directory.md)
