@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1728 TILs and counting..._
+_1729 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1773,6 +1773,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Unrestrict Where ripgrep Searches](unix/unrestrict-where-ripgrep-searches.md)
 - [Update Package Versions Known By asdf Plugin](unix/update-package-versions-known-by-asdf-plugin.md)
 - [Use fzf To Change Directories](unix/use-fzf-to-change-directories.md)
+- [Use Negative Lookbehind Matching With ripgrep](unix/use-negative-lookbehind-matching-with-ripgrep.md)
 - [Use Regex Pattern Matching With Grep](unix/use-regex-pattern-matching-with-grep.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
 - [View The Source For A Brew Formula](unix/view-the-source-for-a-brew-formula.md)
