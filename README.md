@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1730 TILs and counting..._
+_1731 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1675,6 +1675,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Fix Previous Command With fc](unix/fix-previous-command-with-fc.md)
 - [Fix Shim Path After asdf Upgrade](unix/fix-shim-path-after-asdf-upgrade.md)
 - [Fix Unlinked Node Binaries With asdf](unix/fix-unlinked-node-binaries-with-asdf.md)
+- [Format And Display Small Amounts Of Columnar Data](unix/format-and-display-small-amounts-of-columnar-data.md)
 - [Forward Multiple Ports Over SSH](unix/forward-multiple-ports-over-ssh.md)
 - [Generate A SAML Key And Certificate Pair](unix/generate-a-saml-key-and-certificate-pair.md)
 - [Generate A Sequence Of Numbered Items](unix/generate-a-sequence-of-numbered-items.md)
