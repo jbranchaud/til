@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1731 TILs and counting..._
+_1732 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1073,6 +1073,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check If ActiveRecord Update Fails](rails/check-if-activerecord-update-fails.md)
 - [Check If Any Records Have A Null Value](rails/check-if-any-records-have-a-null-value.md)
 - [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
+- [Check The Current Named Log Level](rails/check-the-current-named-log-level.md)
 - [Clean Up Memory Hungry Rails Console Processes](rails/clean-up-memory-hungry-rails-console-processes.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Columns With Default Values Are Nil On Create](rails/columns-with-default-values-are-nil-on-create.md)
