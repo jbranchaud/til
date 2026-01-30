@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1733 TILs and counting..._
+_1734 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1071,6 +1071,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Cast Common Boolean-Like Values To Booleans](rails/cast-common-boolean-like-values-to-booleans.md)
 - [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
 - [Change The Time Zone Offset Of A DateTime Object](rails/change-the-time-zone-offset-of-a-datetime-object.md)
+- [Check How Database Is Configured](rails/check-how-database-is-configured.md)
 - [Check If ActiveRecord Update Fails](rails/check-if-activerecord-update-fails.md)
 - [Check If Any Records Have A Null Value](rails/check-if-any-records-have-a-null-value.md)
 - [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
