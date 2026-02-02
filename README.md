@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1734 TILs and counting..._
+_1735 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1483,6 +1483,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Single And Double Quoted String Notation](ruby/single-and-double-quoted-string-notation.md)
 - [Skip Specific CVEs When Auditing Your Bundle](ruby/skip-specific-cves-when-auditing-your-bundle.md)
 - [Skip The Front Of An Array With Drop](ruby/skip-the-front-of-an-array-with-drop.md)
+- [Specify Default For Data Definition](ruby/specify-default-for-data-definition.md)
 - [Specify Dependencies For A Rake Task](ruby/specify-dependencies-for-a-rake-task.md)
 - [Specify How Random Array#sample Is](ruby/specify-how-random-array-sample-is.md)
 - [Split A Float Into Its Integer And Decimal](ruby/split-a-float-into-its-integer-and-decimal.md)
