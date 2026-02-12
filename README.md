@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1736 TILs and counting..._
+_1737 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1431,6 +1431,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Limit Split](ruby/limit-split.md)
 - [List The Running Ruby Version](ruby/list-the-running-ruby-version.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
+- [Make A Long String Of Text Readable](ruby/make-a-long-string-of-text-readable.md)
 - [Make An Executable Ruby Script](ruby/make-an-executable-ruby-script.md)
 - [Make Structs Easier To Use With Keyword Initialization](ruby/make-structs-easier-to-use-with-keyword-initialization.md)
 - [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
