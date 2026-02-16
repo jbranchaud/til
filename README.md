@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1737 TILs and counting..._
+_1738 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1034,6 +1034,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
 - [Dunder Methods](python/dunder-methods.md)
+- [Iterate First N Items From Enumerable](python/iterate-first-n-items-from-enumerable.md)
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
 - [Store And Access Immutable Data In A Tuple](python/store-and-access-immutable-data-in-a-tuple.md)
 - [Test A Function With Pytest](python/test-a-function-with-pytest.md)
