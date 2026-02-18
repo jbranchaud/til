@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1739 TILs and counting..._
+_1740 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -755,6 +755,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Create Umbrella Task For All Test Tasks](mise/create-umbrella-task-for-all-test-tasks.md)
 - [List The Files Being Loaded By Mise](mise/list-the-files-being-loaded-by-mise.md)
 - [Look In Ruby Version Dotfile](mise/look-in-ruby-version-dotfile.md)
+- [Override Your Project Mise File](mise/override-your-project-mise-file.md)
 - [Preserve Color Output For Task Command](mise/preserve-color-output-for-task-command.md)
 - [Read Existing Dot Env File Into Env Vars](mise/read-existing-dot-env-file-into-env-vars.md)
 - [Run A Command With Specific Tool Version](mise/run-a-command-with-specific-tool-version.md)
