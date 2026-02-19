@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1740 TILs and counting..._
+_1741 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1033,6 +1033,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Access Instance Variables](python/access-instance-variables.md)
 - [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
+- [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Install With PIP For Specific Interpreter](python/install-with-pip-for-specific-interpreter.md)
