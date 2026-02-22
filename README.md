@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1743 TILs and counting..._
+_1744 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1710,6 +1710,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Ignore A Directory During ripgrep Search](unix/ignore-a-directory-during-ripgrep-search.md)
 - [Ignore The Alias When Running A Command](unix/ignore-the-alias-when-running-a-command.md)
 - [Include Ignore Files In Ripgrep Search](unix/include-ignore-files-in-ripgrep-search.md)
+- [Inspect EXIF Data For An Image File](unix/inspect-exif-data-for-an-image-file.md)
 - [Interactively Browse Available Node Versions](unix/interactively-browse-availabile-node-versions.md)
 - [Interactively Switch asdf Package Versions](unix/interactively-switch-asdf-package-versions.md)
 - [Interpret Cron Schedule From The CLI](unix/interpret-cron-schedule-from-the-cli.md)
