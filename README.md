@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1745 TILs and counting..._
+_1746 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -29,6 +29,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [Ansible](#ansible)
 * [Astro](#astro)
 * [AWS](#aws)
+* [Bash](#bash)
 * [Brew](#brew)
 * [Chrome](#chrome)
 * [Claude Code](#claude-code)
@@ -125,6 +126,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [SSH Into An ECS Container](aws/ssh-into-an-ecs-container.md)
 - [Turn Off Output Pager For A Command](aws/turn-off-output-pager-for-a-command.md)
 - [Use Specific AWS Profile With CLI](aws/use-specific-aws-profile-with-cli.md)
+
+### Bash
+
+- [Edit The Current Command Prompt](bash/edit-the-current-command-prompt.md)
 
 ### Brew
 
