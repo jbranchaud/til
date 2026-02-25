@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1746 TILs and counting..._
+_1747 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1038,6 +1038,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### Python
 
 - [Access Instance Variables](python/access-instance-variables.md)
+- [Access Most Recent Return Value In REPL](python/access-most-recent-return-value-in-repl.md)
 - [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
 - [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
