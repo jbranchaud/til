@@ -15,10 +15,8 @@ const remove = (items,index) => {
 };
 
 const list = [1,2,3,4,5];
-remove(list, 2);
-// [1,2,3,4]
-list
-// [1,2,3,4,5]
+remove(list, 2); // [1,2,4,5]
+// list still [1,2,3,4,5]
 ```
 
 It only took a couple lines of code and immutability is baked in.
