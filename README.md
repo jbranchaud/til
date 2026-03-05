@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1751 TILs and counting..._
+_1752 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -445,6 +445,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Transition A Branch From One Base To Another](git/transition-a-branch-from-one-base-to-another.md)
 - [Turn Off The Output Pager For One Command](git/turn-off-the-output-pager-for-one-command.md)
 - [Two Kinds Of Dotted Range Notation](git/two-kinds-of-dotted-range-notation.md)
+- [Undo Latest Changes Committed To Specific File](git/undo-latest-changes-committed-to-specific-file.md)
 - [Unstage Changes Wih Git Restore](git/unstage-changes-with-git-restore.md)
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
