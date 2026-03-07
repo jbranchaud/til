@@ -1,8 +1,7 @@
 # Create Umbrella Task For All Test Tasks
 
-When I was first sketching out the [`mise`
-tasks](https://mise.jdx.dev/tasks/running-tasks.html) for a Rails app, I added
-the following two tasks. One is for running all the `rspec` tests. The Other is
+When I was first sketching out the [`mise` tasks](https://mise.jdx.dev/tasks/running-tasks.html) for a Rails app, I added
+the following two tasks. One is for running all the `rspec` tests. The other is
 for running all the `vitest` (JavaScript) tests.
 
 ```toml
@@ -49,5 +48,4 @@ Running `mise run test:all` won't execute its own command, but because it
 depends on all other `test:*` tasks, the tests will get run through those
 dependencies.
 
-This task naming pattern also allows for calling all tests with `mise run
-"test:**"`.
+This task naming pattern also allows for calling all tests with `mise run "test:**"`.
