@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1757 TILs and counting..._
+_1758 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -746,6 +746,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Require Additional JS Libraries In Postman](mac/require-additional-js-libraries-in-postman.md)
 - [Resize App Windows With AppleScript](mac/resize-app-windows-with-applescript.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
+- [Reveal Location Of File In Finder.app](mac/reveal-location-of-file-in-finder-app.md)
 - [Run A Hardware Check](mac/run-a-hardware-check.md)
 - [Run AppleScript Commands Inline In The Terminal](mac/run-applescript-commands-inline-in-the-terminal.md)
 - [Set A Window To Its Default Zoom Level](mac/set-a-window-to-its-default-zoom-level.md)
