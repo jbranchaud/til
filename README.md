@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1759 TILs and counting..._
+_1760 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1047,6 +1047,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
 - [Control Passing Of Time In Tests](python/control-passing-of-time-in-tests.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
+- [Create A Range Of Descending Values](python/create-a-range-of-descending-values.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Easy Key-Value Aggregates With defaultdict](python/easy-key-value-aggregates-with-defaultdict.md)
 - [Install With PIP For Specific Interpreter](python/install-with-pip-for-specific-interpreter.md)
