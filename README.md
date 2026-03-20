@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1760 TILs and counting..._
+_1761 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1428,6 +1428,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [FactoryGirl Sequences](ruby/factory-girl-sequences.md)
 - [Fail](ruby/fail.md)
 - [Fetch Warns About Superseding Block Argument](ruby/fetch-warns-about-superseding-block-argument.md)
+- [Filter By Type](ruby/filter-by-type.md)
 - [Find The Min And Max With A Single Call](ruby/find-the-min-and-max-with-a-single-call.md)
 - [Finding The Source of Ruby Methods](ruby/finding-the-source-of-ruby-methods.md)
 - [Format A Hash Into A String Template](ruby/format-a-hash-into-a-string-template.md)
