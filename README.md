@@ -14,6 +14,7 @@ _1763 TILs and counting..._
 
 See some of the other learning resources I work on:
 
+- [The VisualMode Blog](https://visualmode.dev/blog)
 - [Get Started with Vimium](https://egghead.io/courses/get-started-with-vimium~3t5f7)
 - [Ruby Operator Lookup](https://www.visualmode.dev/ruby-operators)
 - [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
