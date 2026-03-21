@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1762 TILs and counting..._
+_1763 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1649,6 +1649,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [All The Environment Variables](unix/all-the-environment-variables.md)
 - [Apply Successive Filters To Lines In Less](unix/apply-successive-filters-to-lines-in-less.md)
 - [Authorize A cURL Request](unix/authorize-a-curl-request.md)
+- [Browse And Search Help Docs](unix/browse-and-search-help-docs.md)
 - [Cat A File With Line Numbers](unix/cat-a-file-with-line-numbers.md)
 - [Cat Files With Color Using Bat](unix/cat-files-with-color-using-bat.md)
 - [Change Default Shell For A User](unix/change-default-shell-for-a-user.md)
