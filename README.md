@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1763 TILs and counting..._
+_1764 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1063,6 +1063,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Store And Access Immutable Data In A Tuple](python/store-and-access-immutable-data-in-a-tuple.md)
 - [Test A Function With Pytest](python/test-a-function-with-pytest.md)
 - [Use pipx To Install End User Apps](python/use-pipx-to-install-end-user-apps.md)
+- [Use `__post_init__` For `dataclass` Validations](python/use-post-init-for-dataclass-validations.md)
 - [Use Verbose Flag To Get More Diff](python/use-verbose-flag-to-get-more-diff.md)
 
 ### Rails
