@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1789 TILs and counting..._
+_1790 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -239,6 +239,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check For Cached Site Assocation File For iOS](devops/check-for-cached-site-association-file-for-ios.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
+- [Cloudflare Allows CNAME For Apex Domain](devops/cloudflare-allows-cname-for-apex-domain.md)
 - [Connect To An RDS PostgreSQL Database](devops/connect-to-an-rds-postgresql-database.md)
 - [Default Rails Deploy Script On Hatchbox](devops/default-rails-deploy-script-on-hatchbox.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
