@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1790 TILs and counting..._
+_1791 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1085,6 +1085,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Use pipx To Install End User Apps](python/use-pipx-to-install-end-user-apps.md)
 - [Use `__post_init__` For `dataclass` Validations](python/use-post-init-for-dataclass-validations.md)
 - [Use Verbose Flag To Get More Diff](python/use-verbose-flag-to-get-more-diff.md)
+- [Validate Click Option With Callback](python/validate-click-option-with-callback.md)
 
 ### Rails
 
