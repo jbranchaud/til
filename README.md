@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1791 TILs and counting..._
+_1792 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -622,6 +622,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Get The Response Status From An Axios Error](javascript/get-the-response-status-from-an-axios-error.md)
 - [Get The Time Components Of A Date](javascript/get-the-time-components-of-a-date.md)
 - [Get The Time Zone Of The Client Computer](javascript/get-the-time-zone-of-the-client-computer.md)
+- [Get User's Preferred Language From Browser](javascript/get-users-preferred-language-from-browser.md)
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
 - [Globally Install Specific Version Of PNPM](javascript/globally-install-specific-version-of-pnpm.md)
 - [Immutable Remove With The Spread Operator](javascript/immutable-remove-with-the-spread-operator.md)
