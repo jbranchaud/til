@@ -21,5 +21,7 @@ at the same time when you call
 
 ```ruby
 list = [3,7,4,15,9,1,2]
+
+list.minmax
 #=> [1,15]
 ```
