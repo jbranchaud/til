@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1793 TILs and counting..._
+_1794 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -753,6 +753,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Open Finder.app To Specific Directory](mac/open-finder-app-to-specific-directory.md)
 - [Prevent Sleep With The Caffeinate Command](mac/prevent-sleep-with-the-caffeinate-command.md)
 - [Quickly Type En Dashes And Em Dashes](mac/quickly-type-en-dashes-and-em-dashes.md)
+- [Read The Lid Angle Sensor For A MacBook](mac/read-the-lid-angle-sensor-for-a-macbook.md)
 - [Require Additional JS Libraries In Postman](mac/require-additional-js-libraries-in-postman.md)
 - [Resize App Windows With AppleScript](mac/resize-app-windows-with-applescript.md)
 - [Resizing Both Corners Of A Window](mac/resizing-both-corners-of-a-window.md)
