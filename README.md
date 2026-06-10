@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1797 TILs and counting..._
+_1798 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -736,6 +736,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Add A Bunch Of CLI Utilities With coreutils](mac/add-a-bunch-of-cli-utilities-with-coreutils.md)
 - [Capture Screenshot To Clipboard From CLI](mac/capture-screenshot-to-clipboard-from-cli.md)
 - [Check Network Quality Stats From The Command Line](mac/check-network-quality-stats-from-the-command-line.md)
+- [Clean Up Item Layout In Finder Window](mac/clean-up-item-layout-in-finder-window.md)
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Control Which Monitor App Switcher Appears On](mac/control-which-monitor-app-switcher-appears-on.md)
 - [Convert An HEIC Image File To JPG](mac/convert-an-heic-image-file-to-jpg.md)
