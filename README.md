@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1799 TILs and counting..._
+_1800 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1148,6 +1148,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Customize Paths And Helpers For Devise Routes](rails/customize-paths-and-helpers-for-devise-routes.md)
 - [Customize Template For New Schema Migration](rails/customize-template-for-new-schema-migration.md)
 - [Customize The Path Of A Resource Route](rails/customize-the-path-of-a-resource-route.md)
+- [Define Conditional Routing Logic In Routes File](rails/define-conditional-routing-logic-in-routes-file.md)
 - [Define The Root Path For The App](rails/define-the-root-path-for-the-app.md)
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
