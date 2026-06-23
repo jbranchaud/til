@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1800 TILs and counting..._
+_1801 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2080,6 +2080,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Send A Message To A Discord Channel](workflow/send-a-message-to-a-discord-channel.md)
 - [Send A PDF To Your Kindle](workflow/send-a-pdf-to-your-kindle.md)
 - [Set Recurring Reminders In Slack](workflow/set-recurring-reminders-in-slack.md)
+- [Show All Linear Keyboard Shortcuts](workflow/show-all-linear-keyboard-shortcuts.md)
 - [Show Linting Errors In Zed](workflow/show-linting-errors-in-zed.md)
 - [Temporarily Hide CleanShot X Capture Previews](workflow/temporarily-hide-cleanshot-x-capture-previews.md)
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
