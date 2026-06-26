@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1803 TILs and counting..._
+_1804 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1567,6 +1567,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Update The Gemfile Bundled With Version](ruby/update-the-gemfile-bundled-with-version.md)
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
+- [Use Rescue As Part Of Inline Statement](ruby/use-rescue-as-part-of-inline-statement.md)
 - [Use Tap For Better Test Data Setup](ruby/use-tap-for-better-test-data-setup.md)
 - [Using BCrypt To Create And Check Hashed Passwords](ruby/using-bcrypt-to-create-and-check-hashed-passwords.md)
 - [What To Do When You Don't Rescue](ruby/what-to-do-when-you-dont-rescue.md)
