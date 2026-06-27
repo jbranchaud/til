@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1804 TILs and counting..._
+_1805 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1069,6 +1069,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Create A Range Of Descending Values](python/create-a-range-of-descending-values.md)
 - [Deduplicate A List Into A Tuple](python/deduplicate-a-list-into-a-tuple.md)
 - [Define Sequence Of Tests With Parametrize Decorator](python/define-sequence-of-tests-with-parametrize-decorator.md)
+- [Define Typed Class Interface With Protocol](python/define-typed-class-interface-with-protocol.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Easy Key-Value Aggregates With defaultdict](python/easy-key-value-aggregates-with-defaultdict.md)
 - [Get Absolute Seconds From `timedelta` Object](python/get-absolute-seconds-from-timedelta-object.md)
