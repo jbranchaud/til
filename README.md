@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1805 TILs and counting..._
+_1806 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1810,6 +1810,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Print A Range Of Lines For A File With Bat](unix/print-a-range-of-lines-for-a-file-with-bat.md)
 - [Print DateTime Represented By Unix Timestamp](unix/print-datetime-represented-by-unix-timestamp.md)
 - [Print Milliseconds In Human-Readable Format](unix/print-milliseconds-in-human-readable-format.md)
+- [Print Out File With Bat Without Formatting](unix/print-out-file-with-bat-without-formatting.md)
 - [Print Out Files In Reverse](unix/print-out-files-in-reverse.md)
 - [Print The Current Date In Human-Readable Format](unix/print-the-current-date-in-human-readable-format.md)
 - [Produce A Lowercase V4 UUID](unix/produce-a-lowercase-v4-uuid.md)
