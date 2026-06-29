@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1806 TILs and counting..._
+_1807 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1072,6 +1072,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Define Typed Class Interface With Protocol](python/define-typed-class-interface-with-protocol.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Easy Key-Value Aggregates With defaultdict](python/easy-key-value-aggregates-with-defaultdict.md)
+- [Enable Pyright Type Checking In Cursor](python/enable-pyright-type-checking-in-cursor.md)
 - [Get Absolute Seconds From `timedelta` Object](python/get-absolute-seconds-from-timedelta-object.md)
 - [Get Quotient And Remainder In One Operation](python/get-quotient-and-remainder-in-one-operation.md)
 - [Install With PIP For Specific Interpreter](python/install-with-pip-for-specific-interpreter.md)
