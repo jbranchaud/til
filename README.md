@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1807 TILs and counting..._
+_1808 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -60,6 +60,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [Linux](#linux)
 * [LLM](#llm)
 * [Mac](#mac)
+* [Math](#math)
 * [Mise](#mise)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
@@ -770,6 +771,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Use Default Screenshot Shortcuts With CleanShot X](mac/use-default-screenshot-shortcuts-with-cleanshot-x.md)
 - [View All Windows Of The Current App](mac/view-all-windows-of-the-current-app.md)
 - [Write System Clipboard To A File](mac/write-system-clipboard-to-a-file.md)
+
+### Math
+
+- [Generate Permutations Of All Valid 9-ball Racks](math/generate-permutations-of-all-valid-9-ball-racks.md)
 
 ### Mise
 
