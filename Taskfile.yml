@@ -11,33 +11,35 @@ tasks:
     cmds:
       - task --list
 
-  browse:
-    desc: Pick from 5 most recent TILs (fzf) and open in browser
+  browse:list:
+    desc: Print deduped, newest-first TIL paths
+    silent: true
     cmds:
       - |
-        FILE=$(git log --diff-filter=A --name-only --pretty=format: -- '*/*.md' \
+        git log --diff-filter=A --name-only --pretty=format: -- '*/*.md' \
           | grep -v '^$' \
-          | awk '!seen[$0]++' \
-          | head -5 \
-          | fzf --prompt="Open TIL: " --height=40% --reverse) || true
+          | awk '!seen[$0]++'
+
+  browse:
+    desc: Pick from 5 most recent TILs (fzf) and open in browser
+    interactive: true
+    silent: true
+    cmds:
+      - |
+        FILE=$(task browse:list | head -5 | fzf --prompt="Open TIL: " --height=40% --reverse) || true
         if [ -n "$FILE" ]; then
           gh browse "$FILE"
         fi
-    interactive: true
-    silent: true
 
   browse:latest:
     desc: Open the single most recent TIL in the browser
+    silent: true
     cmds:
       - |
-        FILE=$(git log --diff-filter=A --name-only --pretty=format: -- '*/*.md' \
-          | grep -v '^$' \
-          | awk '!seen[$0]++' \
-          | head -1)
+        FILE=$(task browse:list | head -1)
         if [ -n "$FILE" ]; then
           gh browse "$FILE"
         fi
-    silent: true
 
   notes:
     desc: Interactive picker for notes tasks
