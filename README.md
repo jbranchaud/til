@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1811 TILs and counting..._
+_1812 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -395,6 +395,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Keep File Locally With `git rm`](git/keep-file-locally-with-git-rm.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
+- [List All Authors On Git Repository](git/list-all-authors-on-git-repository.md)
 - [List All Files Added During Span Of Time](git/list-all-files-added-during-span-of-time.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
 - [List All Git Aliases From gitconfig](git/list-all-git-aliases-from-gitconfig.md)
