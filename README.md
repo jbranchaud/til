@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1812 TILs and counting..._
+_1813 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2048,6 +2048,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Advance Through Search Results](vscode/advance-through-search-results.md)
 - [Enable Breadcrumbs For Version 1.26 Release](vscode/enable-breadcrumbs-for-version-126-release.md)
 - [Find The Location Of User Settings JSON File](vscode/find-the-location-of-user-settings-json-file.md)
+- [Jump Between Changes In Git Diff View](vscode/jump-between-changes-in-git-diff-view.md)
 - [Jump To Problems In The Current File](vscode/jump-to-problems-in-the-current-file.md)
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
 - [Open File On Remote Like GitHub](vscode/open-file-on-remote-like-github.md)
