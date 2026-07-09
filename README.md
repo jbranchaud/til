@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1814 TILs and counting..._
+_1815 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1427,6 +1427,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Audit Your Ruby Project For Any CVEs](ruby/audit-your-ruby-project-for-any-cves.md)
 - [Avoid Double Negation With Minitest Refute](ruby/avoid-double-negation-with-minitest-refute.md)
+- [Avoid Dynamically Dispatching Private Methods](ruby/avoid-dynamically-dispatching-private-methods.md)
 - [Block Comments](ruby/block-comments.md)
 - [Block Syntaxes Have Different Precedence](ruby/block-syntaxes-have-different-precedence.md)
 - [Build HTTP And HTTPS URLs](ruby/build-http-and-https-urls.md)
