@@ -26,7 +26,8 @@ tasks:
     silent: true
     cmds:
       - |
-        FILE=$(task browse:list | head -5 | fzf --prompt="Open TIL: " --height=40% --reverse) || true
+        LIST=$(task browse:list)
+        FILE=$(printf '%s\n' "$LIST" | head -5 | fzf --prompt="Open TIL: " --height=40% --reverse) || true
         if [ -n "$FILE" ]; then
           gh browse "$FILE"
         fi
@@ -36,7 +37,7 @@ tasks:
     silent: true
     cmds:
       - |
-        FILE=$(task browse:list | head -1)
+        FILE=$(task browse:list | awk 'NR==1')
         if [ -n "$FILE" ]; then
           gh browse "$FILE"
         fi
