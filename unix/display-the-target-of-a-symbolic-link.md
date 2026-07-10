@@ -5,8 +5,7 @@ my [dotfiles setup](https://github.com/jbranchaud/dotfiles). There are also
 tools like `uv` that install CLI tooling in a canonical place and then symlink
 it to a more user-friendly location.
 
-`ruff` which I [installed as a CLI tool via
-`uv`](python/globally-install-cli-tool-with-uv.md) is a good example of this.
+`ruff` which I [installed as a CLI tool via `uv`](/python/globally-install-cli-tool-with-uv.md) is a good example of this.
 When I look at the location of `ruff` via the `which` command, I get a `bin`
 directory that differed from where I expected `uv` to install it.
 
