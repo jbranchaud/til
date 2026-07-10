@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1815 TILs and counting..._
+_1816 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1736,6 +1736,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Display Line Numbers While Using Less](unix/display-line-numbers-while-using-less.md)
 - [Display The Contents Of A Directory As A Tree](unix/display-the-contents-of-a-directory-as-a-tree.md)
+- [Display The Target Of A Symbolic Link](unix/display-the-target-of-a-symbolic-link.md)
 - [Do A Dry Run Of An rsync](unix/do-a-dry-run-of-an-rsync.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Download A File With Curl](unix/download-a-file-with-curl.md)
