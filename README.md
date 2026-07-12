@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1818 TILs and counting..._
+_1819 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1859,6 +1859,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Switch Versions of a Brew Formula](unix/switch-versions-of-a-brew-formula.md)
 - [Tell direnv To Load The Env File](unix/tell-direnv-to-load-the-env-file.md)
 - [Touch Access And Modify Times Individually](unix/touch-access-and-modify-times-individually.md)
+- [Track Line Occurrences From Input With AWK](unix/track-line-occurrences-from-input-with-awk.md)
 - [Transform Text To Lowercase](unix/transform-text-to-lowercase.md)
 - [Type Fewer Paths With Brace Expansion](unix/type-fewer-paths-with-brace-expansion.md)
 - [Undo Changes Made To Current Terminal Prompt](unix/undo-changes-made-to-current-terminal-prompt.md)
