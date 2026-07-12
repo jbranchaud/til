@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1817 TILs and counting..._
+_1818 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1067,6 +1067,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Argument Defaults Are Evaluated When Function Is Defined](python/argument-defaults-are-evaluated-when-function-is-defined.md)
 - [Assert Is Only A Development Check](python/assert-is-only-a-development-check.md)
 - [Avoid Modification With Frozen Dataclass](python/avoid-modification-with-frozen-dataclass.md)
+- [BasedPyright Will Use Pyright Config](python/basedpyright-will-use-pyright-config.md)
 - [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
 - [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
 - [Check Precondition Before Click Arg Parsing](python/check-precondition-before-click-arg-parsing.md)
