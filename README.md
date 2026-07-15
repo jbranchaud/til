@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1821 TILs and counting..._
+_1822 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1817,6 +1817,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Make Neovim The Default Way To View Man Pages](unix/make-neovim-the-default-way-to-view-man-pages.md)
 - [Manually Pass Two Git Files To Delta](unix/manually-pass-two-git-files-to-delta.md)
 - [Map A Domain To localhost](unix/map-a-domain-to-localhost.md)
+- [Move A List Of Files To Another Directory](unix/move-a-list-of-files-to-another-directory.md)
 - [Negative Look-Ahead Search With ripgrep](unix/negative-look-ahead-search-with-ripgrep.md)
 - [Occupy A Local Port With Netcat](unix/occupy-a-local-port-with-netcat.md)
 - [Only Show The Matches](unix/only-show-the-matches.md)
