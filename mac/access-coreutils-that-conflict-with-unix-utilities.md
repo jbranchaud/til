@@ -3,8 +3,9 @@
 In [another post about GNU CoreUtils](add-a-bunch-of-cli-utilities-with-coreutils.md) I explained how to
 install and use some of the provided utilities. The utilities I referenced were
 `seq` and `realpath` which are novel on MacOS. There are other CoreUtils that
-would conflict with existing system utilities. To avoid the conflicts, those
-utilities are installed with `g` prefix.
+would conflict with existing system utilities. To avoid the conflicts, [those
+utilities are installed with `g`
+prefix](https://unix.stackexchange.com/a/729136).
 
 A good example of this is `mv` and `gmv`. These are both utilities for moving
 files and largely behave the same. They are a few subtle differences though.
