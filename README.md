@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1820 TILs and counting..._
+_1821 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -735,6 +735,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### Mac
 
 - [Access All Screen And Video Capture Options](mac/access-all-screen-and-video-capture-options.md)
+- [Access CoreUtils That Conflict With Unix Utilities](mac/access-coreutils-that-conflict-with-unix-utilities.md)
 - [Access System Information On OS X](mac/access-system-information-on-osx.md)
 - [Access Unsupported Screen Resolutions With RDM](mac/access-unsupported-screen-resolutions-with-rdm.md)
 - [Add A Bunch Of CLI Utilities With coreutils](mac/add-a-bunch-of-cli-utilities-with-coreutils.md)
