@@ -1,7 +1,7 @@
 # Flipper Discards Actors When Feature Fully Enabled
 
-Let's say I have a Flipper feature flag that I have enabled for a handful of
-users. When I eventully go to globally enable that feature flag with the big
+Let's say I have a [Flipper feature flag](https://github.com/flippercloud/flipper) that I have enabled for a handful
+of users. When I eventully go to globally enable that feature flag with the big
 green 'Enable' button, the gate short-circuit evalutes to true everywhere. This
 is what grants access to anyone when it is enabled.
 
