@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1822 TILs and counting..._
+_1823 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1180,6 +1180,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Filter ActiveStorage Blobs To Only Images](rails/filter-active-storage-blobs-to-only-images.md)
 - [Find Or Create A Record With FactoryBot](rails/find-or-create-a-record-with-factory-bot.md)
 - [Find Records With Multiple Associated Records](rails/find-records-with-multiple-associated-records.md)
+- [Flipper Discards Actors When Feature Fully Enabled](rails/flipper-discards-actors-when-feature-fully-enabled.md)
 - [Force All Users To Sign Out](rails/force-all-users-to-sign-out.md)
 - [Format DateTime With Builtin Formats](rails/format-datetime-with-builtin-formats.md)
 - [Format Specific html.erb Template Files](rails/format-specific-html-erb-template-files.md)
