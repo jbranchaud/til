@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1823 TILs and counting..._
+_1824 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1875,6 +1875,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Use Regex Pattern Matching With Grep](unix/use-regex-pattern-matching-with-grep.md)
 - [Use The Readline Keybindings Anywhere](unix/use-the-readline-keybindings-anywhere.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
+- [View Manpages With More Color Using Bat](unix/view-manpages-with-more-color-using-bat.md)
 - [View The Source For A Brew Formula](unix/view-the-source-for-a-brew-formula.md)
 - [Watch The Difference](unix/watch-the-difference.md)
 - [Watch This Run Repeatedly](unix/watch-this-run-repeatedly.md)
