@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1824 TILs and counting..._
+_1825 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -344,6 +344,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check How A File Is Being Ignored](git/check-how-a-file-is-being-ignored.md)
 - [Check If A File Has Changed In A Script](git/check-if-a-file-has-changed-in-a-script.md)
 - [Check If A File Is Under Version Control](git/check-if-a-file-is-under-version-control.md)
+- [Check What Branches Contain A Specific Commit](git/check-what-branches-contain-a-specific-commit.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
