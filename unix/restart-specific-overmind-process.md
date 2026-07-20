@@ -1,9 +1,10 @@
 # Restart Specific Overmind Process
 
 I have been in the bad habit of fully killing and re-running the entire
-`overmind` process for a project whenever I have a new JavaScript file that I
-need `vite` to pick up and bundle. `vite` is only one of three processes, so I'm
-restarting two processes unnecessarily.
+[`overmind`](https://github.com/DarthSim/overmind) process for a project
+whenever I have a new JavaScript file that I need `vite` to pick up and bundle.
+`vite` is only one of three processes, so I'm restarting two processes
+unnecessarily.
 
 ```bash
 ❯ overmind status
