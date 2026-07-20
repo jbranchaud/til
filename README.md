@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1826 TILs and counting..._
+_1827 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1840,6 +1840,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Rename A Bunch Of Files By Constructing mv Commands](unix/rename-a-bunch-of-files-by-constructing-mv-commands.md)
 - [Repeat Yourself](unix/repeat-yourself.md)
 - [Replace Pattern Across Many Files In A Project](unix/replace-pattern-across-many-files-in-a-project.md)
+- [Restart Specific Overmind Process](unix/restart-specific-overmind-process.md)
 - [Reverse Each Line Of A File](unix/reverse-each-line-of-a-file.md)
 - [Run A Command Repeatedly Several Times](unix/run-a-command-repeatedly-several-times.md)
 - [Run A cURL Command Without The Progress Meter](unix/run-a-curl-command-without-the-progress-meter.md)
