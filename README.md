@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1830 TILs and counting..._
+_1831 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -98,6 +98,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [Workflow](#workflow)
 * [XState](#xstate)
 * [YAML](#yaml)
+* [Zed](#zed)
 * [Zod](#zod)
 * [Zsh](#zsh)
 
@@ -2138,6 +2139,10 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Create Multi-Line Strings Without The Line Breaks](yaml/create-multi-line-strings-without-the-line-breaks.md)
 - [YAML Is A Superset Of JSON](yaml/yaml-is-a-superset-of-json.md)
+
+### Zed
+
+- [Open Picker To Switch Between Projects](zed/open-picker-to-switch-between-projects.md)
 
 ### Zod
 
