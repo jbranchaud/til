@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1832 TILs and counting..._
+_1833 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -769,6 +769,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Run A Hardware Check](mac/run-a-hardware-check.md)
 - [Run AppleScript Commands Inline In The Terminal](mac/run-applescript-commands-inline-in-the-terminal.md)
 - [Set A Window To Its Default Zoom Level](mac/set-a-window-to-its-default-zoom-level.md)
+- [Set Default Search Directory For Finder](mac/set-default-search-directory-for-finder.md)
 - [Specify App When Opening From Command Line](mac/specify-app-when-opening-from-command-line.md)
 - [Start Amphetamine Session With AppleScript](mac/start-amphetamine-session-with-applescript.md)
 - [Uninstall LogiTech G Hub From Mac](mac/uninstall-logitech-g-hub-from-mac.md)
