@@ -35,12 +35,11 @@ the changes and nothing else raised before I committed, then those changes will
 all be applied atomically.
 
 I will need to do my own exception handling with a try/catch that handles any
-rollback and closes the connection.
+rollback.
 
 I'd rather not have to manage those extra pieces which is the kind of thing
 context managers typically help with. Let's improve upon this with the
-[Connection context
-manager](https://docs.python.org/3/library/sqlite3.html#how-to-use-the-connection-context-manager):
+[Connection context manager](https://docs.python.org/3/library/sqlite3.html#how-to-use-the-connection-context-manager):
 
 ```python
 def write_session_with_project(self, session, *, active=False) -> None:
@@ -65,8 +64,8 @@ def write_session_with_project(self, session, *, active=False) -> None:
 ```
 
 I get the same transactional behavior as before for everything in the context
-manager body. However, now the `commit` is handled and the `rollback` and
-`close` is handled if there is an exception.
+manager body. However, now the `commit` is handled and if an exception occurs
+the `rollback` is handled as well.
 
 Note: the connection context manager will still re-propagate an exception that
 occurred, so I may need to handle that with a try/catch somewhere.
