@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1837 TILs and counting..._
+_1838 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1114,6 +1114,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Store And Access Immutable Data In A Tuple](python/store-and-access-immutable-data-in-a-tuple.md)
 - [Strictly Separate Positional And Keyword Arguments](python/strictly-separate-positional-and-keyword-arguments.md)
 - [Test A Function With Pytest](python/test-a-function-with-pytest.md)
+- [Try Out The Latest Version Of Ruff](python/try-out-the-latest-version-of-ruff.md)
 - [Turn Method Into Cached Property On Class Instance](python/turn-method-into-cached-property-on-class-instance.md)
 - [Use pipx To Install End User Apps](python/use-pipx-to-install-end-user-apps.md)
 - [Use `__post_init__` For `dataclass` Validations](python/use-post-init-for-dataclass-validations.md)
