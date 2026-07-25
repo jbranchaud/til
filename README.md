@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1835 TILs and counting..._
+_1836 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1068,6 +1068,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Access Instance Variables](python/access-instance-variables.md)
 - [Access Most Recent Return Value In REPL](python/access-most-recent-return-value-in-repl.md)
+- [Access SQLite Result Values By Name With Row Factory](python/access-sqlite-result-values-by-name-with-row-factory.md)
 - [Access Variables Outside Loop Scope](python/access-variables-outside-loop-scope.md)
 - [Argument Defaults Are Evaluated When Function Is Defined](python/argument-defaults-are-evaluated-when-function-is-defined.md)
 - [Assert Is Only A Development Check](python/assert-is-only-a-development-check.md)
