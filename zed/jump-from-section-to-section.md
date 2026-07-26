@@ -3,7 +3,7 @@
 [Zed](https://zed.dev/) has some [Vim-mode](https://zed.dev/docs/vim) navigation
 capabilities powered by
 [`tree-sitter`](https://tree-sitter.github.io/tree-sitter/)'s syntax parsing and
-representation (AST). You can perform all the standard Vim motion on _text
+representation (AST). You can perform all the standard Vim motions on _text
 objects_ which are defined pieces of syntax that `tree-sitter` exposes.
 
 While working on a Python file that was made up of many classes recently, I kept
@@ -11,7 +11,7 @@ finding myself holding the `k` key to go up to view something in one class and
 then the `j` key to go back down. This is not the Vim way. There are much more
 effective motions.
 
-For instance, `[[` and `]]` are motions to the jump the start of the previous
+For instance, `[[` and `]]` are motions for jumping to the start of the previous
 and next _section_, respectively.
 
 In a Python file, `tree-sitter`'s AST representation marks classes and top-level
