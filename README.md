@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1838 TILs and counting..._
+_1839 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2149,6 +2149,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Zed
 
+- [Jump From Section To Section](zed/jump-from-section-to-section.md)
 - [Open Picker To Switch Between Projects](zed/open-picker-to-switch-between-projects.md)
 
 ### Zod
