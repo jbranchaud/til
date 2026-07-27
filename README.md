@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1839 TILs and counting..._
+_1840 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1079,6 +1079,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
 - [Check Precondition Before Click Arg Parsing](python/check-precondition-before-click-arg-parsing.md)
 - [Commit Writes From Executed SQLite Statements](python/commit-writes-from-executed-sqlite-statements.md)
+- [Configure Other Attributes Of Dataclass Field](python/configure-other-attributes-of-dataclass-field.md)
 - [Control Passing Of Time In Tests](python/control-passing-of-time-in-tests.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
 - [Create A Range Of Descending Values](python/create-a-range-of-descending-values.md)
