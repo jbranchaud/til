@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1841 TILs and counting..._
+_1842 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1112,6 +1112,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Skip Specific Pytest Test Cases](python/skip-specific-pytest-test-cases.md)
 - [Sort A List Of Dataclass Instances](python/sort-a-list-of-dataclass-instances.md)
 - [Sort Normalized Version Of Data](python/sort-normalized-version-of-data.md)
+- [Start Jupyter Notebook With Extra Packages](python/start-jupyter-notebook-with-extra-packages.md)
 - [Start The Debugger When A Test Errors](python/start-the-debugger-when-a-test-errors.md)
 - [Store And Access Immutable Data In A Tuple](python/store-and-access-immutable-data-in-a-tuple.md)
 - [Strictly Separate Positional And Keyword Arguments](python/strictly-separate-positional-and-keyword-arguments.md)
