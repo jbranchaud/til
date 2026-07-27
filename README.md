@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1840 TILs and counting..._
+_1841 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -732,6 +732,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### LLM
 
 - [Count Number Of Tokens In A File](llm/count-number-of-tokens-in-a-file.md)
+- [Include A File With Message To `ant`](llm/include-a-file-with-message-to-ant.md)
 - [Send cURL To Claude Text Completion API](llm/send-curl-to-claude-text-completion-api.md)
 - [Use The llm CLI With Claude Models](llm/use-the-llm-cli-with-claude-models.md)
 
