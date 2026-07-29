@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1844 TILs and counting..._
+_1845 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -486,6 +486,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Capture An Output Value For Use In A Later Step](github-actions/capture-an-output-value-for-use-in-a-later-step.md)
 - [Disable A Workflow With The gh CLI](github-actions/disable-a-workflow-with-the-gh-cli.md)
 - [Reference An Encrypted Secret In An Action](github-actions/reference-an-encrypted-secret-in-an-action.md)
+- [Run Schedule Action To Commit Regular Updates](github-actions/run-scheduled-action-to-commit-regular-updates.md)
 - [Trigger A Workflow Via An API Call](github-actions/trigger-a-workflow-via-an-api-call.md)
 - [Use Labels To Block PR Merge](github-actions/use-labels-to-block-pr-merge.md)
 
