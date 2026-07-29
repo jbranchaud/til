@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1843 TILs and counting..._
+_1844 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1084,6 +1084,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Control Passing Of Time In Tests](python/control-passing-of-time-in-tests.md)
 - [Create A Dummy DataFrame In Pandas](python/create-a-dummy-dataframe-in-pandas.md)
 - [Create A Range Of Descending Values](python/create-a-range-of-descending-values.md)
+- [Dedent Common Whitespace From Multiline String](python/dedent-common-whitespace-from-multiline-string.md)
 - [Deduplicate A List Into A Tuple](python/deduplicate-a-list-into-a-tuple.md)
 - [Define Sequence Of Tests With Parametrize Decorator](python/define-sequence-of-tests-with-parametrize-decorator.md)
 - [Define Typed Class Interface With Protocol](python/define-typed-class-interface-with-protocol.md)
