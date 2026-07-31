@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1845 TILs and counting..._
+_1846 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1073,6 +1073,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Access Most Recent Return Value In REPL](python/access-most-recent-return-value-in-repl.md)
 - [Access SQLite Result Values By Name With Row Factory](python/access-sqlite-result-values-by-name-with-row-factory.md)
 - [Access Variables Outside Loop Scope](python/access-variables-outside-loop-scope.md)
+- [Another Way To Mark Keyword-Only Dataclass Fields](python/another-way-to-mark-keyword-only-dataclass-fields.md)
 - [Argument Defaults Are Evaluated When Function Is Defined](python/argument-defaults-are-evaluated-when-function-is-defined.md)
 - [Assert Is Only A Development Check](python/assert-is-only-a-development-check.md)
 - [Avoid Modification With Frozen Dataclass](python/avoid-modification-with-frozen-dataclass.md)
