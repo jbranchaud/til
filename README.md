@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1846 TILs and counting..._
+_1847 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2119,6 +2119,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Get Your Public IP Address](workflow/get-your-public-ip-address.md)
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
+- [Move YouTube Subtitles Out Of The Way](workflow/move-youtube-subtitles-out-of-the-way.md)
 - [Open Slack's Keyboard Shortcuts Reference Panel](workflow/open-slacks-keyboard-shortcuts-reference-panel.md)
 - [Pop Videos Out As Picture-in-Picture](workflow/pop-videos-out-as-picture-in-picture.md)
 - [Prune The Excess From node_modules](workflow/prune-the-excess-from-node-modules.md)
