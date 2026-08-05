@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1850 TILs and counting..._
+_1851 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -402,6 +402,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [List All Files Added During Span Of Time](git/list-all-files-added-during-span-of-time.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
 - [List All Git Aliases From gitconfig](git/list-all-git-aliases-from-gitconfig.md)
+- [List And Count All Posts In TIL Repo](git/list-and-count-all-posts-in-til-repo.md)
 - [List Branches That Contain A Commit](git/list-branches-that-contain-a-commit.md)
 - [List Commits On A Branch](git/list-commits-on-a-branch.md)
 - [List Different Commits Between Two Branches](git/list-different-commits-between-two-branches.md)
