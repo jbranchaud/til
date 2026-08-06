@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1851 TILs and counting..._
+_1852 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1260,6 +1260,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Read-Only Models](rails/read-only-models.md)
 - [Rebuild Tailwind Bundle For Dev Server](rails/rebuild-tailwind-bundle-for-dev-server.md)
 - [Remove A Database Column From A Table](rails/remove-a-database-column-from-a-table.md)
+- [Remove Blank Values From A Hash](rails/remove-blank-values-from-a-hash.md)
 - [Remove The Default Value On A Column](rails/remove-the-default-value-on-a-column.md)
 - [Render An Alternative ActionMailer Template](rails/render-an-alternative-action-mailer-template.md)
 - [Render The Response Body In Controller Specs](rails/render-the-response-body-in-controller-specs.md)
