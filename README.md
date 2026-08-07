@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1852 TILs and counting..._
+_1853 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1111,6 +1111,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Make Secure Temp File For Atomic Write](python/make-secure-temp-file-for-atomic-write.md)
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
 - [Parse Relative Time To datetime Object](python/parse-relative-time-to-datetime-object.md)
+- [Publish A Package To A Test Env As A Dry Run](python/publish-a-package-to-a-test-env-as-a-dry-run.md)
 - [Reclassify Certain Packages As Dev Dependencies](python/reclassify-certain-packages-as-dev-dependencies.md)
 - [Resurface Exceptions Swallowed By Click Under Test](python/resurface-exceptions-swallowed-by-click-under-test.md)
 - [Select Implementation With Class Registry](python/select-implementation-with-class-registry.md)
