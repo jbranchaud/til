@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1853 TILs and counting..._
+_1854 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -619,6 +619,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Easy Date Comparison With DayJS](javascript/easy-date-comparison-with-dayjs.md)
 - [Expand Emojis With The Spread Operator](javascript/expand-emojis-with-the-spread-operator.md)
 - [Fill An Input With A Ton Of Text](javascript/fill-an-input-with-a-ton-of-text.md)
+- [Filter By Truthy Values With Boolean Function](javascript/filter-by-truthy-values-with-boolean-function.md)
 - [Find The Version Of An Installed Dependency](javascript/find-the-version-of-an-installed-dependency.md)
 - [Find Where Yarn Is Installing Binaries](javascript/find-where-yarn-is-installing-binaries.md)
 - [for...in Iterates Over Object Properties](javascript/for-in-iterates-over-object-properties.md)
