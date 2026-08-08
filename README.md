@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1855 TILs and counting..._
+_1856 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1013,6 +1013,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Restarting Sequences When Truncating Tables](postgres/restarting-sequences-when-truncating-tables.md)
 - [Salt And Hash A Password With pgcrypto](postgres/salt-and-hash-a-password-with-pgcrypto.md)
 - [Send A Command To psql](postgres/send-a-command-to-psql.md)
+- [Sequence Side-Effect When Rolling Back Inserts](postgres/sequence-side-effect-when-rolling-back-inserts.md)
 - [Set Inclusion With hstore](postgres/set-inclusion-with-hstore.md)
 - [Set A Seed For The Random Number Generator](postgres/set-a-seed-for-the-random-number-generator.md)
 - [Set A Statement Timeout Threshold For A Session](postgres/set-a-statement-timeout-threshold-for-a-session.md)
