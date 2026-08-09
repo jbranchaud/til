@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1856 TILs and counting..._
+_1857 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -786,6 +786,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Math
 
+- [Convert Arbitrary Number To Probability With Sigmoid](math/convert-arbitrary-number-to-probability-with-sigmoid.md)
 - [Generate Permutations Of All Valid 9-ball Racks](math/generate-permutations-of-all-valid-9-ball-racks.md)
 
 ### Mise
