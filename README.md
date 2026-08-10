@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1857 TILs and counting..._
+_1858 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1087,6 +1087,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
 - [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
 - [Check Precondition Before Click Arg Parsing](python/check-precondition-before-click-arg-parsing.md)
+- [Combine StrEnum With Pydantic For Union Type](python/combine-strenum-with-pydantic-for-union-type.md)
 - [Commit Writes From Executed SQLite Statements](python/commit-writes-from-executed-sqlite-statements.md)
 - [Configure Other Attributes Of Dataclass Field](python/configure-other-attributes-of-dataclass-field.md)
 - [Control Passing Of Time In Tests](python/control-passing-of-time-in-tests.md)
