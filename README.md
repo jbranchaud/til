@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1858 TILs and counting..._
+_1859 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2188,6 +2188,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [List Available Zle Keybindings](zsh/list-available-zle-keybindings.md)
 - [Open Current Command Line Prompt In Editor](zsh/open-current-command-line-prompt-in-editor.md)
 - [Use A Space To Exclude Command From History](zsh/use-a-space-to-exclude-command-from-history.md)
+- [Where And Which Are Whence](zsh/where-and-which-are-whence.md)
 
 ## Usage
 
