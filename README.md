@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1859 TILs and counting..._
+_1860 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1223,6 +1223,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Get The Current Time](rails/get-the-current-time.md)
 - [Grab A Random Record From The Database](rails/grab-a-random-record-from-the-database.md)
 - [Halt ActionMailer Delivery With Callback](rails/halt-action-mailer-delivery-with-callback.md)
+- [Handle Bad Numerical Amounts With BigDecimal](rails/handle-bad-numerical-amounts-with-big-decimal.md)
 - [Handle Named Arguments In A Rake Task](rails/handle-named-arguments-in-a-rake-task.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
