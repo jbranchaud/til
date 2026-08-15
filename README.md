@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1861 TILs and counting..._
+_1862 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1551,6 +1551,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [OpenStruct Has Bad Performance Characteristics](ruby/open-struct-has-bad-performance-characteristics.md)
 - [Or Operator Precedence](ruby/or-operator-precedence.md)
 - [Output Bytecode For A Ruby Program](ruby/output-bytecode-for-a-ruby-program.md)
+- [Override Output Field Separator](ruby/override-output-field-separator.md)
 - [Override The Initial Sequence Value](ruby/override-the-initial-sequence-value.md)
 - [Parallel Bundle Install](ruby/parallel-bundle-install.md)
 - [Parse JSON Into An OpenStruct](ruby/parse-json-into-an-open-struct.md)
