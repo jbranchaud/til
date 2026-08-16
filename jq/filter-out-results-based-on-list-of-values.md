@@ -23,7 +23,7 @@ can filter the array down to those objects whose IDs are
 exclude.
 
 ```
-jq '.[] | select([.id] | inside["456", "963"] | not)' data.json
+jq '.[] | select([.id] | inside(["456", "963"]) | not)' data.json
 ```
 
 Inside that `select`, we grab the `id` as a single value array, check if that
