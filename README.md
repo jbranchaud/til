@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1864 TILs and counting..._
+_1865 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -651,6 +651,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
 - [Mock A Function With Return Values Using Jest](javascript/mock-a-function-with-return-values-using-jest.md)
 - [New Dates Can Take Out Of Bounds Values](javascript/new-dates-can-take-out-of-bounds-values.md)
+- [`npm run` Has Some Typo Aliases](javascript/npm-run-has-some-typo-aliases.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
 - [Obtain Undefined Value With The Void Operator](javascript/obtain-undefined-value-with-the-void-operator.md)
