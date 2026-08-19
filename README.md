@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1865 TILs and counting..._
+_1866 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1110,6 +1110,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Install With PIP For Specific Interpreter](python/install-with-pip-for-specific-interpreter.md)
 - [Iterate First N Items From Enumerable](python/iterate-first-n-items-from-enumerable.md)
 - [Iterate Over A Dictionary](python/iterate-over-a-dictionary.md)
+- [Join A List Of Strings](python/join-a-list-of-strings.md)
 - [Keep A Tally With collections.Counter](python/keep-a-tally-with-collections-counter.md)
 - [Lint And Format Project With Ruff](python/lint-and-format-project-with-ruff.md)
 - [Load A File Into The Python REPL](python/load-a-file-into-the-python-repl.md)
