@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1866 TILs and counting..._
+_1867 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -148,6 +148,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
 - [Chrome Supports Many Unix Keyboard Shortcuts](chrome/chrome-supports-many-unix-keyboard-shortcuts.md)
 - [Copy Some Data From The Console](chrome/copy-some-data-from-the-console.md)
+- [Duplicate Current Browser Tab](chrome/duplicate-current-browser-tab.md)
 - [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
 - [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
 - [Keybinding To Focus The Address Bar](chrome/keybinding-to-focus-the-address-bar.md)
