@@ -37,7 +37,7 @@ but then explicitly mark page `1` for exclusion after the range with `x1`.
 qpdf in.pdf --pages . 1-z,x1 -- out.pdf
 ```
 
-And one last way, assuming that we are dealing specifically with a two-page PDF,
+And one last way, assuming that I am dealing specifically with a two-page PDF,
 is to use the `rN` syntax where `N` is the number of pages from the back of the
 list. `r1` is the last page, `r2` is the second to last page, and so forth. In a
 two-page PDF, `r2` would then refer to the _first_page.
@@ -47,7 +47,7 @@ qpdf in.pdf --pages . 1-z,xr2 -- out.pdf
 ```
 
 I know I said that was the last, but I'll also throw in that, again assuming a
-two-page PDF, we could produce a PDF made up of only `:even` numbered pages
+two-page PDF, I could produce a PDF made up of only `:even` numbered pages
 relative to the defined range.
 
 ```bash
