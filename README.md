@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1868 TILs and counting..._
+_1869 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2143,6 +2143,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Open Slack's Keyboard Shortcuts Reference Panel](workflow/open-slacks-keyboard-shortcuts-reference-panel.md)
 - [Pop Videos Out As Picture-in-Picture](workflow/pop-videos-out-as-picture-in-picture.md)
 - [Prune The Excess From node_modules](workflow/prune-the-excess-from-node-modules.md)
+- [Remove Pages From A PDF](workflow/remove-pages-from-a-pdf.md)
 - [Rotate An Image To Be Oriented Upright](workflow/rotate-an-image-to-be-oriented-upright.md)
 - [See Overlaps For A Set Of Time Zones](workflow/see-overlaps-for-a-set-of-time-zones.md)
 - [Send A Message To A Discord Channel](workflow/send-a-message-to-a-discord-channel.md)
