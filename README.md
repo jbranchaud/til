@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1867 TILs and counting..._
+_1868 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1102,6 +1102,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Dunder Methods](python/dunder-methods.md)
 - [Easy Key-Value Aggregates With defaultdict](python/easy-key-value-aggregates-with-defaultdict.md)
 - [Enable Pyright Type Checking In Cursor](python/enable-pyright-type-checking-in-cursor.md)
+- [Escape Curly Braces Within Formatted String](python/escape-curly-braces-within-formatted-string.md)
 - [Experiment With SQLite Queries In Memory](python/experiment-with-sqlite-queries-in-memory.md)
 - [Force Remaining Arguments To Be Named](python/force-remaining-arguments-to-be-named.md)
 - [Get Absolute Seconds From `timedelta` Object](python/get-absolute-seconds-from-timedelta-object.md)
