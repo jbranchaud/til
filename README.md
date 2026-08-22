@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1870 TILs and counting..._
+_1871 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1753,6 +1753,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check SSH Key Fingerprints Of Known Hosts](unix/check-ssh-key-fingerprints-of-known-hosts.md)
 - [Check The Current Working Directory](unix/check-the-current-working-directory.md)
 - [Check The Installed OpenSSL Version](unix/check-the-installed-openssl-version.md)
+- [Check What Is Inside A Zip File](unix/check-what-is-inside-a-zip-file.md)
 - [Clear The Screen](unix/clear-the-screen.md)
 - [Combine All My TILs Into A Single File](unix/combine-all-my-tils-into-a-single-file.md)
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
