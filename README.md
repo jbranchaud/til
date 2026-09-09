@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1879 TILs and counting..._
+_1880 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1130,6 +1130,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Reclassify Certain Packages As Dev Dependencies](python/reclassify-certain-packages-as-dev-dependencies.md)
 - [Register SQLite Adapter To Serialize Datetimes](python/register-sqlite-adapter-to-serialize-datetimes.md)
 - [Resurface Exceptions Swallowed By Click Under Test](python/resurface-exceptions-swallowed-by-click-under-test.md)
+- [Run Python Tools With `uvx`](python/run-python-tools-with-uvx.md)
 - [Select Implementation With Class Registry](python/select-implementation-with-class-registry.md)
 - [Set Up Pyright Type Checking In GitHub](python/set-up-pyright-type-checking-in-github.md)
 - [Skip Specific Pytest Test Cases](python/skip-specific-pytest-test-cases.md)
