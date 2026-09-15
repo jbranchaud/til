@@ -13,6 +13,6 @@ $ yarn global add fkill-cli
 
 Then run it with no arguments to trigger the interactive mode.
 
-![use fkill interactively](https://raw.githubusercontent.com/sindresorhus/fkill-cli/master/screenshot.gif)
+![use fkill interactively](https://raw.githubusercontent.com/sindresorhus/fkill-cli/master/screenshot.svg)
 
 gif credit: [`fkill-cli` repo](https://github.com/sindresorhus/fkill-cli)
