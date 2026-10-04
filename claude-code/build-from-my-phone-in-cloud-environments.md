@@ -11,8 +11,7 @@ However, I've been finding it pretty satisfying to open _Claude Code_ either in
 the MacOS app or iOS app, connect a GitHub repo, and then ask for a quick
 feature landed as a PR.
 
-This flow uses [Claude in the
-Cloud](https://code.claude.com/docs/en/claude-code-on-the-web) to boot up a
+This flow uses [Claude in the Cloud](https://code.claude.com/docs/en/claude-code-on-the-web) to boot up a
 development environment, pull down your codebase, create a branch, build a
 feature, run tests, boot the app, do all the different explorations and checks
 that `claude` typically does, and eventually land a PR back on GitHub.
@@ -25,4 +24,4 @@ where I can skim through the chat summary, view the diff, and then suggest next
 steps or jump to the PR on GitHub.
 
 I'm finding this workflow particularly exciting for side projects because I can
-kick of feature experiments from anywhere when the idea comes to me.
+kick off feature experiments from anywhere when the idea comes to me.
