@@ -9,8 +9,7 @@ The tool I found for this job is `paste` (not the most intuitive name).
 
 > merge corresponding or subsequent lines of files
 
-I was listing out all the categories that my active [TIL
-posts](https://github.com/jbranchaud/til) full under. I used the following
+I was listing out all the categories that my active [TIL posts](https://github.com/jbranchaud/til) full under. I used the following
 command to do that.
 
 ```bash
@@ -27,7 +26,7 @@ chrome
 
 Those are all my categories, but then the format I really wanted was for them to
 be all on the same line with a clear delimiter so that I could paste them for
-[use in another script](./llm/translate-to-canonical-tags-with-small-model.md).
+[use in another script](/llm/translate-to-canonical-tags-with-small-model.md).
 
 The trick is to tack on one more pipe to `paste`. The `-s` tells `paste` to join
 every line from a given input file (e.g. stdin) onto a single line. The `-d`
