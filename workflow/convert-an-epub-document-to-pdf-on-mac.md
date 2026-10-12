@@ -6,7 +6,7 @@ convert it using the `ebook-convert` binary from `Calibre`.
 First, install `Calibre`:
 
 ```bash
-$ brew cask install calibre
+$ brew install --cask calibre
 ```
 
 Then convert your ePub using `ebook-convert`:
