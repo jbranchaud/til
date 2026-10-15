@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1889 TILs and counting..._
+_1890 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -486,6 +486,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Open A PR To An Unforked Repo](github/open-a-pr-to-an-unforked-repo.md)
 - [Open File To Specific Line In Browser](github/open-file-to-specific-line-in-browser.md)
 - [Process JSON Output From gh With jq](github/process-json-output-from-gh-with-jq.md)
+- [Rerun Failed Jobs For Current Branch](github/rerun-failed-jobs-for-current-branch.md)
 - [Target Another Repo When Creating A PR](github/target-another-repo-when-creating-a-pr.md)
 - [Tell gh What The Default Repo Is](github/tell-gh-what-the-default-repo-is.md)
 
