@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1890 TILs and counting..._
+_1891 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2148,6 +2148,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
 - [Configure Email Redirect With Cloudflare](workflow/configure-email-redirect-with-cloudflare.md)
 - [Control Media With Drop Keyboard](workflow/control-media-with-drop-keyboard.md)
+- [Create 1Password Login Item From The CLI](workflow/create-1password-login-item-from-the-cli.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
 - [Create A Local Sanity Dataset Backup](workflow/create-a-local-sanity-dataset-backup.md)
 - [Create A Public URL For A Local Server](workflow/create-a-public-url-for-a-local-server.md)
