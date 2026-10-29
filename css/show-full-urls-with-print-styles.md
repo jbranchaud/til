@@ -18,7 +18,7 @@ add _after content_ that renders the actual, full URL next to the link.
 ```css
 @media print 
 {
-  a[href]:after
+  a[href]::after
   {
     content: " [" attr(href) "]";
   }
