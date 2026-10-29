@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1893 TILs and counting..._
+_1894 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -229,6 +229,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Parameterized SCSS Mixins](css/parameterized-scss-mixins.md)
 - [Prevent Invisible Elements From Being Clicked](css/prevent-invisible-elements-from-being-clicked.md)
 - [:root Has Higher Specificity Than html](css/root-has-higher-specificity-than-html.md)
+- [Show Full URLs With Print Styles](css/show-full-urls-with-print-styles.md)
 - [Style A Background With A Linear Gradient](css/style-a-background-with-a-linear-gradient.md)
 - [Using Maps In SCSS](css/using-maps-in-scss.md)
 
