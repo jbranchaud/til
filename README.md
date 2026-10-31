@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1894 TILs and counting..._
+_1895 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -59,6 +59,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [Kitty](#kitty)
 * [Linux](#linux)
 * [LLM](#llm)
+* [Logseq](#logseq)
 * [Mac](#mac)
 * [Math](#math)
 * [Mise](#mise)
@@ -753,6 +754,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Send cURL To Claude Text Completion API](llm/send-curl-to-claude-text-completion-api.md)
 - [Translate To Canonical Tags With Small Model](llm/translate-to-canonical-tags-with-small-model.md)
 - [Use The llm CLI With Claude Models](llm/use-the-llm-cli-with-claude-models.md)
+
+### Logseq
+
+- [Access Daily Journal From CLI With HTTP Server](logseq/access-daily-journal-from-cli-with-http-server.md)
 
 ### Mac
 
