@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1897 TILs and counting..._
+_1898 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1142,6 +1142,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
 - [Override Timezone That All Tests Run In](python/override-timezone-that-all-tests-run-in.md)
 - [Parse Relative Time To datetime Object](python/parse-relative-time-to-datetime-object.md)
+- [Print Out A Calendar For Current Year](python/print-out-a-calendar-for-current-year.md)
 - [Publish A Package To A Test Env As A Dry Run](python/publish-a-package-to-a-test-env-as-a-dry-run.md)
 - [Reclassify Certain Packages As Dev Dependencies](python/reclassify-certain-packages-as-dev-dependencies.md)
 - [Register SQLite Adapter To Serialize Datetimes](python/register-sqlite-adapter-to-serialize-datetimes.md)
