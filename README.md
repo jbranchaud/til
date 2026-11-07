@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1901 TILs and counting..._
+_1902 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -719,6 +719,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### jq
 
 - [Combine An Array Of Objects Into A Single Object](jq/combine-an-array-of-objects-into-a-single-object.md)
+- [Construct A File](jq/construct-a-file.md)
 - [Count Each Collection In A JSON Object](jq/count-each-collection-in-a-json-object.md)
 - [Count The Number Of Things In A JSON File](jq/count-the-number-of-things-in-a-json-file.md)
 - [Extract A List Of Values](jq/extract-a-list-of-values.md)
