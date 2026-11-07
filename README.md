@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1902 TILs and counting..._
+_1903 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -261,6 +261,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Resolve The Public IP Of A URL](devops/resolve-the-public-ip-of-a-url.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [Set, Get, And Unset Env Vars With Dokku](devops/set-get-and-unset-env-vars-with-dokku.md)
+- [Set Env Var With Dokku Without A Restart](devops/set-env-var-with-dokku-without-a-restart.md)
 - [Set Up Domain For Hatchbox Rails App](devops/set-up-domain-for-hatchbox-rails-app.md)
 - [SSH Into A Docker Container](devops/ssh-into-a-docker-container.md)
 - [SSL Certificates Can Cover Multiple Domains](devops/ssl-certificates-can-cover-multiple-domains.md)
