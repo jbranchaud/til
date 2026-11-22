@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1912 TILs and counting..._
+_1913 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -258,6 +258,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Cloudflare Allows CNAME For Apex Domain](devops/cloudflare-allows-cname-for-apex-domain.md)
 - [Connect To An RDS PostgreSQL Database](devops/connect-to-an-rds-postgresql-database.md)
+- [Connect To Hatchbox Rails Console](devops/connect-to-hatchbox-rails-console.md)
 - [Default Rails Deploy Script On Hatchbox](devops/default-rails-deploy-script-on-hatchbox.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
 - [Hatchbox Exports Env Vars With asdf](devops/hatchbox-exports-env-vars-with-asdf.md)
