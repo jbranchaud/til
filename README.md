@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1911 TILs and counting..._
+_1912 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -441,6 +441,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Rebase Commits With An Arbitrary Command](git/rebase-commits-with-an-arbitrary-command.md)
 - [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
 - [Reference Commits Earlier Than Reflog Remembers](git/reference-commits-earlier-than-reflog-remembers.md)
+- [Remove Claude Co-Author Trailer From Commit Messages](git/remove-claude-co-author-trailer-from-commit-messages.md)
 - [Remove Untracked Files From A Directory](git/remove-untracked-files-from-a-directory.md)
 - [Rename A Remote](git/rename-a-remote.md)
 - [Renaming A Branch](git/renaming-a-branch.md)
