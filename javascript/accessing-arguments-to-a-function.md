@@ -5,6 +5,8 @@ an array-like object with all of the arguments to the function. Even if not
 all of the arguments are referenced in the function signature, they can
 still be accessed via the `arguments` object.
 
+> For ES6+ compatibility, the `spread` operator used via [rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) is preferred over the `arugments` object when accessing an abritrary number of function arguments.
+
 ```javascript
 function argTest(one) {
   console.log(one);
