@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1914 TILs and counting..._
+_1915 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -794,6 +794,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Detect How Long A User Has Been Idle](mac/detect-how-long-a-user-has-been-idle.md)
 - [Disable Swipe Navigation For A Specific App](mac/disable-swipe-navigation-for-a-specific-app.md)
 - [Display A Message With Alfred](mac/display-a-message-with-alfred.md)
+- [Eject A Device So It Can Be Unplugged](mac/eject-a-device-so-it-can-be-unplugged.md)
 - [Find The Process Using A Specific Port](mac/find-the-process-using-a-specific-port.md)
 - [Gesture For Viewing All Windows Of Current App](mac/gesture-for-viewing-all-windows-of-current-app.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
