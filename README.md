@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1916 TILs and counting..._
+_1917 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -775,6 +775,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### Logseq
 
 - [Access Daily Journal From CLI With HTTP Server](logseq/access-daily-journal-from-cli-with-http-server.md)
+- [Toggle Through TODO Statuses On Current Block](logseq/toggle-through-todo-statuses-on-current-block.md)
 
 ### Mac
 
