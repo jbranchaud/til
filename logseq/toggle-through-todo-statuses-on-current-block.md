@@ -7,7 +7,8 @@ element. I liked the ergonomics of this.
 Then I migrated to the newer version of Logseq and the TODO element was reworked
 in a way that added more friction. You have to type the `/todo` slash command
 and hit `Enter` while that command is focussed. Then toggling the TODO status
-requires a click to open the menu and then pick the right option from the menu.
+requires a click to open the menu and then another click to pick the right
+option from the menu.
 
 I put up with the new flow, but I was excited to find that the whole thing is
 much easier to control by toggling through the main TODO states with
