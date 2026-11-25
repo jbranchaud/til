@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1915 TILs and counting..._
+_1916 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2195,6 +2195,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Forward Stripe Events To Local Server](workflow/forward-stripe-events-to-local-server.md)
 - [Get URL For GitHub User Profile Photo](workflow/get-url-for-github-user-profile-photo.md)
 - [Get Your Public IP Address](workflow/get-your-public-ip-address.md)
+- [Generate Simple SVG Diagram With D2 Lang](workflow/generate-simple-svg-diagram-with-d2-lang.md)
 - [Import A Github Project Into CodeSandbox](workflow/import-a-github-project-into-codesandbox.md)
 - [Interactively Kill A Process With fkill](workflow/interactively-kill-a-process-with-fkill.md)
 - [Move YouTube Subtitles Out Of The Way](workflow/move-youtube-subtitles-out-of-the-way.md)
