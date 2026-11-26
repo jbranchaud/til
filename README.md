@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1917 TILs and counting..._
+_1918 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -72,6 +72,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [NextAuth.js](#next-auth)
 * [Next.js](#nextjs)
 * [Phoenix](#phoenix)
+* [pkl](#pkl)
 * [Planetscale](#planetscale)
 * [pnpm](#pnpm)
 * [PostgreSQL](#postgresql)
@@ -909,6 +910,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Serve Static Assets From Custom Directory](phoenix/serve-static-assets-from-custom-directory.md)
 - [Specifying The Digest Directory](phoenix/specifying-the-digest-directory.md)
 - [Specifying The Server Port](phoenix/specifying-the-server-port.md)
+
+### pkl
+
+- [hk Uses Pkl For Configuration](pkl/hk-uses-pkl-for-configuration.md)
 
 ### Planetscale
 
