@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1918 TILs and counting..._
+_1919 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1143,6 +1143,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Deduplicate A List Into A Tuple](python/deduplicate-a-list-into-a-tuple.md)
 - [Define Sequence Of Tests With Parametrize Decorator](python/define-sequence-of-tests-with-parametrize-decorator.md)
 - [Define Typed Class Interface With Protocol](python/define-typed-class-interface-with-protocol.md)
+- [Dry Run Various uv Version Bumps](python/dry-run-various-uv-version-bumps.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Easy Key-Value Aggregates With defaultdict](python/easy-key-value-aggregates-with-defaultdict.md)
 - [Enable Pyright Type Checking In Cursor](python/enable-pyright-type-checking-in-cursor.md)
